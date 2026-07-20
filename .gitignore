@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Sample files are intentionally local for now
+public/
+
+# TypeScript and Vite generated files
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Local environment files
+.env
+.env.*
+!.env.example
