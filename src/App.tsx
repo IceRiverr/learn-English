@@ -65,14 +65,17 @@ const speeds = [0.75, 0.9, 1, 1.25, 1.5] as const;
 const translationLanguage = "zh-Hans";
 const translationPreferenceKey = "show-translation";
 const repeatPreferenceKey = "segment-repeat-count";
-const repeatLimits = [1, 2, 3, 5, "infinite"] as const;
+const repeatLimits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "infinite"] as const;
 type RepeatLimit = (typeof repeatLimits)[number];
+type OpenPlayerMenu = "speed" | "repeat" | "reading" | undefined;
 
 function readRepeatLimit(): RepeatLimit {
   try {
     const value = localStorage.getItem(repeatPreferenceKey);
     if (value === "infinite") return value;
-    if (value === "1" || value === "2" || value === "3" || value === "5") return Number(value) as RepeatLimit;
+    if (["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].includes(value ?? "")) {
+      return Number(value) as RepeatLimit;
+    }
     return 3;
   } catch {
     return 3;
@@ -185,6 +188,8 @@ export default function App() {
   const repeatSwitchingRef = useRef(false);
   const repeatFinishedRef = useRef(false);
   const repeatTimerRef = useRef(0);
+  const playerSettingsRef = useRef<HTMLDivElement>(null);
+  const playerMenuTriggerRef = useRef<HTMLButtonElement>(null);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -203,6 +208,7 @@ export default function App() {
     return value;
   });
   const [repeatIteration, setRepeatIteration] = useState(1);
+  const [openPlayerMenu, setOpenPlayerMenu] = useState<OpenPlayerMenu>();
   const [speed, setSpeed] = useState(1);
   const [showTranslation, setShowTranslation] = useState(() => {
     try {
@@ -326,6 +332,22 @@ export default function App() {
     return () => document.removeEventListener("visibilitychange", saveWhenHidden);
   }, [course]);
 
+  useEffect(() => {
+    if (!openPlayerMenu) return;
+    const closeFromOutside = (event: PointerEvent) => {
+      if (!playerSettingsRef.current?.contains(event.target as Node)) closePlayerMenu();
+    };
+    const closeFromKeyboard = (event: KeyboardEvent) => {
+      if (event.key === "Escape") closePlayerMenu();
+    };
+    document.addEventListener("pointerdown", closeFromOutside);
+    document.addEventListener("keydown", closeFromKeyboard);
+    return () => {
+      document.removeEventListener("pointerdown", closeFromOutside);
+      document.removeEventListener("keydown", closeFromKeyboard);
+    };
+  }, [openPlayerMenu]);
+
   async function showCourse(nextCourse: Course, source: string, isLocal: boolean) {
     const progress = await loadProgress(nextCourse.id);
     restoreTime.current = progress?.currentTime ?? 0;
@@ -335,6 +357,7 @@ export default function App() {
     resetRepeatTransition();
     updateLoopSegment(undefined);
     updateRepeatIteration(1);
+    setOpenPlayerMenu(undefined);
     setLocalPlayback(isLocal);
     setCourse(nextCourse);
     setAudioUrl(source);
@@ -466,8 +489,10 @@ export default function App() {
     const audio = audioRef.current;
     if (!audio || !course) return;
     if (loopSegmentRef.current !== undefined) {
+      const resumeAfterTransition = repeatSwitchingRef.current && audio.paused && !repeatFinishedRef.current;
       resetRepeatTransition();
       updateLoopSegment(undefined);
+      if (resumeAfterTransition) void audio.play();
       return;
     }
 
@@ -480,10 +505,7 @@ export default function App() {
     void audio.play();
   }
 
-  function changeRepeatLimit(direction: -1 | 1) {
-    const currentIndex = repeatLimits.indexOf(repeatLimit);
-    const nextIndex = Math.max(0, Math.min(currentIndex + direction, repeatLimits.length - 1));
-    const nextLimit = repeatLimits[nextIndex];
+  function selectRepeatLimit(nextLimit: RepeatLimit) {
     repeatLimitRef.current = nextLimit;
     setRepeatLimit(nextLimit);
     if (nextLimit !== "infinite" && repeatIterationRef.current > nextLimit) {
@@ -494,6 +516,22 @@ export default function App() {
     } catch {
       // The repeat preference can remain in React state when storage is unavailable.
     }
+    if (loopSegmentRef.current === undefined) toggleRepeat();
+    closePlayerMenu();
+  }
+
+  function togglePlayerMenu(menu: Exclude<OpenPlayerMenu, undefined>, trigger: HTMLButtonElement) {
+    if (openPlayerMenu === menu) {
+      closePlayerMenu();
+      return;
+    }
+    playerMenuTriggerRef.current = trigger;
+    setOpenPlayerMenu(menu);
+  }
+
+  function closePlayerMenu() {
+    setOpenPlayerMenu(undefined);
+    window.setTimeout(() => playerMenuTriggerRef.current?.focus(), 0);
   }
 
   function togglePlayback() {
@@ -523,6 +561,7 @@ export default function App() {
     if (audio) audio.playbackRate = value;
     setSpeed(value);
     saveCurrentProgress(audio?.currentTime ?? currentTime, value);
+    closePlayerMenu();
   }
 
   function toggleTranslation() {
@@ -533,6 +572,7 @@ export default function App() {
     } catch {
       // The display preference can remain in React state when storage is unavailable.
     }
+    closePlayerMenu();
   }
 
   function returnToCourses() {
@@ -545,6 +585,7 @@ export default function App() {
     resetRepeatTransition();
     updateLoopSegment(undefined);
     updateRepeatIteration(1);
+    setOpenPlayerMenu(undefined);
     setCourse(undefined);
     setAudioUrl(undefined);
     setPlaying(false);
@@ -619,10 +660,10 @@ export default function App() {
       <header>
         <button className="back" onClick={returnToCourses}>← 返回课程</button>
         <div className="brand">LISTEN / 0005</div>
-        <h1>{course.title}</h1>
-        <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
-        <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
-          aria-label="播放进度" onChange={(event) => seekTo(Number(event.target.value))} />
+        <div className="course-heading">
+          <h1>{course.title}</h1>
+          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}>删除本地课程</button>}
+        </div>
       </header>
 
       <section className="focus-sentence" aria-live="polite">
@@ -675,44 +716,70 @@ export default function App() {
           }}
           onError={() => setError("浏览器无法播放课程音频；如果当前离线，请先下载课程。")}
         />
-        <div className="speed-row">
-          {speeds.map((value) => <button key={value} className={speed === value ? "selected" : ""}
-            onClick={() => changeSpeed(value)}>{value}×</button>)}
+        <div className="player-settings" ref={playerSettingsRef}>
+          <div className="player-setting">
+            <button className="setting-trigger" aria-expanded={openPlayerMenu === "speed"}
+              aria-controls="speed-menu" onClick={(event) => togglePlayerMenu("speed", event.currentTarget)}>
+              <strong>{speed}×</strong><span>倍速</span>
+            </button>
+            {openPlayerMenu === "speed" && (
+              <div className="player-menu speed-menu" id="speed-menu" role="menu" aria-label="播放倍速">
+                {speeds.map((value) => <button key={value} role="menuitemradio" aria-checked={speed === value}
+                  className={speed === value ? "menu-option selected" : "menu-option"}
+                  onClick={() => changeSpeed(value)}><span>{speed === value ? "✓" : ""}</span>{value}×</button>)}
+              </div>
+            )}
+          </div>
+          <div className="player-setting">
+            <button className="setting-trigger" aria-expanded={openPlayerMenu === "repeat"}
+              aria-controls="repeat-menu" onClick={(event) => togglePlayerMenu("repeat", event.currentTarget)}>
+              <strong>{loopSegment === undefined ? "关闭" : `${repeatIteration}/${repeatLimit === "infinite" ? "∞" : repeatLimit}`}</strong>
+              <span>逐句循环</span>
+            </button>
+            {openPlayerMenu === "repeat" && (
+              <div className="player-menu repeat-menu" id="repeat-menu" role="menu" aria-label="逐句循环设置">
+                <span className="menu-title">循环次数</span>
+                <div className="repeat-grid">
+                  {repeatLimits.slice(0, 10).map((value) => <button key={value} role="menuitemradio"
+                    aria-checked={repeatLimit === value} className={repeatLimit === value ? "selected" : ""}
+                    onClick={() => selectRepeatLimit(value)}>{repeatLimit === value ? `✓ ${value}` : value}</button>)}
+                </div>
+                <button role="menuitemradio" aria-checked={repeatLimit === "infinite"}
+                  className={repeatLimit === "infinite" ? "menu-option selected" : "menu-option"}
+                  onClick={() => selectRepeatLimit("infinite")}>
+                  <span>{repeatLimit === "infinite" ? "✓" : ""}</span>∞ 无限循环
+                </button>
+                <button className="menu-option repeat-off" disabled={loopSegment === undefined}
+                  onClick={() => { toggleRepeat(); closePlayerMenu(); }}><span />关闭逐句循环</button>
+              </div>
+            )}
+          </div>
+          <div className="player-setting">
+            <button className="setting-trigger" disabled={availableTranslations === 0}
+              aria-expanded={openPlayerMenu === "reading"} aria-controls="reading-menu"
+              onClick={(event) => togglePlayerMenu("reading", event.currentTarget)}>
+              <strong>{availableTranslations === 0 ? "暂无中文" : showTranslation ? "中英" : "英文"}</strong><span>阅读模式</span>
+            </button>
+            {openPlayerMenu === "reading" && (
+              <div className="player-menu reading-menu" id="reading-menu" role="menu" aria-label="阅读模式">
+                <button role="menuitemradio" aria-checked={showTranslation} className={showTranslation ? "menu-option selected" : "menu-option"}
+                  onClick={() => { if (!showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span>{showTranslation ? "✓" : ""}</span>中英双语</button>
+                <button role="menuitemradio" aria-checked={!showTranslation} className={!showTranslation ? "menu-option selected" : "menu-option"}
+                  onClick={() => { if (showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span>{!showTranslation ? "✓" : ""}</span>仅英文</button>
+              </div>
+            )}
+          </div>
+        </div>
+        <div className="player-progress">
+          <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
+            aria-label="播放进度" onChange={(event) => seekTo(Number(event.target.value))} />
+          <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         </div>
         <div className="main-controls">
-          <button onClick={() => seekTo(currentTime - 5)} aria-label="后退五秒">−5s</button>
           <button onClick={() => seekToSegment(currentSegment - 1)} aria-label="上一句">‹</button>
           <button className="play" onClick={togglePlayback}
             aria-label={playing ? "暂停" : "播放"}>{playing ? "Ⅱ" : "▶"}</button>
           <button onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">›</button>
-          <button onClick={() => seekTo(currentTime + 5)} aria-label="前进五秒">+5s</button>
-        </div>
-        <div className="control-footer">
-          <div className="repeat-controls">
-            <button className={loopSegment !== undefined ? "loop active-loop" : "loop"}
-              aria-pressed={loopSegment !== undefined} onClick={toggleRepeat}>
-              {loopSegment !== undefined
-                ? `↻ ${repeatIteration} / ${repeatLimit === "infinite" ? "∞" : repeatLimit}`
-                : "↻ 逐句循环"}
-            </button>
-            <button className="repeat-step" aria-label="减少逐句循环次数"
-              disabled={repeatLimit === repeatLimits[0]} onClick={() => changeRepeatLimit(-1)}>−</button>
-            <span className="repeat-limit" aria-live="polite"
-              aria-label={`当前逐句循环次数：${repeatLimit === "infinite" ? "无限" : `${repeatLimit} 次`}`}>
-              {repeatLimit === "infinite" ? "无限" : `${repeatLimit} 次`}
-            </span>
-            <button className="repeat-step" aria-label="增加逐句循环次数"
-              disabled={repeatLimit === repeatLimits.at(-1)} onClick={() => changeRepeatLimit(1)}>+</button>
-          </div>
-          <button
-            className={showTranslation && availableTranslations > 0 ? "translation-toggle enabled" : "translation-toggle"}
-            disabled={availableTranslations === 0}
-            aria-pressed={availableTranslations > 0 ? showTranslation : undefined}
-            onClick={toggleTranslation}
-          >
-            {availableTranslations === 0 ? "暂无中文" : showTranslation ? "中文 开" : "中文 关"}
-          </button>
-          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}>删除本地课程</button>}
         </div>
       </section>
     </main>

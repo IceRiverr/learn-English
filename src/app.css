@@ -24,7 +24,7 @@ button { cursor: pointer; }
 .player-page {
   width: min(100%, 760px);
   margin: 0 auto;
-  padding: 32px 20px calc(220px + env(safe-area-inset-bottom));
+  padding: 32px 20px calc(250px + env(safe-area-inset-bottom));
 }
 
 .center-card {
@@ -151,7 +151,18 @@ h1 {
 }
 
 .player-page header { padding-top: 8px; }
-.player-page h1 { font-size: clamp(26px, 6vw, 42px); margin: 8px 0 22px; }
+.player-page h1 { font-size: clamp(26px, 6vw, 42px); margin: 8px 0 0; }
+.course-heading { display: flex; align-items: end; justify-content: space-between; gap: 16px; }
+.course-heading .delete {
+  flex: none;
+  min-height: 40px;
+  padding: 0 10px;
+  border: 1px solid #d7aaa4;
+  border-radius: 10px;
+  color: #9a463d;
+  background: transparent;
+  font-size: 13px;
+}
 .back {
   margin: 0 0 22px;
   padding: 0;
@@ -212,24 +223,86 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  padding: 12px max(16px, calc((100vw - 720px) / 2)) calc(12px + env(safe-area-inset-bottom));
+  padding: 10px max(16px, calc((100vw - 720px) / 2)) calc(10px + env(safe-area-inset-bottom));
   background: rgba(247, 245, 239, 0.92);
   border-top: 1px solid rgba(23, 63, 53, 0.12);
   backdrop-filter: blur(18px);
 }
-.speed-row, .main-controls, .control-footer { display: flex; align-items: center; justify-content: center; }
-.speed-row { gap: 6px; }
-.speed-row button {
-  min-width: 48px;
-  height: 32px;
+.player-settings {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 720px;
+  margin: 0 auto;
+}
+.player-setting { position: relative; min-width: 0; }
+.setting-trigger {
+  width: 100%;
+  min-height: 48px;
+  display: grid;
+  place-content: center;
+  gap: 2px;
+  padding: 3px 6px;
   border: 0;
-  border-radius: 9px;
+  border-radius: 10px;
   color: #53645e;
   background: transparent;
+  text-align: center;
 }
-.speed-row .selected { color: #fff; background: #173f35; }
+.setting-trigger:hover, .setting-trigger[aria-expanded="true"] { background: #e9e5da; }
+.setting-trigger:disabled { color: #9ba5a1; cursor: default; }
+.setting-trigger strong { color: #173f35; font-size: 14px; font-variant-numeric: tabular-nums; }
+.setting-trigger:disabled strong { color: inherit; font-size: 12px; }
+.setting-trigger span { font-size: 12px; }
+.player-menu {
+  position: absolute;
+  z-index: 20;
+  bottom: calc(100% + 10px);
+  width: 210px;
+  max-height: min(360px, calc(100vh - 220px));
+  overflow-y: auto;
+  padding: 8px;
+  border: 1px solid #d8d8d0;
+  border-radius: 14px;
+  background: #fffdf8;
+  box-shadow: 0 16px 40px rgba(23, 63, 53, .18);
+}
+.speed-menu { left: 0; }
+.repeat-menu { left: 50%; width: 286px; transform: translateX(-50%); }
+.reading-menu { right: 0; }
+.menu-title { display: block; padding: 5px 7px 9px; color: #61716b; font-size: 12px; font-weight: 750; }
+.menu-option {
+  width: 100%;
+  min-height: 42px;
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  align-items: center;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 9px;
+  color: #173f35;
+  background: transparent;
+  text-align: left;
+}
+.menu-option.selected, .repeat-grid .selected { color: #fff; background: #173f35; }
+.menu-option:disabled { color: #9ba5a1; cursor: default; }
+.repeat-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; margin-bottom: 8px; }
+.repeat-grid button {
+  min-width: 0;
+  min-height: 42px;
+  padding: 0;
+  border: 0;
+  border-radius: 9px;
+  color: #173f35;
+  background: #e9e5da;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+.repeat-off { margin-top: 4px; border-top: 1px solid #e6e0d5; border-radius: 0 0 9px 9px; }
+.player-progress { max-width: 720px; margin: 6px auto 0; }
+.player-progress .timeline { display: block; }
+.player-progress .time-row { margin-top: -2px; }
 
-.main-controls { gap: 9px; margin: 10px 0; }
+.main-controls { display: flex; align-items: center; justify-content: center; gap: 36px; margin: 5px 0 0; }
 .main-controls button {
   width: 48px;
   height: 48px;
@@ -241,45 +314,18 @@ h1 {
 }
 .main-controls .play { width: 60px; height: 60px; color: white; background: #b06c21; font-size: 21px; }
 
-.control-footer { justify-content: space-between; }
-.control-footer button { min-height: 38px; padding: 0 12px; border-radius: 10px; background: transparent; }
-.repeat-controls { display: flex; align-items: center; gap: 5px; }
-.loop { color: #173f35; border: 1px solid #b9c4bf; }
-.active-loop { color: white; background: #173f35 !important; border-color: #173f35; }
-.repeat-step {
-  width: 34px;
-  padding: 0 !important;
-  color: #173f35;
-  border: 1px solid #b9c4bf;
-}
-.repeat-step:disabled { color: #9ba5a1; border-color: #d8d8d0; cursor: default; }
-.repeat-limit {
-  min-width: 42px;
-  min-height: 38px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: #53645e;
-  border-radius: 10px;
-  background: #e9e5da;
-  font-size: 13px;
-  text-align: center;
-  white-space: nowrap;
-}
-.translation-toggle { color: #61716b; border: 1px solid #b9c4bf; }
-.translation-toggle.enabled { color: white; background: #b06c21; border-color: #b06c21; }
-.translation-toggle:disabled { color: #9ba5a1; border-color: transparent; cursor: default; }
-.delete { color: #9a463d; border: 0; }
-
 @media (max-width: 420px) {
   .center-card, .player-page { padding-left: 16px; padding-right: 16px; }
-  .speed-row { justify-content: space-between; }
-  .speed-row button { min-width: 44px; }
-  .main-controls { justify-content: space-between; gap: 4px; }
+  .course-heading { align-items: start; flex-direction: column; gap: 10px; }
+  .setting-trigger { padding-left: 2px; padding-right: 2px; }
+  .setting-trigger strong { font-size: 13px; }
+  .setting-trigger span { font-size: 11px; }
+  .repeat-menu { width: 300%; }
+  .main-controls { gap: 28px; }
   .course-row { align-items: start; }
   .download { min-width: 70px; padding: 0 10px; }
-  .control-footer { gap: 6px; }
-  .control-footer button { padding: 0 9px; font-size: 13px; }
-  .repeat-controls { gap: 3px; }
-  .repeat-step { width: 30px; padding: 0 !important; }
+}
+
+@media (max-width: 340px) {
+  .main-controls { gap: 20px; }
 }
