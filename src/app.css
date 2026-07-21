@@ -175,6 +175,15 @@ h1 {
 }
 .focus-sentence span { color: #f2b84b; font-size: 12px; font-weight: 800; letter-spacing: .08em; }
 .focus-sentence p { margin: 12px 0 0; font-family: Georgia, serif; font-size: 21px; line-height: 1.5; }
+.focus-sentence .focus-translation {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, .16);
+  color: #dce9e4;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.6;
+}
 
 .transcript { display: grid; gap: 8px; }
 .segment {
@@ -192,7 +201,10 @@ h1 {
   line-height: 1.45;
 }
 .segment time { color: #a07843; font-size: 12px; padding-top: 3px; }
+.segment-copy { display: grid; gap: 7px; }
+.segment-translation { color: #71817b; font-size: 14px; line-height: 1.55; }
 .segment.active { color: #173f35; background: #fff; border-color: #e4d6bf; box-shadow: 0 6px 20px rgba(31, 48, 42, 0.06); }
+.segment.active .segment-translation { color: #49645c; }
 
 .controls {
   position: fixed;
@@ -233,6 +245,9 @@ h1 {
 .control-footer button { min-height: 38px; padding: 0 12px; border-radius: 10px; background: transparent; }
 .loop { color: #173f35; border: 1px solid #b9c4bf; }
 .active-loop { color: white; background: #173f35 !important; border-color: #173f35; }
+.translation-toggle { color: #61716b; border: 1px solid #b9c4bf; }
+.translation-toggle.enabled { color: white; background: #b06c21; border-color: #b06c21; }
+.translation-toggle:disabled { color: #9ba5a1; border-color: transparent; cursor: default; }
 .delete { color: #9a463d; border: 0; }
 
 @media (max-width: 420px) {
@@ -242,4 +257,6 @@ h1 {
   .main-controls { justify-content: space-between; gap: 4px; }
   .course-row { align-items: start; }
   .download { min-width: 70px; padding: 0 10px; }
+  .control-footer { gap: 6px; }
+  .control-footer button { padding: 0 9px; font-size: 13px; }
 }

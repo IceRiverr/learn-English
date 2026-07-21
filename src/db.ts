@@ -5,6 +5,7 @@ export interface Segment {
   start: number;
   end: number;
   text: string;
+  translations?: Record<string, string>;
 }
 
 export interface Course {
@@ -12,6 +13,7 @@ export interface Course {
   title: string;
   audioFilename: string;
   duration: number;
+  language?: string;
   segments: Segment[];
   audioLocation?: "opfs" | "indexeddb";
 }
@@ -81,6 +83,16 @@ export async function saveCourse(
 
 export async function loadCourse(courseId: string): Promise<Course | undefined> {
   return (await database).get("app-data", `course:${courseId}`) as Promise<Course | undefined>;
+}
+
+export async function saveCourseMetadata(
+  course: Omit<Course, "audioLocation">
+): Promise<Course | undefined> {
+  const existing = await loadCourse(course.id);
+  if (!existing?.audioLocation) return undefined;
+  const savedCourse: Course = { ...course, audioLocation: existing.audioLocation };
+  await (await database).put("app-data", savedCourse, `course:${course.id}`);
+  return savedCourse;
 }
 
 export async function loadAudio(courseId: string): Promise<Blob | undefined> {

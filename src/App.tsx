@@ -6,6 +6,7 @@ import {
   loadCourse,
   loadProgress,
   saveCourse,
+  saveCourseMetadata,
   saveProgress,
   type Course,
   type Segment
@@ -37,18 +38,22 @@ const transcriptSchema = z.object({
     id: z.string().min(1),
     title: z.string().min(1),
     audioFilename: z.string().min(1),
-    duration: z.number().positive()
+    duration: z.number().positive(),
+    language: z.string().min(1).optional()
   }),
   segments: z.array(z.object({
     id: z.string().min(1),
     start: z.number().nonnegative(),
     end: z.number().positive(),
-    text: z.string().min(1)
+    text: z.string().min(1),
+    translations: z.record(z.string(), z.string().min(1)).optional()
   })).min(1)
 });
 
 type TranscriptInput = z.infer<typeof transcriptSchema>;
 const speeds = [0.75, 0.9, 1, 1.25, 1.5] as const;
+const translationLanguage = "zh-Hans";
+const translationPreferenceKey = "show-translation";
 
 function findSegmentIndex(segments: readonly Segment[], time: number): number {
   let low = 0;
@@ -110,8 +115,13 @@ function courseFromTranscript(input: TranscriptInput, duration = input.course.du
     title: input.course.title,
     audioFilename: input.course.audioFilename,
     duration,
+    language: input.course.language,
     segments: input.segments
   };
+}
+
+function translationCount(course: Course): number {
+  return course.segments.filter((segment) => Boolean(segment.translations?.[translationLanguage])).length;
 }
 
 function formatTime(value: number): string {
@@ -157,6 +167,13 @@ export default function App() {
   const [playing, setPlaying] = useState(false);
   const [loopSegment, setLoopSegment] = useState<number>();
   const [speed, setSpeed] = useState(1);
+  const [showTranslation, setShowTranslation] = useState(() => {
+    try {
+      return localStorage.getItem(translationPreferenceKey) !== "false";
+    } catch {
+      return true;
+    }
+  });
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
 
@@ -243,7 +260,19 @@ export default function App() {
       const saved = await loadCourse(lesson.id);
       const audio = saved ? await loadAudio(lesson.id) : undefined;
       if (saved && audio) {
-        await showCourse(saved, replaceObjectUrl(audio)!, true);
+        let localCourse = saved;
+        if (translationCount(saved) < saved.segments.length) {
+          try {
+            const input = await fetchTranscript(lesson);
+            const latestCourse = courseFromTranscript(input, saved.duration);
+            if (translationCount(latestCourse) > translationCount(saved)) {
+              localCourse = (await saveCourseMetadata(latestCourse)) ?? saved;
+            }
+          } catch {
+            // Old downloaded courses must remain playable when offline.
+          }
+        }
+        await showCourse(localCourse, replaceObjectUrl(audio)!, true);
       } else {
         const input = await fetchTranscript(lesson);
         await showCourse(courseFromTranscript(input), replaceObjectUrl() ?? lesson.audioUrl, false);
@@ -342,6 +371,16 @@ export default function App() {
     saveCurrentProgress(audio?.currentTime ?? currentTime, value);
   }
 
+  function toggleTranslation() {
+    const nextValue = !showTranslation;
+    setShowTranslation(nextValue);
+    try {
+      localStorage.setItem(translationPreferenceKey, String(nextValue));
+    } catch {
+      // The display preference can remain in React state when storage is unavailable.
+    }
+  }
+
   function returnToCourses() {
     const audio = audioRef.current;
     if (audio) {
@@ -366,7 +405,7 @@ export default function App() {
   if (!course || !audioUrl) {
     return (
       <main className="center-card course-home">
-        <div className="brand">LISTEN / 0003</div>
+        <div className="brand">LISTEN / 0004</div>
         <h1>选择一课，认真听懂。</h1>
         <p className="intro">点击课程即可在线播放；下载后也能离线学习。</p>
 
@@ -416,11 +455,13 @@ export default function App() {
   }
 
   const activeSegment = course.segments[currentSegment];
+  const availableTranslations = translationCount(course);
+  const activeTranslation = activeSegment.translations?.[translationLanguage];
   return (
     <main className="player-page">
       <header>
         <button className="back" onClick={returnToCourses}>← 返回课程</button>
-        <div className="brand">LISTEN / 0003</div>
+        <div className="brand">LISTEN / 0004</div>
         <h1>{course.title}</h1>
         <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
@@ -429,13 +470,20 @@ export default function App() {
 
       <section className="focus-sentence" aria-live="polite">
         <span>当前句 · {currentSegment + 1}/{course.segments.length}</span>
-        <p>{activeSegment.text}</p>
+        <p className="focus-english">{activeSegment.text}</p>
+        {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
       </section>
       <section className="transcript" aria-label="完整字幕">
         {course.segments.map((segment, index) => (
           <button key={segment.id} className={index === currentSegment ? "segment active" : "segment"}
             onClick={() => seekToSegment(index)}>
-            <time>{formatTime(segment.start)}</time><span>{segment.text}</span>
+            <time>{formatTime(segment.start)}</time>
+            <span className="segment-copy">
+              <span>{segment.text}</span>
+              {showTranslation && segment.translations?.[translationLanguage] && (
+                <span className="segment-translation">{segment.translations[translationLanguage]}</span>
+              )}
+            </span>
           </button>
         ))}
       </section>
@@ -481,6 +529,14 @@ export default function App() {
         <div className="control-footer">
           <button className={loopSegment !== undefined ? "loop active-loop" : "loop"}
             onClick={() => setLoopSegment((value) => value === undefined ? currentSegment : undefined)}>↻ 当前句</button>
+          <button
+            className={showTranslation && availableTranslations > 0 ? "translation-toggle enabled" : "translation-toggle"}
+            disabled={availableTranslations === 0}
+            aria-pressed={availableTranslations > 0 ? showTranslation : undefined}
+            onClick={toggleTranslation}
+          >
+            {availableTranslations === 0 ? "暂无中文" : showTranslation ? "中文 开" : "中文 关"}
+          </button>
           {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}>删除本地课程</button>}
         </div>
       </section>
