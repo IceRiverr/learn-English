@@ -13,7 +13,7 @@ export interface Course {
   audioFilename: string;
   duration: number;
   segments: Segment[];
-  audioLocation: "opfs" | "indexeddb";
+  audioLocation?: "opfs" | "indexeddb";
 }
 
 export interface SavedProgress {
@@ -27,15 +27,17 @@ const database = openDB("english-listening", 1, {
   }
 });
 
-async function saveAudioToOpfs(audio: Blob): Promise<boolean> {
-  if (typeof navigator.storage?.getDirectory !== "function") {
-    return false;
-  }
+function audioFileName(courseId: string): string {
+  return `${courseId.replace(/[^a-zA-Z0-9._-]/g, "_")}.mp3`;
+}
+
+async function saveAudioToOpfs(courseId: string, audio: Blob): Promise<boolean> {
+  if (typeof navigator.storage?.getDirectory !== "function") return false;
 
   try {
     const root = await navigator.storage.getDirectory();
     const audioDirectory = await root.getDirectoryHandle("audio", { create: true });
-    const file = await audioDirectory.getFileHandle("current.mp3", { create: true });
+    const file = await audioDirectory.getFileHandle(audioFileName(courseId), { create: true });
     const writer = await file.createWritable();
     await writer.write(audio);
     await writer.close();
@@ -45,69 +47,77 @@ async function saveAudioToOpfs(audio: Blob): Promise<boolean> {
   }
 }
 
+async function deleteOpfsAudio(courseId: string): Promise<void> {
+  if (typeof navigator.storage?.getDirectory !== "function") return;
+  try {
+    const root = await navigator.storage.getDirectory();
+    const directory = await root.getDirectoryHandle("audio");
+    await directory.removeEntry(audioFileName(courseId));
+  } catch {
+    // Missing OPFS files are already in the desired state.
+  }
+}
+
 export async function saveCourse(
   course: Omit<Course, "audioLocation">,
   audio: Blob
 ): Promise<Course> {
   const db = await database;
-  const audioLocation = (await saveAudioToOpfs(audio)) ? "opfs" : "indexeddb";
+  const audioLocation = (await saveAudioToOpfs(course.id, audio)) ? "opfs" : "indexeddb";
   const savedCourse: Course = { ...course, audioLocation };
   const transaction = db.transaction("app-data", "readwrite");
 
-  await transaction.store.put(savedCourse, "course");
+  await transaction.store.put(savedCourse, `course:${course.id}`);
   if (audioLocation === "indexeddb") {
-    await transaction.store.put(audio, "audio-blob");
+    await transaction.store.put(audio, `audio:${course.id}`);
   } else {
-    await transaction.store.delete("audio-blob");
+    await transaction.store.delete(`audio:${course.id}`);
   }
   await transaction.done;
+
+  if (audioLocation === "indexeddb") await deleteOpfsAudio(course.id);
   return savedCourse;
 }
 
-export async function loadCourse(): Promise<Course | undefined> {
-  return (await database).get("app-data", "course") as Promise<Course | undefined>;
+export async function loadCourse(courseId: string): Promise<Course | undefined> {
+  return (await database).get("app-data", `course:${courseId}`) as Promise<Course | undefined>;
 }
 
-export async function loadAudio(course: Course): Promise<Blob | undefined> {
+export async function loadAudio(courseId: string): Promise<Blob | undefined> {
+  const course = await loadCourse(courseId);
+  if (!course) return undefined;
+
   if (course.audioLocation === "indexeddb") {
-    return (await database).get("app-data", "audio-blob") as Promise<Blob | undefined>;
+    return (await database).get("app-data", `audio:${courseId}`) as Promise<Blob | undefined>;
   }
+  if (course.audioLocation !== "opfs") return undefined;
 
   try {
     const root = await navigator.storage.getDirectory();
     const directory = await root.getDirectoryHandle("audio");
-    const handle = await directory.getFileHandle("current.mp3");
+    const handle = await directory.getFileHandle(audioFileName(courseId));
     return await handle.getFile();
   } catch {
     return undefined;
   }
 }
 
-export async function saveProgress(progress: SavedProgress): Promise<void> {
-  await (await database).put("app-data", progress, "progress");
+export async function saveProgress(courseId: string, progress: SavedProgress): Promise<void> {
+  await (await database).put("app-data", progress, `progress:${courseId}`);
 }
 
-export async function loadProgress(): Promise<SavedProgress | undefined> {
-  return (await database).get("app-data", "progress") as Promise<SavedProgress | undefined>;
+export async function loadProgress(courseId: string): Promise<SavedProgress | undefined> {
+  return (await database).get("app-data", `progress:${courseId}`) as Promise<SavedProgress | undefined>;
 }
 
-export async function deleteCourse(): Promise<void> {
+export async function deleteCourse(courseId: string): Promise<void> {
   const db = await database;
   const transaction = db.transaction("app-data", "readwrite");
   await Promise.all([
-    transaction.store.delete("course"),
-    transaction.store.delete("progress"),
-    transaction.store.delete("audio-blob")
+    transaction.store.delete(`course:${courseId}`),
+    transaction.store.delete(`progress:${courseId}`),
+    transaction.store.delete(`audio:${courseId}`)
   ]);
   await transaction.done;
-
-  if (typeof navigator.storage?.getDirectory === "function") {
-    try {
-      const root = await navigator.storage.getDirectory();
-      const directory = await root.getDirectoryHandle("audio");
-      await directory.removeEntry("current.mp3");
-    } catch {
-      // The file or OPFS may not exist. IndexedDB data is already removed.
-    }
-  }
+  await deleteOpfsAudio(courseId);
 }

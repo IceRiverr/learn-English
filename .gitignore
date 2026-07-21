@@ -2,8 +2,8 @@
 node_modules/
 dist/
 
-# Sample files are intentionally local for now
-public/
+# Keep large audio files local; public metadata and other assets are tracked
+public/**/*.mp3
 
 # TypeScript and Vite generated files
 *.tsbuildinfo

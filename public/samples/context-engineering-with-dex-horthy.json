@@ -1,0 +1,1985 @@
+{
+  "version": 1,
+  "course": {
+    "id": "context-engineering-with-dex-horthy",
+    "title": "Context engineering with Dex Horthy",
+    "audioFilename": "context-engineering-with-dex-horthy.mp3",
+    "duration": 5543.78
+  },
+  "segments": [
+    {
+      "id": "s0001",
+      "start": 0.411,
+      "end": 16.08,
+      "text": "What happens when you let AI agents ship code for months, and no developer reads a single line? Today's guest tried exactly that. He built a light-off software factory, and four months later, he had no choice but to shut it down as things just stopped working. Dex Horthy is the founder of HumanLayer and a person who coined"
+    },
+    {
+      "id": "s0002",
+      "start": 16.08,
+      "end": 34.703,
+      "text": "the term context engineering days before Andrzej Karpathy & Tooby Luzka made it famous. He spent the last two years talking to hundreds of AI engineers about what actually works when you build with LLMs, and is testing the most extreme ideas with his own team. In today's conversation, We'll discuss. Context Engineering. What it is and the physics of context windows, including what the dump zone is."
+    },
+    {
+      "id": "s0003",
+      "start": 34.753,
+      "end": 50.43,
+      "text": "Loop Engineering. From the Ralph Wiggum technique to the slow loop that Dex's team runs every night to wake up to code clean up PRs. The rise of software factories. From a NATO conference in 19... 1968 through DevOps to today's agentic factories, Spectrum and Development development and why specs always drift from"
+    },
+    {
+      "id": "s0004",
+      "start": 50.47,
+      "end": 66.61,
+      "text": "the code itself, and many more. If you want to understand increasingly important concepts like concept engineering and harness engineering, or want to know how far you can push the let agents build everything idea from someone who pushed it further than almost anyone, then this episode is for you. This episode is presented by Antisysys."
+    },
+    {
+      "id": "s0005",
+      "start": 66.66,
+      "end": 82.982,
+      "text": "If you work with agents, your job is no longer just writing code, it's specifying and testing it. And antithesis is the most effective method of verifying agendic code today. Today's episode is brought to you by BuildKite, the CI orchestration platform trusted by OpenAI, Entropic, Cursor, NVIDIA, Uber, Canva, and more."
+    },
+    {
+      "id": "s0006",
+      "start": 83.277,
+      "end": 99.883,
+      "text": "Today we're talking about pushing the right context into models so that they write better code. Right after that starts working, your agents will write more code. A lot more. Trusting that code avalanche is where many teams face a challenge today. Every change that an agent makes still has to be built, tested, and proven safe before it ships."
+    },
+    {
+      "id": "s0007",
+      "start": 99.933,
+      "end": 119.296,
+      "text": "Worked on my machine is not enough, so you obviously need CI. But when agents are pushing 5, 10 or 50 times the commit volume to your pipelines faster CI runners won't save you. Shaving 30 seconds off a single build is meaningless when a queue is 100 plus jobs deep. What you really want is a CI system that gets faster as the volume grows and CI"
+    },
+    {
+      "id": "s0008",
+      "start": 119.316,
+      "end": 136.661,
+      "text": "that offers instant parallelization to give you unlimited concurrency and to intelligently route changes at runtime. This is what BuildKite does and why global software leaders continue to rely on it. The same architecture that observed the scale of Shopify and Uber a decade ago 1 .4 billion job minutes minutes a week across Cursor,"
+    },
+    {
+      "id": "s0009",
+      "start": 136.701,
+      "end": 155.66,
+      "text": "Meta, Reddit and Snowflake. While the rest of CI world are cracking under the weight As you're entering the context you'll give to your agents,"
+    },
+    {
+      "id": "s0010",
+      "start": 155.71,
+      "end": 171.048,
+      "text": "think about how you'll verify what they hand back. If your system is buckling under the increased volume head to buildkite .com slash pragmatic 30 -day all access trial no credit card and an actual human engineer on standby his name's Ola and he's very helpful So Dex, welcome to the podcast."
+    },
+    {
+      "id": "s0011",
+      "start": 171.098,
+      "end": 188.844,
+      "text": "Super stoked to be here, dude. Before we get into some of the context engineering and some of the more spicy stuff as well, how did you get into tech? How did you fall in love with computers? Oh man, so I was doing undergrad as a physics major and I realized that I didn't like it."
+    },
+    {
+      "id": "s0012",
+      "start": 189.289,
+      "end": 205.872,
+      "text": "Academia And there's like bass. Basically like Two or three paths out of physics is basically you go get a PhD or you go into finance or you go do programming. At that time, this was 2012, 2011, when I was in the middle of undergrad and deciding what to do."
+    },
+    {
+      "id": "s0013",
+      "start": 205.922,
+      "end": 222.463,
+      "text": "And I had done... An internship. Internship when I was in high school, I was working with NASA researchers To, uh... jet propulsion lab in California. They had just gotten this really high fidelity, like the most, you know, fine grained data set of altitudes, like the heights of very,"
+    },
+    {
+      "id": "s0014",
+      "start": 222.483,
+      "end": 237.492,
+      "text": "very like top top topographical map of the South Pole of the moon. And the south pole of moon is really interesting because some of the craters there are so deep. Because of the angle it has, it got hit by meteor storms like no other part of the moon. So there's very deep craters that have never seen sunlight."
+    },
+    {
+      "id": "s0015",
+      "start": 237.542,
+      "end": 253.185,
+      "text": "And so there's frozen liquid water in there from the formation of the moon. And so scientists were really interested in getting down there and exploring. And so we had this really fine grained map and it was like, okay, cool. Let's build software so that I have point A to point B. I know the limitations of my Rover can,"
+    },
+    {
+      "id": "s0016",
+      "start": 253.205,
+      "end": 269.631,
+      "text": "you know, max incline up is this, max incline down is that. Find a path from point A to point B that doesn't like break those rules of the incline. So I was, you know, 17. I had never cracked a CS textbook. So I wrote, I basically like wrote a really naive, bad version of Dijkstra's algorithm for pathfinding."
+    },
+    {
+      "id": "s0017",
+      "start": 270.4,
+      "end": 286.71,
+      "text": "So I was in college, and I was like... like, I don't know if I want to do the academics thing, but I really enjoyed programming back in the day. And so I decided to go. I got like half of a CS minor and then And started working on it. On an API platform team at a software company in Chicago. Sprout Social, right? Yes. And, uh..."
+    },
+    {
+      "id": "s0018",
+      "start": 287.154,
+      "end": 304.038,
+      "text": "basically never went back. Yeah. And then And where did you... you go from there? Where did you pick up like the parts of the trade? Because very early on, your first job, that's not really common. You were doing platform engineering back in, you know, more than a decade ago. From that point, it took me about two or three months to notice that like,"
+    },
+    {
+      "id": "s0019",
+      "start": 304.088,
+      "end": 319.457,
+      "text": "The most valuable work that was being done in the company was being done by like, of course, it's obviously like the first couple engineers who know everything and understand where everything was. And like, you spend a day on a support ticket from a customer and they solve it in five minutes, but like, you have to solve it so you learn and whatever."
+    },
+    {
+      "id": "s0020",
+      "start": 319.477,
+      "end": 337.229,
+      "text": "And I realized like the most Valuable people in the company were the people that were building the developer platform. CICD, sandbox environments, preview stuff. And so I kind of like, that was my first step into the journey. And I've basically been obsessed with software factories since that like three"
+    },
+    {
+      "id": "s0021",
+      "start": 337.269,
+      "end": 353.879,
+      "text": "or six months into my first job. We talk about software factories now, but you're talking about software factories back then. So like you were You are starting to already think think that this is how we can produce better software. This is pre-AI world, right? Well, and I'm always surprised. Like, there's a huge class of developers that say, I don't want to work on CICD."
+    },
+    {
+      "id": "s0022",
+      "start": 353.899,
+      "end": 371.42,
+      "text": "I hate CICD. I'm like, really? because building the thing that builds the thing and building the thing that builds a thing, the bills. The thing is It's like, as. As software engineers, we're lazy. We want to do the most high leverage thing that makes our job easier. So how do we, if we can build a thing that helps us build a thing that helps us move faster, then that's the best use of my time as a lazy engineer."
+    },
+    {
+      "id": "s0023",
+      "start": 371.797,
+      "end": 387.654,
+      "text": "And then you went to another startup, Aspernation. Aspiration. Aspiration, yeah. Aspiration, also platform engineering. Yeah, I was brought in and then like three months into the job, the VP of engineering who hired me quit or got fired. I don't know, there was some drama about it. I probably shouldn't talk about it."
+    },
+    {
+      "id": "s0024",
+      "start": 387.704,
+      "end": 405.273,
+      "text": "And then I was there for about a year and was kind of like acting CTO for a while, like hired a couple of people, helped hire the new VP of engineering, but I was out of there. I don't think I'll ever do consumer again. I think I'm actually a B2B guy. Good to know. And then you went to Replicator, where you spent a good solid four years and went from engineer,"
+    },
+    {
+      "id": "s0025",
+      "start": 405.338,
+      "end": 421.44,
+      "text": "forward-deployed engineer, to product manager. Yeah, I did core engineering for two years. We were building a container orchestrator Like, before Kubernetes. Kubernetes, before Docker Swarm was really We built our own orchestrator. The founders had this vision that like, oh, Docker is going to make it much easier to ship on -prem software."
+    },
+    {
+      "id": "s0026",
+      "start": 421.49,
+      "end": 438.732,
+      "text": "And when I say on-prem, I don't mean literally like a rack in a colo. It's more like, hey, look, bring the app to where the data is rather than sending the data up to some cloud vendor. And Docker makes it much more, much easier for them to package apps and move them around. And so they had this thesis that like, basically you could build a platform that."
+    },
+    {
+      "id": "s0027",
+      "start": 438.782,
+      "end": 453.963,
+      "text": "The experience that you get when you use GitHub Enterprise, which is like you install it and has this admin panel, but then you just get GitHub running in your data center and your code never has to leave your data center. Suddenly you could build a generic SaaS where everybody could have that. So I did two years in engineer there."
+    },
+    {
+      "id": "s0028",
+      "start": 454.013,
+      "end": 469.882,
+      "text": "And then our head of sales, we parted ways with our head of sales. And honestly, I was having a lot of arguments about the software factory with our CTO. And it's kind of like almost like a too many cooks in the kitchen kind of thing. I'm sure many listeners have had this experience. Of like, well yeah, I know I have these"
+    },
+    {
+      "id": "s0029",
+      "start": 477.7,
+      "end": 493.44,
+      "text": "Dex, I need you to stop fixing the build pipeline and do the tickets I gave you. I'm sure you've had this experience, perhaps. Yeah. And then And was this what? What Love you too. To either forward deploy engineering? Yeah. So I like I really loved our customers. Our customers are HashiCorp,"
+    },
+    {
+      "id": "s0030",
+      "start": 493.48,
+      "end": 512.073,
+      "text": "DataStax, Puppet, all these really cool engineering brands, Travis CI, Circles. I was like, yeah, I actually love working with our customers. Our customers are awesome. And And it was a great way to like. To get in the trenches. A lot of really good engineers who were solving the hardest problem at the company, which is like, how do we take this three to five year old SaaS platform and pack package it all up"
+    },
+    {
+      "id": "s0031",
+      "start": 512.154,
+      "end": 527.98,
+      "text": "so that someone who knows nothing about our architecture can run it reliably in their own AWS VPC, in their own on-prem data center, whatever it was. And so I spent, I was our first kind of customer facing Yeah. Engineer. And it was about three months. I, we closed."
+    },
+    {
+      "id": "s0032",
+      "start": 528.142,
+      "end": 545.25,
+      "text": "I met with every customer that was like kind of kind of in the pipeline but wasn't moving sales-wise, and we closed 12 deals in three months, and the CEO was like, holy crap, Dex, the investors are taking my calls again. I I don't, I know you want to get back to. To coding, but I need you to go hire three people and build this team out"
+    },
+    {
+      "id": "s0033",
+      "start": 545.27,
+      "end": 562.076,
+      "text": "because I think you might have been born for this. Wow. Yeah. So I did that for about four years, built that org to like 25 people. And then Zerp happened and it got a lot smaller. And we kind of realized like, hey, we have a product that's like pretty good. And we've been solved. Solving Lots of early starters. Startups do is like, OK, there's some usability issues."
+    },
+    {
+      "id": "s0034",
+      "start": 562.126,
+      "end": 577.958,
+      "text": "We'll get a bunch of smart people, throw them in the trenches with our customers. Great for sales, great for retention, all this stuff. And it was like, oh, we actually like the margins on that aren't good enough. And so we basically were like, cool, we actually just need to make the product way more usable, do a more PLG shaped thing. PLG meaning product-led growth?"
+    },
+    {
+      "id": "s0035",
+      "start": 577.961,
+      "end": 594.806,
+      "text": "Product-led growth. Make it a little more self-service so you don't need an expert to teach you how to use it. And I was like, cool, if that's the most important thing, then I want to go be a product manager because I have tons of opinions. I've now spent four years in the trenches with our customers. I have a laundry list of roadmap things that I think would make the product way easier to use and adopt and implement and deploy."
+    },
+    {
+      "id": "s0036",
+      "start": 594.856,
+      "end": 612.327,
+      "text": "And now you went towards a dark side. Exactly. Yeah, I did. I was like, this is going to kill my street cred, isn't it? But I was really glad. You know, I think a lot of engineers are afraid that if they go do a customer facing thing, they lose all their credibility. And like, yes, I wasn't coding for 10 hours a day. I was coding for like three or four hours on a Saturday for fun."
+    },
+    {
+      "id": "s0037",
+      "start": 612.35,
+      "end": 630.116,
+      "text": "Not, but I mean we were. Helping people build YAML. We were building CLIs. We owned a lot of the tooling that customers use, but it was like the last mile delivery side of it, not the core platform. And like, I'm more - more personal note, I had spent the last like most of my 20s feeling like, OK, a little bit introverted, a little bit like socially awkward."
+    },
+    {
+      "id": "s0038",
+      "start": 630.156,
+      "end": 645.561,
+      "text": "What a lot of engineers, I'm sure, experience. And I had talked to Ooh, my uncle's a musical. Music producer. So he used to work with like Randy Newman and a bunch of like really famous musicians. Oh, wow. Yeah. This guy Mitchell Froome. And he I was sitting with dinner with him at some point."
+    },
+    {
+      "id": "s0039",
+      "start": 645.581,
+      "end": 663.116,
+      "text": "And when I was I think it was when I was still in undergrad, but he gave me this lecture. He's basically like, if you want to be really good at something. You have to make it the only thing you do. The guy playing guitar nights and weekends trying to get his band off the ground will probably never achieve greatness. The people who become great are the people who basically make it like,"
+    },
+    {
+      "id": "s0040",
+      "start": 663.166,
+      "end": 681.427,
+      "text": "if I don't play guitar, I don't eat. And you go and you sit on the street all day and you play for 14 hours a day or whatever it is. That's the only way to become great. So I said, okay, instead of trying to like read self-help books about how to be less introverted and less socially awkward, like what if I just made it my freaking job to just talk to people and make friends"
+    },
+    {
+      "id": "s0041",
+      "start": 681.477,
+      "end": 699.221,
+      "text": "and like help people and solve their problems? And I think it worked out. I recommend it. I think everyone should spend a year or two at least doing something really like customer facing. Did you do this because... You felt that it was holding you back being introverted or like what? And I know you got the motivation from the whole musician motivation."
+    },
+    {
+      "id": "s0042",
+      "start": 699.241,
+      "end": 715.194,
+      "text": "I get it on one part. but what was it that you said like all right is the customer facing thing that I'm gonna be doing because clearly you were pretty great at like writing code. You could argue you you were doing it night and day. So where did you find that? Like I actually, I think like customer facing or like getting this introvert off of me."
+    },
+    {
+      "id": "s0043",
+      "start": 715.194,
+      "end": 731.861,
+      "text": "Did you feel that about holding you back or you just wanted to be good at it? It was just kind of a thing that was like interfering with my like general life satisfaction. And it's also like, I'm not a very type A person. I'm very disorganized. I don't know if people call it like, okay, I'm like ADHD now. That's why I can run 30 clods in parallel or whatever it is."
+    },
+    {
+      "id": "s0044",
+      "start": 731.911,
+      "end": 748.723,
+      "text": "But it was like, I was really bad at email and calendars and spreadsheets. It was like, didn't care about these, didn't understand them. And so like another side effect of this was like, it just forced me to be organized and keep a lot of things going. And so like, I don't know, there's like weird benefits you get from like stepping outside your comfort zone and learning like industrial disciplines that are separate"
+    },
+    {
+      "id": "s0045",
+      "start": 748.763,
+      "end": 765.86,
+      "text": "from what you've been doing. And so the opportunity presented itself and I was like, oh, I like working. I'll try this for a little bit. Started going really well. I'm like, cool, let's see how far this thread goes. And then And afterwards, afterwards, you're now in your second startup. You became a founder and you also got involved in AI pretty early As I, as."
+    },
+    {
+      "id": "s0046",
+      "start": 766.286,
+      "end": 783.16,
+      "text": "Was even before it was so obvious that it would change how we develop software, right? Well, I would say I was, I was later than I could have been because we started the company, uh, Me and a buddy, I'm sure. Chicago started a company in the data engineering space in about 2020, November, 2020, we decided in like August of 2020."
+    },
+    {
+      "id": "s0047",
+      "start": 783.18,
+      "end": 798.737,
+      "text": "This is Metalitics. Metalitics. Um, technically still the same company as human layer. We just like pivoted the mission. But yeah, the advice I got from every angel investor that, you know, people who just knew CTOs I'd worked for before and stuff, they were just like, look, hitting a lot of heads wins. I don't know if you know,"
+    },
+    {
+      "id": "s0048",
+      "start": 798.757,
+      "end": 815.991,
+      "text": "like the whole DBT, data engineering, Fivetran, that whole arc where it was like this huge party and tons of investor money going into all these different companies. And then within by like 2021, 2022, There was kind of the Zerp thing and just this general realization that the TAM for those sorts of tools is not as big as everyone thought it was."
+    },
+    {
+      "id": "s0049",
+      "start": 816.71,
+      "end": 831.993,
+      "text": "Yes, the total addressable market for those sort of tools was not quite as big as we all thought it was. So it was a hard place to raise money. It was a hard place to get customers. Yeah, and then I met. Met you while you were at Human Layer NSF at an event."
+    },
+    {
+      "id": "s0050",
+      "start": 832.193,
+      "end": 847.9,
+      "text": "You actually talked and we chatted afterwards. But by that, this was about a year ago, You were already. Started You start to have some really. Really strong opinions That's on. On using AI. And one of them was this now famous 12-factor agents manifesto. Are we calling"
+    },
+    {
+      "id": "s0051",
+      "start": 847.9,
+      "end": 865.07,
+      "text": "it a Man of F***er? Manifesto now? I'm calling it a manifesto. It's a manifesto. I'm calling it. Let's talk about this. This was 12 engineering principles It's a builder reliable. Reliable production-ready apps. How did you come up with it? With this? And maybe we can also talk about some of them. Yeah. So I'll kind of like go to like around In August, the."
+    },
+    {
+      "id": "s0052",
+      "start": 865.07,
+      "end": 883.396,
+      "text": "The co-founder I was working with, they kind of burned out and left. And it was very, we're on good terms. It was very mutual. And I decided to just start messing with AI stuff. And I was building AI agents. And what was really in folk right then was like, The Langchain, the Crew AI, these agent frameworks. And it seemed like there was a ton of... You go in the Crew AI Discord, there's 10,000 people."
+    },
+    {
+      "id": "s0053",
+      "start": 883.436,
+      "end": 898.689,
+      "text": "It's like, okay, this feels like the right shape. And there's clearly this eco. You go into every single one of those projects, they have a ChromaDB plugin. They have a Composio plugin. Clearly, this is the shared interface that everybody is building for. I said, okay, what's missing from all of this?"
+    },
+    {
+      "id": "s0054",
+      "start": 898.709,
+      "end": 916.433,
+      "text": "The agents can call tools. But it's really hard to like control which tools they call. And if it's a chatbot, obviously you can show approved deny in the UI of your application. But I kind of was obsessed with what I would call like outer loop agents or proactive agents that would run in the background, get triggered by events."
+    },
+    {
+      "id": "s0055",
+      "start": 916.453,
+      "end": 933.822,
+      "text": "I mean, OpenClaw is basically like the biggest manifestation of this, of like you have a heartbeat, it wakes up, it sees if there's any work to do, it tries to do stuff. And my thought was like, I'm not going to trust that agent to do anything meaningful. If I can't get like a Slack message or an iMessage or something when it wants"
+    },
+    {
+      "id": "s0056",
+      "start": 933.862,
+      "end": 949.611,
+      "text": "to do something and kind of guarantee deterministically that I can approve or deny that or deny it with feedback and say, actually, no, do it like this. So we played in that space for a while and... Talk to a lot of founders and founding engineers and builders. We came and did YC in the fall of 2024 with this idea."
+    },
+    {
+      "id": "s0057",
+      "start": 949.651,
+      "end": 966.013,
+      "text": "We're building out this API platform and it was sort of like pager duty, but like it wasn't who's on call to fix the servers. It was like who's on call to this like routing mechanism for like who needs to approve this agent and can they like escalate it or delegate it or defer it, all this stuff. And we built it for this ecosystem."
+    },
+    {
+      "id": "s0058",
+      "start": 966.063,
+      "end": 983.357,
+      "text": "Great. I like chain Bye. Five. There's so many grip tape. There was so many in that in that time. And then I talked to tons of AI engineers who were actually building really interesting things and like actually making money doing six figure contracts, shipping AI to the enterprise. And all of them had tried that stuff for like a month or two."
+    },
+    {
+      "id": "s0059",
+      "start": 983.407,
+      "end": 1000.47,
+      "text": "And then they had thrown it out and they were just writing all the API calls by hand. And they were building more things that look more like pipelines and workflows than these sort of like hands off call tools in a loop kind of thing. And so I talked to a hundred people and I spent a lot of time, a lot, a lot of time hanging out with one of my best friends, This is Vybov from..."
+    },
+    {
+      "id": "s0060",
+      "start": 1000.47,
+      "end": 1016.64,
+      "text": "from Boundary. So they built a programming, they built like this like protobufs for AI thing. And I think they're about to launch their like full fat, like programming language Turing complete thing. But he had this way of thinking about agents and building with models and building with inference where it was a lot more about Understanding what's going on."
+    },
+    {
+      "id": "s0061",
+      "start": 1016.685,
+      "end": 1034.959,
+      "text": "Structured output really is under the hood. And every single step in your AI workflow is just tokens in, tokens out. And your job as an engineer is figure out okay what tokens do I need to put in maximize the chance that the tokens out are going to be good And kind of distilled all these ideas into about 12 principles and wrote about it on GitHub,"
+    },
+    {
+      "id": "s0062",
+      "start": 1034.999,
+      "end": 1050.312,
+      "text": "posted just like this like 12 page GitHub repo, threw it on Hacker News, got like 500, it was on the front page for like two days. And I think it really resonated with a lot of people. Yeah, so I'll just quickly read the 12 principles and then let's talk about like one or two that resonate. So the 12 are..."
+    },
+    {
+      "id": "s0063",
+      "start": 1050.86,
+      "end": 1067.27,
+      "text": "Natural language of tool calls. Own your prompts, own your context window. Tools are just structured outputs. Unify execution state and business state. Launch, pause, resume with simple APIs. Contact humans with tool calls, own you control flow, compact errors into context window,"
+    },
+    {
+      "id": "s0064",
+      "start": 1067.32,
+      "end": 1082.706,
+      "text": "small focused agents, trigger from anywhere, meet user where they are, make your agent a stateless reducer. Haha the stateless yeah The stateless reducer one was a little, actually someone hit me up on Twitter and Correct me. Me. It's actually a transducer because there's technically multiple steps in"
+    },
+    {
+      "id": "s0065",
+      "start": 1082.726,
+      "end": 1098.839,
+      "text": "the workflow, but there we go. But of this one, this was a year ago, So like, which is like forever. Forever in And how the tooling is. Is evolving. Which ones Sticks still stick with you. You wherever you're like, all right, these were good that still seem to hold off?"
+    },
+    {
+      "id": "s0066",
+      "start": 1098.889,
+      "end": 1116.762,
+      "text": "Yeah, I think I spent most of March writing it. Published this in April, And then Swick's hit. Hit me up from AI.Engineer, and he said, hey, can you come, you want to come talk about this? So I gave this talk to 12-factor agents in like June 6th, I think, And, uh... small room, maybe like, it was packed, but it was like maybe 100 people."
+    },
+    {
+      "id": "s0067",
+      "start": 1116.812,
+      "end": 1135.65,
+      "text": "That was the year at AI Engineer where like the lower physically, like on the second basement floor was all the super corporate stuff and you go up a level, it's a little bit more. And then like on the top floor is all the like weird cutting edge, like startup stuff that like you probably shouldn't care about yet kind of thing. So we were up there on the top of this like weird way of thinking about agents."
+    },
+    {
+      "id": "s0068",
+      "start": 1135.784,
+      "end": 1151.482,
+      "text": "And then about a week later, two weeks later, Toby Lutke from Shopify says, I really like this idea of like context engineering. And I'm like, I wrote about this two months ago. This is great. Toby gets it. And then a week later, Andre Karpathy is like, well, I really like, I think what we should think about is not prompt engineering,"
+    },
+    {
+      "id": "s0069",
+      "start": 1151.502,
+      "end": 1169.725,
+      "text": "but context engineering. I was like, yes, that's my thing. Anyways, I don't know. If you ask Gemini, depends what day it is. We'll tell you either me or Toby or Andre came up with context engineering. You can't really own a word. No one remembers who invented the word prompt engineering. But of all the factors, factor three of own your context window and basically the only way you can,"
+    },
+    {
+      "id": "s0070",
+      "start": 1169.775,
+      "end": 1186.807,
+      "text": "whether it's agentic or a single step at a pipeline, the only way you can impact the quality of your output from AI is by carrying a lot of lot about what the inputs and crafting them. So let's talk about context engineering, which I am going to create. Credit you that you coined it. I did some research on, like, I think you were earlier, but a few days."
+    },
+    {
+      "id": "s0071",
+      "start": 1186.847,
+      "end": 1204.146,
+      "text": "So there we go. You coined it. We're adding to SEO juice. We'll have it in a transcript. Dex coined context engineering. And like asterisk Asterix on that. That is basically like I learned about context engineering from talking to these hundred engineers and founders. I just kind of like what was the same about what they were all doing?"
+    },
+    {
+      "id": "s0072",
+      "start": 1204.186,
+      "end": 1219.799,
+      "text": "And I put a name on it. So like I didn't invent doing it. I was just like, I think I think there's this thing and like vocabulary and names are really important and having like clean ways to talk about the problem, especially when like a lot of the content about AI right now is so much hype and jargon that is like meaningless. I was like, okay,"
+    },
+    {
+      "id": "s0073",
+      "start": 1219.819,
+      "end": 1236.952,
+      "text": "I think there's a word here that is useful to builders that explains how they should be thinking about building their software. So what is context engineering? It's kind of like de-abstracting a lot of the abstractions that have been layered on top. So you have a rag, you have memory, you have agentic history, you have structured output."
+    },
+    {
+      "id": "s0074",
+      "start": 1236.972,
+      "end": 1255.143,
+      "text": "You have all these things that are like different ideas in the frame of agentic programming. And at the end of the day, they're all like different ways to pass tokens into a model and ask it to produce usually some structured output. And on. And understanding this. That is a lot more powerful than trying to learn memory and trying"
+    },
+    {
+      "id": "s0075",
+      "start": 1255.163,
+      "end": 1272.45,
+      "text": "to pick some agent framework off the shelf and some memory framework off the shelf. I mean, these things are all really good if you want to get to like 80%, you want to get a really good demo. But when you have to go from 80% 90 % to 95%. 95% or 99%, you need to go down a level and think about what's everything we're putting into"
+    },
+    {
+      "id": "s0076",
+      "start": 1272.47,
+      "end": 1291.122,
+      "text": "the context window, what order is it going in, depending on which model we're doing. And all of this stuff matters. You have all of these levers that you can pull. And it just felt like the right abstraction for thinking about how do I get AI to do the thing I want as accurately as possible. Why has context engineering started to become more talked about?"
+    },
+    {
+      "id": "s0077",
+      "start": 1291.142,
+      "end": 1306.89,
+      "text": "It was about a year ago. Did it have to do with the context window that we could pass onto LLMs pretty much? Did it start to expand or did we just start to realize that we can We do a lot more by passing on from, you know, the easiest one is of course system prompts."
+    },
+    {
+      "id": "s0078",
+      "start": 1306.94,
+      "end": 1321.947,
+      "text": "But of course whenever you build an LLM behind the scenes you will pass additional context as well. Not just to prompt the user, you will add a bunch of stuff that's I guess a dirty secret about any LLMs but why do you think the focus is moving on to like all right context is important?"
+    },
+    {
+      "id": "s0079",
+      "start": 1321.997,
+      "end": 1341.53,
+      "text": "I think it always was important. There's It's just like the."
+    },
+    {
+      "id": "s0080",
+      "start": 1341.63,
+      "end": 1356.663,
+      "text": "the, the ease. Easiest way to get to really high quality AI applications is by thinking at that token level, thinking about a string of different LLM calls, like rather than just tools in a loop and it's kind of open ended and very flexible, but not that reliable."
+    },
+    {
+      "id": "s0081",
+      "start": 1357.122,
+      "end": 1374.198,
+      "text": "Thinking of agents as workflows, as pipelines, as some mix between agents. Maybe a couple tools in a loop versus just, hey, I have my tools and I have my model and I have my system prompt and these are the only levers I have. And it's actually, no, you have way more levers. It's going to take more work and you're going to have to like understand the LLM"
+    },
+    {
+      "id": "s0082",
+      "start": 1374.248,
+      "end": 1390.534,
+      "text": "with a deeper intuition. But it was a thing that we always needed and it just took time for people to build with this technology to figure out that like this is the layer of abstraction that allows you to break through the quality ceiling. And How are calls? Cost and context engineering connected?"
+    },
+    {
+      "id": "s0083",
+      "start": 1391.195,
+      "end": 1407.373,
+      "text": "Yeah, I don't know. I was talking about this with someone this morning Um, about like when. you're working with LLM. LLMs, one of the things I like to say is kind of like make it run, make it right, make it fast. See if the world's best LLM at the time, I think we did a podcast episode that at the time was like 03."
+    },
+    {
+      "id": "s0084",
+      "start": 1407.423,
+      "end": 1423.018,
+      "text": "See if 03 can solve your problem. And then give it to people and see if they want that. And then if people want it and use it a lot, then go do a bunch of context engineering because your engineering time is always the bottleneck. Like humans trying to figure out and solve problems and build evals and improve"
+    },
+    {
+      "id": "s0085",
+      "start": 1423.058,
+      "end": 1440.203,
+      "text": "and try different dimensions or set up JEPA or whatever it is, is always going to be more expensive than just using a smarter model. Until you have millions of requests a day. And then it's like, okay, we're going to do a bunch of context engineering, break this up into three calls and get it to work on GPT-40. And then we're going to take two of those and make those two work on GPT-40."
+    },
+    {
+      "id": "s0086",
+      "start": 1440.253,
+      "end": 1456.92,
+      "text": "I'm using old model names. But the point is like for a certain task in your workflow, can you get GPT-OSS-120B, which is like one one thousandth of the cost of Opus? Can you get it to solve parts of the problem so that the tokens and the things you're using the smartest frontier models for are just the thing."
+    },
+    {
+      "id": "s0087",
+      "start": 1456.92,
+      "end": 1472.551,
+      "text": "Things that you really need that level of intelligence? But you shouldn't go build all of that and overengineer it until you've proved that you need it, that it's valuable, that it's like, OK, this is now I'm going to get to Eli Goldratt. And like, what is the he had this book, The Goal, right? It was about how to model your factory. And I'm sure we'll get to that when we talk about software factories."
+    },
+    {
+      "id": "s0088",
+      "start": 1472.571,
+      "end": 1489.061,
+      "text": "It was like, what is the bottleneck in your system? And one day it will be latency and cost. But it's probably not that when you first start out. And context engineering is how you move from the you add human effort to the equation to improve the efficiency, the speed, the price, the cost efficiency of your system."
+    },
+    {
+      "id": "s0089",
+      "start": 1489.375,
+      "end": 1506.757,
+      "text": "Interesting. And then one thing that came up more recently and a lot later recently is harness engineering. What is harness engineering? So I made a post in like October, I think about, or maybe November of like, hey, there's this new thing that I see is like, I'm calling it harness engineering."
+    },
+    {
+      "id": "s0090",
+      "start": 1506.807,
+      "end": 1524.52,
+      "text": "My definition that I had at the time is not what actually this guy Viv, who's at Langchain now, does a lot of really good writing on agents and how to think about harness. And he had written something called harness engineering, like A couple weeks before me, but I hadn't read it at that point. And my take was basically like, okay, when you build an agent, you or use Context Engineering."
+    },
+    {
+      "id": "s0091",
+      "start": 1524.52,
+      "end": 1543.355,
+      "text": "Engineering. When you use an agent, because we gave this talk in August of 2025 about like how. How to apply context engineering to how you use coding agents. And that kind of evolved into this idea of like, How do you take a Farnace. Like CloudCode, like Codex? How do you engineer against the integration points of that harness?"
+    },
+    {
+      "id": "s0092",
+      "start": 1543.405,
+      "end": 1558.65,
+      "text": "So commands, MCU. MCPs, skills, how you organize your code base? How do you kind of optimize the environment that the coding agent runs in One, two. To get the best results? The same way with context engineer, how do you optimize the inputs to every single prompt? Well, harness engineering just is like,"
+    },
+    {
+      "id": "s0093",
+      "start": 1558.67,
+      "end": 1574.123,
+      "text": "how do I raise the floor so that every single turn of this thing, the results are as good as possible? And the term got super blurry. And some people think harness engineering means building a harness. And some people think harness engineering means building around a harness. I actually like what Martin Fowler came up with."
+    },
+    {
+      "id": "s0094",
+      "start": 1574.173,
+      "end": 1589.349,
+      "text": "As usual, he's very good at naming things. And he kind of defined the you have the LLM And then you have the inner heart. Harness, which is like the thing that the tool definitions and the integration points that like, say, like a cloud code or a codex or AMP actually exposes. That's your inner harness."
+    },
+    {
+      "id": "s0095",
+      "start": 1589.399,
+      "end": 1605.612,
+      "text": "And then you have the outer harness, which is the stuff that you, the human, do to customize that for your specific needs, your code base, your languages, etc. That's the best definition I think we have for harness engineering. It's interesting how naming I think it's still. so important. Important, isn't it? Well, it's like as soon as you name anything,"
+    },
+    {
+      "id": "s0096",
+      "start": 1605.652,
+      "end": 1623.9,
+      "text": "people or most people, I'm actually surprised that context engineering still means the same thing to most people that it did a year ago, and that it's even still relevant. Like, that's honestly the The craziest thing to me is like you wrote how many things are written about AI 15 months ago still matter or still interesting or Or are still like..."
+    },
+    {
+      "id": "s0097",
+      "start": 1623.9,
+      "end": 1640.048,
+      "text": "have good advice baked into them. Stuff changes a lot. I think context engineering has been So long live. Lived because it's it's grounded in the fundamentals of how transformer attention works. And until we have post transformer models or linear attention or whatever it is,"
+    },
+    {
+      "id": "s0098",
+      "start": 1640.068,
+      "end": 1655.429,
+      "text": "which who knows when that's going to happen. Context engineering will be interesting and important to anyone building on AI. Can we talk about the physics of context? You had a tweet, And this... this one, the context reality check."
+    },
+    {
+      "id": "s0099",
+      "start": 1655.589,
+      "end": 1673.32,
+      "text": "This is a graph of... As you get to one million. Million context, just the quality just drops. It goes down. What do we need to know about the consequences? Because again, we now have models that do have a 1 million context window. Maybe we'll have even longer ones. But when you start to just put in more stuff into the context,"
+    },
+    {
+      "id": "s0100",
+      "start": 1673.37,
+      "end": 1689.62,
+      "text": "it starts to become less efficient. Like, what do we know so far in terms of from the practical perspective of like someone who is using the context window to add on a bunch of stuff made at the end? May that be MCP? May that be tools? May that be skills? May that be all of these things? Yeah, I mean, so the longer context windows Customers are good, you can."
+    },
+    {
+      "id": "s0101",
+      "start": 1689.62,
+      "end": 1705.02,
+      "text": "Can talk to it for longer. Like, they're doing a good job. But at the end of the day, like, especially when you had, like, Opus... It was, like, Opus 4 .5 and then Opus 4 .5, Opus 4.51 mil or 4.6 and 4.61 mil. You're not actually getting a, like... Smarter model."
+    },
+    {
+      "id": "s0102",
+      "start": 1705.02,
+      "end": 1737.612,
+      "text": "Like the intelligence of the model is what drives its ability to attend To all of the tokens in the context window To figure out on the next turn Which parts of this 100k or 200k context window Are the most relevant to making the decision I don't know. Instructions before it starts to drop off."
+    },
+    {
+      "id": "s0103",
+      "start": 1737.632,
+      "end": 1755.46,
+      "text": "Their ability to follow all the instructions just like drops off pretty quickly. And I think Lori Voss at Arise, I haven't actually looked at the data, but they did a study with like the next generation models a year later. And it looks like it's like much better the number of instructions you can get in. But in any case you have like, I split context engineering into like two categories."
+    },
+    {
+      "id": "s0104",
+      "start": 1755.46,
+      "end": 1771.763,
+      "text": "you have like the most people think about like the information budget of okay I can do rag and I can pull out chunks of this document Rather than putting the entire book into my context window, I can just go grab the pages that matter. But it's also your instruction budget is like if you give"
+    },
+    {
+      "id": "s0105",
+      "start": 1771.803,
+      "end": 1788.82,
+      "text": "the model too many instructions and especially too many conflicting instructions, and that's in your initial prompt and also like. If you have a conversation and you start going down a path, and then you change your mind and you're like, actually I don't want to do any of that. I want to this. It's a lot of computation the model has to do to notice that it has to ignore"
+    },
+    {
+      "id": "s0106",
+      "start": 1788.82,
+      "end": 1804.842,
+      "text": "that whole thing And when both of those things are kind of far back enough in the context window that they're only half getting attended to Your likelihood that it's actually going to remember the exact instructions you gave at 100 ,000 tokens ago goes down quite significantly This is all very interesting"
+    },
+    {
+      "id": "s0107",
+      "start": 1804.882,
+      "end": 1821.92,
+      "text": "because as engineers, we are expected when You know, when we're AI and engineers, which now a lot of software engineers are, meaning you just use LLMs to to build software like software. Underneath, there's an LLM layer somewhere. You're an AI engineer, congratulations. But it sounds like the expectation is To be a good, to be."
+    },
+    {
+      "id": "s0108",
+      "start": 1821.92,
+      "end": 1838.808,
+      "text": "Good software engineer pre-AI, you need to understand how to write good code. And it helps when you understand a little bit of the underlying. We didn't need to do that that much over time, but it never hurts. It sounds like right now we're in this phase that to be an engineer who can write"
+    },
+    {
+      "id": "s0109",
+      "start": 1838.868,
+      "end": 1856.634,
+      "text": "an efficient AI system that use LLMs, you need to understand the dynamics of the content. Context. You need to understand why Stuffing your concept. Context one way or the other can Maybe compute can introduce latents. Latency. And all of these, it sounds like it's kind of More of an intuition."
+    },
+    {
+      "id": "s0110",
+      "start": 1856.699,
+      "end": 1876.101,
+      "text": "And of course, there's some understanding, but from talking to you, you're like, well, it does this competition. Computation. You know because you've tried it out, right? I'm not a PhD in machine learning. I couldn't actually go draw a mathematical proof of how this works, but we know attention is quadratic. And the more stuff you put in, the more it has to spread this attention out over everything."
+    },
+    {
+      "id": "s0111",
+      "start": 1876.174,
+      "end": 1892.511,
+      "text": "This just feels like an Absolutely new area. Area and a little bit very different to what we're used to software engineering, which is pretty kind of black and white, right? It compiles or doesn't compile. That's true. I mean, there's a different kind of intuition. I was talking about this earlier as well. I was like, there's a different kind of intuition that you develop over years as"
+    },
+    {
+      "id": "s0112",
+      "start": 1892.561,
+      "end": 1907.579,
+      "text": "a software engineer. And, uh... there's many categories of it. But the one I'll call attention to that is like a thing that you cannot teach, you cannot learn in a textbook. The only way to learn it is like, I know bad pa - bad patterns in software because I have debugged them at three in the morning."
+    },
+    {
+      "id": "s0113",
+      "start": 1907.629,
+      "end": 1925.53,
+      "text": "This is my buddy Jake from Netflix said this in his talk at AI Engineer Code. It's just like, There's no better way to learn what is good and what is bad and what works and what doesn't than And suffering through the... the thing that doesn't work. Well, speaking of suffering through the things that doesn't work, a new paradigm that is spreading Spartacus is a loop."
+    },
+    {
+      "id": "s0114",
+      "start": 1925.53,
+      "end": 1941.822,
+      "text": "Loops. Loop engineering, the idea that instead of writing prompts, just write loops, set up your loops. And this all started with the Ralph Wiggum technique where it will just, well, I guess that's an early version of loops that were just loops around. And now we're hearing what some of the biggest labs are."
+    },
+    {
+      "id": "s0115",
+      "start": 1941.872,
+      "end": 1959.382,
+      "text": "Talking about that, they're actually just doing loop venturing. What is your take on, have you done some loop venturing yourself? Have you set up some loops? And what do you think is good about it? And what do you think is bad about it? Yeah. So I think of loops as, I mean, this could, I could ramble on this for 10 minutes."
+    },
+    {
+      "id": "s0116",
+      "start": 1959.402,
+      "end": 1974.514,
+      "text": "This is an entire talk, but I'll try to, I'll try to Lay out some highlights. Level stuff and then we can dig in wherever you think is most interesting. We had Ralph Wiggum. It was actually A year and four days ago was the first time I I saw the Ralph Wiggins. Wiggum demo and like Jeff Hundley was just like visiting SF and he just like came"
+    },
+    {
+      "id": "s0117",
+      "start": 1974.554,
+      "end": 1990.733,
+      "text": "through and like dropped everybody's jaws with his like yeah I just ran Sonnet around the clock and spent six grand in six weeks and like I built an entire Gen Z programming language and look at it compiles and it has a stage two compiler where the compiler for the language is written in the language itself and all that."
+    },
+    {
+      "id": "s0118",
+      "start": 1990.783,
+      "end": 2009.79,
+      "text": "Insane. And the core lesson from all of that, I think, was the idea of back pressure, which is basically, and I think a lot of people were doing this for a very, have been doing this for a long time, which is how do I let the model check its own work? How do I automate the process of getting feedback into the model?"
+    },
+    {
+      "id": "s0119",
+      "start": 2009.967,
+      "end": 2026.151,
+      "text": "And there's lots and lots of different flavors of this. You can have deterministic linters. You can have unit tests. Like part of what made the programming language easy to build with Ralph is a programming language can be infinitely verified. You write the code in the language. You compile it. If the compiler fails, you go fix the compiler."
+    },
+    {
+      "id": "s0120",
+      "start": 2026.201,
+      "end": 2042.31,
+      "text": "You run the program. If the program fails, you go fix the compiler. Like it's like It's very, very verifiable. And I think the lesson in loops engineering is like, if you can make a problem very verifiable, you can kind of like treat it like a black box."
+    },
+    {
+      "id": "s0121",
+      "start": 2043.371,
+      "end": 2059.303,
+      "text": "And then have it loop because it will keep improving itself because of the verification loop is already there. Exactly. And so like, you can do this with CICD is like, I do this every time I do a release. I'm like, I'm tired. The CICD is slow. Cool. Go research the code base, make a change, make a pull request, run the test, see if it's faster."
+    },
+    {
+      "id": "s0122",
+      "start": 2059.353,
+      "end": 2075.814,
+      "text": "Try again, run the test, push to the branch, check again. And so it's like if it can verify its own work in a loop, instead of saying, let's try this approach or let's try that approach and being really back and forth, you just say like, my goal is to make CI faster."
+    },
+    {
+      "id": "s0123",
+      "start": 2076.109,
+      "end": 2091.97,
+      "text": "And you tell the model, here's the steps. Here's the five steps. You're going to write some code. You're going to commit it. You're going to push it. You're going to launch a subagent to watch the job until it's finished. It's going to tell you what happened. Then you're going to decide what to do next. And so that's like the very simplest example I have of like, Designing loops."
+    },
+    {
+      "id": "s0124",
+      "start": 2092.06,
+      "end": 2108.005,
+      "text": "And And you just said the... the goal, which is It's Claude Coulton. Code, and I think codecs have both chip slash goal, which is you just set the goal and it iterates until it reaches it or as long as it makes progress towards it. Exactly. And so it's like, if it's verifiable, if you can measure, this is auto research too."
+    },
+    {
+      "id": "s0125",
+      "start": 2108.055,
+      "end": 2123.28,
+      "text": "Auto research is like, hey, go make this model twice as fast. And like, it's just a prompt that tells the model, like, go to it over and over again and try things until it actually has good results. So that's what I think of loops engineering. I don't know. We do a very interesting kind of loops engineering where like, The challenge is like,"
+    },
+    {
+      "id": "s0126",
+      "start": 2123.4,
+      "end": 2138.48,
+      "text": "I think it's very easy to get very excited about building the thing that builds the thing or building a thing that builds the thing we talked about. And so people say, oh, we need to like redo everything as this big, Like, a gentic... agentic first. Factory, maybe even a dark."
+    },
+    {
+      "id": "s0127",
+      "start": 2138.48,
+      "end": 2153.51,
+      "text": "Dark factory. And they're like redesigning their entire thing to be their infrastructure for the next five years. And I'm sure one thing we know of in engineering And especially practice. Especially pragmatic engineering is uh how how can you make this more incremental? How can you make it more continuous? And a lot of people don't have to do that."
+    },
+    {
+      "id": "s0128",
+      "start": 2153.529,
+      "end": 2171.448,
+      "text": "Have the option to just, hey, I ran a Ralph loop for three days and it fixed every linter error in our code base. Here's a 60,000... 60,000 line PR. Who wants to review it and who wants to sign off on merging and deploying it and that there's not going to be any bugs? Nobody. So I think the thing I'm most excited is actually like what we call like iterated loops"
+    },
+    {
+      "id": "s0129",
+      "start": 2171.488,
+      "end": 2187.36,
+      "text": "or like slow loops where we basically have a cron job. We have the loop. The structure of the loop is really easy. It's like run this linter, fix one thing, commit and push. And then we run that every night in our GitHub actions. And we wake up every morning to one PR that makes the code base a little bit better."
+    },
+    {
+      "id": "s0130",
+      "start": 2187.36,
+      "end": 2202.518,
+      "text": "Mmm, I like the stuff. Slow loops. Yeah. And it has two dimensions. So you can add, now we have a blueprint for it. And actually Kyle just shipped a skill so that you can build these yourself. You can add more Like, feedback mechanism. Mechanisms. So we have React Doctor for the front end. We have another anti-pattern."
+    },
+    {
+      "id": "s0131",
+      "start": 2202.568,
+      "end": 2221.048,
+      "text": "And that has no deterministic tooling. But Kyle's just like, here's what good looks like. Here's what bad looks like. Go fix one thing and bring it back. It was like prop narrowing, basically. We have a bunch of optional props and most of them don't need to be optional. It's like, here's how to make the prop not optional so that you know that the code just is like cleaner and easier to reason about. And so you can add more conditions, more things of like fix one thing."
+    },
+    {
+      "id": "s0132",
+      "start": 2221.068,
+      "end": 2238.188,
+      "text": "I want to wake up to a PR. So now we wake up to like four PRs because there's four separate things. And then the other dimension you can do here is as you gain confidence, you can increase the scope. Instead of fixing one thing, fix four things. And so these are like other ways to think about loops where it's like something that's not a human triggers it to start,"
+    },
+    {
+      "id": "s0133",
+      "start": 2238.208,
+      "end": 2254.86,
+      "text": "whether it's You know, an alert from Sentry. Whether it's a user feedback support ticket. User Feedback. Whether it is PM writes a ticket. Whether it has test is failing or it runs on a schedule. But the trigger should be something that you don't have to press a button on"
+    },
+    {
+      "id": "s0134",
+      "start": 2254.86,
+      "end": 2270.799,
+      "text": "and there's defined workflow and it makes everything a little bit better. That just describes letting agents fix things without a human pressing a button. But what if a bug is too difficult, not just for an agent, but also for a human to reproduce, let alone fix? This is where presenting sponsor Antithesis comes in."
+    },
+    {
+      "id": "s0135",
+      "start": 2270.849,
+      "end": 2286.08,
+      "text": "I was recently pairing with the Antithesis team, where we did a walkthrough of how they helped fix a nasty bug in etcd, the open source key value store used by Kubernetes. This is a bug that actually happened in etcd. The team noticed that the linearization validation assertion failed during the regular Antithesis runs."
+    },
+    {
+      "id": "s0136",
+      "start": 2286.13,
+      "end": 2304.0,
+      "text": "This is not good because the linearization guarantees strong consistency, so this needs to be fixed. So what the etcd team did was run a casualty analysis inside Antithesis. This generates this graph, which is a bug probability graph. Here the x-axis is virtual time And the y -axis is"
+    },
+    {
+      "id": "s0137",
+      "start": 2304.0,
+      "end": 2319.49,
+      "text": "Y-axis is probability. Now we see that something happened just before virtual time 24 that caused a huge jump in the probability that the bug would occur. Going deeper, we can look at the entire set of timelines. Vertical lines going down represent events branching off from the same state."
+    },
+    {
+      "id": "s0138",
+      "start": 2319.54,
+      "end": 2334.747,
+      "text": "And the purple also dots are where the bug happens. If we look closely enough, we see that all of the failures come from one parent branch. Gotcha. This is such a useful debugging tool. In the end, a team was able to figure out that process pauses were causing the bug using all these Antisys debugging tools."
+    },
+    {
+      "id": "s0139",
+      "start": 2334.84,
+      "end": 2350.14,
+      "text": "This non-deterministic bug was diagnosed in a deterministic way! How cool is that? Oh and this an actual bug then got fixed in etcd. You can see the bug and fix on etcd's github repo. Honestly, the tools that Antisysis built for debugging feel pretty darn futuristic"
+    },
+    {
+      "id": "s0140",
+      "start": 2350.14,
+      "end": 2366.338,
+      "text": "but they are also really powerful. Head over to antisis .com slash pragmatic to learn more I'd like to talk about our season Sponsor Sentry. Sentry is a tool I use for application monitoring on all of my projects, including their pragmatic engine backend. I've used it for 10 years now, starting with when I worked at Uber."
+    },
+    {
+      "id": "s0141",
+      "start": 2366.388,
+      "end": 2384.665,
+      "text": "A neat Sentry feature I'm liking is their Sear AI agent, which helps investigate production errors. For example, here's an actual error I had in my application. I can just ask Sear what might be the root cause, and it brings context, and it can also make a plan to fix it right from the web interface. And the nice thing is how Sear also works great from Slack as well, not just from the web."
+    },
+    {
+      "id": "s0142",
+      "start": 2384.715,
+      "end": 2400.893,
+      "text": "One place I find even more handy to use Sentry is from codex or clock code using Sentry MCP. Also, you can set up neat automations like when a resolve Sentry issue resurfaces, you can kick off a cursor agent or GitHub Copilot agent to investigate the regression, Read their relevant code. Code, and open a PR with a suggested fix."
+    },
+    {
+      "id": "s0143",
+      "start": 2400.943,
+      "end": 2418.252,
+      "text": "I'm not a fan for using AI tools just for the sake of it, but I really like the practical integrations where I can fix errors faster and with more context. Check out Sentry at sentry.io slash pragmatic and start monitoring and fixing regressions today. And with this, let's get back to Dex and to agentic loops that trigger themselves."
+    },
+    {
+      "id": "s0144",
+      "start": 2418.302,
+      "end": 2433.34,
+      "text": "Now, you said we can get more ambitious and we can add more things to it, but I'm going to quote you with one of your tweets, which says, this may surprise you that this is coming from me, but I think we're in for a one to three year period where stuff might break at 3am"
+    },
+    {
+      "id": "s0145",
+      "start": 2433.39,
+      "end": 2450.277,
+      "text": "and you're relying on loops to fix it and nobody understands what's under the hood and you're looking at it Ex -extension. Existential threat to your company. Yes. Yeah, that one was great. That one did a lot of numbers. Uh. It resonated. Here's the other side of it is like, I think that the today with today's models,"
+    },
+    {
+      "id": "s0146",
+      "start": 2450.337,
+      "end": 2465.934,
+      "text": "today's programming languages, today's infrastructure, You m - You might get a away with not reading the code. Problem with loops is like at a certain point, you're going to generate so much code that you can't read it anymore. This is The Strong BM. StrongDM Dark Factory. This is like Ryan LaPopolo's like Harness Engineering."
+    },
+    {
+      "id": "s0147",
+      "start": 2465.974,
+      "end": 2483.88,
+      "text": "Just spend as many tokens as possible. We tried this. We built a Lightsoft software factory in July of 2020. 2025. And by November, we had shut it down. I think it takes about three to six months of you shipping all the time with nobody reading the code before you realize like, wow, this is getting way worse and it's easier to start over than it is to fix it."
+    },
+    {
+      "id": "s0148",
+      "start": 2483.93,
+      "end": 2508.248,
+      "text": "Like the models have made the code base so bad that it is actually going to be easier to just rethink this from scratch. Maybe that's OK because we have AI and it'S easier to rebuild things from nothing. And usually when engineers"
+    },
+    {
+      "id": "s0149",
+      "start": 2510.328,
+      "end": 2526.221,
+      "text": "say like, oh, we can't fix this, we have"
+    },
+    {
+      "id": "s0150",
+      "start": 2549.393,
+      "end": 2566.867,
+      "text": "To get models to write code that is more maintainable over time versus They're all trained on sweepers. Sweebench and Sweebench looking things, right? All of the benchmarks are basically like, here's a commit in Django. Here's an issue that was filed around that time. See if you can create the fix that the human created."
+    },
+    {
+      "id": "s0151",
+      "start": 2566.917,
+      "end": 2582.843,
+      "text": "And it's Django and it's Apache and there's 100 repos in Go and C++ and TypeScript and Java and all these different languages. But they're It's all, it's like the. The problem with training models on maintainability is like, The cost function of bad architecture and bad program design can't be evaluated"
+    },
+    {
+      "id": "s0152",
+      "start": 2582.863,
+      "end": 2598.307,
+      "text": "by running the unit test because it hits you three to six months later when you're like, holy crap, the The software has become smart. So hard to change. Is this not similar to how... Senior software engineers, Here's why it took took years for someone to become a senior, because typically,"
+    },
+    {
+      "id": "s0153",
+      "start": 2598.607,
+      "end": 2613.97,
+      "text": "and in some environments, you can become a senior faster, typically fast moving, where there's a bunch of issues and you have to keep fixing it. Sometimes, you know, some people are working in the same place for 10 years and they're still not that level. The point was, it just takes time for you to understand the The small mistake that you made."
+    },
+    {
+      "id": "s0154",
+      "start": 2613.97,
+      "end": 2629.592,
+      "text": "You make right now that snowballs into like something disastrous later. And You get hit by it and you realize like, okay, things like, you know, like testing matters, architecture matters, tech debt can actually be a killer. You know, we don't talk about it anymore, but we used to talk about how tech debt kills or slows down companies"
+    },
+    {
+      "id": "s0155",
+      "start": 2629.642,
+      "end": 2645.643,
+      "text": "so badly Pre -AI pre-AI that their competitors can overtake them or they're just like stuck with a two-year refactor not shipping any new features and the competition, you know, ships a bunch of other stuff and now they're ahead. And I will say like, It is possible that GPT-7 will fix this."
+    },
+    {
+      "id": "s0156",
+      "start": 2646.224,
+      "end": 2661.465,
+      "text": "But if you are turning the lights off in your software factory and you're saying like, hey, you know what? Like, we're not going to read the code. It's fine. The models are smart enough. If we give it the right feedback and just throw enough tokens at the problem, it will keep getting better. This is what led to this tweet. Like, That might work,"
+    },
+    {
+      "id": "s0157",
+      "start": 2661.826,
+      "end": 2677.751,
+      "text": "but if nobody read the code in three months and you replace all of your I love your, like, code review with Luke. Loops of like, hey, if a user complains, we give it to an agent. If something crashes, we give it to an agent. If a PM writes a ticket, we give it to an agent. If a CEO writes an obnoxious essay about what we should be building in Slack, we give it to an agent."
+    },
+    {
+      "id": "s0158",
+      "start": 2678.669,
+      "end": 2693.882,
+      "text": "And then you stop reading the code because that's going to produce way too much. Like no one can read it. And like the PR reviews become the bottleneck. So you replace that with agentic testing and agentic Agenda code review. Review. But none of these things have intuition for software architecture because we haven't trained it in yet."
+    },
+    {
+      "id": "s0159",
+      "start": 2693.932,
+      "end": 2709.009,
+      "text": "And so you're going to wake up one day and you're going to have an issue with this happened to us. And like, we got through it. And at the time, it was still worth it. It was like, spent three weeks onboarding back into the code base that we had stopped reading three months ago, because no matter how much sophisticated expert prompting, we could not get Opus."
+    },
+    {
+      "id": "s0160",
+      "start": 2709.009,
+      "end": 2724.8,
+      "text": "I think it was Opus 4 .1 At the time, we could not get Opus 4 .1 to actually find the root cause. We had to go spend several days digging through the code and figuring out like, oh, there's just actually a primary key that's being routed through this whole thing that needs to be changed to a different type of object than it needs its own table. Oh, so this actually happened to you?"
+    },
+    {
+      "id": "s0161",
+      "start": 2724.85,
+      "end": 2742.055,
+      "text": "This happened to us, yeah. And when it happened, I was like, you know what? That sucked. That was terrible. But we did it. We solved it. And And it's still worth it. Still worth not reading the code for most of the time at the cost of every once in a while, I'm going to have to spend two weeks fixing an issue by hand. And I don't believe that anymore because I think the amount of code we're able"
+    },
+    {
+      "id": "s0162",
+      "start": 2742.075,
+      "end": 2757.439,
+      "text": "to write now is actually like 10x or 100x. And I think the problem is just getting worse. So let's talk about software factories. Yeah. In your mind, because I feel it's an overloaded word, but What do you think of it? Of a software factory before AI and now post AI?"
+    },
+    {
+      "id": "s0163",
+      "start": 2757.599,
+      "end": 2773.105,
+      "text": "Do you know the first definition of software factory the first time it was used? No. It was a NATO conference in 1968. Oh, great. Grady, which would know about this. Yeah, exactly. Yeah, great. You should ask Grady about it. They talked about the idea of like, OK, you actually need to build a system of steps and like just like a factory floor."
+    },
+    {
+      "id": "s0164",
+      "start": 2773.125,
+      "end": 2789.609,
+      "text": "You have like the coding part and the testing part and the validation part and the integration part. We had no system. CICD. We barely had version control, Like, but you needed a factory. Factory. And then it was adopted by They like Toshiba. Toshiba and a bunch of companies. And then And the next moment was like, was DevOps."
+    },
+    {
+      "id": "s0165",
+      "start": 2789.649,
+      "end": 2805.15,
+      "text": "And you have this idea of, OK, we're going to do CICD. We're going to automate. We're going to use Chef. Ansible, Puppet, whatever. All these technologies is like, instead of having dudes running around data centers, like resizing disks and stuff, or clicking around the AWS console. Yeah, exactly. It was like, cool, we build loops."
+    },
+    {
+      "id": "s0166",
+      "start": 2805.55,
+      "end": 2822.366,
+      "text": "The server hits 90% disk space. That sends an alert to Nagios. Nagios triggers a Chef run. Chef makes The Disc Bigger. Bigger. Feedback loops, right? This has been around for a while. And in 2018, I want to say this guy, Nick Chalain, who was he was like the CTO or chief software officer of the Air Force."
+    },
+    {
+      "id": "s0167",
+      "start": 2822.387,
+      "end": 2837.4,
+      "text": "He wrote this 100 page essay of, hey, the DOD needs a support. The Department of Defense Yeah, the Department of Defense. And the Air Force, and he called it DevSecOps Factory. And he said we need all the things that all of the good enterprises are using."
+    },
+    {
+      "id": "s0168",
+      "start": 2837.45,
+      "end": 2853.999,
+      "text": "We need Jenkins, we need code quality scanning, we We need security scanning. We need CICD. We're shipping once every three months or once a year. We need to be able to ship every day like all these other companies. And the way we do that is we actually embrace all these automations and technologies"
+    },
+    {
+      "id": "s0169",
+      "start": 2854.039,
+      "end": 2869.834,
+      "text": "so that 90% of the issues are caught by automations instead of people actually manually checking it or manually reading the code or manually integrating modules together. Wow. Talk about forwards. Forward thinking in the government. I know. No, as I was surprised, like, oh, nice."
+    },
+    {
+      "id": "s0170",
+      "start": 2869.884,
+      "end": 2885.253,
+      "text": "Like, this is, I mean, and that was part of it is like, hey, look, we're falling behind in like, you know, I don't know exactly all the reason, but I I imagine also about like a. attracting really good talent is like, hey, look, if we have like the modern software stack and we're building things fast and we care about efficiency and we care about people using people's time well,"
+    },
+    {
+      "id": "s0171",
+      "start": 2885.273,
+      "end": 2903.22,
+      "text": "we care about them spending time on the hard parts of the job, not Manually looking for SQL injections, like you could automate that. So this was Software Factory's pre-AI. Pre-AI. Now, So I've heard the term. Term a lot more because of AI. Yeah. Is it the same? Is it different? So this is really hard to say without a drawing, but I'll try to draw it out."
+    },
+    {
+      "id": "s0172",
+      "start": 2903.27,
+      "end": 2919.193,
+      "text": "At the core of a software factory, you have like a source of work. You can imagine a linear, a JIRA, The state's source of truth. Truth, object, whether it's a spreadsheet or. Or whatever. You have like, What stages is The work in? Yep. And pre -AI you you would You know, you would maybe do some architecture. Architecture review planning,"
+    },
+    {
+      "id": "s0173",
+      "start": 2919.243,
+      "end": 2934.934,
+      "text": "you would maybe do some sprint planning, and then people would take tickets off the queue, and they would go build them. And then you would make a pull request, and people would review it, and you would run CI checks, And then you would send it to practice. Prod. And then it would make contact with your users and your users would complain about stuff and that would go to your support team and back into your work tracker."
+    },
+    {
+      "id": "s0174",
+      "start": 2934.984,
+      "end": 2950.98,
+      "text": "And it would crash and you would have issues and that would go into your monitoring stack and that would go into your tracker. And that was your loop. And then people would take stuff off the tracker based on priorities, product managers, engineering managers, engineers, prioritizing work. And then we go and do that. And the first change. It's like this long,"
+    },
+    {
+      "id": "s0175",
+      "start": 2951.03,
+      "end": 2966.74,
+      "text": "lots of phase. And this is also why when a developer shifts a bug, but by the time it comes back to you, it might be two or three months or even longer. And by the day I get fixed, it might have been a year or two. This is why when you're using a piece of software, it's that annoying bug and you talk with customer support,"
+    },
+    {
+      "id": "s0176",
+      "start": 2966.79,
+      "end": 3001.023,
+      "text": "but it's just very long latencies at each part of the factory, if you will. Yeah. And the step where someone pulls a work item off the queue and starts working on it is You know, a couple of years. And now with an agentic factory,"
+    },
+    {
+      "id": "s0177",
+      "start": 3001.043,
+      "end": 3016.758,
+      "text": "what you do is you take out that person building the thing and you replace it with an agent building the thing. And so you have orchestration to trigger things. You have a sandbox, you have an LLM, you have an inner harness, you have an outer harness, which is like the dev environment you build for the agent. And maybe you give it a browser, you give it a video recorder."
+    },
+    {
+      "id": "s0178",
+      "start": 3016.778,
+      "end": 3031.862,
+      "text": "If you use like things like cursor background agents, they've kind of built this outer harness around the inner harness that is the coding agent. And then you make PRs with that. Problem there is that like, okay, now it takes 10 minutes to do a build instead of two hours or two days. And so now the bottleneck is code review."
+    },
+    {
+      "id": "s0179",
+      "start": 3031.912,
+      "end": 3047.412,
+      "text": "So, okay, let's throw a bunch of AI agents at code review and let's do agentic testing so that like we can basically catch a lot of the easy stuff and humans are only focused on the most like important critical core parts of the code base. And then the next level up of your agentic factory as you do the top is like,"
+    },
+    {
+      "id": "s0180",
+      "start": 3047.462,
+      "end": 3062.507,
+      "text": "okay, and then it gets deployed. It goes to prod. And a user complains, you just hook your support queue right up to the agent. Someone complains about something, agent tries to fix it. And instead of looking at a ticket and then saying, okay, you just close that loop. And instead, every time something goes wrong, you just get a PR."
+    },
+    {
+      "id": "s0181",
+      "start": 3062.557,
+      "end": 3080.453,
+      "text": "And then every time something crashes in Sentry or Datadog or whatever... It goes into the tracker, it gets picked up by an agent, and you get a PR. This is the ramp inspect thing. The only difference is then you have so much code to review and people say, well, let's try turning the lights off. Let's just take all the human testing and review steps out and we'll say, okay, cool."
+    },
+    {
+      "id": "s0182",
+      "start": 3080.503,
+      "end": 3096.85,
+      "text": "If users complain, then it's broken. And if users don't complain, then it's working. And we're not going to read the code. We're going to treat the whole system as a black box. So you said you tried this out When it was like Opus 4. 4.1. You built the software factory. It was running beautifully until it just blew up on your faces. How do you think of this model?"
+    },
+    {
+      "id": "s0183",
+      "start": 3096.87,
+      "end": 3111.94,
+      "text": "Because I can see how I do. Ideal world where it works, but clearly we're not in an ideal world. Where do you think we are? And could some of this actually work at some point? What progress are you seeing right now? And And what is the today?"
+    },
+    {
+      "id": "s0184",
+      "start": 3111.94,
+      "end": 3128.622,
+      "text": "Today the situation? How much of this do you believe we can automate or should we automate? Yep. So if you know me and you follow me on Twitter, I'll see you next time. Follow my stuff, you know I stand for three things. Number one is like cutting through the hype and the jargon and going trying things and talking to people who are using things and figuring out which parts of this actually work and are valuable."
+    },
+    {
+      "id": "s0185",
+      "start": 3128.672,
+      "end": 3143.75,
+      "text": "Number two, we talked about words. I try to find and protect useful bits of language because I think it helps us all move forward. And when you take a useful word like like agents or you take a useful world like software factory factory and then you semantically diffuse it, this is another Martin Fowler word."
+    },
+    {
+      "id": "s0186",
+      "start": 3143.8,
+      "end": 3159.72,
+      "text": "You make it mean everybody likes the word and it all becomes hype and everyone starts... Agents means nothing anymore. Agents could be a chatbot, it could be A Slack bot, it Could Be A Coding Agent, It Could Be Tools In A Loop, whatever it is. So I like to protect important useful words and help us all elevate"
+    },
+    {
+      "id": "s0187",
+      "start": 3159.72,
+      "end": 3175.576,
+      "text": "the conversation out of that hype and jargon. And then I care a lot about going one level down beneath where I'm generally working. I think there's always, airing it's like I was rarely actually going and like building LLMs or understanding or training LLMs,"
+    },
+    {
+      "id": "s0188",
+      "start": 3175.626,
+      "end": 3193.199,
+      "text": "but knowing how they're trained and how Transformers works informs how you build at one layer up. And for the software factory, my version of that is I spent the last couple weeks going really deep on, uh, reinforcement. Reinforcement learning with verifiable rewards, RLVR, which is like this very productionized, like,"
+    },
+    {
+      "id": "s0189",
+      "start": 3193.299,
+      "end": 3208.743,
+      "text": "it's not like RLH, RLHF is still like fairly academic and pure, RLVR is this like It's a machine in these labs of how we train these models. And I'm studying like the benchmarks for coding agents and the techniques for training them and how we like give it a small problem,"
+    },
+    {
+      "id": "s0190",
+      "start": 3208.793,
+      "end": 3225.142,
+      "text": "have it solve it, delete the test changes it made, revert them, apply a test patch, see if it passed. And then even the Frontier this year, we have like, we can get into this later, but like Frontier Code and SWE Marathon, these new benchmarks that are supposed to be like better at evaluating models ability to maintain a code base over time"
+    },
+    {
+      "id": "s0191",
+      "start": 3225.202,
+      "end": 3241.739,
+      "text": "and write maintainable code. And they are better, but I don't think they're sufficient. But it's basically this idea that like the only thing that made cloud code good was reinforcement learning. And the dimension along which it got good was like we made a model, we trained the model and the harness together."
+    },
+    {
+      "id": "s0192",
+      "start": 3241.789,
+      "end": 3257.802,
+      "text": "And so the model got really good at calling the specific tools in that harness, really good at reading files, writing files, searching for files, all this stuff through doing these problems. And that was what made it feel so much better than all the other CLI coding agents that came before it. And so people are like, OK, that was so much better."
+    },
+    {
+      "id": "s0193",
+      "start": 3257.822,
+      "end": 3277.214,
+      "text": "And they're just going to keep getting better. But it's like it got really good in one dimension and the dimension that they're not getting better in because it's hard, expensive. Maybe we need to get a lot more creative with how we design these verifiers and benches. Benchmarks is in how do I make code that in three months is going to improve"
+    },
+    {
+      "id": "s0194",
+      "start": 3277.234,
+      "end": 3292.6,
+      "text": "the productivity of humans and agents, mostly agents, but humans and agents in the code base instead of making it worse over time. And so you think that part is just missing? We haven't seen too much improvement? I haven't seen... Obviously, no one knows what the labs are doing internally because it's all very secret. But I think if we..."
+    },
+    {
+      "id": "s0195",
+      "start": 3292.949,
+      "end": 3309.727,
+      "text": "Looking at where the benchmarks tend to reflect where the labs are, right? There is no benchmark that can And convey to me. Me... Did this model write code that is going to make my code base better or worse? The best we have is I think frontier code from the cognition team is really interesting."
+    },
+    {
+      "id": "s0196",
+      "start": 3309.777,
+      "end": 3325.19,
+      "text": "They have like, did the test pass and then they'd have like two layers of model review. So they have a judge model that checks, okay, is the patch the model made similar to the patch that is like the golden answer set? So even if the model didn't write the exact code that the benchmark was expecting..."
+    },
+    {
+      "id": "s0197",
+      "start": 3325.24,
+      "end": 3341.144,
+      "text": "Did, was it functionally? Functionally equivalent? And the next one is like a code quality review from another judge model. And that's better, but it's not sufficient. And this is why I also think agentic code review is like, yes, it will catch things and it will raise your floor."
+    },
+    {
+      "id": "s0198",
+      "start": 3341.194,
+      "end": 3358.363,
+      "text": "But I don't believe like the model writing the code is the same model reading the code. And if you ask a model, hey, is this code good? It's going to be like, oh, yeah, it's great. Comprehensive. It's got unit tests. You've tried this. I'm sure. And you say, OK, review this PR that my coworker wrote and tell me everything that's wrong with it. And I was like, oh, it has this problem and this problem and this is sycophantic."
+    },
+    {
+      "id": "s0199",
+      "start": 3358.383,
+      "end": 3373.419,
+      "text": "And they want to tell you what you want to hear. And so like it's really hard for me to trust a model to evaluate. The quality of code that's written. And so I have some ideas on like, okay, can you build a benchmark where the model builds 20 features in a row and maintains the code base the whole time?"
+    },
+    {
+      "id": "s0200",
+      "start": 3373.469,
+      "end": 3389.696,
+      "text": "And it doesn't know what features are coming. You treat it like a real product team where you don't know what you're going to build next week until you get there and you find out what's most important. And then can we try to evaluate like, can we build a problem like that that's hard enough that most frontier models fail by issue six or seven?"
+    },
+    {
+      "id": "s0201",
+      "start": 3389.806,
+      "end": 3405.75,
+      "text": "Is it fair to say that, you know, like we've had the software factory, like before AI, it was just like lots of loop. It was like the PM I'm giving a ticket to that. The dev, the dev building and deploying to production, Customers use it. Using it, customer support getting tickets and then,"
+    },
+    {
+      "id": "s0202",
+      "start": 3405.8,
+      "end": 3423.305,
+      "text": "you know, Creating PM triaging and it kind of goes around in this loop. Is it fair to say that the software factory of how a company, a team builds and maintains software that is changing because now everyone's replacing some parts of it, you know, maybe the least and Advanced teams will just be,"
+    },
+    {
+      "id": "s0203",
+      "start": 3423.446,
+      "end": 3439.757,
+      "text": "devs are starting to use cloud code or codex to write The faster they're not. Not spending as much time on there. Some others are also having the deployment, the feedback. Some actually have the agents already One -shotting. One-shotting bugs. So like, is it fair to say that? That the software is just changing everywhere,"
+    },
+    {
+      "id": "s0204",
+      "start": 3439.807,
+      "end": 3456.56,
+      "text": "maybe at different speeds, but everyone, I think every team who is building production software, they're frantically experimenting, Trying on everything. Everyone's at a different pace. You'll have the AI native startups where most of this will have agents in them, and you'll have the laggards who are Or more cautious."
+    },
+    {
+      "id": "s0205",
+      "start": 3456.56,
+      "end": 3474.96,
+      "text": "Cautious ones. They have agents in a few places, but not in the others. Well, and I think that's the key is like, if you want to do loops engineering, you should build one loop at a time and you should keep them small and contained. Basically, I think everything except stop reading the code is really good advice. Take support tickets and turn them into tickets in your system and And then maybe turn those."
+    },
+    {
+      "id": "s0206",
+      "start": 3474.96,
+      "end": 3490.981,
+      "text": "Those into PRs. Great. The advice that I have and like what we kind of like are chasing at human layer is like, how can I add another checkpoint in that factory? So instead of having one human viewpoint where you're reviewing PRs and sometimes there are a hundred lines and sometimes there are a thousand lines,"
+    },
+    {
+      "id": "s0207",
+      "start": 3491.031,
+      "end": 3507.03,
+      "text": "but it's quite a lot of effort for, especially if it's bad, especially if it needs a rework, it's quite a lot of effort for a human to be like, Okay, this is wrong. Go change it in this way. And then you loop back to the agent and then you come with another one and like doing a lot of loops on there. Once the direction has been committed to, it's really hard to steer off."
+    },
+    {
+      "id": "s0208",
+      "start": 3507.08,
+      "end": 3522.79,
+      "text": "Like you're better off just kind of restarting from scratch. How do you build like controls and mechanisms around that? And then my take is like, If you do a little bit of human agent planning And like this. And like discussion. Discussion before you hand it to the implementer, Whether it's, I mean... planning and specs."
+    },
+    {
+      "id": "s0209",
+      "start": 3522.79,
+      "end": 3540.289,
+      "text": "Specs, whatever you want to call it. Again, this is spec-driven development is another word that has become very muddled as far as what it means. But basically, how can we spend an hour... Before we start building so that the PR when we read it only takes 20 minutes because the code is perfect instead of not touching"
+    },
+    {
+      "id": "s0210",
+      "start": 3540.309,
+      "end": 3557.245,
+      "text": "and just literally saying every user reported issue becomes a PR through the loop. And then we read that PR and it takes six hours because it's back and forth. We have to make changes and things. It's all I'm all about like, let's find leverage. And so you basically you have three options. In the software factory world, if you're going to go all in on agentic software factories,"
+    },
+    {
+      "id": "s0211",
+      "start": 3557.295,
+      "end": 3573.259,
+      "text": "you can turn the lights off and just let everything flow and pray that you don't create too much slop and pray that the next generation of models comes fast enough before you create a giant pile of ash. You can slow way down and read every PR and read every line of code."
+    },
+    {
+      "id": "s0212",
+      "start": 3573.763,
+      "end": 3591.78,
+      "text": "And then you're only going to really get modest benefits from AI because that becomes, I think you should expect me. Maybe 30 to 50% lift in productivity is kind of what I see when we go into teams. Or you can find the right leverage points where humans can actually, an hour spent over here in planning Can save you f***ing."
+    },
+    {
+      "id": "s0213",
+      "start": 3592.08,
+      "end": 3607.212,
+      "text": "Four hours in implementation in terms of fixing and going back and getting the design right. And that's what I call like seeking leverage. You can find the right leverage points for the agents to guide the work. Then you can actually move like two to three times faster while maintaining"
+    },
+    {
+      "id": "s0214",
+      "start": 3607.252,
+      "end": 3622.328,
+      "text": "a like 99% 11 % like accuracy. Accuracy to like if the humans were carefully writing this code by hand, how would it come out? Now jumping a little bit back to ideas, I will come back to this. This was earlier, maybe it was last year, but you had the research plan implement."
+    },
+    {
+      "id": "s0215",
+      "start": 3622.378,
+      "end": 3637.832,
+      "text": "Can we talk about the original research plan implement framework and then also what you've learned about this approach, what you got wrong about it? Yeah, sure. Yeah. So, I mean, the first time we talked about RPI was in August of 2025. And it was basically like the research was this thing of like, hey,"
+    },
+    {
+      "id": "s0216",
+      "start": 3637.853,
+      "end": 3653.328,
+      "text": "before you go build anything, go read lots and lots of code, use a bunch of Sub -agents in parallel. Parallel, understand all It was this technique that worked really well for hard problems and complex code bases. You just ask Claude to do a thing that would read three files and make a change."
+    },
+    {
+      "id": "s0217",
+      "start": 3653.388,
+      "end": 3671.61,
+      "text": "It would have no context. So you start the research. You don't even tell it what you're working on. You just tell it, hey, can you tell me how this system works and this system and how they connect together? And then you get a markdown doc out. And this is the context engineering part is like that would take 100,000 tokens of context, but you would get a 10K token doc out of it that summarized it."
+    },
+    {
+      "id": "s0218",
+      "start": 3671.66,
+      "end": 3687.466,
+      "text": "Then you would start a new context window and you would do planning. And the planning would be, and I actually realized like the plans that we were building last summer were actually terrible, but it would basically be this long, you would say, okay, now here's what we're building. Here's the research doc, build a plan to implement it. And in retrospect,"
+    },
+    {
+      "id": "s0219",
+      "start": 3687.546,
+      "end": 3704.15,
+      "text": "now that we see like everyone is obsessed with how do I get agents to work for longer? I think the reason why in like May, June, July, August of 2021, That a lot of people became really interested in planning was it was a very powerful lever to get agents to work for longer."
+    },
+    {
+      "id": "s0220",
+      "start": 3704.43,
+      "end": 3719.846,
+      "text": "If you said build me a B2B SaaS for burrito delivery, you'd get like a home page. And that's it. But if you said, build me a plan, it would build out this big plan. And then in the next context window, you'd say, hey, here's the plan. Here's all the changes we're going to make. Go implement. It would actually keep going until the plan was done."
+    },
+    {
+      "id": "s0221",
+      "start": 3719.896,
+      "end": 3735.674,
+      "text": "So the plan was a really good way to anchor an agent and remind it that like, hey, you're not done until this is all finished. So that was the original RPI. And the plan doc, what was bad about it is it didn't give you leverage. The plan was every single line of code that was going to change, like in diff blocks and like all the new stuff to write."
+    },
+    {
+      "id": "s0222",
+      "start": 3736.145,
+      "end": 3751.408,
+      "text": "And so like people would review these plans. We recommended this. We told people to read the plans. We read all our plans. And then eventually I found myself like, I just kind of skimmed the plans. And so you're not really using it as a way to re-steer the agent. It's just kind of there. And then you go write the code and there's a crap."
+    },
+    {
+      "id": "s0223",
+      "start": 3751.458,
+      "end": 3768.782,
+      "text": "Some people would review the plans and the code. And it's like, okay, well, the plan took you 20 minutes to read. And then the pull request takes you 20 minutes to read. And they're different. And so you actually doubled the amount of time you're spending reading code instead of like doing less of it. You've been anti-leverage. And hang on, was spec different development not related to this?"
+    },
+    {
+      "id": "s0224",
+      "start": 3769.002,
+      "end": 3784.292,
+      "text": "The one that Amazon Kiro, for example, and GitHub Workflows again a year ago did, which was Because it also, at first... first generated a plan and it had the human review it and then it started to and you could edit it as well. And then it went off and implement this part and it looked beautifully on the surface."
+    },
+    {
+      "id": "s0225",
+      "start": 3784.312,
+      "end": 3799.807,
+      "text": "It should have worked great. But it's tossed into the garbage outside of some maintenance projects I think. Yeah. It just didn't work like all the feedback I got people just stopped using it because it just didnít really work that well. It just rhymes to the RPI framework a little bit, the original one right?"
+    },
+    {
+      "id": "s0226",
+      "start": 3799.807,
+      "end": 3816.696,
+      "text": "Well so our thing too, like the biggest difference between RPI and spec-driven development, and some people refer to RPI as spec-driven dev because for some people, SDD, all it means is I use a bunch of markdown files while I'm coding and forget what's in them. I just spec-driven dev, those are my specs and I'm using them to drive development."
+    },
+    {
+      "id": "s0227",
+      "start": 3816.746,
+      "end": 3833.15,
+      "text": "There was this open AI researcher who talked about spec-driven dev and like, hey, stop reading the code, just write the specs and treat like the coding part is compiling specs into code. And that part. Part never really materialized, maybe with GPT-7, you know, Um, but the challenge I'm on a."
+    },
+    {
+      "id": "s0228",
+      "start": 3833.15,
+      "end": 3852.35,
+      "text": "a GitHub issue in SpecKit That has been over. Been open for a year, and every couple weeks I get it, there's a new email on the thread of people complaining about this problem, like, okay, I edit my specs to And then I edit the code And the code drift. Drifts and the specs. How do I keep the specs up to date as the code is changing? And it's basically like, you now have two sources of truth and it's, it stops being useful."
+    },
+    {
+      "id": "s0229",
+      "start": 3852.4,
+      "end": 3870.54,
+      "text": "And so like, that's why when RPI, the idea of the docs is they're all for a while, we kept them around, but after two months. Oh, these are actually like tactical execution docs. I do the research and do the plan. I do The Implementation. I throw the docs out. And the next time I need research, I just do it from scratch because tokens are cheap and my time is expensive."
+    },
+    {
+      "id": "s0230",
+      "start": 3870.59,
+      "end": 3885.771,
+      "text": "And the amount of time I might waste if I reuse a research that is no longer in sync with this real state of the code base. So we just create it live every time. This is why context engineering still matters. Creating artifacts that compress the state of the code base and compress the intent"
+    },
+    {
+      "id": "s0231",
+      "start": 3885.811,
+      "end": 3902.372,
+      "text": "of the builder into small things that can be reused in the future for the scope of a task is a very powerful tactical approach. But it's not a thing. I have very few opinions on what sorts of docs that you should leave lying around your code base that are evergreen."
+    },
+    {
+      "id": "s0232",
+      "start": 3902.422,
+      "end": 3918.463,
+      "text": "I've seen people try to maintain parity between documentation or specs and the code itself. And I don't think anyone actually found it very useful. You can do it and it works, but it's the ratio of the effort it takes to keep them up to date. And trivially, you could do this with AI probably,"
+    },
+    {
+      "id": "s0233",
+      "start": 3918.513,
+      "end": 3935.495,
+      "text": "but I've never known anyone who was like, yeah, this is great and we're glad we have it. You could do it and it might help, but I don't think anyone found it useful enough to maintain a system to keep the specs and the code in sync versus just using the code as the source of truth always. You mentioned something interesting, which is with context engineering, you need to sometimes compact."
+    },
+    {
+      "id": "s0234",
+      "start": 3935.545,
+      "end": 3951.044,
+      "text": "And You've previously He talks about intent. Intentional compaction, that when context is noisy, deliberately compress the useful part into a clear markdown artifact, verify it, and then start a fresh conversation. Can we talk about this kind of compaction and why it's important?"
+    },
+    {
+      "id": "s0235",
+      "start": 3951.094,
+      "end": 3966.139,
+      "text": "And it sounds like it's going to be a building block where it already is for context engineering, right? Yeah. Yeah, frequent intentional compaction is It's the building block. Block. It completely comes from context engineering. Context engineering is like, how do we get the most out of today's models?"
+    },
+    {
+      "id": "s0236",
+      "start": 3966.189,
+      "end": 3981.56,
+      "text": "How do we change what we're putting into the model, into the context window, into the agentic chat? How do we control that in such a way that we get the best results possible? Which means doing as much work as possible in the smart zone, the first 100,000 tokens of the context window. And And this intention."
+    },
+    {
+      "id": "s0237",
+      "start": 3981.56,
+      "end": 3998.104,
+      "text": "This frequent intentional compaction is basically like, Okay, the research step. We're going to go read a bunch of code and turn it into a doc. That's our compaction. We take that forward in the next session. We're going to read the ticket and the intent and turn that into a design document that we call it. It's like, okay, here's the high level spec of what we want to do."
+    },
+    {
+      "id": "s0238",
+      "start": 3998.16,
+      "end": 4015.695,
+      "text": "here's the high level like current state desired end state. And then a bunch of design questions that model has kind of like a very thorough, maybe even over-engineered like plan mode. And then you take the research and the design and you do a new session, new context when you're like, cool. You've compressed the intent and you've compressed the state of the code base so"
+    },
+    {
+      "id": "s0239",
+      "start": 4015.715,
+      "end": 4031.12,
+      "text": "that you can then do your planning of like, okay, we know what the end state looks like. We know where we're going. Now let's go. Let's break down how we're going to get there. All of these different steps of the process exist because... models have short shortcomings in each of these phases. So the research is pretty hands off."
+    },
+    {
+      "id": "s0240",
+      "start": 4031.16,
+      "end": 4049.845,
+      "text": "I don't read the research docs. It's just like go read a bunch of code and then like make a doc out of it. Models are pretty damn good at that. If you ask it to find a bug and have opinions about the code base, that's different. But if you just ask it, what is the intent and how this stuff fit together? That's usually pretty straightforward. But designing the end state of the software, the architecture and the program design."
+    },
+    {
+      "id": "s0241",
+      "start": 4050.448,
+      "end": 4065.675,
+      "text": "Models are not great at. They make a lot of like, they make decisions and sometimes they're right and sometimes they're wrong. so we want to have a human in the loop there. And then the steps to get there, we talked about this before, but models love making what I call like horizontal plans. If you ask a model, like build a plan of steps to go build this app,"
+    },
+    {
+      "id": "s0242",
+      "start": 4065.695,
+      "end": 4083.466,
+      "text": "It's like cool, we're going to do the database and then we're gonna do the services layer. Then we're going to do the API and then we're going to do the front end. I was like, well, that actually kind of sucks because we're going to be on the other side of 2000 lines of code. And let's imagine this is an existing code base, right? We're going to make changes to all these different parts of the system. I can't test it till the end. And so what I would do is like, OK, how would I have built this if I were building my hand?"
+    },
+    {
+      "id": "s0243",
+      "start": 4083.486,
+      "end": 4099.967,
+      "text": "Well, OK, I would probably create a mock API endpoint with fake data and then I would go kind of get the front end kind of how I want it to look. And then I would actually go like build a services layer and actually wire the data through. And then I would make a database migration and make my new table. And then I would actually add a lot of business logic."
+    },
+    {
+      "id": "s0244",
+      "start": 4100.017,
+      "end": 4120.25,
+      "text": "And then I would add a bunch of air. Error handling. And it's completely orthogonal to how models will write the database layer and all the error handling without Like anyone's ever touched. Touched or seen the code or whatever it is. And so this is another place where we like to have humans involved because humans have really good taste and judgment and like I would rather read five separate little mini-diffs of like things that."
+    },
+    {
+      "id": "s0245",
+      "start": 4120.25,
+      "end": 4135.354,
+      "text": "That I can manually verify and explore than read 2,000 lines of code and be like, well, it's not working. I don't know where. You don't know where. Because you wrote the code. You were supposed to get it right. We talk about compaction context engineers. How can you stay in the smart zone of the context window? Which is, again, the dumb zone."
+    },
+    {
+      "id": "s0246",
+      "start": 4135.434,
+      "end": 4153.634,
+      "text": "I will say, disclaimer, it's really good training wheels if you don't have intuition about this. So let's just Let's define these things. Things. What is a smart zone and what is a dumb zone? So it's a little bit blurrier than like I would like, I would. Like it to be. I think in November we talked and said, oh, that's about the first 40% of the context window."
+    },
+    {
+      "id": "s0247",
+      "start": 4153.684,
+      "end": 4173.157,
+      "text": "But then we had million token context windows. So then I changed it to like the first hundred thousand tokens. If it's a really like 4.8, I usually will go up to like 200K. But basically The thing that Jeff Huntley had. Had and Ralph Wiggum was like the less context window you use, the better outcomes you'll get. And basically the smart zone meaning if you have context in that first part,"
+    },
+    {
+      "id": "s0248",
+      "start": 4173.337,
+      "end": 4188.449,
+      "text": "it should work a lot better. And then like the dumb zone is like once you have stuff there, it's kind of forget about it. Like it'll be confused. It's not going to do much. Like it'll degrade. Yeah, and there are times, and this is an intuition thing, like I will often go up to three, four hundred K tokens."
+    },
+    {
+      "id": "s0249",
+      "start": 4188.739,
+      "end": 4206.724,
+      "text": "Four is rare, but I will go up to two fifty, three hundred K tokens for certain types of work where my intuition tells me that I can keep working without degrading the performance. But if you don't have good LLM intuition, like a hundred K for smaller models, two hundred K for these like really beefy like Codex and Opus 4.8 models is usually"
+    },
+    {
+      "id": "s0250",
+      "start": 4206.764,
+      "end": 4222.056,
+      "text": "a good like training wheel guideline of like if you pass their Your quality of Results may be degrading. Grading the biggest tell I see for this is often the uh models trying to get the test to pass And your 200K token, well, let me try this. Okay, let me try that."
+    },
+    {
+      "id": "s0251",
+      "start": 4222.096,
+      "end": 4237.959,
+      "text": "And it's like trying a bunch of stuff and it's getting more and more extreme. And it's like, oh, let me delete your .end file and try again. Like this is where things get really, really weird. And so it's like, if you start to see certain types, if I'm like, oh, we're at 300K tokens and I need to like fix the unit test. I'm like, cool,"
+    },
+    {
+      "id": "s0252",
+      "start": 4238.179,
+      "end": 4253.66,
+      "text": "write everything we did to a file or even I'll just do like a built-in compaction depending on the model. And then I'm starting a new session at 30K or 50K tokens. And I'm like, cool, we're going to do a hard thing, which is you're going to get this fricking test to pass. And you're not going to be stupid about it. by the way one thing that you said like about the"
+    },
+    {
+      "id": "s0253",
+      "start": 4253.66,
+      "end": 4271.15,
+      "text": "With the model being dumb. Dumb is you said that if the model ever tells you you are absolutely right, you should start over. And we've all had that when it tells me like, oh, you know, you're absolutely right. And I'm like, we just get annoyed. But why should we start over? What's happening there in your observations?"
+    },
+    {
+      "id": "s0254",
+      "start": 4271.522,
+      "end": 4286.793,
+      "text": "Yeah, that's great. Yeah. And the new you're absolutely right, I think, is you're right to push back on that, right? Yes. That's Opus, right? Yeah, Opus is like, you didn't run the test, did you? You're right to push back on that. I totally did it. But no, for me, you're absolutely right was always what the model would respond if you were like,"
+    },
+    {
+      "id": "s0255",
+      "start": 4286.843,
+      "end": 4303.603,
+      "text": "That's totally wrong. If you said something where you were angry or frustrated or just wanted to point out that it's done something wrong, It would respond with your. You're absolutely right. And most of us have had the experience of, it says that, and then it continues to do the wrong thing. So it's like, once it starts doing dumb things,"
+    },
+    {
+      "id": "s0256",
+      "start": 4303.971,
+      "end": 4319.993,
+      "text": "because there's There's four things in your content. Context window that matter. There's the size of it, how many tokens. There's the quality of the information. Is there any incorrect information? If the model had some thinking trace where it decided the wrong thing was true, Is there missing information? Does this like have context missing that it should have?"
+    },
+    {
+      "id": "s0257",
+      "start": 4320.043,
+      "end": 4336.68,
+      "text": "And then there's the trajectory. And the trajectory is very subtle, but you may have had sessions. The trajectory meaning you're prompting? The actual history of everything. I call it trajectory is like the actual history. Of what the agent has done in the past. And so if I say, hey, make this change and the agent makes the change and then it runs the test"
+    },
+    {
+      "id": "s0258",
+      "start": 4336.68,
+      "end": 4354.12,
+      "text": "and they're broken. And then it fixes the test. I have very high confidence that next change I asked to make, it's going to follow that path again because it's like, OK, here's a conversation. And the last time the user asked me to do a thing, I made the change. I ran the test, tests were broken, fixed the test in there. Then I told the user. But if I say make a change and it makes a change that doesn't run the tests,"
+    },
+    {
+      "id": "s0259",
+      "start": 4354.17,
+      "end": 4370.766,
+      "text": "Then I'm on a different track. Trajectory. And if I say, okay, make another change, it's like basically they're autoregressive. So they're predicting what's the next message in this conversation. And so the example we give... we talked about in No Vibes Allowed was, of course, they're like, hey, the model makes a mistake and then you yelled at it. And then it made another mistake and then you yelled at it."
+    },
+    {
+      "id": "s0260",
+      "start": 4370.816,
+      "end": 4386.815,
+      "text": "And then it's like, cool, what's the next message in this conversation? Well, look, if I read the history, I should probably make an - another mistake. So the human can yell at me. The human can yell at me. So I was like, okay, that's a great example of time to start over. Let's talk about some observations on how software engineering is changing."
+    },
+    {
+      "id": "s0261",
+      "start": 4386.865,
+      "end": 4402.652,
+      "text": "One thing you talked about recently on the evolution of the coding meta is going from token harder to token smarter. Can we talk about what you mean by token harder and token smarter? Yeah, so Token Harder is, I mean, I'm in a - I'm in a group chat called Hyper Engineering"
+    },
+    {
+      "id": "s0262",
+      "start": 4402.672,
+      "end": 4419.877,
+      "text": "and it's all like people trying to max out their cloud subs. Oh wow, It's just like, how do I keep my... That sounds like a f***ing A Is this a fun place? Place. It's a f - fun place, but it's like All token heart. Harder. It's like, look at all the side projects. I built. Look at everything I've got six cloud code accounts."
+    },
+    {
+      "id": "s0263",
+      "start": 4420.178,
+      "end": 4437.066,
+      "text": "I've gotten all of them maxed out every five hour period. I've timed it out. So I always use all the tokens And it starts up a... immediately when the limit resets. And so I was I mean, getting into Eli Goldrad and the goal is like optimizing for utilization and efficiency of one node in your factory rather than the end to end goal of like,"
+    },
+    {
+      "id": "s0264",
+      "start": 4437.116,
+      "end": 4453.099,
+      "text": "how do we ship value and things that people like that are stable and like will last a long time. But that's my idea of token harder. And it's the same thing with the dark factory thing is like, hey, if you if you if you remove humans from code review, you can push more tokens through the system. So we talk about software factories, but what is the dark factory?"
+    },
+    {
+      "id": "s0265",
+      "start": 4453.149,
+      "end": 4468.421,
+      "text": "Ah, so the dark factory is this comes from this idea of like there are factories where everything is automated by robotics. So you can imagine like a car factory where it's all robots building the cars and they don't have lights because there's no humans. Oh, so that's where it comes from."
+    },
+    {
+      "id": "s0266",
+      "start": 4468.441,
+      "end": 4485.611,
+      "text": "Dark factory. Yeah, you walk in there, there's no lights. There's not even light switches. So it will be the fully automated software factory where It would be like, no human. Human input, basically. No human input. Raw materials go in, cars come out. Yep. And I think in a micro, you can have many loops that are dark in your thing of like, hey,"
+    },
+    {
+      "id": "s0267",
+      "start": 4485.943,
+      "end": 4504.915,
+      "text": "if the code review agent comes back with a problem, you loop that back to the builder agent, it fixes it and comes back. And that's dark. You don't need a human loop for that. But the full dark factor where you don't read any code, yeah, it's a good way to maximize your token utilization. It's like if your belief is like, my job is to extract as much intelligence out of the machine god as I can,"
+    },
+    {
+      "id": "s0268",
+      "start": 4505.16,
+      "end": 4520.17,
+      "text": "Because that's how I get them. The most value and the most leverage on my time, then token harder. Um, it might take take is basically what we talked about before. Token smarter is like, OK, how do I move faster? How do I get as much value out of as AI as I can without having turned on."
+    },
+    {
+      "id": "s0269",
+      "start": 4520.17,
+      "end": 4535.196,
+      "text": "The lights off while still maintaining control and taste and judgment and understanding the system architecture and having a lot of like applying my hard one opinions through 10 years of software engineering to the design of the program so that I can feel confident that the code is going"
+    },
+    {
+      "id": "s0270",
+      "start": 4535.216,
+      "end": 4552.048,
+      "text": "to get better and more maintainable over time. It's the same thing of like you look at like the SRE team inside Google. They brought out this book, SRE, Site Reliability Engineering. And the whole take was like, hey, we're going to go from one data center to five data centers. And we need the same six person team to be able to manage five data centers."
+    },
+    {
+      "id": "s0271",
+      "start": 4552.098,
+      "end": 4567.3,
+      "text": "And we need the same same 6 -person team to manage 50 data centers next year. Year. And it's basically, how do we apply software to this problem so that instead of scaling linearly of like, okay, every data center needs five DevOps people. So we need to scale the people with these things. How do we continually automate the parts?"
+    },
+    {
+      "id": "s0272",
+      "start": 4567.761,
+      "end": 4584.144,
+      "text": "So a little bit orthogonal and maybe even like contradictory to what I just said. But this idea of like, how do you find leverage and the way the way. Well, I think what you were saying there is like And Google didn't. Never seek to remove those SREs from the processes. They just said like, look,"
+    },
+    {
+      "id": "s0273",
+      "start": 4584.58,
+      "end": 4602.532,
+      "text": "can we think ahead and scale yourselves? And they actually grew the team. It wasn't actually six people. It was more like I think Google specifically said, OK, we have five data centers next year will have 50 or six of you. We do not want to have 60 people. We don't want that. And then management leader and all that is like, how can we do it with like 12 or like, or like 10?"
+    },
+    {
+      "id": "s0274",
+      "start": 4602.913,
+      "end": 4618.01,
+      "text": "And then when we'll have 500 and now actually their SRE has grown, but, but of course, yeah, but, but they never, you You know, I think his engine. Engineers, like we feel pretty threatened when someone says like, all right, we just want to have zero engineers. Like, I mean, that's not a fun place to work at, but It sounds like talk."
+    },
+    {
+      "id": "s0275",
+      "start": 4618.01,
+      "end": 4636.316,
+      "text": "Like it's not a possible place to work at. If they have zero engineers, neither of us could work there. Right. but don't understand the token smarter is like let's keep humans in the loop let's keep adding value and figure out what are the parts which are not as It's relevant. Boring, where we don't need it. And so like one developer can probably do more than before,"
+    },
+    {
+      "id": "s0276",
+      "start": 4636.396,
+      "end": 4652.951,
+      "text": "but you are built to like, be part of this whole thing. and the lights are on in a factory. Yep. Yeah. And it's like, basically, I think, I think what I'm trying to get to is like the connection here is like SRE built a thing where like headcount scales at like a square root function or a logarithmic function, whereas their output scales like linearly."
+    },
+    {
+      "id": "s0277",
+      "start": 4653.186,
+      "end": 4668.366,
+      "text": "And you want to say that the way you do that is with good architecture and good program design. And so in order to like avoid this problem where you have to throw more people or more tokens at, at the problem. If you design good software in such a way that it gets more maintainable and more scalable over time,"
+    },
+    {
+      "id": "s0278",
+      "start": 4668.57,
+      "end": 4684.698,
+      "text": "and like just today it doesn't feel like – basically you need humans in the loop to be able to do that. Let's talk about… AI slop. At one point you wrote, yeah, AI can write your code, but it can also write your specs and PRDs. But the same rule is always slop in, slop out."
+    },
+    {
+      "id": "s0279",
+      "start": 4684.918,
+      "end": 4701.484,
+      "text": "If you outsource your thinking, you're going to get garbage. Yep. So yeah, that's basically the idea is like the way we think about like getting high quality outputs is like, yeah, you could write the code by hand. Or you could sit with a model and work back and forth and go maybe"
+    },
+    {
+      "id": "s0280",
+      "start": 4701.504,
+      "end": 4716.792,
+      "text": "a little bit faster and you have control. And every time it makes a change, you go read the change. And if it's bad, you tell it, nope, we want it like this. And you kind of incrementally slowly. This is like kind of the stage two or stage three version of working with. Agents were like agents writing all your code, but you're kind of very much in the loop."
+    },
+    {
+      "id": "s0281",
+      "start": 4716.842,
+      "end": 4734.909,
+      "text": "And this will make you go faster, but it won't make you go that much faster. It won't make you go anywhere near there's like there's like that level. And then there's like the maximum speed you can go while still caring about the code. And then there's like the maximum speed you can go if you turn the lights off. And so we always think about it as like in terms of The leverage is like, okay. OK, let me take everything starts with like a sentence or a voice note ramble."
+    },
+    {
+      "id": "s0282",
+      "start": 4734.949,
+      "end": 4750.712,
+      "text": "Like I want to build this thing. It's going to work like this, whatever it is. So let's say like on average, like two sentences, I got to fix this thing. Or there's a support ticket, I got to fix this thing. If you can turn that with AI into a one pager and then turn that one page and make sure that's correct. And then turn that one pager into a three pager and make sure that's correct."
+    },
+    {
+      "id": "s0283",
+      "start": 4750.762,
+      "end": 4766.675,
+      "text": "And then turn that three pager into a 10 page, like detailed outline. Then you can write a hundred pages worth of code. And it's me. Maybe not perfect. You shouldn't like sweat over these documents and make sure they're perfect, but you're increasing the chance that like You're decreasing the un - uncertainty of"
+    },
+    {
+      "id": "s0284",
+      "start": 4766.715,
+      "end": 4782.12,
+      "text": "the outputs. You have a line of where it's going and then you have the probabilities of where like it might might go in that range. If you are reviewing along the way as you get more and more detailed into How what you're building and how. How you want it to be built, you Kind of collapse the unscathed."
+    },
+    {
+      "id": "s0285",
+      "start": 4782.12,
+      "end": 4798.95,
+      "text": "Uncertainty and the set of end states that you could land in. That's It's me doing the physics. Physics thing of like, you got to superimpose all these probabilities. And like, I don't know, I have this thing that like, I think people who really like playing real time strategy games Those are probably going to be really good. Really good with AI because you kind of have to like,"
+    },
+    {
+      "id": "s0286",
+      "start": 4799.0,
+      "end": 4824.925,
+      "text": "I don't know, Matt Pocock was just talking about fog of Yeah. And decide what's the most likely path that's going to lead us to success."
+    },
+    {
+      "id": "s0287",
+      "start": 4824.975,
+      "end": 4841.067,
+      "text": "Speaking of the most likely path that leads you to success, let's talk about your company that You've, you've just. Come out of stealth, Human Layer. What is Human Layer and what is the probability that you're setting up for success? That's a good question. A hundred percent. A hundred percent probability."
+    },
+    {
+      "id": "s0288",
+      "start": 4841.58,
+      "end": 4856.59,
+      "text": "Maybe a hundred and ten. But no, so Human Layer is an AI IDE. It's a collaboration platform and it is building blocks for your software factory. And the basic pitch is like engineers solving hard problems and complex code bases. Basically, there's two categories."
+    },
+    {
+      "id": "s0289",
+      "start": 4856.64,
+      "end": 4872.79,
+      "text": "There's like vibe coders building side projects and then there's people building production software where the stakes are high. And then there's people building. High. And if something breaks, we're going to get fined millions of dollars or, you know, we're gonna lose millions millions of money for the company. And there's a whole spectrum in between there. But it's like if you were kind of in the left half of that spectrum,"
+    },
+    {
+      "id": "s0290",
+      "start": 4872.84,
+      "end": 4891.592,
+      "text": "you're building software that matters and it has to last and be around for a while, then we are helping people like that solve problems two to three times faster without descending into slop. How do you maintain that near human level of quality and move two to three times faster? And what And were the idea ideas that you built and that you came with?"
+    },
+    {
+      "id": "s0291",
+      "start": 4891.876,
+      "end": 4908.921,
+      "text": "One idea that we're really excited about right now, I mean, it all comes from this RPI and this like using specs to like, I mean, I've kind of been I'm hinting at it this. This whole time, right? Of like, okay, cool. Like start really high level and zoom in layer by layer and re-steer and like find that leverage that helps you move faster and increase the chance"
+    },
+    {
+      "id": "s0292",
+      "start": 4908.941,
+      "end": 4925.901,
+      "text": "that your agent's going to build exactly what you want or something that's really high quality. The other thing I think that's really interesting that where I just posted yesterday, I said, hey, chat, should we kill the pull request? And that's It's something I can't talk to. Too much about. But basically, the idea is like the IDE of the future needs to be rethought from the ground up"
+    },
+    {
+      "id": "s0293",
+      "start": 4926.101,
+      "end": 4942.961,
+      "text": "for agents. And it might not even be a like. I don't know. A lot of editors kind of started with the text field and bolted on an agents tab. And then eventually you've seen like cursor three. I can't even find the text editor. I know it exists. People have told me you can get to a text view of files, but it's also very agent first."
+    },
+    {
+      "id": "s0294",
+      "start": 4943.011,
+      "end": 4964.489,
+      "text": "And so we started from the ground up of like, what is an IDE designed for helping a developer interact with and manage the work of agents? And then we zoomed out and said, how do we make this collaborative and build in a sync engine and durable streams and all of these like pieces of tech that enable... Me to get human input and feedback on what I'm doing with agents in real time rather"
+    },
+    {
+      "id": "s0295",
+      "start": 4964.529,
+      "end": 4979.607,
+      "text": "than waiting for the pull request time. And great engineering teams have been doing this for decades of like, hey, we're going to have a design review where we're going to talk about how we're going to build the thing as like a two page Google Doc. Or whatever, 10 page, whatever. PRD, ERD. Yeah. AR architecture requirements document."
+    },
+    {
+      "id": "s0296",
+      "start": 4979.967,
+      "end": 4996.461,
+      "text": "And then you go to sprint planning and you break it down into little tickets and you decide who's going to do what. It's like AI can help with all of this. If you're just using AI to write the code, you're missing out on a lot of the benefits that AI can bring to your SDLC. And a lot of people say like, well, we don't need any of those meetings anymore because we have the loop, we have the dark factory, things just fly around the loop."
+    },
+    {
+      "id": "s0297",
+      "start": 4996.481,
+      "end": 5013.268,
+      "text": "But it's like, okay, but if you want to actually move faster and maintain quality, then like you should have these checkpoints before you go to actually write the code. And you should use AI to help with that. So we built this like cloud platform that's kind of has like a Google Docs style component where you can comment and the agent can surface like mockups and mermaid diagrams and HTML"
+    },
+    {
+      "id": "s0298",
+      "start": 5013.288,
+      "end": 5030.266,
+      "text": "and all these things. So basically, how do we make agents like Figma style? Everything's in the cloud. Everything's collaborative. I see all my co-worker sessions. They see all of mine. It's almost like the benefit that Slack had over email was that you didn't have to be in every conversation to know what was happening."
+    },
+    {
+      "id": "s0299",
+      "start": 5030.484,
+      "end": 5046.65,
+      "text": "You could maintain, you could see all these channels light up, you could check on them, you go, okay, I don't care about any of that. But if you saw a conversation that you cared about, you could jump in on that. And it's like, how do we do that for engineering work versus like, we really had these like very strict, even when we called it agile, it was very waterfall-y, like PRD."
+    },
+    {
+      "id": "s0300",
+      "start": 5047.442,
+      "end": 5062.87,
+      "text": "ARD, tickets, everyone goes and builds for a day and then you get the PR back and then one person reviews it. How do you create this more just like soup and like what is the data model for that world where you have like agentic traces, you have documents,"
+    },
+    {
+      "id": "s0301",
+      "start": 5062.89,
+      "end": 5078.04,
+      "text": "you have tasks and projects that group these things, you have actual git diffs being streamed everywhere where it's like why would I review all the code at once when I can just all always, everybody's work lives in a shared environment that anyone can go interact with. I mean, what are our minds?"
+    },
+    {
+      "id": "s0302",
+      "start": 5078.04,
+      "end": 5093.1,
+      "text": "Reminds me of is what You know, githubed at the software. Software teams. Before GitHub and its competitors, you might have a tracker somewhere, But most scenes... teams were just kind of like inside the company. You didn't know what one team was. I remember pre-GitHub, like, you know,"
+    },
+    {
+      "id": "s0303",
+      "start": 5093.12,
+      "end": 5108.87,
+      "text": "you had individual teams, some of them had like a board with stickers, but no one else in the company knew what they were doing. They were all working in isolation. And now when you have GitHub or even the internal version of GitHub inside a company, you can always see when you go You go to a team, you see the pull request flying."
+    },
+    {
+      "id": "s0304",
+      "start": 5108.92,
+      "end": 5125.96,
+      "text": "You can join in. You have history. It is all kind of connected and it came together. And now for a very long time I was like, duh, you're going to use GitHub or people will copy So do I sense that you're trying to build something? This workflow for when you have The Software Factory."
+    },
+    {
+      "id": "s0305",
+      "start": 5125.96,
+      "end": 5141.567,
+      "text": "Factories, which are dark factories and loops at a bunch of places, how can we have this new way of working, which will feel natural, but Like, coming up with it. Like, it's hard. Hard work. It's counterintuitive. How can we do something that accomplishes what GitHub did, but like 10x better,"
+    },
+    {
+      "id": "s0306",
+      "start": 5141.587,
+      "end": 5157.435,
+      "text": "like more, specifically like more continuous and more real time and more collaborative than like these discrete units of work that is like the pull request. Well, I now I'm starting to understand why you're saying maybe we should kill the pull request because pull request was invented by GitHub, right? Like it's, it is not part of Git,"
+    },
+    {
+      "id": "s0307",
+      "start": 5157.455,
+      "end": 5172.503,
+      "text": "but they do that as a way for you to do a code review, merge before it goes in and be able to modify it or like just reject Rejected it, et cetera. Cetera. And it's probably a lot better than whatever we had before, which I guess was like emailing your Git patch to Linus and ask him to merge it into"
+    },
+    {
+      "id": "s0308",
+      "start": 5172.523,
+      "end": 5189.012,
+      "text": "the kernel or whatever. They still do it. It works for them. That's the point, but it only works for them. Yeah. I don't know anybody else who does that. I mean, I'm sure even before Get Up for you, you guys had what, like CVS or Subversion? CVS, TFS, if you have a lot of money for Microsoft. They made us use Subversion in undergrad because the guy"
+    },
+    {
+      "id": "s0309",
+      "start": 5189.032,
+      "end": 5206.423,
+      "text": "who invented Subversion Was it UChicago? UChicago guy. The year after I graduated, they switched everybody to Git. And I was like, damn, I learned a useless thing just for somebody's ego. Specifically for AI startups or startups building on top of AI or building AI products, how important do you think location and network is?"
+    },
+    {
+      "id": "s0310",
+      "start": 5206.473,
+      "end": 5222.654,
+      "text": "Especially you are based in the valley. We see research that AI startups are more frequently funded from here than normal startups as well. Do you see this advantage? And also, do you see some disadvantages of being a specific, may that be Silicon Valley or elsewhere?"
+    },
+    {
+      "id": "s0311",
+      "start": 5222.704,
+      "end": 5238.986,
+      "text": "I don't have really strong opinions on this. Actually, like Paul Graham gave a talk in Sweden about why SF is cool. Rather than just regurgitate that, I will forward people onto that one. We can put it in the show notes or whatever, but he talks about all of the dynamics Dynamics of silver. Silicon Valley and the paid forward culture and the like,"
+    },
+    {
+      "id": "s0312",
+      "start": 5239.036,
+      "end": 5255.017,
+      "text": "People take you way more seriously just because you're based here. I lived in Chicago for a long time. I have a lot of really good friends from high school, from college, from growing up in LA, and never before have I felt like So locked in with my people. Never have I felt more seen, more connected."
+    },
+    {
+      "id": "s0313",
+      "start": 5255.417,
+      "end": 5273.229,
+      "text": "There's just so many people here, again, talking about the founder thing, people who care deeply, who are incredibly competent, who we all have all the same types of problems. We love all the same types of things. I don't do LAN parties where we play video games, but all my buddies will come over and we'll sit in the office till 11. We'll just do co-working and hack on cool, fun projects and stuff."
+    },
+    {
+      "id": "s0314",
+      "start": 5273.809,
+      "end": 5290.325,
+      "text": "You can't do that anywhere else. There's not enough Like Critical math. Mass for that to just happen organically everywhere you go. And I absolutely love it. I wouldn't trade it for anything. Yeah, I've been a critical masses. It nails it on the head. When it comes to hiring, what types of folks are you hiring for specifically?"
+    },
+    {
+      "id": "s0315",
+      "start": 5290.345,
+      "end": 5309.38,
+      "text": "Because I'm interested in how hiring changes and what a standout engineer means for you and how So you are... are trying to You know, confirm that those. Those traits exist. In general, we are looking Um, for people who. Who have really strong software fundamentals. So understand distributed systems, understand Like the core fundamental."
+    },
+    {
+      "id": "s0316",
+      "start": 5309.38,
+      "end": 5327.433,
+      "text": "Fundamentals of CS and operating systems and these kind of things. I mean, you don't have to be a PhD in freaking kernel design or whatever, but it's a lot easier. We can We can teach, we can teach. somebody, I think, to be around. A really good AI developer in a few months. You can build enough intuition where you are... You know, accelerated off the ground and you can go like keep growing there."
+    },
+    {
+      "id": "s0317",
+      "start": 5327.483,
+      "end": 5342.612,
+      "text": "It's really hard to teach someone a CS undergrad program in three months. And what's the problem space that you're excited about in And in software engineering, we would. Even product engineering or building products that you think in the next few years is going to be one of the interesting things that you're going to be attacking?"
+    },
+    {
+      "id": "s0318",
+      "start": 5342.662,
+      "end": 5358.092,
+      "text": "My co-founder could talk more about this, but like there's a lot of interesting things happening in real life. Real time and cloud and sandboxes and sync and kind of like using these new building blocks that have gotten really solid in the last couple of years. We're big fans of the electric SQL team."
+    },
+    {
+      "id": "s0319",
+      "start": 5358.132,
+      "end": 5374.106,
+      "text": "We're users of durable streams. It was like, how can you build systems that kind of are a lot more spread out and distributed and almost like decentralized? This is really interesting for coding because you want to be able to run coding agents anywhere. You want to be able to run them. For a short time, for a long time, on demand,"
+    },
+    {
+      "id": "s0320",
+      "start": 5374.156,
+      "end": 5389.321,
+      "text": "on a schedule, all these things and have them all be part of this kind of like brain. So I don't know, parts of what we're doing are really boring, like all our data is in Postgres. And then parts of what we're doing is really interesting. But there's a lot of distributed systems problems. There's a lot of infrastructure problems. Like we are building tools for AI,"
+    },
+    {
+      "id": "s0321",
+      "start": 5389.821,
+      "end": 5406.942,
+      "text": "but there's a lot of problems in building collaboration platforms that are really, really hard. And there's a lot of new tech that makes it easier and more interesting, but it's still Well, by far from... from an easy problem. It sounds like what you're saying is like infralayers, Inflayers, it's some extent a new infralayer is being built and it'll take some time,"
+    },
+    {
+      "id": "s0322",
+      "start": 5406.992,
+      "end": 5422.32,
+      "text": "but it'll be like Just new, new blocks. Blocks and it will eventually become the primitives like for cloud. We have primitives already, but it took freaking decades to get those together or more. Yeah. You had AWS in what, like 2006? 2006. Yeah. And then you got Kubernetes a decade later."
+    },
+    {
+      "id": "s0323",
+      "start": 5422.32,
+      "end": 5443.873,
+      "text": "Yep. And as closing, what's a book or reading that you would recommend? Something that you personally enjoyed? Nowadays, we talk a lot about Refactoring by Martin Fowler. Love it. Well, Dex, thanks so"
+    },
+    {
+      "id": "s0324",
+      "start": 5448.034,
+      "end": 5463.953,
+      "text": "much. This was fun. This is a a blast dude! Thanks for having me on. This is great. I had a lot of fun."
+    },
+    {
+      "id": "s0325",
+      "start": 5464.082,
+      "end": 5483.456,
+      "text": "I don't know about you, but I really enjoyed this conversation. Dex is such a big believer in gender coding, yet he's the one warning us that if you stop reading the code, you have about 3 -6 months before your codebase becomes easier to rewrite than to fix. And this comes from first. Furt has an experience. His team built a light soft software factory, ran it, and then had to shut it down."
+    },
+    {
+      "id": "s0326",
+      "start": 5483.866,
+      "end": 5501.794,
+      "text": "I also like the idea of the slow loop. Loop engineering feels like a somewhat meaningless term to me. What DEX's team does It's actually pretty... pretty boring. A cron job runs every night, fixes one issue or one anti-pattern, and opens one small pull request. The team wakes up to a codebase that's a little bit better every morning,"
+    },
+    {
+      "id": "s0327",
+      "start": 5501.844,
+      "end": 5517.855,
+      "text": "and devs still need to review and approve it. This is a practice that, honestly, any engineering team could just adopt today. Finally, I really enjoyed the history lesson. The term software factory comes from a NATO conference in 1968. In 1968, the idea of solving a problem was to solve a problem. Software used to build software with analogies to a factory is more"
+    },
+    {
+      "id": "s0328",
+      "start": 5517.875,
+      "end": 5534.755,
+      "text": "than 60 years old, and every generation of our industry has tried to automate more of the loop of building software. AI agents are just yet one more attempt, although probably the most successful one. Do check out show notes below for the related The Pragmatic Engineering Deep Dives that go even deeper into AI engineering and other related topics"
+    },
+    {
+      "id": "s0329",
+      "start": 5534.805,
+      "end": 5543.921,
+      "text": "If you've enjoyed this podcast, please do subscribe on your favorite podcast platform and on YouTube. A special thank you if you also leave a rating on the show. Thanks, and see you in the next one."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "course": {
+    "id": "voa-no-brainer",
+    "title": "VOA English in a Minute: No Brainer",
+    "audioFilename": "no-brainer.mp3",
+    "duration": 60.0
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 3.4,
+      "end": 7.4,
+      "text": "Welcome to English in a Minute!"
+    },
+    {
+      "id": "s002",
+      "start": 7.4,
+      "end": 11.0,
+      "text": "We have to use our brains to think."
+    },
+    {
+      "id": "s003",
+      "start": 11.0,
+      "end": 15.4,
+      "text": "So, what does the expression ‘no-brainer’ mean?"
+    },
+    {
+      "id": "s004",
+      "start": 16.0,
+      "end": 20.0,
+      "text": "Hey, did you watch the new episode of Catch a Criminal?"
+    },
+    {
+      "id": "s005",
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Yeah, but it was such a no-brainer!"
+    },
+    {
+      "id": "s006",
+      "start": 23.0,
+      "end": 27.4,
+      "text": "The police found a gun and all the money in David’s house!"
+    },
+    {
+      "id": "s007",
+      "start": 27.7,
+      "end": 33.2,
+      "text": "Well, what if David has a twin brother who lives with him?"
+    },
+    {
+      "id": "s008",
+      "start": 33.2,
+      "end": 37.0,
+      "text": "The police would know if David had a twin brother."
+    },
+    {
+      "id": "s009",
+      "start": 37.0,
+      "end": 40.0,
+      "text": "Well, what if they don’t know?"
+    },
+    {
+      "id": "s010",
+      "start": 40.0,
+      "end": 43.4,
+      "text": "Then they are really bad at their jobs!"
+    },
+    {
+      "id": "s011",
+      "start": 44.0,
+      "end": 51.0,
+      "text": "A no-brainer is something that requires little thought or is obvious."
+    },
+    {
+      "id": "s012",
+      "start": 51.0,
+      "end": 55.5,
+      "text": "It also means it is easy to make the right choice."
+    },
+    {
+      "id": "s013",
+      "start": 55.5,
+      "end": 58.0,
+      "text": "And that’s English in a Minute!"
+    }
+  ]
+}
