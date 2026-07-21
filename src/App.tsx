@@ -211,7 +211,7 @@ export default function App() {
     const monitor = () => {
       const audio = audioRef.current;
       const segment = course.segments[loopSegment];
-      if (audio && !waiting && audio.currentTime >= Math.min(course.duration, segment.end + 0.2)) {
+      if (audio && !document.hidden && !waiting && audio.currentTime >= Math.min(course.duration, segment.end + 0.2)) {
         waiting = true;
         audio.pause();
         timer = window.setTimeout(() => {
@@ -503,7 +503,14 @@ export default function App() {
             saveCurrentProgress(event.currentTarget.currentTime, event.currentTarget.playbackRate);
           }}
           onTimeUpdate={(event) => {
-            const time = event.currentTarget.currentTime;
+            let time = event.currentTarget.currentTime;
+            if (loopSegment !== undefined && document.hidden) {
+              const segment = course.segments[loopSegment];
+              if (time >= Math.min(course.duration, segment.end + 0.2)) {
+                time = Math.max(0, segment.start - 0.15);
+                event.currentTarget.currentTime = time;
+              }
+            }
             setCurrentTime(time);
             const index = loopSegment ?? findSegmentIndex(course.segments, time);
             setCurrentSegment((current) => current === index ? current : index);
