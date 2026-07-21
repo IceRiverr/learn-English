@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { z } from "zod";
 import {
   deleteCourse,
@@ -193,9 +193,6 @@ export default function App() {
   const playerMenuTriggerRef = useRef<HTMLButtonElement>(null);
   const activeSegmentRef = useRef<HTMLButtonElement>(null);
   const transcriptShouldCenterRef = useRef(false);
-  const contentGestureRef = useRef<{ pointerId: number; startX: number; startY: number } | undefined>(undefined);
-  const ignoreContentClickRef = useRef(false);
-  const ignoreContentClickTimerRef = useRef(0);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -215,6 +212,7 @@ export default function App() {
   });
   const [repeatIteration, setRepeatIteration] = useState(1);
   const [openPlayerMenu, setOpenPlayerMenu] = useState<OpenPlayerMenu>();
+  const [playerSettingsExpanded, setPlayerSettingsExpanded] = useState(true);
   const [playerView, setPlayerView] = useState<PlayerView>("focus");
   const [followingTranscript, setFollowingTranscript] = useState(true);
   const [speed, setSpeed] = useState(1);
@@ -311,7 +309,6 @@ export default function App() {
     return () => {
       cancelled = true;
       clearRepeatTimer();
-      window.clearTimeout(ignoreContentClickTimerRef.current);
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
     };
   }, []);
@@ -344,7 +341,10 @@ export default function App() {
   useEffect(() => {
     if (!openPlayerMenu) return;
     const closeFromOutside = (event: PointerEvent) => {
-      if (!playerSettingsRef.current?.contains(event.target as Node)) closePlayerMenu();
+      const target = event.target;
+      if (playerSettingsRef.current?.contains(target as Node)
+        || (target instanceof Element && target.closest(".settings-toggle"))) return;
+      closePlayerMenu();
     };
     const closeFromKeyboard = (event: KeyboardEvent) => {
       if (event.key === "Escape") closePlayerMenu();
@@ -548,6 +548,11 @@ export default function App() {
     setOpenPlayerMenu(menu);
   }
 
+  function togglePlayerSettings() {
+    if (playerSettingsExpanded) setOpenPlayerMenu(undefined);
+    setPlayerSettingsExpanded((expanded) => !expanded);
+  }
+
   function closePlayerMenu() {
     setOpenPlayerMenu(undefined);
     window.setTimeout(() => playerMenuTriggerRef.current?.focus(), 0);
@@ -575,53 +580,6 @@ export default function App() {
   function resumeTranscriptFollowing() {
     transcriptShouldCenterRef.current = true;
     setFollowingTranscript(true);
-  }
-
-  function startContentGesture(event: ReactPointerEvent<HTMLElement>) {
-    if (!event.isPrimary || !(event.target instanceof Element)
-      || event.target.closest(".follow-transcript")) return;
-    contentGestureRef.current = { pointerId: event.pointerId, startX: event.clientX, startY: event.clientY };
-  }
-
-  function moveContentGesture(event: ReactPointerEvent<HTMLElement>) {
-    const gesture = contentGestureRef.current;
-    if (!gesture || gesture.pointerId !== event.pointerId || playerView !== "transcript") return;
-    const distanceX = Math.abs(event.clientX - gesture.startX);
-    const distanceY = Math.abs(event.clientY - gesture.startY);
-    if (distanceY > 12 && distanceY > distanceX) setFollowingTranscript(false);
-  }
-
-  function finishContentGesture(event: ReactPointerEvent<HTMLElement>) {
-    const gesture = contentGestureRef.current;
-    contentGestureRef.current = undefined;
-    if (!gesture || gesture.pointerId !== event.pointerId) return;
-
-    const distanceX = event.clientX - gesture.startX;
-    const distanceY = event.clientY - gesture.startY;
-    if (Math.abs(distanceX) < 60 || Math.abs(distanceX) <= Math.abs(distanceY) * 1.25) return;
-    const nextView = playerView === "focus" && distanceX < 0
-      ? "transcript"
-      : playerView === "transcript" && distanceX > 0 && gesture.startX > 24
-        ? "focus"
-        : undefined;
-    if (!nextView) return;
-
-    event.preventDefault();
-    ignoreContentClickRef.current = true;
-    window.clearTimeout(ignoreContentClickTimerRef.current);
-    ignoreContentClickTimerRef.current = window.setTimeout(() => {
-      ignoreContentClickRef.current = false;
-    }, 500);
-    changePlayerView(nextView);
-  }
-
-  function cancelContentGesture(event: ReactPointerEvent<HTMLElement>) {
-    const gesture = contentGestureRef.current;
-    if (!gesture || gesture.pointerId !== event.pointerId) return;
-    if (playerView === "transcript" && Math.abs(event.clientY - gesture.startY) > 12) {
-      setFollowingTranscript(false);
-    }
-    contentGestureRef.current = undefined;
   }
 
   function togglePlayback() {
@@ -766,7 +724,7 @@ export default function App() {
   const availableTranslations = translationCount(course);
   const activeTranslation = activeSegment.translations?.[translationLanguage];
   return (
-    <main className="player-page">
+    <main className={playerSettingsExpanded ? "player-page" : "player-page settings-collapsed"}>
       <header>
         <button className="back" onClick={returnToCourses}>← 返回课程</button>
         <div className="brand">LISTEN / 0005</div>
@@ -782,19 +740,13 @@ export default function App() {
       </div>
 
       <div className={playerView === "focus" ? "player-content focus-view" : "player-content transcript-view"}
-        onPointerDown={startContentGesture} onPointerMove={moveContentGesture}
-        onPointerUp={finishContentGesture} onPointerCancel={cancelContentGesture}
+        onTouchMove={() => {
+          if (playerView === "transcript") setFollowingTranscript(false);
+        }}
         onWheel={(event) => {
           if (playerView === "transcript" && Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
             setFollowingTranscript(false);
           }
-        }}
-        onClickCapture={(event) => {
-          if (!ignoreContentClickRef.current) return;
-          ignoreContentClickRef.current = false;
-          window.clearTimeout(ignoreContentClickTimerRef.current);
-          event.preventDefault();
-          event.stopPropagation();
         }}>
         {playerView === "focus" ? (
           <section className="focus-sentence" aria-live="polite">
@@ -841,7 +793,7 @@ export default function App() {
           }}
           onError={() => setError("浏览器无法播放课程音频；如果当前离线，请先下载课程。")}
         />
-        <div className="player-settings" ref={playerSettingsRef}>
+        <div className="player-settings" id="player-settings" ref={playerSettingsRef} hidden={!playerSettingsExpanded}>
           <div className="player-setting">
             <button className="setting-trigger" aria-expanded={openPlayerMenu === "speed"}
               aria-controls="speed-menu" onClick={(event) => togglePlayerMenu("speed", event.currentTarget)}>
@@ -901,10 +853,14 @@ export default function App() {
           <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         </div>
         <div className="main-controls">
+          <button className="settings-toggle" aria-expanded={playerSettingsExpanded}
+            aria-controls="player-settings" aria-label={playerSettingsExpanded ? "收起播放设置" : "展开播放设置"}
+            onClick={togglePlayerSettings}>{playerSettingsExpanded ? "⌄" : "⌃"}</button>
           <button onClick={() => seekToSegment(currentSegment - 1)} aria-label="上一句">‹</button>
           <button className="play" onClick={togglePlayback}
             aria-label={playing ? "暂停" : "播放"}>{playing ? "Ⅱ" : "▶"}</button>
           <button onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">›</button>
+          <span className="main-controls-spacer" aria-hidden="true" />
         </div>
       </section>
     </main>

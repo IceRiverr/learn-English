@@ -26,6 +26,7 @@ button { cursor: pointer; }
   margin: 0 auto;
   padding: 32px 20px calc(250px + env(safe-area-inset-bottom));
 }
+.player-page.settings-collapsed { padding-bottom: calc(190px + env(safe-area-inset-bottom)); }
 
 .center-card {
   min-height: 100vh;
@@ -199,7 +200,6 @@ h1 {
   color: #fff;
   background: #173f35;
 }
-.player-content { touch-action: pan-y; }
 .focus-view {
   min-height: clamp(220px, calc(100dvh - 470px), 520px);
   display: flex;
@@ -264,6 +264,7 @@ h1 {
   transform: translateX(-50%);
   font-weight: 750;
 }
+.settings-collapsed .follow-transcript { bottom: calc(140px + env(safe-area-inset-bottom)); }
 
 .controls {
   position: fixed;
@@ -282,6 +283,7 @@ h1 {
   max-width: 720px;
   margin: 0 auto;
 }
+.player-settings[hidden] { display: none; }
 .player-setting { position: relative; min-width: 0; }
 .setting-trigger {
   width: 100%;
@@ -350,7 +352,14 @@ h1 {
 .player-progress .timeline { display: block; }
 .player-progress .time-row { margin-top: -2px; }
 
-.main-controls { display: flex; align-items: center; justify-content: center; gap: 36px; margin: 5px 0 0; }
+.main-controls {
+  width: min(100%, 360px);
+  display: grid;
+  grid-template-columns: 48px 48px 60px 48px 48px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px auto 0;
+}
 .main-controls button {
   width: 48px;
   height: 48px;
@@ -361,6 +370,7 @@ h1 {
   font-weight: 800;
 }
 .main-controls .play { width: 60px; height: 60px; color: white; background: #b06c21; font-size: 21px; }
+.main-controls .settings-toggle { font-size: 24px; font-weight: 500; }
 
 @media (max-width: 420px) {
   .center-card, .player-page { padding-left: 16px; padding-right: 16px; }
@@ -369,13 +379,8 @@ h1 {
   .setting-trigger strong { font-size: 13px; }
   .setting-trigger span { font-size: 11px; }
   .repeat-menu { width: 300%; }
-  .main-controls { gap: 28px; }
   .course-row { align-items: start; }
   .download { min-width: 70px; padding: 0 10px; }
-}
-
-@media (max-width: 340px) {
-  .main-controls { gap: 20px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
