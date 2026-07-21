@@ -6,6 +6,20 @@ export interface Segment {
   end: number;
   text: string;
   translations?: Record<string, string>;
+  speaker?: string;
+  timingQuality?: "official" | "aligned" | "estimated";
+  sourceSegmentId?: string;
+}
+
+export interface CourseSource {
+  publisher: string;
+  episodeNumber?: number;
+  episodeUrl: string;
+  transcriptUrl: string;
+  audioUrl: string;
+  publishedAt?: string;
+  rightsStatus: "unverified" | "approved" | "private-only";
+  transcriptSha256?: string;
 }
 
 export interface Course {
@@ -14,6 +28,7 @@ export interface Course {
   audioFilename: string;
   duration: number;
   language?: string;
+  source?: CourseSource;
   segments: Segment[];
   audioLocation?: "opfs" | "indexeddb";
 }

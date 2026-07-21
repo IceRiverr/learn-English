@@ -27,6 +27,14 @@ const lessons = [
     sizeLabel: "90 MB",
     audioUrl: "/samples/context-engineering-with-dex-horthy.mp3",
     transcriptUrl: "/samples/context-engineering-with-dex-horthy.json"
+  },
+  {
+    id: "lex-475-demis-hassabis-2",
+    title: "Lex Fridman Podcast #475: Demis Hassabis 2",
+    durationLabel: "155 分钟",
+    sizeLabel: "106 MB",
+    audioUrl: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_demis_hassabis_2.mp3",
+    transcriptUrl: "/samples/lex-475-demis-hassabis-2.json"
   }
 ] as const;
 
@@ -39,14 +47,27 @@ const transcriptSchema = z.object({
     title: z.string().min(1),
     audioFilename: z.string().min(1),
     duration: z.number().positive(),
-    language: z.string().min(1).optional()
+    language: z.string().min(1).optional(),
+    source: z.object({
+      publisher: z.string().min(1),
+      episodeNumber: z.number().int().positive().optional(),
+      episodeUrl: z.url(),
+      transcriptUrl: z.url(),
+      audioUrl: z.url(),
+      publishedAt: z.string().min(1).optional(),
+      rightsStatus: z.enum(["unverified", "approved", "private-only"]),
+      transcriptSha256: z.string().regex(/^[a-f0-9]{64}$/).optional()
+    }).optional()
   }),
   segments: z.array(z.object({
     id: z.string().min(1),
     start: z.number().nonnegative(),
     end: z.number().positive(),
     text: z.string().min(1),
-    translations: z.record(z.string(), z.string().min(1)).optional()
+    translations: z.record(z.string(), z.string().min(1)).optional(),
+    speaker: z.string().min(1).optional(),
+    timingQuality: z.enum(["official", "aligned", "estimated"]).optional(),
+    sourceSegmentId: z.string().min(1).optional()
   })).min(1)
 });
 
@@ -116,6 +137,7 @@ function courseFromTranscript(input: TranscriptInput, duration = input.course.du
     audioFilename: input.course.audioFilename,
     duration,
     language: input.course.language,
+    source: input.course.source,
     segments: input.segments
   };
 }
@@ -405,7 +427,7 @@ export default function App() {
   if (!course || !audioUrl) {
     return (
       <main className="center-card course-home">
-        <div className="brand">LISTEN / 0004</div>
+        <div className="brand">LISTEN / 0005</div>
         <h1>选择一课，认真听懂。</h1>
         <p className="intro">点击课程即可在线播放；下载后也能离线学习。</p>
 
@@ -461,8 +483,14 @@ export default function App() {
     <main className="player-page">
       <header>
         <button className="back" onClick={returnToCourses}>← 返回课程</button>
-        <div className="brand">LISTEN / 0004</div>
+        <div className="brand">LISTEN / 0005</div>
         <h1>{course.title}</h1>
+        {course.source && (
+          <p className="source-note">
+            来源：<a href={course.source.episodeUrl} target="_blank" rel="noreferrer">{course.source.publisher}</a>
+            {` · 版权状态：${course.source.rightsStatus}`}
+          </p>
+        )}
         <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
           aria-label="播放进度" onChange={(event) => seekTo(Number(event.target.value))} />
@@ -470,6 +498,7 @@ export default function App() {
 
       <section className="focus-sentence" aria-live="polite">
         <span>当前句 · {currentSegment + 1}/{course.segments.length}</span>
+        {activeSegment.speaker && <span>{activeSegment.speaker}</span>}
         <p className="focus-english">{activeSegment.text}</p>
         {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
       </section>
@@ -479,6 +508,7 @@ export default function App() {
             onClick={() => seekToSegment(index)}>
             <time>{formatTime(segment.start)}</time>
             <span className="segment-copy">
+              {segment.speaker && <small>{segment.speaker}</small>}
               <span>{segment.text}</span>
               {showTranslation && segment.translations?.[translationLanguage] && (
                 <span className="segment-translation">{segment.translations[translationLanguage]}</span>

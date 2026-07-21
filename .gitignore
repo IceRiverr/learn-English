@@ -14,3 +14,7 @@ vite.config.d.ts
 .env
 .env.*
 !.env.example
+
+# Local podcast and translation production artifacts
+.lex-work/
+.translation-work/
