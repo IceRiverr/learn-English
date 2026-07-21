@@ -33,8 +33,8 @@ const lessons = [
     title: "Lex Fridman Podcast #475: Demis Hassabis 2",
     durationLabel: "155 分钟",
     sizeLabel: "106 MB",
-    audioUrl: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_demis_hassabis_2.mp3",
-    transcriptUrl: "/samples/lex-475-demis-hassabis-2.json"
+    audioUrl: "/samples/lex_ai_demis_hassabis_2.mp3",
+    transcriptUrl: "/samples/lex-475-demis-hassabis-2.json?v=3"
   }
 ] as const;
 
@@ -47,17 +47,8 @@ const transcriptSchema = z.object({
     title: z.string().min(1),
     audioFilename: z.string().min(1),
     duration: z.number().positive(),
-    language: z.string().min(1).optional(),
-    source: z.object({
-      publisher: z.string().min(1),
-      episodeNumber: z.number().int().positive().optional(),
-      episodeUrl: z.url(),
-      transcriptUrl: z.url(),
-      audioUrl: z.url(),
-      publishedAt: z.string().min(1).optional(),
-      rightsStatus: z.enum(["unverified", "approved", "private-only"]),
-      transcriptSha256: z.string().regex(/^[a-f0-9]{64}$/).optional()
-    }).optional()
+    revision: z.number().int().positive().optional(),
+    language: z.string().min(1).optional()
   }),
   segments: z.array(z.object({
     id: z.string().min(1),
@@ -65,9 +56,7 @@ const transcriptSchema = z.object({
     end: z.number().positive(),
     text: z.string().min(1),
     translations: z.record(z.string(), z.string().min(1)).optional(),
-    speaker: z.string().min(1).optional(),
-    timingQuality: z.enum(["official", "aligned", "estimated"]).optional(),
-    sourceSegmentId: z.string().min(1).optional()
+    speaker: z.string().min(1).optional()
   })).min(1)
 });
 
@@ -136,8 +125,8 @@ function courseFromTranscript(input: TranscriptInput, duration = input.course.du
     title: input.course.title,
     audioFilename: input.course.audioFilename,
     duration,
+    revision: input.course.revision,
     language: input.course.language,
-    source: input.course.source,
     segments: input.segments
   };
 }
@@ -287,7 +276,8 @@ export default function App() {
           try {
             const input = await fetchTranscript(lesson);
             const latestCourse = courseFromTranscript(input, saved.duration);
-            if (translationCount(latestCourse) > translationCount(saved)) {
+            if (translationCount(latestCourse) > translationCount(saved)
+              || (latestCourse.revision ?? 0) > (saved.revision ?? 0)) {
               localCourse = (await saveCourseMetadata(latestCourse)) ?? saved;
             }
           } catch {
@@ -485,12 +475,6 @@ export default function App() {
         <button className="back" onClick={returnToCourses}>← 返回课程</button>
         <div className="brand">LISTEN / 0005</div>
         <h1>{course.title}</h1>
-        {course.source && (
-          <p className="source-note">
-            来源：<a href={course.source.episodeUrl} target="_blank" rel="noreferrer">{course.source.publisher}</a>
-            {` · 版权状态：${course.source.rightsStatus}`}
-          </p>
-        )}
         <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
           aria-label="播放进度" onChange={(event) => seekTo(Number(event.target.value))} />
