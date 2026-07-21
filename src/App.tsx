@@ -64,6 +64,20 @@ type TranscriptInput = z.infer<typeof transcriptSchema>;
 const speeds = [0.75, 0.9, 1, 1.25, 1.5] as const;
 const translationLanguage = "zh-Hans";
 const translationPreferenceKey = "show-translation";
+const repeatPreferenceKey = "segment-repeat-count";
+const repeatLimits = [1, 2, 3, 5, "infinite"] as const;
+type RepeatLimit = (typeof repeatLimits)[number];
+
+function readRepeatLimit(): RepeatLimit {
+  try {
+    const value = localStorage.getItem(repeatPreferenceKey);
+    if (value === "infinite") return value;
+    if (value === "1" || value === "2" || value === "3" || value === "5") return Number(value) as RepeatLimit;
+    return 3;
+  } catch {
+    return 3;
+  }
+}
 
 function findSegmentIndex(segments: readonly Segment[], time: number): number {
   let low = 0;
@@ -165,6 +179,12 @@ export default function App() {
   const objectUrl = useRef<string | undefined>(undefined);
   const lastSavedAt = useRef(0);
   const restoreTime = useRef(0);
+  const loopSegmentRef = useRef<number | undefined>(undefined);
+  const repeatIterationRef = useRef(1);
+  const repeatLimitRef = useRef<RepeatLimit>(3);
+  const repeatSwitchingRef = useRef(false);
+  const repeatFinishedRef = useRef(false);
+  const repeatTimerRef = useRef(0);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -177,6 +197,12 @@ export default function App() {
   const [currentSegment, setCurrentSegment] = useState(0);
   const [playing, setPlaying] = useState(false);
   const [loopSegment, setLoopSegment] = useState<number>();
+  const [repeatLimit, setRepeatLimit] = useState<RepeatLimit>(() => {
+    const value = readRepeatLimit();
+    repeatLimitRef.current = value;
+    return value;
+  });
+  const [repeatIteration, setRepeatIteration] = useState(1);
   const [speed, setSpeed] = useState(1);
   const [showTranslation, setShowTranslation] = useState(() => {
     try {
@@ -203,6 +229,66 @@ export default function App() {
     setDownloaded(Object.fromEntries(entries));
   }
 
+  function clearRepeatTimer() {
+    window.clearTimeout(repeatTimerRef.current);
+    repeatTimerRef.current = 0;
+  }
+
+  function updateLoopSegment(value: number | undefined) {
+    loopSegmentRef.current = value;
+    setLoopSegment(value);
+  }
+
+  function updateRepeatIteration(value: number) {
+    repeatIterationRef.current = value;
+    setRepeatIteration(value);
+  }
+
+  function resetRepeatTransition() {
+    clearRepeatTimer();
+    repeatSwitchingRef.current = false;
+    repeatFinishedRef.current = false;
+  }
+
+  function completeRepeatIteration(audio: HTMLAudioElement) {
+    const target = loopSegmentRef.current;
+    if (!course || target === undefined || repeatSwitchingRef.current) return;
+
+    const segment = course.segments[target];
+    if (audio.currentTime < Math.min(course.duration, segment.end + 0.2)) return;
+
+    repeatSwitchingRef.current = true;
+    audio.pause();
+    const limit = repeatLimitRef.current;
+    const iteration = repeatIterationRef.current;
+    const isComplete = limit !== "infinite" && iteration >= limit;
+
+    if (isComplete && target === course.segments.length - 1) {
+      audio.currentTime = Math.min(course.duration, segment.end);
+      setCurrentTime(audio.currentTime);
+      repeatFinishedRef.current = true;
+      return;
+    }
+
+    const nextTarget = isComplete ? target + 1 : target;
+    const nextIteration = isComplete ? 1 : iteration + 1;
+    const resume = () => {
+      updateLoopSegment(nextTarget);
+      updateRepeatIteration(nextIteration);
+      audio.currentTime = Math.max(0, course.segments[nextTarget].start - 0.15);
+      setCurrentTime(audio.currentTime);
+      setCurrentSegment(nextTarget);
+      repeatSwitchingRef.current = false;
+      void audio.play();
+    };
+
+    if (document.hidden) {
+      resume();
+    } else {
+      repeatTimerRef.current = window.setTimeout(resume, 300);
+    }
+  }
+
   useEffect(() => {
     let cancelled = false;
     refreshDownloadedCourses()
@@ -210,6 +296,7 @@ export default function App() {
       .finally(() => !cancelled && setCheckingDownloads(false));
     return () => {
       cancelled = true;
+      clearRepeatTimer();
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
     };
   }, []);
@@ -217,26 +304,14 @@ export default function App() {
   useEffect(() => {
     if (loopSegment === undefined || !course) return;
     let frame = 0;
-    let timer = 0;
-    let waiting = false;
     const monitor = () => {
       const audio = audioRef.current;
-      const segment = course.segments[loopSegment];
-      if (audio && !document.hidden && !waiting && audio.currentTime >= Math.min(course.duration, segment.end + 0.2)) {
-        waiting = true;
-        audio.pause();
-        timer = window.setTimeout(() => {
-          audio.currentTime = Math.max(0, segment.start - 0.15);
-          void audio.play();
-          waiting = false;
-        }, 300);
-      }
+      if (audio && !document.hidden) completeRepeatIteration(audio);
       frame = requestAnimationFrame(monitor);
     };
     frame = requestAnimationFrame(monitor);
     return () => {
       cancelAnimationFrame(frame);
-      clearTimeout(timer);
     };
   }, [course, loopSegment]);
 
@@ -257,7 +332,9 @@ export default function App() {
     setSpeed(progress?.playbackRate ?? 1);
     setCurrentTime(restoreTime.current);
     setCurrentSegment(findSegmentIndex(nextCourse.segments, restoreTime.current));
-    setLoopSegment(undefined);
+    resetRepeatTransition();
+    updateLoopSegment(undefined);
+    updateRepeatIteration(1);
     setLocalPlayback(isLocal);
     setCourse(nextCourse);
     setAudioUrl(source);
@@ -361,19 +438,84 @@ export default function App() {
   function seekTo(value: number) {
     const audio = audioRef.current;
     if (!audio || !course) return;
+    resetRepeatTransition();
     audio.currentTime = Math.max(0, Math.min(value, course.duration));
     setCurrentTime(audio.currentTime);
-    setCurrentSegment(findSegmentIndex(course.segments, audio.currentTime));
+    const nextSegment = findSegmentIndex(course.segments, audio.currentTime);
+    setCurrentSegment(nextSegment);
+    if (loopSegmentRef.current !== undefined) {
+      updateLoopSegment(nextSegment);
+      updateRepeatIteration(1);
+    }
     saveCurrentProgress(audio.currentTime, audio.playbackRate);
   }
 
   function seekToSegment(index: number, autoplay = true) {
     if (!course) return;
     const next = Math.max(0, Math.min(index, course.segments.length - 1));
-    setCurrentSegment(next);
-    setLoopSegment((current) => current === undefined ? undefined : next);
     seekTo(Math.max(0, course.segments[next].start - 0.15));
+    setCurrentSegment(next);
+    if (loopSegmentRef.current !== undefined) {
+      updateLoopSegment(next);
+      updateRepeatIteration(1);
+    }
     if (autoplay) void audioRef.current?.play();
+  }
+
+  function toggleRepeat() {
+    const audio = audioRef.current;
+    if (!audio || !course) return;
+    if (loopSegmentRef.current !== undefined) {
+      resetRepeatTransition();
+      updateLoopSegment(undefined);
+      return;
+    }
+
+    resetRepeatTransition();
+    updateLoopSegment(currentSegment);
+    updateRepeatIteration(1);
+    audio.currentTime = Math.max(0, course.segments[currentSegment].start - 0.15);
+    setCurrentTime(audio.currentTime);
+    saveCurrentProgress(audio.currentTime, audio.playbackRate);
+    void audio.play();
+  }
+
+  function changeRepeatLimit(direction: -1 | 1) {
+    const currentIndex = repeatLimits.indexOf(repeatLimit);
+    const nextIndex = Math.max(0, Math.min(currentIndex + direction, repeatLimits.length - 1));
+    const nextLimit = repeatLimits[nextIndex];
+    repeatLimitRef.current = nextLimit;
+    setRepeatLimit(nextLimit);
+    if (nextLimit !== "infinite" && repeatIterationRef.current > nextLimit) {
+      updateRepeatIteration(nextLimit);
+    }
+    try {
+      localStorage.setItem(repeatPreferenceKey, String(nextLimit));
+    } catch {
+      // The repeat preference can remain in React state when storage is unavailable.
+    }
+  }
+
+  function togglePlayback() {
+    const audio = audioRef.current;
+    if (!audio) return;
+    if (playing) {
+      audio.pause();
+      return;
+    }
+    void audio.play();
+  }
+
+  function handlePlay(audio: HTMLAudioElement) {
+    const target = loopSegmentRef.current;
+    if (target !== undefined && repeatFinishedRef.current && course) {
+      resetRepeatTransition();
+      updateRepeatIteration(1);
+      audio.currentTime = Math.max(0, course.segments[target].start - 0.15);
+      setCurrentTime(audio.currentTime);
+      setCurrentSegment(target);
+    }
+    setPlaying(true);
   }
 
   function changeSpeed(value: number) {
@@ -400,6 +542,9 @@ export default function App() {
       saveCurrentProgress(audio.currentTime, audio.playbackRate);
     }
     replaceObjectUrl();
+    resetRepeatTransition();
+    updateLoopSegment(undefined);
+    updateRepeatIteration(1);
     setCourse(undefined);
     setAudioUrl(undefined);
     setPlaying(false);
@@ -511,22 +656,17 @@ export default function App() {
             setCurrentTime(event.currentTarget.currentTime);
             setCurrentSegment(findSegmentIndex(course.segments, event.currentTarget.currentTime));
           }}
-          onPlay={() => setPlaying(true)}
+          onPlay={(event) => handlePlay(event.currentTarget)}
           onPause={(event) => {
             setPlaying(false);
             saveCurrentProgress(event.currentTarget.currentTime, event.currentTarget.playbackRate);
           }}
           onTimeUpdate={(event) => {
             let time = event.currentTarget.currentTime;
-            if (loopSegment !== undefined && document.hidden) {
-              const segment = course.segments[loopSegment];
-              if (time >= Math.min(course.duration, segment.end + 0.2)) {
-                time = Math.max(0, segment.start - 0.15);
-                event.currentTarget.currentTime = time;
-              }
-            }
+            if (document.hidden) completeRepeatIteration(event.currentTarget);
+            time = event.currentTarget.currentTime;
             setCurrentTime(time);
-            const index = loopSegment ?? findSegmentIndex(course.segments, time);
+            const index = loopSegmentRef.current ?? findSegmentIndex(course.segments, time);
             setCurrentSegment((current) => current === index ? current : index);
             if (Date.now() - lastSavedAt.current > 5000) {
               lastSavedAt.current = Date.now();
@@ -542,14 +682,28 @@ export default function App() {
         <div className="main-controls">
           <button onClick={() => seekTo(currentTime - 5)} aria-label="后退五秒">−5s</button>
           <button onClick={() => seekToSegment(currentSegment - 1)} aria-label="上一句">‹</button>
-          <button className="play" onClick={() => playing ? audioRef.current?.pause() : void audioRef.current?.play()}
+          <button className="play" onClick={togglePlayback}
             aria-label={playing ? "暂停" : "播放"}>{playing ? "Ⅱ" : "▶"}</button>
           <button onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">›</button>
           <button onClick={() => seekTo(currentTime + 5)} aria-label="前进五秒">+5s</button>
         </div>
         <div className="control-footer">
-          <button className={loopSegment !== undefined ? "loop active-loop" : "loop"}
-            onClick={() => setLoopSegment((value) => value === undefined ? currentSegment : undefined)}>↻ 当前句</button>
+          <div className="repeat-controls">
+            <button className={loopSegment !== undefined ? "loop active-loop" : "loop"}
+              aria-pressed={loopSegment !== undefined} onClick={toggleRepeat}>
+              {loopSegment !== undefined
+                ? `↻ ${repeatIteration} / ${repeatLimit === "infinite" ? "∞" : repeatLimit}`
+                : "↻ 逐句循环"}
+            </button>
+            <button className="repeat-step" aria-label="减少逐句循环次数"
+              disabled={repeatLimit === repeatLimits[0]} onClick={() => changeRepeatLimit(-1)}>−</button>
+            <span className="repeat-limit" aria-live="polite"
+              aria-label={`当前逐句循环次数：${repeatLimit === "infinite" ? "无限" : `${repeatLimit} 次`}`}>
+              {repeatLimit === "infinite" ? "无限" : `${repeatLimit} 次`}
+            </span>
+            <button className="repeat-step" aria-label="增加逐句循环次数"
+              disabled={repeatLimit === repeatLimits.at(-1)} onClick={() => changeRepeatLimit(1)}>+</button>
+          </div>
           <button
             className={showTranslation && availableTranslations > 0 ? "translation-toggle enabled" : "translation-toggle"}
             disabled={availableTranslations === 0}

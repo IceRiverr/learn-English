@@ -243,8 +243,29 @@ h1 {
 
 .control-footer { justify-content: space-between; }
 .control-footer button { min-height: 38px; padding: 0 12px; border-radius: 10px; background: transparent; }
+.repeat-controls { display: flex; align-items: center; gap: 5px; }
 .loop { color: #173f35; border: 1px solid #b9c4bf; }
 .active-loop { color: white; background: #173f35 !important; border-color: #173f35; }
+.repeat-step {
+  width: 34px;
+  padding: 0 !important;
+  color: #173f35;
+  border: 1px solid #b9c4bf;
+}
+.repeat-step:disabled { color: #9ba5a1; border-color: #d8d8d0; cursor: default; }
+.repeat-limit {
+  min-width: 42px;
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #53645e;
+  border-radius: 10px;
+  background: #e9e5da;
+  font-size: 13px;
+  text-align: center;
+  white-space: nowrap;
+}
 .translation-toggle { color: #61716b; border: 1px solid #b9c4bf; }
 .translation-toggle.enabled { color: white; background: #b06c21; border-color: #b06c21; }
 .translation-toggle:disabled { color: #9ba5a1; border-color: transparent; cursor: default; }
@@ -259,4 +280,6 @@ h1 {
   .download { min-width: 70px; padding: 0 10px; }
   .control-footer { gap: 6px; }
   .control-footer button { padding: 0 9px; font-size: 13px; }
+  .repeat-controls { gap: 3px; }
+  .repeat-step { width: 30px; padding: 0 !important; }
 }
