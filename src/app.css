@@ -176,6 +176,38 @@ h1 {
 .time-row { display: flex; justify-content: space-between; font-variant-numeric: tabular-nums; font-size: 13px; }
 .timeline { width: 100%; accent-color: #b06c21; }
 
+.player-view-switch {
+  width: min(100%, 260px);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+  margin: 22px 0 0;
+  padding: 4px;
+  border-radius: 13px;
+  background: #e9e5da;
+}
+.player-view-switch button {
+  min-height: 44px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 10px;
+  color: #61716b;
+  background: transparent;
+  font-weight: 750;
+}
+.player-view-switch button[aria-pressed="true"] {
+  color: #fff;
+  background: #173f35;
+}
+.player-content { touch-action: pan-y; }
+.focus-view {
+  min-height: clamp(220px, calc(100dvh - 470px), 520px);
+  display: flex;
+  align-items: center;
+}
+.focus-view .focus-sentence { width: 100%; }
+.transcript-view { margin-top: 22px; }
+
 .focus-sentence {
   margin: 30px 0 22px;
   padding: 22px;
@@ -211,11 +243,27 @@ h1 {
   border-radius: 12px;
   line-height: 1.45;
 }
+.segment.active { scroll-margin-block: 80px calc(210px + env(safe-area-inset-bottom)); }
 .segment time { color: #a07843; font-size: 12px; padding-top: 3px; }
 .segment-copy { display: grid; gap: 7px; }
 .segment-translation { color: #71817b; font-size: 14px; line-height: 1.55; }
 .segment.active { color: #173f35; background: #fff; border-color: #e4d6bf; box-shadow: 0 6px 20px rgba(31, 48, 42, 0.06); }
 .segment.active .segment-translation { color: #49645c; }
+.follow-transcript {
+  position: fixed;
+  z-index: 9;
+  left: 50%;
+  bottom: calc(188px + env(safe-area-inset-bottom));
+  min-height: 44px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 22px;
+  color: #fff;
+  background: #173f35;
+  box-shadow: 0 8px 24px rgba(23, 63, 53, .2);
+  transform: translateX(-50%);
+  font-weight: 750;
+}
 
 .controls {
   position: fixed;
@@ -328,4 +376,8 @@ h1 {
 
 @media (max-width: 340px) {
   .main-controls { gap: 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; }
 }

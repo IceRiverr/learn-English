@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import { z } from "zod";
 import {
   deleteCourse,
@@ -68,6 +68,7 @@ const repeatPreferenceKey = "segment-repeat-count";
 const repeatLimits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "infinite"] as const;
 type RepeatLimit = (typeof repeatLimits)[number];
 type OpenPlayerMenu = "speed" | "repeat" | "reading" | undefined;
+type PlayerView = "focus" | "transcript";
 
 function readRepeatLimit(): RepeatLimit {
   try {
@@ -190,6 +191,11 @@ export default function App() {
   const repeatTimerRef = useRef(0);
   const playerSettingsRef = useRef<HTMLDivElement>(null);
   const playerMenuTriggerRef = useRef<HTMLButtonElement>(null);
+  const activeSegmentRef = useRef<HTMLButtonElement>(null);
+  const transcriptShouldCenterRef = useRef(false);
+  const contentGestureRef = useRef<{ pointerId: number; startX: number; startY: number } | undefined>(undefined);
+  const ignoreContentClickRef = useRef(false);
+  const ignoreContentClickTimerRef = useRef(0);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -209,6 +215,8 @@ export default function App() {
   });
   const [repeatIteration, setRepeatIteration] = useState(1);
   const [openPlayerMenu, setOpenPlayerMenu] = useState<OpenPlayerMenu>();
+  const [playerView, setPlayerView] = useState<PlayerView>("focus");
+  const [followingTranscript, setFollowingTranscript] = useState(true);
   const [speed, setSpeed] = useState(1);
   const [showTranslation, setShowTranslation] = useState(() => {
     try {
@@ -303,6 +311,7 @@ export default function App() {
     return () => {
       cancelled = true;
       clearRepeatTimer();
+      window.clearTimeout(ignoreContentClickTimerRef.current);
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
     };
   }, []);
@@ -348,6 +357,14 @@ export default function App() {
     };
   }, [openPlayerMenu]);
 
+  useEffect(() => {
+    if (playerView !== "transcript" || !followingTranscript) return;
+    const center = transcriptShouldCenterRef.current;
+    transcriptShouldCenterRef.current = false;
+    const frame = requestAnimationFrame(() => scrollActiveSegment(center));
+    return () => cancelAnimationFrame(frame);
+  }, [currentSegment, followingTranscript, playerView]);
+
   async function showCourse(nextCourse: Course, source: string, isLocal: boolean) {
     const progress = await loadProgress(nextCourse.id);
     restoreTime.current = progress?.currentTime ?? 0;
@@ -358,6 +375,8 @@ export default function App() {
     updateLoopSegment(undefined);
     updateRepeatIteration(1);
     setOpenPlayerMenu(undefined);
+    setPlayerView("focus");
+    setFollowingTranscript(true);
     setLocalPlayback(isLocal);
     setCourse(nextCourse);
     setAudioUrl(source);
@@ -534,6 +553,77 @@ export default function App() {
     window.setTimeout(() => playerMenuTriggerRef.current?.focus(), 0);
   }
 
+  function scrollActiveSegment(center: boolean) {
+    const segment = activeSegmentRef.current;
+    if (!segment) return;
+    const rect = segment.getBoundingClientRect();
+    const controlsTop = document.querySelector<HTMLElement>(".controls")?.getBoundingClientRect().top ?? window.innerHeight;
+    if (!center && rect.top >= 12 && rect.bottom <= controlsTop - 12) return;
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    segment.scrollIntoView({ block: "center", behavior: reduceMotion ? "auto" : "smooth" });
+  }
+
+  function changePlayerView(view: PlayerView) {
+    if (view === playerView) return;
+    if (view === "transcript") {
+      transcriptShouldCenterRef.current = true;
+      setFollowingTranscript(true);
+    }
+    setPlayerView(view);
+  }
+
+  function resumeTranscriptFollowing() {
+    transcriptShouldCenterRef.current = true;
+    setFollowingTranscript(true);
+  }
+
+  function startContentGesture(event: ReactPointerEvent<HTMLElement>) {
+    if (!event.isPrimary || !(event.target instanceof Element)
+      || event.target.closest(".follow-transcript")) return;
+    contentGestureRef.current = { pointerId: event.pointerId, startX: event.clientX, startY: event.clientY };
+  }
+
+  function moveContentGesture(event: ReactPointerEvent<HTMLElement>) {
+    const gesture = contentGestureRef.current;
+    if (!gesture || gesture.pointerId !== event.pointerId || playerView !== "transcript") return;
+    const distanceX = Math.abs(event.clientX - gesture.startX);
+    const distanceY = Math.abs(event.clientY - gesture.startY);
+    if (distanceY > 12 && distanceY > distanceX) setFollowingTranscript(false);
+  }
+
+  function finishContentGesture(event: ReactPointerEvent<HTMLElement>) {
+    const gesture = contentGestureRef.current;
+    contentGestureRef.current = undefined;
+    if (!gesture || gesture.pointerId !== event.pointerId) return;
+
+    const distanceX = event.clientX - gesture.startX;
+    const distanceY = event.clientY - gesture.startY;
+    if (Math.abs(distanceX) < 60 || Math.abs(distanceX) <= Math.abs(distanceY) * 1.25) return;
+    const nextView = playerView === "focus" && distanceX < 0
+      ? "transcript"
+      : playerView === "transcript" && distanceX > 0 && gesture.startX > 24
+        ? "focus"
+        : undefined;
+    if (!nextView) return;
+
+    event.preventDefault();
+    ignoreContentClickRef.current = true;
+    window.clearTimeout(ignoreContentClickTimerRef.current);
+    ignoreContentClickTimerRef.current = window.setTimeout(() => {
+      ignoreContentClickRef.current = false;
+    }, 500);
+    changePlayerView(nextView);
+  }
+
+  function cancelContentGesture(event: ReactPointerEvent<HTMLElement>) {
+    const gesture = contentGestureRef.current;
+    if (!gesture || gesture.pointerId !== event.pointerId) return;
+    if (playerView === "transcript" && Math.abs(event.clientY - gesture.startY) > 12) {
+      setFollowingTranscript(false);
+    }
+    contentGestureRef.current = undefined;
+  }
+
   function togglePlayback() {
     const audio = audioRef.current;
     if (!audio) return;
@@ -586,6 +676,8 @@ export default function App() {
     updateLoopSegment(undefined);
     updateRepeatIteration(1);
     setOpenPlayerMenu(undefined);
+    setPlayerView("focus");
+    setFollowingTranscript(true);
     setCourse(undefined);
     setAudioUrl(undefined);
     setPlaying(false);
@@ -599,6 +691,24 @@ export default function App() {
     setDownloaded((current) => ({ ...current, [course.id]: false }));
     returnToCourses();
   }
+
+  const transcriptContent = useMemo(() => {
+    if (!course) return null;
+    return course.segments.map((segment, index) => (
+      <button key={segment.id} ref={index === currentSegment ? activeSegmentRef : undefined}
+        className={index === currentSegment ? "segment active" : "segment"}
+        onClick={() => seekToSegment(index)}>
+        <time>{formatTime(segment.start)}</time>
+        <span className="segment-copy">
+          {segment.speaker && <small>{segment.speaker}</small>}
+          <span>{segment.text}</span>
+          {showTranslation && segment.translations?.[translationLanguage] && (
+            <span className="segment-translation">{segment.translations[translationLanguage]}</span>
+          )}
+        </span>
+      </button>
+    ));
+  }, [course, currentSegment, showTranslation]);
 
   if (!course || !audioUrl) {
     return (
@@ -666,27 +776,42 @@ export default function App() {
         </div>
       </header>
 
-      <section className="focus-sentence" aria-live="polite">
-        <span>当前句 · {currentSegment + 1}/{course.segments.length}</span>
-        {activeSegment.speaker && <span>{activeSegment.speaker}</span>}
-        <p className="focus-english">{activeSegment.text}</p>
-        {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
-      </section>
-      <section className="transcript" aria-label="完整字幕">
-        {course.segments.map((segment, index) => (
-          <button key={segment.id} className={index === currentSegment ? "segment active" : "segment"}
-            onClick={() => seekToSegment(index)}>
-            <time>{formatTime(segment.start)}</time>
-            <span className="segment-copy">
-              {segment.speaker && <small>{segment.speaker}</small>}
-              <span>{segment.text}</span>
-              {showTranslation && segment.translations?.[translationLanguage] && (
-                <span className="segment-translation">{segment.translations[translationLanguage]}</span>
-              )}
-            </span>
-          </button>
-        ))}
-      </section>
+      <div className="player-view-switch" role="group" aria-label="正文视图">
+        <button aria-pressed={playerView === "focus"} onClick={() => changePlayerView("focus")}>当前句</button>
+        <button aria-pressed={playerView === "transcript"} onClick={() => changePlayerView("transcript")}>全文</button>
+      </div>
+
+      <div className={playerView === "focus" ? "player-content focus-view" : "player-content transcript-view"}
+        onPointerDown={startContentGesture} onPointerMove={moveContentGesture}
+        onPointerUp={finishContentGesture} onPointerCancel={cancelContentGesture}
+        onWheel={(event) => {
+          if (playerView === "transcript" && Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
+            setFollowingTranscript(false);
+          }
+        }}
+        onClickCapture={(event) => {
+          if (!ignoreContentClickRef.current) return;
+          ignoreContentClickRef.current = false;
+          window.clearTimeout(ignoreContentClickTimerRef.current);
+          event.preventDefault();
+          event.stopPropagation();
+        }}>
+        {playerView === "focus" ? (
+          <section className="focus-sentence" aria-live="polite">
+            <span>当前句 · {currentSegment + 1}/{course.segments.length}</span>
+            {activeSegment.speaker && <span>{activeSegment.speaker}</span>}
+            <p className="focus-english">{activeSegment.text}</p>
+            {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
+          </section>
+        ) : (
+          <>
+            <section className="transcript" aria-label="完整字幕">{transcriptContent}</section>
+            {!followingTranscript && (
+              <button className="follow-transcript" onClick={resumeTranscriptFollowing}>回到当前句</button>
+            )}
+          </>
+        )}
+      </div>
       {error && <p className="error" role="alert">{error}</p>}
 
       <section className="controls" aria-label="播放器控制">
