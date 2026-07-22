@@ -50,6 +50,33 @@ button { cursor: pointer; }
   font-family: Georgia, "Times New Roman", serif;
   font-size: 22px;
 }
+.course-group {
+  overflow: hidden;
+  border: 1px solid #d8d8d0;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.course-group summary {
+  min-height: 56px;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  list-style: none;
+}
+.course-group summary::-webkit-details-marker { display: none; }
+.course-group summary::before {
+  content: "+";
+  color: #b06c21;
+  font-size: 22px;
+  line-height: 1;
+}
+.course-group[open] summary::before { content: "−"; }
+.course-group[open] summary { border-bottom: 1px solid #d8d8d0; }
+.course-group summary span { color: #76847f; font-size: 13px; }
+.course-group-list { display: grid; gap: 10px; padding: 10px; }
 .course-row {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;

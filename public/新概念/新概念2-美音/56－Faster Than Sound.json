@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-056-faster-than-sound",
+    "title": "Lesson 56: Faster Than Sound",
+    "audioFilename": "56－Faster Than Sound.mp3",
+    "duration": 101.46,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.1,
+      "text": "Lesson 56.",
+      "translations": {
+        "zh-Hans": "第56课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.6,
+      "end": 4.88,
+      "text": "Faster Than Sound.",
+      "translations": {
+        "zh-Hans": "比声音还快。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.34,
+      "end": 9.36,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.64,
+      "end": 13.44,
+      "text": "How fast did the winning car go?",
+      "translations": {
+        "zh-Hans": "获胜的汽车开得有多快？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.48,
+      "end": 19.62,
+      "text": "Once a year, a race is held for old cars.",
+      "translations": {
+        "zh-Hans": "每年举行一次老式汽车比赛。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.96,
+      "end": 29.24,
+      "text": "A lot of cars entered for this race last year, and there was a great deal of excitement just before it began.",
+      "translations": {
+        "zh-Hans": "去年许多汽车参加了这项比赛，比赛开始前人们异常兴奋。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 30.7,
+      "end": 35.52,
+      "text": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "translations": {
+        "zh-Hans": "最漂亮的汽车之一是一辆劳斯莱斯“银鬼”。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 36.64,
+      "end": 42.26,
+      "text": "The most unusual car was a Benz which had only three wheels.",
+      "translations": {
+        "zh-Hans": "最不同寻常的是一辆只有三个轮子的奔驰汽车。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 43.58,
+      "end": 48.7,
+      "text": "Built in 1885, it was the oldest car taking part.",
+      "translations": {
+        "zh-Hans": "它制造于1885年，是参赛车辆中最古老的一辆。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 50.06,
+      "end": 54.64,
+      "text": "After a great many loud explosions, the race began.",
+      "translations": {
+        "zh-Hans": "一连串震耳欲聋的爆炸声过后，比赛开始了。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 56.04,
+      "end": 64.36,
+      "text": "Many of the cars broke down on the course, and some drivers spent more time under their cars than in them.",
+      "translations": {
+        "zh-Hans": "许多汽车在赛道上抛锚，一些车手待在车底下的时间比待在车里还长。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 65.72,
+      "end": 68.74,
+      "text": "A few cars, however, completed the race.",
+      "translations": {
+        "zh-Hans": "不过，仍有几辆车完成了比赛。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 69.64,
+      "end": 77.24,
+      "text": "The winning car reached a speed of 40 miles an hour, much faster than any of its rivals.",
+      "translations": {
+        "zh-Hans": "获胜的汽车时速达到40英里，比其他任何参赛车辆都快得多。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 78.34,
+      "end": 85.2,
+      "text": "It sped downhill at the end of the race, and its driver had a lot of trouble trying to stop it.",
+      "translations": {
+        "zh-Hans": "比赛结束时，它飞速冲下山坡，车手费了很大劲才把车停下来。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 86.06,
+      "end": 89.42,
+      "text": "The race gave everyone a great deal of pleasure.",
+      "translations": {
+        "zh-Hans": "这场比赛给大家带来了极大的乐趣。"
+      }
+    }
+  ]
+}

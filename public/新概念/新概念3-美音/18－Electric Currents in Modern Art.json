@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-018-electric-currents-in-modern-art",
+    "title": "Lesson 18: Electric Currents in Modern Art",
+    "audioFilename": "18－Electric Currents in Modern Art.mp3",
+    "duration": 140.173,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0,
+      "end": 1.36,
+      "text": "Lesson 18.",
+      "translations": {
+        "zh-Hans": "第18课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.42,
+      "end": 4.48,
+      "text": "Electric Currents in Modern Art.",
+      "translations": {
+        "zh-Hans": "现代艺术中的电流。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 30,
+      "end": 34.38,
+      "text": "To notice examples of modern sculpture on display in public places.",
+      "translations": {
+        "zh-Hans": "我们很容易注意到公共场所展出的现代雕塑。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 36.02,
+      "end": 39.68,
+      "text": "forms stand in gardens and outside buildings and shops.",
+      "translations": {
+        "zh-Hans": "各种形状的作品矗立在花园里以及楼房和商店外。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 40.64,
+      "end": 42.66,
+      "text": "We have got quite used to them.",
+      "translations": {
+        "zh-Hans": "我们已经相当习惯它们了。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 43.54,
+      "end": 48.82,
+      "text": "Some so-called modern pieces have been on display for nearly 80 years.",
+      "translations": {
+        "zh-Hans": "有些所谓的现代作品已经展出了近80年。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 49.92,
+      "end": 57.56,
+      "text": "In spite of this, some people, including myself, were surprised by a recent exhibition of modern sculpture.",
+      "translations": {
+        "zh-Hans": "尽管如此，最近一次现代雕塑展还是令包括我在内的一些人大吃一惊。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 58.56,
+      "end": 65.84,
+      "text": "The first thing I saw when I entered the art gallery was a notice which said, Do not touch the exhibits.",
+      "translations": {
+        "zh-Hans": "走进美术馆后，我首先看到一则告示，上面写着：“请勿触摸展品。”"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 66.4,
+      "end": 67.98,
+      "text": "Some of them are dangerous.",
+      "translations": {
+        "zh-Hans": "“部分展品有危险。”"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 69.16,
+      "end": 72.86,
+      "text": "The objects on display were pieces of moving sculpture.",
+      "translations": {
+        "zh-Hans": "展出的作品都是会动的雕塑。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 74.34,
+      "end": 83.04,
+      "text": "Oddly shaped forms that are suspended from the ceiling and move, in response to a gust of wind, are quite familiar to everybody.",
+      "translations": {
+        "zh-Hans": "人们都很熟悉那些悬在天花板上、会随风摆动的奇形怪状物体。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 84.04,
+      "end": 86.9,
+      "text": "These objects, however, were different.",
+      "translations": {
+        "zh-Hans": "然而，这里的展品却不一样。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 88.04,
+      "end": 93.16,
+      "text": "Lined up against the wall, there were long, thin wires attached to metal spheres.",
+      "translations": {
+        "zh-Hans": "靠墙排列着细长的金属丝，末端连着金属球。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 94.06,
+      "end": 100.1,
+      "text": "The spheres had been magnetized and attracted or repelled each other all the time.",
+      "translations": {
+        "zh-Hans": "这些球经过磁化，始终相互吸引或排斥。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 100.9,
+      "end": 106.76,
+      "text": "In the center of the hall, there were a number of tall structures which contained colored lights.",
+      "translations": {
+        "zh-Hans": "大厅中央有许多装着彩灯的高大结构。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 107.59,
+      "end": 112.72,
+      "text": "These lights flickered continuously, like traffic lights which have gone mad.",
+      "translations": {
+        "zh-Hans": "灯光不停闪烁，仿佛发了疯的交通信号灯。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 114.48,
+      "end": 120.26,
+      "text": "were emitted from small black boxes and red lamps flashed on and off angrily.",
+      "translations": {
+        "zh-Hans": "声音从小黑盒子里发出，红灯愤怒地忽明忽灭。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 121.2,
+      "end": 125.62,
+      "text": "It was rather like an exhibition of prehistoric electronic equipment.",
+      "translations": {
+        "zh-Hans": "这里颇像一个史前电子设备展览。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 126.94,
+      "end": 135.22,
+      "text": "These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well.",
+      "translations": {
+        "zh-Hans": "这些奇特的造型似乎不仅为了在情感上震撼观众，还要让他们真正遭受电击。"
+      }
+    }
+  ]
+}

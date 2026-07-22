@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-058-a-spot-of-bother",
+    "title": "Lesson 58: A Spot of Bother",
+    "audioFilename": "58－A Spot of Bother.mp3",
+    "duration": 232.568,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 1.67,
+      "text": "Lesson 58.",
+      "translations": {
+        "zh-Hans": "第58课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.67,
+      "end": 4.09,
+      "text": "Spot of Bother.",
+      "translations": {
+        "zh-Hans": "一点小麻烦。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.65,
+      "end": 8.65,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.69,
+      "end": 12.49,
+      "text": "What did the old lady find when she got home?",
+      "translations": {
+        "zh-Hans": "老太太回家后发现了什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.79,
+      "end": 19.85,
+      "text": "The old lady was glad to be back at the block of flats where she lived.",
+      "translations": {
+        "zh-Hans": "老太太很高兴回到自己居住的公寓楼。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.93,
+      "end": 27.25,
+      "text": "Her shopping had tired her, and her basket had grown heavier with every step of the way home.",
+      "translations": {
+        "zh-Hans": "购物把她累坏了，回家路上每走一步，她都觉得篮子更重了。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 28.17,
+      "end": 40.95,
+      "text": "In the lift, her thoughts were on lunch and a good rest, but when she got out at her own floor, both were forgotten in her sudden discovery that her front door was open.",
+      "translations": {
+        "zh-Hans": "在电梯里，她只想着午饭和好好休息；但到了自己那层，她突然发现家门敞开着，这两件事便全被抛到脑后。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 42.05,
+      "end": 57.85,
+      "text": "She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence when she remembered that she had gone shopping after the home help had left, and she knew that she had turned",
+      "translations": {
+        "zh-Hans": "她正想着第二天早晨一定要训斥家政女工，竟如此严重失职，忽然想起自己是在女工离开后才去购物的，而且她清楚记得自己已经转动了"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 57.85,
+      "end": 59.57,
+      "text": "both keys in their locks.",
+      "translations": {
+        "zh-Hans": "两把钥匙，把两道锁都锁好了。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 60.63,
+      "end": 66.73,
+      "text": "She walked slowly into the hall and at once noticed that all the room doors were open.",
+      "translations": {
+        "zh-Hans": "她慢慢走进门厅，立即发现所有房门都开着。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 67.57,
+      "end": 72.11,
+      "text": "Yet following her regular practice, she had shut them before going out.",
+      "translations": {
+        "zh-Hans": "可是按照一贯习惯，出门前她明明把这些门都关上了。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 72.81,
+      "end": 78.51,
+      "text": "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
+      "translations": {
+        "zh-Hans": "她朝客厅里一看，发现写字台附近一片狼藉。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 79.09,
+      "end": 84.53,
+      "text": "It was as clear as daylight then that burglars had forced an entry during her absence.",
+      "translations": {
+        "zh-Hans": "这时事情再清楚不过了：她不在家时，窃贼强行闯了进来。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 85.97,
+      "end": 100.51,
+      "text": "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
+      "translations": {
+        "zh-Hans": "她的第一反应是逐个房间寻找窃贼，但随即想到自己这把年纪，找个人陪同也许更稳妥，于是到地下室去找门卫。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 101.71,
+      "end": 111.31,
+      "text": "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea while he telephoned the police.",
+      "translations": {
+        "zh-Hans": "这时她的双腿已经开始发抖，于是坐下来；门卫打电话报警时，她喝下了一杯很浓的茶。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 112.25,
+      "end": 123.31,
+      "text": "Then, her composure regained, she was ready to set off with the porter's assistance to search for any intruders who might still be lurking in her flat.",
+      "translations": {
+        "zh-Hans": "随后她恢复了镇定，准备在门卫协助下搜查公寓，看看是否还有闯入者潜藏其中。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 124.49,
+      "end": 132.83,
+      "text": "They went through the rooms being careful to touch nothing as they did not want to hinder the police in their search for fingerprints.",
+      "translations": {
+        "zh-Hans": "他们查看了各个房间，小心不碰任何东西，以免妨碍警方查找指纹。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 133.61,
+      "end": 136.41,
+      "text": "The chaos was inconceivable.",
+      "translations": {
+        "zh-Hans": "现场的混乱简直难以想象。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 137.27,
+      "end": 149.97,
+      "text": "She had lived in the flat for thirty years and was a veritable magpie at hoarding, and it seemed as though everything she possessed had been tossed out and turned over and over.",
+      "translations": {
+        "zh-Hans": "她在这套公寓住了三十年，确实像喜鹊一样爱囤东西；看起来，她拥有的一切都被翻出，反复倒腾过。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 150.85,
+      "end": 157.47,
+      "text": "At least sorting out the things she should have discarded years ago was now being made easier for her.",
+      "translations": {
+        "zh-Hans": "至少，这倒让她更容易整理那些多年前就该丢掉的东西了。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 158.97,
+      "end": 165.97,
+      "text": "Then a police inspector arrived with a constable, and she told them of her discovery of the ransacked flat.",
+      "translations": {
+        "zh-Hans": "接着，一名警督带着警员赶到，她把发现公寓被洗劫的经过告诉了他们。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 167.11,
+      "end": 181.05,
+      "text": "The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
+      "translations": {
+        "zh-Hans": "警督开始寻找指纹，警员则检查前门的锁是否遭到破坏；结果锁完好无损，这说明窃贼要么用了万能钥匙，要么是从阳台进来的。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 181.95,
+      "end": 192.11,
+      "text": "There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewelry which the old lady said was not hers.",
+      "translations": {
+        "zh-Hans": "现场没有指纹，但警督发现一个肮脏的红包裹，里面装着老太太说并不属于她的珠宝。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 193.01,
+      "end": 201.09,
+      "text": "So their entry into this flat was apparently not the burglar's first job that day, and they must have been disturbed.",
+      "translations": {
+        "zh-Hans": "看来闯入这套公寓并不是窃贼当天干的第一票，而且他们一定受到了惊扰。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 201.79,
+      "end": 212.05,
+      "text": "The inspector then asked the old lady to try to check what was missing by the next day, and advised her not to stay alone in the flat for a few nights.",
+      "translations": {
+        "zh-Hans": "随后警督要求老太太在第二天以前尽量查清丢失了什么，并劝她这几晚不要独自住在公寓里。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 212.87,
+      "end": 226.71,
+      "text": "The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.",
+      "translations": {
+        "zh-Hans": "老太太觉得他真爱大惊小怪；但门卫也赞同他的意见，她便给女儿打电话，请她来帮忙处理这件被她称作“一点小麻烦”的事。"
+      }
+    }
+  ]
+}

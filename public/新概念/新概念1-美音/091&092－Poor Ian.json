@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-091-092-poor-ian",
+    "title": "Lesson 91: Poor Ian",
+    "audioFilename": "091&092－Poor Ian.mp3",
+    "duration": 106.423,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.62,
+      "end": 4.7,
+      "text": "Lesson 91–Poor Ian.",
+      "translations": {
+        "zh-Hans": "第91课——可怜的伊恩。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.24,
+      "end": 10.5,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.24,
+      "end": 14.7,
+      "text": "Who wanted to sell the house?",
+      "translations": {
+        "zh-Hans": "谁想卖掉这所房子？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.68,
+      "end": 20.06,
+      "text": "Has Ian sold his house yet?",
+      "translations": {
+        "zh-Hans": "伊恩已经卖掉房子了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 21.2,
+      "end": 22.72,
+      "text": "Yes, he has.",
+      "translations": {
+        "zh-Hans": "是的，已经卖了。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 23.24,
+      "end": 25.34,
+      "text": "He sold it last week.",
+      "translations": {
+        "zh-Hans": "他上星期卖掉的。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.94,
+      "end": 30.24,
+      "text": "Has he moved to his new house yet?",
+      "translations": {
+        "zh-Hans": "他已经搬进新房子了吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 31.24,
+      "end": 33.08,
+      "text": "No, not yet.",
+      "translations": {
+        "zh-Hans": "还没有。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 33.74,
+      "end": 35.18,
+      "text": "He's still here.",
+      "translations": {
+        "zh-Hans": "他还在这里。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 36.08,
+      "end": 38.2,
+      "text": "He's going to move tomorrow.",
+      "translations": {
+        "zh-Hans": "他准备明天搬家。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 39.9,
+      "end": 40.22,
+      "text": "When?",
+      "translations": {
+        "zh-Hans": "什么时候？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 41.76,
+      "end": 42.46,
+      "text": "morning?",
+      "translations": {
+        "zh-Hans": "上午吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 44.06,
+      "end": 46.66,
+      "text": "No, afternoon.",
+      "translations": {
+        "zh-Hans": "不，下午。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 47.68,
+      "end": 49.04,
+      "text": "I'll miss him.",
+      "translations": {
+        "zh-Hans": "我会想念他的。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 49.86,
+      "end": 53.22,
+      "text": "He has always been a good neighbor.",
+      "translations": {
+        "zh-Hans": "他一直是个好邻居。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 54.22,
+      "end": 57.2,
+      "text": "He's a very nice person.",
+      "translations": {
+        "zh-Hans": "他人很好。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 58.26,
+      "end": 60.64,
+      "text": "We'll all miss him.",
+      "translations": {
+        "zh-Hans": "我们大家都会想念他的。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 62.48,
+      "end": 66.1,
+      "text": "When will the new people move into this house?",
+      "translations": {
+        "zh-Hans": "新住户什么时候搬进这所房子？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 67.44,
+      "end": 72.24,
+      "text": "I think that they'll move in the day after tomorrow.",
+      "translations": {
+        "zh-Hans": "我想他们后天会搬进来。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 74.22,
+      "end": 77.52,
+      "text": "Will you see Ian today, Jenny?",
+      "translations": {
+        "zh-Hans": "珍妮，你今天会见到伊恩吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 79.18,
+      "end": 81.28,
+      "text": "Yes, I will.",
+      "translations": {
+        "zh-Hans": "会的。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 82.56,
+      "end": 86.38,
+      "text": "Please give him my regards.",
+      "translations": {
+        "zh-Hans": "请代我向他问好。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 87.94,
+      "end": 89,
+      "text": "Poor Ian.",
+      "translations": {
+        "zh-Hans": "可怜的伊恩。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 89.82,
+      "end": 92.92,
+      "text": "He didn't want to leave this house.",
+      "translations": {
+        "zh-Hans": "他并不想离开这所房子。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 94.46,
+      "end": 100.04,
+      "text": "No, he didn't want to leave, but his wife did.",
+      "translations": {
+        "zh-Hans": "是的，他不想离开，但他妻子想。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-088-trapped-in-a-mine",
+    "title": "Lesson 88: Trapped in a Mine",
+    "audioFilename": "88－Trapped in a Mine.mp3",
+    "duration": 108.356,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.96,
+      "end": 8.7,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.3,
+      "end": 12.96,
+      "text": "Why is the rescue taking so long?",
+      "translations": {
+        "zh-Hans": "营救工作为什么耗时这么久？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 15.33,
+      "end": 19.75,
+      "text": "Six men have been trapped in a mine for seventeen hours.",
+      "translations": {
+        "zh-Hans": "六名矿工已经被困在矿井里17个小时。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 21.17,
+      "end": 25.47,
+      "text": "If they are not brought to the surface soon, they may lose their lives.",
+      "translations": {
+        "zh-Hans": "如果不能尽快把他们救到地面，他们可能会丧命。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 26.83,
+      "end": 30.81,
+      "text": "However, rescue operations are proving difficult.",
+      "translations": {
+        "zh-Hans": "然而，营救工作事实证明十分困难。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 31.61,
+      "end": 37.57,
+      "text": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "translations": {
+        "zh-Hans": "如果使用炸药，震动会使矿井顶部坍塌。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 38.87,
+      "end": 43.99,
+      "text": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "translations": {
+        "zh-Hans": "因此，救援人员正在矿井北侧钻孔。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 45.19,
+      "end": 48.75,
+      "text": "They intend to bring the men up in a special capsule.",
+      "translations": {
+        "zh-Hans": "他们打算用一个特制的救生舱把矿工送上来。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 49.55,
+      "end": 58.39,
+      "text": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "translations": {
+        "zh-Hans": "如果土层下面没有一层坚硬岩石，他们几小时内就能完成这项工作。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 59.43,
+      "end": 67.47,
+      "text": "As it is, they have been drilling for sixteen hours and they still have a long way to go.",
+      "translations": {
+        "zh-Hans": "事实上，他们已经钻了16个小时，却仍有很长一段距离要打通。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 68.37,
+      "end": 79.31,
+      "text": "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.",
+      "translations": {
+        "zh-Hans": "与此同时，两小时前被放入矿井的一只麦克风，使矿工们能够与至亲保持联系。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 80.63,
+      "end": 88.67,
+      "text": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "translations": {
+        "zh-Hans": "尽管食物和饮水即将耗尽，矿工们情绪乐观，深信自己很快就能脱险。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 88.67,
+      "end": 94.09,
+      "text": "They have been told that rescue operations are progressing smoothly.",
+      "translations": {
+        "zh-Hans": "他们被告知营救工作进展顺利。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 95.39,
+      "end": 101.87,
+      "text": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+      "translations": {
+        "zh-Hans": "如果知道钻透坚硬岩层有多么困难，他们就会丧失信心。"
+      }
+    }
+  ]
+}

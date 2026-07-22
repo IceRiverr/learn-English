@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-002-breakfast-or-lunch",
+    "title": "Lesson 2: Breakfast or Lunch",
+    "audioFilename": "02－Breakfast or Lunch.mp3",
+    "duration": 81.345,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.64,
+      "text": "Lesson 2.",
+      "translations": {
+        "zh-Hans": "第2课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.78,
+      "end": 4.28,
+      "text": "Breakfast or Lunch.",
+      "translations": {
+        "zh-Hans": "早餐还是午餐？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.66,
+      "end": 9.08,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.58,
+      "end": 13.74,
+      "text": "Why was the writer's aunt surprised?",
+      "translations": {
+        "zh-Hans": "作者的姑妈为什么感到惊讶？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.91,
+      "end": 16.99,
+      "text": "It was Sunday.",
+      "translations": {
+        "zh-Hans": "那天是星期日。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 17.91,
+      "end": 20.89,
+      "text": "I never get up early on Sundays.",
+      "translations": {
+        "zh-Hans": "星期日我从不早起。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 21.97,
+      "end": 25.63,
+      "text": "I sometimes stay in bed until lunchtime.",
+      "translations": {
+        "zh-Hans": "有时我要一直躺到吃午饭的时候。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 26.95,
+      "end": 29.93,
+      "text": "Last Sunday I got up very late.",
+      "translations": {
+        "zh-Hans": "上个星期日我起得很晚。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 29.93,
+      "end": 32.71,
+      "text": "I looked out of the window.",
+      "translations": {
+        "zh-Hans": "我望望窗外。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 33.41,
+      "end": 34.91,
+      "text": "It was dark outside.",
+      "translations": {
+        "zh-Hans": "外面一片昏暗。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 35.77,
+      "end": 37.37,
+      "text": "What a day!",
+      "translations": {
+        "zh-Hans": "鬼天气！"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 37.91,
+      "end": 38.71,
+      "text": "I thought.",
+      "translations": {
+        "zh-Hans": "我想。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 39.69,
+      "end": 41.19,
+      "text": "It's raining again.",
+      "translations": {
+        "zh-Hans": "又下雨了。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 42.57,
+      "end": 45.09,
+      "text": "Just then the telephone rang.",
+      "translations": {
+        "zh-Hans": "正在这时，电话铃响了。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 45.83,
+      "end": 47.57,
+      "text": "It was my Aunt Lucy.",
+      "translations": {
+        "zh-Hans": "是我姑妈露西打来的。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 48.89,
+      "end": 52.29,
+      "text": "I've just arrived by train, she said.",
+      "translations": {
+        "zh-Hans": "“我刚坐火车到达，”她说。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 53.05,
+      "end": 54.79,
+      "text": "I'm coming to see you.",
+      "translations": {
+        "zh-Hans": "“我这就来看你。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 55.93,
+      "end": 59.55,
+      "text": "But I'm still having breakfast, I said.",
+      "translations": {
+        "zh-Hans": "“可我还在吃早饭，”我说。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 60.35,
+      "end": 61.67,
+      "text": "What are you doing?",
+      "translations": {
+        "zh-Hans": "“你在干什么？”"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 62.43,
+      "end": 62.99,
+      "text": "She asked.",
+      "translations": {
+        "zh-Hans": "她问道。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 63.95,
+      "end": 66.55,
+      "text": "I'm having breakfast, I repeated.",
+      "translations": {
+        "zh-Hans": "“我在吃早饭，”我又说了一遍。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 67.73,
+      "end": 69.65,
+      "text": "Dear me, she said.",
+      "translations": {
+        "zh-Hans": "“天哪，”她说。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 70.49,
+      "end": 72.65,
+      "text": "Do you always get up so late?",
+      "translations": {
+        "zh-Hans": "“你总是起得这么晚吗？”"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 73.47,
+      "end": 74.51,
+      "text": "It's one o'clock.",
+      "translations": {
+        "zh-Hans": "“现在已经一点钟了！”"
+      }
+    }
+  ]
+}

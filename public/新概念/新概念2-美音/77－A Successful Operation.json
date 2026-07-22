@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-077-a-successful-operation",
+    "title": "Lesson 77: A Successful Operation",
+    "audioFilename": "77－A Successful Operation.mp3",
+    "duration": 107.729,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.14,
+      "text": "Lesson 77.",
+      "translations": {
+        "zh-Hans": "第77课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3,
+      "end": 4.82,
+      "text": "A Successful Operation.",
+      "translations": {
+        "zh-Hans": "一次成功的手术。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.32,
+      "end": 9.58,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.02,
+      "end": 14.26,
+      "text": "Did the doctors find out how the woman died?",
+      "translations": {
+        "zh-Hans": "医生们查明这名女子的死因了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.51,
+      "end": 21.59,
+      "text": "The mummy of an Egyptian woman who died in 800 B.C.",
+      "translations": {
+        "zh-Hans": "一具公元前800年去世的埃及女子木乃伊。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.77,
+      "end": 23.89,
+      "text": "has just had an operation.",
+      "translations": {
+        "zh-Hans": "刚刚接受了一次手术。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.07,
+      "end": 31.03,
+      "text": "The mummy is that of Shepenmut, who was once a singer in the temple of Thebes.",
+      "translations": {
+        "zh-Hans": "这具木乃伊是舍彭穆特，她曾是底比斯神庙的一名歌女。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 32.27,
+      "end": 43.41,
+      "text": "As there were strange marks on the x-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "translations": {
+        "zh-Hans": "由于木乃伊的X光片上有一些奇怪的斑点，医生们一直试图查明这名女子是否死于一种罕见疾病。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 44.69,
+      "end": 48.35,
+      "text": "The only way to do this was to operate.",
+      "translations": {
+        "zh-Hans": "要弄清这一点，唯一的办法就是动手术。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 49.35,
+      "end": 59.97,
+      "text": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "translations": {
+        "zh-Hans": "手术持续了四个多小时；由于皮肤覆盖着坚硬的树脂，手术非常困难。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 60.87,
+      "end": 65.37,
+      "text": "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "translations": {
+        "zh-Hans": "医生们从木乃伊上取下一部分，送往实验室。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 66.63,
+      "end": 75.75,
+      "text": "They also found something which the x-ray plates did not show, a small wax figure of the god Duamutef.",
+      "translations": {
+        "zh-Hans": "他们还发现了X光片上没有显示的东西：一尊杜阿穆特夫神的小蜡像。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 76.75,
+      "end": 82.51,
+      "text": "This god, which has the head of a cow, was normally placed inside a mummy.",
+      "translations": {
+        "zh-Hans": "这位牛头神通常被放在木乃伊体内。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 83.61,
+      "end": 87.67,
+      "text": "The doctors have not yet decided how the woman died.",
+      "translations": {
+        "zh-Hans": "医生们仍未确定这名女子的死因。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 88.83,
+      "end": 96.71,
+      "text": "They feared that the mummy would fall to pieces when they cut it open, but fortunately, this has not happened.",
+      "translations": {
+        "zh-Hans": "他们原本担心切开木乃伊时它会散成碎片，但幸运的是，这并没有发生。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 97.69,
+      "end": 100.97,
+      "text": "The mummy successfully survived the operation.",
+      "translations": {
+        "zh-Hans": "这具木乃伊成功挺过了手术。"
+      }
+    }
+  ]
+}

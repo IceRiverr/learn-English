@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-055-056-the-sawyer-family",
+    "title": "Lesson 55: The Sawyer family",
+    "audioFilename": "055&056－The Sawyer Family.mp3",
+    "duration": 94.119,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.3,
+      "end": 2.08,
+      "text": "Lesson 55.",
+      "translations": {
+        "zh-Hans": "第55课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.28,
+      "end": 4.74,
+      "text": "The Sawyer Family.",
+      "translations": {
+        "zh-Hans": "索耶一家。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.48,
+      "end": 10.5,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.96,
+      "end": 14.84,
+      "text": "When do the children do their homework?",
+      "translations": {
+        "zh-Hans": "孩子们什么时候做作业？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.8,
+      "end": 20.68,
+      "text": "The Sawyers live at 87 King Street.",
+      "translations": {
+        "zh-Hans": "索耶一家住在国王街87号。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.98,
+      "end": 23.82,
+      "text": "In the morning, Mr.",
+      "translations": {
+        "zh-Hans": "早晨，索耶先生"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 24.3,
+      "end": 28.76,
+      "text": "Sawyer goes to work, and the children go to school.",
+      "translations": {
+        "zh-Hans": "索耶先生去上班，孩子们去上学。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 28.76,
+      "end": 33.62,
+      "text": "Their father takes them to school every day.",
+      "translations": {
+        "zh-Hans": "他们的父亲每天送他们上学。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 35.2,
+      "end": 35.54,
+      "text": "Mrs.",
+      "translations": {
+        "zh-Hans": "索耶太太"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 35.98,
+      "end": 38.32,
+      "text": "Sawyer stays at home every day.",
+      "translations": {
+        "zh-Hans": "索耶太太每天待在家里。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 39.22,
+      "end": 40.92,
+      "text": "She does the housework.",
+      "translations": {
+        "zh-Hans": "她料理家务。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 41.98,
+      "end": 45.12,
+      "text": "She always eats her lunch at noon.",
+      "translations": {
+        "zh-Hans": "她总是在中午吃午饭。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 46.72,
+      "end": 50.88,
+      "text": "In the afternoon, she usually sees her friends.",
+      "translations": {
+        "zh-Hans": "下午，她通常会见朋友。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 51.94,
+      "end": 54.46,
+      "text": "They often drink tea together.",
+      "translations": {
+        "zh-Hans": "她们经常一起喝茶。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 55.46,
+      "end": 59.68,
+      "text": "In the evening, the children come home from school.",
+      "translations": {
+        "zh-Hans": "傍晚，孩子们放学回家。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 60.78,
+      "end": 62.76,
+      "text": "They arrive home early.",
+      "translations": {
+        "zh-Hans": "他们到家很早。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 64.32,
+      "end": 64.62,
+      "text": "Mr.",
+      "translations": {
+        "zh-Hans": "索耶先生"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 65.08,
+      "end": 66.98,
+      "text": "Sawyer comes home from work.",
+      "translations": {
+        "zh-Hans": "索耶先生下班回家。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 67.94,
+      "end": 69.86,
+      "text": "He arrives home late.",
+      "translations": {
+        "zh-Hans": "他到家很晚。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 71.4,
+      "end": 75.2,
+      "text": "At night, the children always do their homework.",
+      "translations": {
+        "zh-Hans": "晚上，孩子们总是做作业。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 76.2,
+      "end": 77.88,
+      "text": "Then they go to bed.",
+      "translations": {
+        "zh-Hans": "然后他们上床睡觉。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 79.16,
+      "end": 79.54,
+      "text": "Mr.",
+      "translations": {
+        "zh-Hans": "索耶先生"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 80.04,
+      "end": 86.78,
+      "text": "Sawyer usually reads his newspaper, but sometimes he and his wife watch television.",
+      "translations": {
+        "zh-Hans": "索耶先生通常看报纸，但有时他和妻子一起看电视。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-009-a-cold-welcome",
+    "title": "Lesson 9: A Cold Welcome",
+    "audioFilename": "09－A Cold Welcome.mp3",
+    "duration": 70.87,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.56,
+      "text": "Lesson 9.",
+      "translations": {
+        "zh-Hans": "第9课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.24,
+      "end": 3.84,
+      "text": "A Cold Welcome.",
+      "translations": {
+        "zh-Hans": "冷遇。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.06,
+      "end": 8.14,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.54,
+      "end": 12.96,
+      "text": "What does a cold welcome refer to?",
+      "translations": {
+        "zh-Hans": "“冷遇”指的是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.27,
+      "end": 18.61,
+      "text": "On Wednesday evening we went to the town hall.",
+      "translations": {
+        "zh-Hans": "星期三晚上，我们去了市政厅。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 19.21,
+      "end": 26.23,
+      "text": "It was the last day of the year and a large crowd of people had gathered under the town hall clock.",
+      "translations": {
+        "zh-Hans": "那是一年的最后一天，一大群人聚集在市政厅的大钟下面。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.11,
+      "end": 30.21,
+      "text": "It would strike twelve in twenty minutes' time.",
+      "translations": {
+        "zh-Hans": "再过20分钟，大钟将敲响12点。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 31.65,
+      "end": 36.95,
+      "text": "Fifteen minutes passed and then, at five to twelve, the clock stopped.",
+      "translations": {
+        "zh-Hans": "15分钟过去了，就在11点55分时，大钟停了。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 37.67,
+      "end": 40.11,
+      "text": "The big minute hand did not move.",
+      "translations": {
+        "zh-Hans": "巨大的分针一动不动。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 40.77,
+      "end": 44.13,
+      "text": "We waited and waited, but nothing happened.",
+      "translations": {
+        "zh-Hans": "我们等了又等，却什么也没有发生。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 45.21,
+      "end": 49.85,
+      "text": "Suddenly someone shouted, It's two minutes past twelve.",
+      "translations": {
+        "zh-Hans": "突然有人喊道：“已经过12点两分钟了！”"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 50.41,
+      "end": 51.89,
+      "text": "The clock has stopped.",
+      "translations": {
+        "zh-Hans": "大钟停了。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 52.85,
+      "end": 54.25,
+      "text": "I looked at my watch.",
+      "translations": {
+        "zh-Hans": "我看了看手表。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 54.81,
+      "end": 55.55,
+      "text": "It was true.",
+      "translations": {
+        "zh-Hans": "果真如此。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 56.49,
+      "end": 59.87,
+      "text": "The big clock refused to welcome the new year.",
+      "translations": {
+        "zh-Hans": "这座大钟拒绝迎接新年。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 60.69,
+      "end": 64.89,
+      "text": "At that moment, everybody began to laugh and sing.",
+      "translations": {
+        "zh-Hans": "就在那一刻，大家开始又笑又唱。"
+      }
+    }
+  ]
+}

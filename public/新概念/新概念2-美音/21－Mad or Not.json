@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-021-mad-or-not",
+    "title": "Lesson 21: Mad or Not",
+    "audioFilename": "21－Mad or Not.mp3",
+    "duration": 76.826,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.94,
+      "text": "Lesson 21.",
+      "translations": {
+        "zh-Hans": "第21课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.2,
+      "end": 4.04,
+      "text": "Mad or Not.",
+      "translations": {
+        "zh-Hans": "是不是疯了。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.74,
+      "end": 9.04,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.72,
+      "end": 13.68,
+      "text": "Why do people think the writer is mad?",
+      "translations": {
+        "zh-Hans": "为什么人们认为作者疯了？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.97,
+      "end": 19.27,
+      "text": "Airplanes are slowly driving me mad.",
+      "translations": {
+        "zh-Hans": "飞机正在逐渐把我逼疯。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.65,
+      "end": 26.19,
+      "text": "I live near an airport and passing planes can be heard night and day.",
+      "translations": {
+        "zh-Hans": "我住在机场附近，日夜都能听到飞机飞过的声音。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.19,
+      "end": 33.87,
+      "text": "The airport was built years ago but for some reason it could not be used then.",
+      "translations": {
+        "zh-Hans": "机场是多年前建成的，但由于某种原因，当时未能启用。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 34.97,
+      "end": 38.49,
+      "text": "Last year, however, it came into use.",
+      "translations": {
+        "zh-Hans": "然而，去年机场开始投入使用。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 39.65,
+      "end": 45.43,
+      "text": "Over a hundred people must have been driven away from their homes by the noise.",
+      "translations": {
+        "zh-Hans": "肯定已有一百多人因为噪声被迫搬离家园。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 46.35,
+      "end": 49.25,
+      "text": "I am one of the few people left.",
+      "translations": {
+        "zh-Hans": "我是少数留下来的人之一。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 50.49,
+      "end": 55.85,
+      "text": "Sometimes I think this house will be knocked down by a passing plane.",
+      "translations": {
+        "zh-Hans": "有时我觉得这房子会被飞过的飞机撞倒。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 56.85,
+      "end": 65.15,
+      "text": "I have been offered a large sum of money to go away but I am determined to stay here.",
+      "translations": {
+        "zh-Hans": "有人出一大笔钱让我搬走，但我决心留在这里。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 65.95,
+      "end": 70.77,
+      "text": "Everybody says I must be mad and they are probably right.",
+      "translations": {
+        "zh-Hans": "人人都说我一定是疯了，他们也许说得对。"
+      }
+    }
+  ]
+}

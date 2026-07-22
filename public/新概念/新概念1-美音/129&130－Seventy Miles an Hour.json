@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-129-130-seventy-miles-an-hour",
+    "title": "Lesson 129: Seventy miles an hour",
+    "audioFilename": "129&130－Seventy Miles an Hour.mp3",
+    "duration": 103.549,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.4,
+      "end": 5.74,
+      "text": "Lesson 129–70 Miles an Hour.",
+      "translations": {
+        "zh-Hans": "第129课——时速70英里。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 7.32,
+      "end": 10.98,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.48,
+      "end": 16.98,
+      "text": "What does Anne advise her husband to do next time?",
+      "translations": {
+        "zh-Hans": "安建议她丈夫下次怎么做？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 19.27,
+      "end": 23.95,
+      "text": "Look, Gary, that policeman's waving to you.",
+      "translations": {
+        "zh-Hans": "看，加里，那个警察在向你挥手。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 24.45,
+      "end": 26.27,
+      "text": "He wants you to stop.",
+      "translations": {
+        "zh-Hans": "他要你停车。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 27.41,
+      "end": 30.57,
+      "text": "Where do you think you are?",
+      "translations": {
+        "zh-Hans": "你以为你这是在哪儿？"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 31.23,
+      "end": 32.73,
+      "text": "On a racetrack?",
+      "translations": {
+        "zh-Hans": "在赛车场吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.67,
+      "end": 38.05,
+      "text": "You must have been driving at seventy miles an hour.",
+      "translations": {
+        "zh-Hans": "你刚才的车速一定达到了每小时70英里。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 38.87,
+      "end": 40.49,
+      "text": "I can't have been.",
+      "translations": {
+        "zh-Hans": "不可能。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 41.67,
+      "end": 45.29,
+      "text": "I was doing eighty when I overtook you.",
+      "translations": {
+        "zh-Hans": "我以每小时80英里的速度超过了你。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 46.53,
+      "end": 48.73,
+      "text": "Didn't you see the speed limit?",
+      "translations": {
+        "zh-Hans": "你没看见限速标志吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 49.67,
+      "end": 51.99,
+      "text": "I'm afraid I didn't, officer.",
+      "translations": {
+        "zh-Hans": "恐怕没看见，警官。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 52.75,
+      "end": 54.51,
+      "text": "I must have been dreaming.",
+      "translations": {
+        "zh-Hans": "我刚才一定是在开小差。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 55.51,
+      "end": 58.15,
+      "text": "He wasn't dreaming, officer.",
+      "translations": {
+        "zh-Hans": "警官，他可没有开小差。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 58.93,
+      "end": 62.47,
+      "text": "I was telling him to drive slowly.",
+      "translations": {
+        "zh-Hans": "我一直在叫他开慢点。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 63.37,
+      "end": 66.07,
+      "text": "That's why I didn't see the sign.",
+      "translations": {
+        "zh-Hans": "所以我才没看见那个标志。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 67.77,
+      "end": 70.03,
+      "text": "Let me see your driving license.",
+      "translations": {
+        "zh-Hans": "让我看看你的驾驶执照。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 71.53,
+      "end": 77.41,
+      "text": "I won't charge you this time, but you'd better not do it again.",
+      "translations": {
+        "zh-Hans": "这次我不罚你，但你最好别再犯了。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 78.47,
+      "end": 79.23,
+      "text": "Thank you.",
+      "translations": {
+        "zh-Hans": "谢谢您。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 79.67,
+      "end": 82.17,
+      "text": "I'll certainly be more careful.",
+      "translations": {
+        "zh-Hans": "我以后一定会更加小心。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 83.17,
+      "end": 86.61,
+      "text": "I told you to drive slowly, Gary.",
+      "translations": {
+        "zh-Hans": "我早就叫你开慢点了，加里。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 87.71,
+      "end": 91.07,
+      "text": "You always tell me to drive slowly, darling.",
+      "translations": {
+        "zh-Hans": "亲爱的，你总是叫我开慢点。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 91.91,
+      "end": 96.45,
+      "text": "Well, next time, you'd better take my advice.",
+      "translations": {
+        "zh-Hans": "那下次你最好听我的劝。"
+      }
+    }
+  ]
+}

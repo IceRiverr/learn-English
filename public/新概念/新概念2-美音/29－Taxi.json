@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-029-taxi",
+    "title": "Lesson 29: Taxi",
+    "audioFilename": "29－Taxi.mp3",
+    "duration": 99.736,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 3.66,
+      "end": 7.72,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 9.4,
+      "end": 13.36,
+      "text": "Does Captain Fawcett think any trip is too dangerous?",
+      "translations": {
+        "zh-Hans": "福西特机长认为有哪次旅行过于危险吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 15.86,
+      "end": 22.24,
+      "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "translations": {
+        "zh-Hans": "本·福西特机长买了一架不同寻常的出租飞机，开始经营一项新的服务。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 23.5,
+      "end": 28.46,
+      "text": "The taxi is a small Swiss airplane called a Pilatus Porter.",
+      "translations": {
+        "zh-Hans": "这架出租飞机是一架名叫“皮勒特斯·波特”的瑞士小型飞机。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 29.74,
+      "end": 33.36,
+      "text": "This wonderful plane can carry seven passengers.",
+      "translations": {
+        "zh-Hans": "这架出色的飞机能载7名乘客。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 34.56,
+      "end": 45.76,
+      "text": "The most surprising thing about it, however, is that it can land anywhere, on snow, water, or even on a plowed field.",
+      "translations": {
+        "zh-Hans": "然而，它最令人惊奇之处是能在任何地方降落——雪地、水面，甚至刚犁过的田地。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 47.2,
+      "end": 55.72,
+      "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh Mountains.",
+      "translations": {
+        "zh-Hans": "福西特机长的第一位乘客是一名医生，他从伯明翰飞往威尔士山区一个偏僻的村庄。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 57,
+      "end": 63.22,
+      "text": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "translations": {
+        "zh-Hans": "从那以后，福西特机长已经把乘客送到许多不同寻常的地方。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 64.46,
+      "end": 73.64,
+      "text": "Once, he landed on the roof of a block of flats, and on another occasion, he landed in a deserted car park.",
+      "translations": {
+        "zh-Hans": "有一次，他把飞机降落在一栋公寓楼的屋顶上；还有一次，他降落在一个废弃的停车场。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 75.02,
+      "end": 79.94,
+      "text": "Captain Fawcett has just refused a strange request from a businessman.",
+      "translations": {
+        "zh-Hans": "福西特机长刚刚拒绝了一位商人的奇怪请求。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 81.18,
+      "end": 93.12,
+      "text": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.",
+      "translations": {
+        "zh-Hans": "那人想飞往大西洋上的孤岛罗卡尔，但福西特机长没有送他，因为这趟旅行太危险。"
+      }
+    }
+  ]
+}

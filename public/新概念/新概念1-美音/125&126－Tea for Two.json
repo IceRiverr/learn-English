@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-125-126-tea-for-two",
+    "title": "Lesson 125: Tea for two",
+    "audioFilename": "125&126－Tea for Two.mp3",
+    "duration": 81.894,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.3,
+      "end": 4.96,
+      "text": "Lesson 125–Tea for Two.",
+      "translations": {
+        "zh-Hans": "第125课——两个人一起喝茶。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.48,
+      "end": 10.16,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 11.42,
+      "end": 14.02,
+      "text": "Does Susan have tea by herself?",
+      "translations": {
+        "zh-Hans": "苏珊是独自喝茶吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 16.63,
+      "end": 20.13,
+      "text": "Can't you come in and have tea now, Peter?",
+      "translations": {
+        "zh-Hans": "彼得，你现在不能进来喝茶吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 21.05,
+      "end": 21.71,
+      "text": "Not yet.",
+      "translations": {
+        "zh-Hans": "还不行。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.41,
+      "end": 24.85,
+      "text": "I must water the garden first.",
+      "translations": {
+        "zh-Hans": "我得先给花园浇水。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.79,
+      "end": 28.35,
+      "text": "Do you have to water it now?",
+      "translations": {
+        "zh-Hans": "你非得现在浇吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 29.15,
+      "end": 30.87,
+      "text": "I'm afraid I must.",
+      "translations": {
+        "zh-Hans": "恐怕是的。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 31.81,
+      "end": 32.53,
+      "text": "Look at it.",
+      "translations": {
+        "zh-Hans": "你看看。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 32.97,
+      "end": 34.71,
+      "text": "It's terribly dry.",
+      "translations": {
+        "zh-Hans": "干得厉害。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 35.43,
+      "end": 36.77,
+      "text": "What a nuisance!",
+      "translations": {
+        "zh-Hans": "真讨厌！"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 38.05,
+      "end": 41.09,
+      "text": "Last summer it was very dry, too.",
+      "translations": {
+        "zh-Hans": "去年夏天也很干。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 42.09,
+      "end": 43.07,
+      "text": "Don't you remember?",
+      "translations": {
+        "zh-Hans": "你不记得了吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 43.95,
+      "end": 46.75,
+      "text": "I had to water it every day.",
+      "translations": {
+        "zh-Hans": "我那时每天都得浇水。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 47.61,
+      "end": 50.95,
+      "text": "Well, I'll have tea by myself.",
+      "translations": {
+        "zh-Hans": "那好吧，我自己喝茶。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 52.39,
+      "end": 53.89,
+      "text": "That was quick.",
+      "translations": {
+        "zh-Hans": "这么快就好了。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 54.79,
+      "end": 56.53,
+      "text": "Have you finished already?",
+      "translations": {
+        "zh-Hans": "你已经浇完了吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 56.53,
+      "end": 57.79,
+      "text": "Yes.",
+      "translations": {
+        "zh-Hans": "是啊。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 58.95,
+      "end": 60.19,
+      "text": "Look out of the window.",
+      "translations": {
+        "zh-Hans": "看看窗外。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 61.43,
+      "end": 62.29,
+      "text": "It's raining.",
+      "translations": {
+        "zh-Hans": "下雨了。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 63.45,
+      "end": 67.41,
+      "text": "That means you don't need to water the garden.",
+      "translations": {
+        "zh-Hans": "这就意味着你不用给花园浇水了。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 68.81,
+      "end": 70.91,
+      "text": "That was a surprise.",
+      "translations": {
+        "zh-Hans": "真没想到。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 72.23,
+      "end": 74.97,
+      "text": "It means I can have tea instead.",
+      "translations": {
+        "zh-Hans": "这意味着我可以改喝茶了。"
+      }
+    }
+  ]
+}

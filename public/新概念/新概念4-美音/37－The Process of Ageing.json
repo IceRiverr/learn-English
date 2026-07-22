@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-037-the-process-of-ageing",
+    "title": "Lesson 37: The Process of Ageing",
+    "audioFilename": "37－The Process of Ageing.mp3",
+    "duration": 275.566,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 6,
+      "end": 9.74,
+      "text": "First listen and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 11.8,
+      "end": 17.7,
+      "text": "What is one of the most unpleasant discoveries we make about ourselves as we get older?",
+      "translations": {
+        "zh-Hans": "随着年龄增长，我们对自己作出的最不愉快发现之一是什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 20.58,
+      "end": 25.82,
+      "text": "At the age of twelve years, the human body is at its most vigorous.",
+      "translations": {
+        "zh-Hans": "12岁时，人体生命力最旺盛。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 26.82,
+      "end": 33.96,
+      "text": "It has yet to reach its full size and strength, and its owner, his or her full intelligence.",
+      "translations": {
+        "zh-Hans": "身体尚未达到最大体格和力量，主人也尚未达到最高智力。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 34.64,
+      "end": 38.58,
+      "text": "But at this age, the likelihood of death is least.",
+      "translations": {
+        "zh-Hans": "但这个年龄死亡的可能性最低。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 39.84,
+      "end": 46.14,
+      "text": "Earlier, we were infants and young children, and consequently, more vulnerable.",
+      "translations": {
+        "zh-Hans": "更早时，我们还是婴幼儿，因此更加脆弱。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 47.28,
+      "end": 63.06,
+      "text": "Later, we shall undergo a progressive loss of our vigor and resistance, which though imperceptible at first, will finally become so steep that we can live no longer, however well we look",
+      "translations": {
+        "zh-Hans": "以后，我们会逐渐丧失活力和抵抗力；这种变化最初难以察觉，最终却会陡然加剧，使我们再也无法生存，无论我们多么悉心"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 63.06,
+      "end": 69.18,
+      "text": "after ourselves, and however well society and our doctors look after us.",
+      "translations": {
+        "zh-Hans": "照料自己，也无论社会和医生把我们照顾得多好。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 70.06,
+      "end": 74.34,
+      "text": "This decline in vigor with the passing of time is called aging.",
+      "translations": {
+        "zh-Hans": "这种随时间流逝而出现的活力衰退称为衰老。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 75.22,
+      "end": 82.18,
+      "text": "It is one of the most unpleasant discoveries which we all make that we must decline in this way.",
+      "translations": {
+        "zh-Hans": "我们所有人都会发现自己必然如此衰退，这是最令人不快的发现之一。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 83.16,
+      "end": 98.98,
+      "text": "That if we escape wars, accidents, and diseases, we shall eventually die of old age, and that this happens at a rate which differs little from person to person, so that there are heavy odds in",
+      "translations": {
+        "zh-Hans": "即使躲过战争、事故和疾病，我们最终也会老死；而且每个人衰老的速度差别不大，因此我们极有可能"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 98.98,
+      "end": 103.44,
+      "text": "favor of our dying between the ages of sixty-five and eighty.",
+      "translations": {
+        "zh-Hans": "在65至80岁之间去世。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 104.42,
+      "end": 119.66,
+      "text": "Some of us will die sooner, a few will live longer, on into a ninth or tenth decade, but the chances are against it, and there is a virtual limit on how long we can hope to remain alive,",
+      "translations": {
+        "zh-Hans": "有人死得更早，少数人活得更久，进入八九十岁，但概率并不支持这种情况；我们能够期待的寿命有一个实际极限，"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 120.46,
+      "end": 122.9,
+      "text": "however lucky and robust we are.",
+      "translations": {
+        "zh-Hans": "无论多么幸运强健，我们能够期待的寿命都有一个实际极限。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 123.86,
+      "end": 129.5,
+      "text": "Normal people tend to forget this process unless and until they are reminded of it.",
+      "translations": {
+        "zh-Hans": "正常人往往会忘记这个过程，除非或直到有什么事提醒他们。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 130.28,
+      "end": 146.24,
+      "text": "We are so familiar with the fact that man ages, that people have for years assumed that the process of losing vigor with time, of becoming more likely to die the older we get, was something self-evident, like the cooling",
+      "translations": {
+        "zh-Hans": "人会衰老这个事实我们太熟悉了，多年来人们一直认为，随时间失去活力、年龄越大越容易死亡，是像热水壶逐渐冷却"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 146.24,
+      "end": 149.86,
+      "text": "of a hot kettle, or the wearing out of a pair of shoes.",
+      "translations": {
+        "zh-Hans": "或鞋子逐渐磨损一样不言自明的事。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 150.68,
+      "end": 163.4,
+      "text": "They have also assumed that all animals, and probably other organisms such as trees, or even the universe itself, must, in the nature of things, wear out.",
+      "translations": {
+        "zh-Hans": "人们还认为，所有动物，也许还有树木等其他生物，甚至宇宙本身，按事物本性都必然会耗损。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 164.4,
+      "end": 180.28,
+      "text": "Most animals we commonly observe do in fact age as we do, if given the chance to live long enough, and mechanical systems, like a wound watch, or the sun, do in fact run out of energy in accordance",
+      "translations": {
+        "zh-Hans": "我们常见的大多数动物如果有机会活得足够久，确实会像人一样衰老；上紧发条的手表或太阳等机械系统也确实会按照"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 180.28,
+      "end": 183.02,
+      "text": "with the second law of thermodynamics.",
+      "translations": {
+        "zh-Hans": "热力学第二定律耗尽能量。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 184.16,
+      "end": 187.96,
+      "text": "Whether the whole universe does so is a moot point at present.",
+      "translations": {
+        "zh-Hans": "整个宇宙是否如此，目前仍有争议。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 188.95,
+      "end": 193.3,
+      "text": "But these are not analogous to what happens when man ages.",
+      "translations": {
+        "zh-Hans": "但这些现象都不能类比人的衰老。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 194.56,
+      "end": 199.1,
+      "text": "A run-down watch is still a watch and can be rewound.",
+      "translations": {
+        "zh-Hans": "停走的手表仍是手表，还可以重新上弦。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 199.84,
+      "end": 208.54,
+      "text": "An old watch, by contrast, becomes so worn and unreliable, that it eventually is not worth mending.",
+      "translations": {
+        "zh-Hans": "相比之下，旧手表会磨损得极不可靠，最终不值得修理。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 209.38,
+      "end": 212.28,
+      "text": "But a watch could never repair itself.",
+      "translations": {
+        "zh-Hans": "但手表永远无法自行修复。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 213.22,
+      "end": 219.38,
+      "text": "It does not consist of living parts, only of metal, which wears away by friction.",
+      "translations": {
+        "zh-Hans": "它不是由活的部分组成的，只有因摩擦而磨损的金属。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 220.84,
+      "end": 232.12,
+      "text": "We could at one time repair ourselves, well enough, at least, to overcome all but the most instantly fatal illnesses and accidents.",
+      "translations": {
+        "zh-Hans": "我们曾经能够自我修复，至少足以战胜除立即致命之外的几乎所有疾病和事故。"
+      }
+    },
+    {
+      "id": "s028",
+      "start": 233.36,
+      "end": 238.6,
+      "text": "Between twelve and eighty years, we gradually lose this power.",
+      "translations": {
+        "zh-Hans": "从12岁到80岁，我们逐渐失去这种能力。"
+      }
+    },
+    {
+      "id": "s029",
+      "start": 239.52,
+      "end": 247.66,
+      "text": "And illness, which at twelve would knock us over, at eighty can knock us out, and into our grave.",
+      "translations": {
+        "zh-Hans": "一种疾病在12岁时也许只会让我们卧床，到80岁时却可能将我们彻底击倒，送进坟墓。"
+      }
+    },
+    {
+      "id": "s030",
+      "start": 248.58,
+      "end": 262.72,
+      "text": "If we could stay as vigorous as we are at twelve, it would take about seven hundred years for half of us to die, and another seven hundred for the survivors to be reduced by half again.",
+      "translations": {
+        "zh-Hans": "如果我们能一直保持12岁时的活力，大约要700年我们中才会有一半死去，再过700年幸存者才会再减少一半。"
+      }
+    }
+  ]
+}

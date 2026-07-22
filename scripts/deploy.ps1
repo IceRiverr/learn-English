@@ -2,12 +2,13 @@ $ErrorActionPreference = "Stop"
 
 $projectDirectory = Split-Path -Parent $PSScriptRoot
 $bundledPnpm = Join-Path $env:USERPROFILE ".cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback\pnpm.cmd"
+$bundledNodeDirectory = Join-Path $env:USERPROFILE ".cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin"
 $pnpmCommand = Get-Command pnpm -ErrorAction SilentlyContinue
 
-if ($pnpmCommand) {
-    $pnpm = $pnpmCommand.Source
-} elseif (Test-Path -LiteralPath $bundledPnpm) {
+if (Test-Path -LiteralPath $bundledPnpm) {
     $pnpm = $bundledPnpm
+} elseif ($pnpmCommand) {
+    $pnpm = $pnpmCommand.Source
 } else {
     throw "pnpm was not found. Install Node.js and pnpm first."
 }
@@ -22,7 +23,12 @@ if (-not (Test-Path -LiteralPath $ssh) -or -not (Test-Path -LiteralPath $scp)) {
 }
 
 Push-Location $projectDirectory
+$originalProcessPath = $env:Path
 try {
+    if (Test-Path -LiteralPath (Join-Path $bundledNodeDirectory "node.exe")) {
+        $env:Path = "$bundledNodeDirectory;$originalProcessPath"
+    }
+
     & $pnpm build
     if ($LASTEXITCODE -ne 0) {
         throw "Build failed. Deployment stopped."
@@ -40,5 +46,6 @@ try {
 
     Write-Host "Deployment complete: https://learn.iceriver.cc" -ForegroundColor Green
 } finally {
+    $env:Path = $originalProcessPath
     Pop-Location
 }

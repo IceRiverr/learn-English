@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-079-by-air",
+    "title": "Lesson 79: By Air",
+    "audioFilename": "79－By Air.mp3",
+    "duration": 104.986,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.35,
+      "end": 8.95,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.39,
+      "end": 12.51,
+      "text": "Why did the plane turn back?",
+      "translations": {
+        "zh-Hans": "飞机为什么返航？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 14.82,
+      "end": 19.06,
+      "text": "I used to travel by air a great deal when I was a boy.",
+      "translations": {
+        "zh-Hans": "我小时候经常乘飞机旅行。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 20.12,
+      "end": 27.38,
+      "text": "My parents used to live in South America, and I used to fly there from Europe in the holidays.",
+      "translations": {
+        "zh-Hans": "父母曾住在南美洲，假期里我常从欧洲乘飞机去那里。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 28.86,
+      "end": 35.02,
+      "text": "A flight attendant would take charge of me, and I never had an unpleasant experience.",
+      "translations": {
+        "zh-Hans": "一名空乘人员会照顾我，我从未有过不愉快的经历。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 36.12,
+      "end": 42.82,
+      "text": "I am used to traveling by air, and only on one occasion have I ever felt frightened.",
+      "translations": {
+        "zh-Hans": "我习惯乘飞机旅行，只有一次真正感到过害怕。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 44.02,
+      "end": 55.9,
+      "text": "After taking off, we were flying low over the city, and slowly gaining height, when the plane suddenly turned round and flew back to the airport.",
+      "translations": {
+        "zh-Hans": "起飞后，我们正低空飞越城市并缓缓爬升，飞机却突然调头飞回机场。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 57.52,
+      "end": 67.88,
+      "text": "While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.",
+      "translations": {
+        "zh-Hans": "等候降落时，一名空乘告诉我们保持镇静，飞机一着陆就安静有序地下机。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 69.2,
+      "end": 75.32,
+      "text": "Everybody on board was worried, and we were curious to find out what had happened.",
+      "translations": {
+        "zh-Hans": "机上每个人都很担心，也都急于知道发生了什么。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 76.26,
+      "end": 80.32,
+      "text": "Later we learnt that there was a very important person on board.",
+      "translations": {
+        "zh-Hans": "后来我们得知，机上有一位非常重要的人物。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 81.2,
+      "end": 85.54,
+      "text": "The police had been told that a bomb had been planted on the plane.",
+      "translations": {
+        "zh-Hans": "警方接到消息，说飞机上被人安放了一枚炸弹。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 86.72,
+      "end": 90.9,
+      "text": "After we had landed, the plane was searched thoroughly.",
+      "translations": {
+        "zh-Hans": "降落后，飞机接受了彻底搜查。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 93.5,
+      "end": 98.68,
+      "text": "Fortunately, nothing was found and five hours later we were able to take off again.",
+      "translations": {
+        "zh-Hans": "什么也没发现；五小时后，我们终于再次起飞。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-071-072-he-s-awful",
+    "title": "Lesson 71: He's awful!",
+    "audioFilename": "071&072－He's Awful.mp3",
+    "duration": 122.828,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 2.17,
+      "text": "Lesson 71.",
+      "translations": {
+        "zh-Hans": "第71课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.11,
+      "end": 4.39,
+      "text": "He's Awful.",
+      "translations": {
+        "zh-Hans": "他讨厌透了。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.09,
+      "end": 10.29,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.87,
+      "end": 16.85,
+      "text": "How did Pauline answer the telephone at nine o'clock?",
+      "translations": {
+        "zh-Hans": "九点钟时，波琳是怎样接电话的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 19.63,
+      "end": 22.87,
+      "text": "What's Ron Marston like, Pauline?",
+      "translations": {
+        "zh-Hans": "波琳，罗恩·马斯顿这个人怎么样？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.03,
+      "end": 25.49,
+      "text": "He's awful!",
+      "translations": {
+        "zh-Hans": "他讨厌透了！"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.51,
+      "end": 35.39,
+      "text": "He telephoned me four times yesterday, and three times the day before yesterday.",
+      "translations": {
+        "zh-Hans": "他昨天给我打了四次电话，前天打了三次。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 37.09,
+      "end": 44.45,
+      "text": "He telephoned the office yesterday morning and yesterday afternoon.",
+      "translations": {
+        "zh-Hans": "他昨天上午和下午都给办公室打了电话。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 45.55,
+      "end": 48.37,
+      "text": "My boss answered the telephone.",
+      "translations": {
+        "zh-Hans": "我的老板接了电话。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 50.07,
+      "end": 52.53,
+      "text": "What did your boss say to him?",
+      "translations": {
+        "zh-Hans": "你的老板对他说了什么？"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 53.65,
+      "end": 57.73,
+      "text": "He said, Pauline is typing letters.",
+      "translations": {
+        "zh-Hans": "他说：“波琳正在打信。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 57.73,
+      "end": 60.87,
+      "text": "She can't speak to you now.",
+      "translations": {
+        "zh-Hans": "她现在不能和你说话。”"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 62.61,
+      "end": 67.89,
+      "text": "Then I arrived home at six o'clock yesterday evening.",
+      "translations": {
+        "zh-Hans": "后来我昨晚六点钟到家。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 68.85,
+      "end": 74.19,
+      "text": "He telephoned again, but I didn't answer the phone.",
+      "translations": {
+        "zh-Hans": "他又打来电话，但我没有接。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 75.61,
+      "end": 78.53,
+      "text": "Did he telephone again last night?",
+      "translations": {
+        "zh-Hans": "他昨晚又打电话了吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 79.83,
+      "end": 81.41,
+      "text": "Yes, he did.",
+      "translations": {
+        "zh-Hans": "是的，打了。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 82.13,
+      "end": 85.11,
+      "text": "He telephoned at nine o'clock.",
+      "translations": {
+        "zh-Hans": "他九点钟打来的。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 86.11,
+      "end": 88.33,
+      "text": "What did you say to him?",
+      "translations": {
+        "zh-Hans": "你对他说了什么？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 89.63,
+      "end": 93.21,
+      "text": "I said, this is Pauline's mother.",
+      "translations": {
+        "zh-Hans": "我说：“我是波琳的母亲。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 93.95,
+      "end": 97.79,
+      "text": "Please don't telephone my daughter again.",
+      "translations": {
+        "zh-Hans": "请别再给我女儿打电话了。”"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 99.49,
+      "end": 101.23,
+      "text": "Did he telephone again?",
+      "translations": {
+        "zh-Hans": "他后来又打了吗？"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 102.13,
+      "end": 104.59,
+      "text": "No, he didn't.",
+      "translations": {
+        "zh-Hans": "不，没有。"
+      }
+    }
+  ]
+}

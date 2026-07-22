@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-016-a-polite-request",
+    "title": "Lesson 16: A Polite Request",
+    "audioFilename": "16－A Polite Request.mp3",
+    "duration": 72.281,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.84,
+      "text": "Lesson 16.",
+      "translations": {
+        "zh-Hans": "第16课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.62,
+      "end": 3.96,
+      "text": "A Polite Request.",
+      "translations": {
+        "zh-Hans": "彬彬有礼的要求。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.88,
+      "end": 8.66,
+      "text": "listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 31.68,
+      "end": 34.74,
+      "text": "Traffic police are sometimes very polite.",
+      "translations": {
+        "zh-Hans": "交通警察有时非常客气。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 36.22,
+      "end": 41.32,
+      "text": "During a holiday in Sweden, I found this note on my car.",
+      "translations": {
+        "zh-Hans": "在瑞典度假期间，我在自己的汽车上发现了这张字条。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 42.28,
+      "end": 45.58,
+      "text": "Sir, we welcome you to our city.",
+      "translations": {
+        "zh-Hans": "“先生，欢迎您来到我们的城市。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 46.72,
+      "end": 48.98,
+      "text": "This is a no parking area.",
+      "translations": {
+        "zh-Hans": "这里是禁止停车区。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 49.86,
+      "end": 55.34,
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "translations": {
+        "zh-Hans": "如果您留意我们的街道标志，您在这里会过得很愉快。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 56.58,
+      "end": 58.94,
+      "text": "This note is only a reminder.",
+      "translations": {
+        "zh-Hans": "这张字条只是一个提醒。”"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 58.94,
+      "end": 66.42,
+      "text": "If you receive a request like this, you cannot fail to obey it.",
+      "translations": {
+        "zh-Hans": "如果你收到这样的要求，就不可能不遵守。"
+      }
+    }
+  ]
+}

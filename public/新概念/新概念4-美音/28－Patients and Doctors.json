@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-028-patients-and-doctors",
+    "title": "Lesson 28: Patients and Doctors",
+    "audioFilename": "28－Patients and Doctors.mp3",
+    "duration": 186.305,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.59,
+      "end": 8.25,
+      "text": "First listen and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 9.53,
+      "end": 12.11,
+      "text": "What are patients looking for when they visit the doctor?",
+      "translations": {
+        "zh-Hans": "病人看医生时想得到什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 14.87,
+      "end": 29.43,
+      "text": "This is a skeptical age, but although our faith in many of the things in which our forefathers fervently believed has weakened, our confidence in the curative properties of the bottle of medicine remains the same as theirs.",
+      "translations": {
+        "zh-Hans": "这是一个怀疑一切的时代。我们对祖先曾笃信的许多事物已失去信心，但对瓶装药物疗效的信念却与他们毫无二致。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 29.43,
+      "end": 43.81,
+      "text": "This modern faith in medicines is proved by the fact that the annual drug bill of the health services is mounting to astronomical figures and shows no signs at present of ceasing to rise.",
+      "translations": {
+        "zh-Hans": "现代人对药物的信仰可由一个事实证明：医疗服务每年的药费正升至天文数字，目前丝毫没有停止增长的迹象。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 44.77,
+      "end": 60.75,
+      "text": "The majority of the patients attending the medical outpatients departments of our hospitals feel that they have not received adequate treatment unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box",
+      "translations": {
+        "zh-Hans": "到医院门诊就诊的大多数病人觉得，除非能把某种看得见摸得着的药物带回家——一瓶药水、一盒"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 60.75,
+      "end": 69.81,
+      "text": "of pills, or a small jar of ointment, and the doctor in charge of the department is only too ready to provide them with these requirements.",
+      "translations": {
+        "zh-Hans": "药片或一小罐药膏——否则就不算得到充分治疗；而负责门诊的医生也非常乐于满足这些要求。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 69.81,
+      "end": 85.39,
+      "text": "There is no quicker method of disposing of patients than by giving them what they are asking for, and since most medical men in the health services are overworked and have little time for offering time-consuming and little",
+      "translations": {
+        "zh-Hans": "要打发病人，没有比给他们想要的东西更快的方法；医疗服务中的大多数医生工作过重，几乎没有时间就饮食、健康生活以及戒除坏习惯等问题提供既费时又不受"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 85.39,
+      "end": 98.23,
+      "text": "appreciated advice on such subjects as diet, right living, and the need for abandoning bad habits, etc., the bottle, the box, and the jar are almost always granted them.",
+      "translations": {
+        "zh-Hans": "重视的忠告，因此瓶子、盒子和罐子几乎总会发给他们。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 98.23,
+      "end": 104.91,
+      "text": "Nor is it only the ignorant and ill-educated person who has such faith in the bottle of medicine.",
+      "translations": {
+        "zh-Hans": "并非只有无知且缺乏教育的人才如此相信瓶装药。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 105.79,
+      "end": 121.19,
+      "text": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what remained of a bottle of medicine formerly",
+      "translations": {
+        "zh-Hans": "据说托马斯·卡莱尔听说朋友亨利·泰勒病了，便立即动身探望，口袋里还带着一瓶以前"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 121.19,
+      "end": 124.03,
+      "text": "prescribed for an indisposition of Mrs.",
+      "translations": {
+        "zh-Hans": "为卡莱尔夫人的一次小病开出的剩药。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 124.49,
+      "end": 125.05,
+      "text": "Carlyle's.",
+      "translations": {
+        "zh-Hans": "那是卡莱尔夫人的药。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 126.11,
+      "end": 141.81,
+      "text": "Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had worked so well in one form of",
+      "translations": {
+        "zh-Hans": "卡莱尔完全不知道口袋里的瓶子装着什么，也不了解朋友患的是什么病，更不知道妻子以前究竟哪里不适；但既然一种药对某种"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 141.81,
+      "end": 152.69,
+      "text": "illness would truly be of equal benefit in another, and, comforted by the thought of the help he was bringing to his friend, he hastened to Henry Taylor's house.",
+      "translations": {
+        "zh-Hans": "疾病如此有效，想必对另一种病也同样有益。他想到自己能给朋友带去帮助，便满怀安慰地匆匆赶往亨利·泰勒家。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 153.67,
+      "end": 159.77,
+      "text": "History does not relate whether his friend accepted his medical help, but in all probability he did.",
+      "translations": {
+        "zh-Hans": "历史没有记载朋友是否接受了他的医疗帮助，但十有八九接受了。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 160.79,
+      "end": 176.53,
+      "text": "The great advantage of taking medicine is that it makes no demands on the taker beyond that of putting up for a moment with a disgusting taste, and that is what all patients demand of their doctors, to be cured at no inconvenience to",
+      "translations": {
+        "zh-Hans": "吃药的一大优点是，服药者除了一时忍受令人作呕的味道外，无须付出任何努力；而这正是所有病人对医生的要求——在不给"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 176.53,
+      "end": 177.09,
+      "text": "themselves.",
+      "translations": {
+        "zh-Hans": "自己带来不便的情况下被治愈。"
+      }
+    }
+  ]
+}

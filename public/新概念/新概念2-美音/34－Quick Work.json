@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-034-quick-work",
+    "title": "Lesson 34: Quick Work",
+    "audioFilename": "34－Quick Work.mp3",
+    "duration": 90.41,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.78,
+      "end": 2.5,
+      "text": "Lesson 34.",
+      "translations": {
+        "zh-Hans": "第34课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.58,
+      "end": 4.46,
+      "text": "Quick Work.",
+      "translations": {
+        "zh-Hans": "破案神速。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.06,
+      "end": 8.86,
+      "text": "listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.44,
+      "end": 14.34,
+      "text": "How long had the police taken to find his bicycle?",
+      "translations": {
+        "zh-Hans": "警方花了多长时间才找到他的自行车？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.8,
+      "end": 19.86,
+      "text": "Dan Robinson has been worried all week.",
+      "translations": {
+        "zh-Hans": "丹·鲁宾逊整个星期都忧心忡忡。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.08,
+      "end": 25.14,
+      "text": "Last Tuesday he received a letter from the local police.",
+      "translations": {
+        "zh-Hans": "上星期二，他收到当地警察局的一封信。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.1,
+      "end": 29.88,
+      "text": "In the letter, he was asked to call at the station.",
+      "translations": {
+        "zh-Hans": "信中让他到警察局去一趟。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 30.88,
+      "end": 34.4,
+      "text": "Dan wondered why he was wanted by the police.",
+      "translations": {
+        "zh-Hans": "丹不明白警方为什么要找他。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 35.62,
+      "end": 41.14,
+      "text": "But he went to the station yesterday and now he is not worried anymore.",
+      "translations": {
+        "zh-Hans": "但他昨天去了警察局，现在再也不担心了。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 42.04,
+      "end": 49.3,
+      "text": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "translations": {
+        "zh-Hans": "在警察局里，一位面带笑容的警察告诉他，他的自行车找到了。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 50.7,
+      "end": 60.26,
+      "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village 400 miles away.",
+      "translations": {
+        "zh-Hans": "警察告诉他，五天前有人在400英里外的一个小村庄发现了那辆自行车。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 61.32,
+      "end": 64.64,
+      "text": "It is now being sent to his home by train.",
+      "translations": {
+        "zh-Hans": "现在正用火车把它运到他家。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 66.04,
+      "end": 69.5,
+      "text": "Dan was most surprised when he heard the news.",
+      "translations": {
+        "zh-Hans": "丹听到这个消息时非常惊讶。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 70.26,
+      "end": 77.14,
+      "text": "He was amused too, because he never expected the bicycle to be found.",
+      "translations": {
+        "zh-Hans": "他也觉得好笑，因为他从没指望这辆自行车还能找回来。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 77.14,
+      "end": 83.86,
+      "text": "It was stolen 20 years ago when Dan was a boy of 15.",
+      "translations": {
+        "zh-Hans": "这辆车是20年前丹还是个15岁少年时被偷的。"
+      }
+    }
+  ]
+}

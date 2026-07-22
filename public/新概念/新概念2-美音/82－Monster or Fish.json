@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-082-monster-or-fish",
+    "title": "Lesson 82: Monster or Fish",
+    "audioFilename": "82－Monster or Fish.mp3",
+    "duration": 115.775,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.66,
+      "end": 2.26,
+      "text": "Lesson 82.",
+      "translations": {
+        "zh-Hans": "第82课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.62,
+      "end": 5.14,
+      "text": "Monster or Fish.",
+      "translations": {
+        "zh-Hans": "海怪还是鱼？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.88,
+      "end": 9.98,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.6,
+      "end": 13.42,
+      "text": "What was the monster called?",
+      "translations": {
+        "zh-Hans": "这个“海怪”叫什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.32,
+      "end": 20.68,
+      "text": "Fishermen and sailors sometimes claim to have seen monsters in the sea.",
+      "translations": {
+        "zh-Hans": "渔民和水手有时声称自己在海里见过怪物。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.98,
+      "end": 34.96,
+      "text": "Though people have often laughed at stories told by seamen, it is now known that many of these which have at times been sighted are simply strange fish.",
+      "translations": {
+        "zh-Hans": "虽然人们常嘲笑水手讲的故事，但现在大家知道，那些不时被人看到的“怪物”中，有许多其实只是奇特的鱼类。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 38.32,
+      "end": 44.5,
+      "text": "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.",
+      "translations": {
+        "zh-Hans": "偶尔会有罕见生物被海浪冲上岸，却很少在外海被捕获。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 45.8,
+      "end": 51.86,
+      "text": "Some time ago, however, a peculiar fish was caught near Madagascar.",
+      "translations": {
+        "zh-Hans": "然而不久前，人们在马达加斯加附近捕到了一条奇怪的鱼。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 53.28,
+      "end": 60.88,
+      "text": "A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.",
+      "translations": {
+        "zh-Hans": "这条力大无穷的鱼咬住鱼线后，把一条小渔船拖到了几英里外的海面。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 62.32,
+      "end": 71.72,
+      "text": "Realizing that this was no ordinary fish, the fishermen made every effort not to damage it in any way.",
+      "translations": {
+        "zh-Hans": "渔民们意识到这绝非普通的鱼，于是千方百计不让它受到任何伤害。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 73.38,
+      "end": 80.74,
+      "text": "When it was eventually brought to shore, it was found to be over 13 feet long.",
+      "translations": {
+        "zh-Hans": "当它最终被带上岸时，人们发现它身长超过13英尺。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 81.78,
+      "end": 90.22,
+      "text": "It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail.",
+      "translations": {
+        "zh-Hans": "它长着马一样的头、大大的蓝眼睛、闪亮的银色皮肤和鲜红的尾巴。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 91.46,
+      "end": 100.6,
+      "text": "The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish.",
+      "translations": {
+        "zh-Hans": "这条鱼叫皇带鱼，后来被送往博物馆，由一名科学家进行研究。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 102.06,
+      "end": 109.4,
+      "text": "Such creatures have rarely been seen alive by man as they live at a depth of 600 feet.",
+      "translations": {
+        "zh-Hans": "人们极少见到这种生物活着的样子，因为它们生活在600英尺深的水下。"
+      }
+    }
+  ]
+}

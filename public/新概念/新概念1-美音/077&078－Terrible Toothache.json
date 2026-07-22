@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-077-078-terrible-toothache",
+    "title": "Lesson 77: Terrible toothache",
+    "audioFilename": "077&078－Terrible Toothache.mp3",
+    "duration": 97.097,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 4.95,
+      "text": "Lesson 77–Terrible Toothache.",
+      "translations": {
+        "zh-Hans": "第77课——要命的牙痛。"
+      }
+    },
+    {
+      "id": "s001a",
+      "start": 6.52,
+      "end": 10.8,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s001b",
+      "start": 12.2,
+      "end": 18.54,
+      "text": "What time of day is it, do you think? How do you know?",
+      "translations": {
+        "zh-Hans": "你认为当时是一天中的什么时间？你是怎么知道的？"
+      }
+    },
+    {
+      "id": "s001c",
+      "start": 20.88,
+      "end": 23.92,
+      "text": "Good morning, Mr. Croft.",
+      "translations": {
+        "zh-Hans": "早上好，克罗夫特先生。"
+      }
+    },
+    {
+      "id": "s001d",
+      "start": 24.92,
+      "end": 30.44,
+      "text": "Good morning, nurse. I want to see the dentist, please.",
+      "translations": {
+        "zh-Hans": "早上好，护士。我想见牙医。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 32.06,
+      "end": 33.44,
+      "text": "Do you have an appointment?",
+      "translations": {
+        "zh-Hans": "您预约了吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 34.56,
+      "end": 36.24,
+      "text": "No, I don't.",
+      "translations": {
+        "zh-Hans": "没有。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 36.62,
+      "end": 37.76,
+      "text": "Is it urgent?",
+      "translations": {
+        "zh-Hans": "很紧急吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 38.68,
+      "end": 40.52,
+      "text": "Yes, it is.",
+      "translations": {
+        "zh-Hans": "是的。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 41.32,
+      "end": 43.2,
+      "text": "It's very urgent.",
+      "translations": {
+        "zh-Hans": "非常紧急。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 44.24,
+      "end": 45.98,
+      "text": "I feel awful.",
+      "translations": {
+        "zh-Hans": "我难受极了。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 46.76,
+      "end": 49.62,
+      "text": "I have a terrible toothache.",
+      "translations": {
+        "zh-Hans": "我牙痛得要命。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 50.86,
+      "end": 53.34,
+      "text": "Can you come at 10 a.m.",
+      "translations": {
+        "zh-Hans": "您能在上午十点来吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 53.44,
+      "end": 56.06,
+      "text": "on Monday, April 24th?",
+      "translations": {
+        "zh-Hans": "4月24日，星期一。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 57.06,
+      "end": 61.52,
+      "text": "I must see the dentist now, nurse.",
+      "translations": {
+        "zh-Hans": "护士，我现在就必须见牙医。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 62.74,
+      "end": 66.5,
+      "text": "The dentist is very busy at the moment.",
+      "translations": {
+        "zh-Hans": "牙医此刻很忙。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 67.42,
+      "end": 70.54,
+      "text": "Can you come at 2 p.m.?",
+      "translations": {
+        "zh-Hans": "您下午两点来可以吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 71.06,
+      "end": 73.2,
+      "text": "That's very late.",
+      "translations": {
+        "zh-Hans": "那太晚了。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 74.3,
+      "end": 76.64,
+      "text": "Can the dentist see me now?",
+      "translations": {
+        "zh-Hans": "牙医现在能给我看吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 77.34,
+      "end": 80.72,
+      "text": "I'm afraid that he can't, Mr.",
+      "translations": {
+        "zh-Hans": "恐怕不能，克罗夫特"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 81.1,
+      "end": 81.42,
+      "text": "Croft.",
+      "translations": {
+        "zh-Hans": "先生。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 82.1,
+      "end": 84.94,
+      "text": "Can't you wait till this afternoon?",
+      "translations": {
+        "zh-Hans": "您不能等到今天下午吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 86.06,
+      "end": 90.5,
+      "text": "I can wait, but my toothache can't.",
+      "translations": {
+        "zh-Hans": "我能等，但我的牙痛等不了。"
+      }
+    }
+  ]
+}

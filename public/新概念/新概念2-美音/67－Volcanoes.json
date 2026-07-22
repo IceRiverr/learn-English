@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-067-volcanoes",
+    "title": "Lesson 67: Volcanoes",
+    "audioFilename": "67－Volcanoes.mp3",
+    "duration": 119.458,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.52,
+      "end": 8.58,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.2,
+      "end": 13.64,
+      "text": "Why does Tazieff risk his life like this?",
+      "translations": {
+        "zh-Hans": "为什么塔齐耶夫要这样冒生命危险？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 15.87,
+      "end": 26.49,
+      "text": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+      "translations": {
+        "zh-Hans": "波兰科学家哈伦·塔齐耶夫毕生都在研究世界各地的活火山和深洞穴。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 27.79,
+      "end": 37.25,
+      "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+      "translations": {
+        "zh-Hans": "1948年，他前往刚果的基伍湖考察一座新火山，后来将其命名为基图罗火山。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 39.8,
+      "end": 47.52,
+      "text": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+      "translations": {
+        "zh-Hans": "火山猛烈喷发时，塔齐耶夫竟能把营地扎在离火山非常近的地方。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 49.22,
+      "end": 57.36,
+      "text": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+      "translations": {
+        "zh-Hans": "尽管他拍下了许多精彩照片，却无法在火山附近久留。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 58.84,
+      "end": 63.18,
+      "text": "He noticed that a river of liquid rock was coming towards him.",
+      "translations": {
+        "zh-Hans": "他发现一股熔岩正向他涌来。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 63.9,
+      "end": 71.3,
+      "text": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+      "translations": {
+        "zh-Hans": "熔岩眼看就要把他完全包围，塔齐耶夫却在最后一刻成功逃脱。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 72.62,
+      "end": 79.46,
+      "text": "He waited until the volcano became quiet and he was able to return two days later.",
+      "translations": {
+        "zh-Hans": "他一直等到火山平静下来，两天后才得以返回。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 80.42,
+      "end": 89.6,
+      "text": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+      "translations": {
+        "zh-Hans": "这一次，他设法爬进基图罗火山口，以便拍照并测量温度。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 91.12,
+      "end": 94.48,
+      "text": "Tazieff has often risked his life in this way.",
+      "translations": {
+        "zh-Hans": "塔齐耶夫经常以这种方式冒生命危险。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 95.66,
+      "end": 101.84,
+      "text": "He has been able to tell us more about active volcanoes than any man alive.",
+      "translations": {
+        "zh-Hans": "他让我们对活火山的了解超过了当世任何其他人。"
+      }
+    }
+  ]
+}

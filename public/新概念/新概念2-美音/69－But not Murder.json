@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-069-but-not-murder",
+    "title": "Lesson 69: But not Murder",
+    "audioFilename": "69－But not Murder.mp3",
+    "duration": 104.281,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.75,
+      "end": 2.65,
+      "text": "Lesson 69.",
+      "translations": {
+        "zh-Hans": "第69课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.53,
+      "end": 4.77,
+      "text": "But not Murder.",
+      "translations": {
+        "zh-Hans": "但并非谋杀。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.57,
+      "end": 9.43,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.11,
+      "end": 14.47,
+      "text": "Do you think that the writer passed his driving test?",
+      "translations": {
+        "zh-Hans": "你认为作者通过驾驶考试了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.41,
+      "end": 15.77,
+      "text": "Why?",
+      "translations": {
+        "zh-Hans": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 17.93,
+      "end": 22.31,
+      "text": "I was being tested for a driving license for the third time.",
+      "translations": {
+        "zh-Hans": "我正在第三次参加驾驶执照考试。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 23.27,
+      "end": 28.83,
+      "text": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "translations": {
+        "zh-Hans": "考官要求我在拥挤的车流中驾驶，我顺利地做到了。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 28.83,
+      "end": 36.67,
+      "text": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "translations": {
+        "zh-Hans": "接到把车开出城的指令后，我开始有了信心。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 37.89,
+      "end": 43.75,
+      "text": "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "translations": {
+        "zh-Hans": "我确信自己已经通过考试，甚至开始享受这次考试了。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 44.67,
+      "end": 53.99,
+      "text": "The examiner must have been pleased with my performance, for he smiled and said, Just one more thing, Mr.",
+      "translations": {
+        "zh-Hans": "考官一定对我的表现很满意，因为他微笑着说：“还有最后一项，艾姆斯先生。”"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 54.33,
+      "end": 54.43,
+      "text": "Ames.",
+      "translations": {
+        "zh-Hans": "艾姆斯。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 55.69,
+      "end": 60.95,
+      "text": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "translations": {
+        "zh-Hans": "“假设一个孩子突然从你前面横穿马路。”"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 61.69,
+      "end": 66.83,
+      "text": "As soon as I tap on the window, you must stop within five feet.",
+      "translations": {
+        "zh-Hans": "“我一敲车窗，你就必须在五英尺之内把车停下。”"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 68.01,
+      "end": 73.29,
+      "text": "I continued driving and after some time the examiner tapped loudly.",
+      "translations": {
+        "zh-Hans": "我继续驾车，过了一会儿，考官重重地敲了敲车窗。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 74.17,
+      "end": 80.39,
+      "text": "Though the sound could be heard clearly, it took me a long time to react.",
+      "translations": {
+        "zh-Hans": "虽然敲击声听得很清楚，我却过了很久才反应过来。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 81.57,
+      "end": 86.53,
+      "text": "I suddenly pressed the brake pedal hard and we were both thrown forward.",
+      "translations": {
+        "zh-Hans": "我猛踩刹车踏板，我们俩都被甩向前方。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 87.59,
+      "end": 89.83,
+      "text": "The examiner looked at me sadly.",
+      "translations": {
+        "zh-Hans": "考官悲伤地看着我。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 89.83,
+      "end": 91.55,
+      "text": "Mr. Ames,",
+      "translations": {
+        "zh-Hans": "艾姆斯先生，"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 92.43,
+      "end": 97.91,
+      "text": "he said, in a mournful voice, you have just killed that child.",
+      "translations": {
+        "zh-Hans": "他用悲哀的语调说：“你刚刚撞死了那个孩子。”"
+      }
+    }
+  ]
+}

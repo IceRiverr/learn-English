@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-073-074-the-way-to-king-street",
+    "title": "Lesson 73: The way to King Street",
+    "audioFilename": "073&074－The Way to King Street.mp3",
+    "duration": 94.276,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 5.53,
+      "text": "Lesson 73–The Way to King Street.",
+      "translations": {
+        "zh-Hans": "第73课——去国王街的路。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.49,
+      "end": 10.99,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s002a",
+      "start": 12.58,
+      "end": 15.82,
+      "text": "Why did the man need a phrasebook?",
+      "translations": {
+        "zh-Hans": "那个男人为什么需要一本常用语手册？"
+      }
+    },
+    {
+      "id": "s002b",
+      "start": 18.66,
+      "end": 22.66,
+      "text": "Last week Mrs. Mills went to London.",
+      "translations": {
+        "zh-Hans": "上星期，米尔斯太太去了伦敦。"
+      }
+    },
+    {
+      "id": "s002c",
+      "start": 22.66,
+      "end": 29.32,
+      "text": "She does not know London very well, and she lost her way.",
+      "translations": {
+        "zh-Hans": "她不太熟悉伦敦，因此迷了路。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 32.38,
+      "end": 35.04,
+      "text": "She saw a man near a bus stop.",
+      "translations": {
+        "zh-Hans": "她在公共汽车站附近看见一个男人。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 36.18,
+      "end": 40.56,
+      "text": "I can ask him the way, she said to herself.",
+      "translations": {
+        "zh-Hans": "“我可以向他问路，”她心里想。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 41.92,
+      "end": 44.28,
+      "text": "Excuse me, she said.",
+      "translations": {
+        "zh-Hans": "“打扰一下，”她说。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 45.28,
+      "end": 49.5,
+      "text": "Can you tell me the way to King Street, please?",
+      "translations": {
+        "zh-Hans": "“请问您能告诉我去国王街怎么走吗？”"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 51.14,
+      "end": 53.5,
+      "text": "The man smiled pleasantly.",
+      "translations": {
+        "zh-Hans": "那个男人友好地笑了笑。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 54.66,
+      "end": 57.58,
+      "text": "He did not understand English.",
+      "translations": {
+        "zh-Hans": "他听不懂英语。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 58.52,
+      "end": 60.02,
+      "text": "He spoke German.",
+      "translations": {
+        "zh-Hans": "他说德语。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 60.02,
+      "end": 62.84,
+      "text": "He was a tourist.",
+      "translations": {
+        "zh-Hans": "他是一名游客。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 64.12,
+      "end": 70.92,
+      "text": "Then he put his hand into his pocket and took out a phrasebook.",
+      "translations": {
+        "zh-Hans": "然后，他把手伸进口袋，拿出一本常用语手册。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 71.92,
+      "end": 75.44,
+      "text": "He opened the book and found a phrase.",
+      "translations": {
+        "zh-Hans": "他打开书，找到一句话。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 76.7,
+      "end": 79.62,
+      "text": "He read the phrase slowly.",
+      "translations": {
+        "zh-Hans": "他慢慢地读出那句话。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 79.62,
+      "end": 84.06,
+      "text": "I am sorry, he said.",
+      "translations": {
+        "zh-Hans": "“对不起，”他说，"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 84.84,
+      "end": 87.54,
+      "text": "I do not speak English.",
+      "translations": {
+        "zh-Hans": "“我不会说英语。”"
+      }
+    }
+  ]
+}

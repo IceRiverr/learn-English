@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-002-thirteen-equals-one",
+    "title": "Lesson 2: Thirteen Equals One",
+    "audioFilename": "02－Thirteen Equals One.mp3",
+    "duration": 122.384,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.05,
+      "end": 1.35,
+      "text": "Lesson 2.",
+      "translations": {
+        "zh-Hans": "第2课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.25,
+      "end": 3.83,
+      "text": "Thirteen Equals One.",
+      "translations": {
+        "zh-Hans": "十三等于一。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.09,
+      "end": 8.65,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.23,
+      "end": 12.91,
+      "text": "Was the vicar pleased that the clock was striking?",
+      "translations": {
+        "zh-Hans": "钟敲响了，牧师高兴吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 13.95,
+      "end": 14.29,
+      "text": "Why?",
+      "translations": {
+        "zh-Hans": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 16.68,
+      "end": 25.34,
+      "text": "Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.",
+      "translations": {
+        "zh-Hans": "我们的牧师总在为这样或那样的事业筹款，但他从未筹到足够的钱来修理教堂的大钟。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.04,
+      "end": 35.16,
+      "text": "The big clock, which used to strike the hours day and night, was damaged many years ago and has been silent ever since.",
+      "translations": {
+        "zh-Hans": "这座大钟过去不分昼夜地按时报时，许多年前损坏以后便一直沉默至今。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 36.5,
+      "end": 40.02,
+      "text": "One night, however, our vicar woke up with a start.",
+      "translations": {
+        "zh-Hans": "然而，一天夜里，牧师突然惊醒了。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 40.56,
+      "end": 42.48,
+      "text": "The clock was striking the hours.",
+      "translations": {
+        "zh-Hans": "大钟正在报时。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 43.54,
+      "end": 50.86,
+      "text": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.",
+      "translations": {
+        "zh-Hans": "他看了看手表，发现是一点钟，但钟敲了十三下才停。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 51.66,
+      "end": 57.3,
+      "text": "Armed with a torch, the vicar went up into the clock tower to see what was going on.",
+      "translations": {
+        "zh-Hans": "牧师拿着手电筒登上钟楼，想看看究竟发生了什么事。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 58.08,
+      "end": 65.32,
+      "text": "In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.",
+      "translations": {
+        "zh-Hans": "借着手电筒的光，他看见一个人影，马上认出那是本地的杂货商比尔·威尔金斯。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 66.2,
+      "end": 68.28,
+      "text": "Whatever are you doing up here, Bill?",
+      "translations": {
+        "zh-Hans": "“比尔，你到底在上面干什么？”"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 68.78,
+      "end": 70.18,
+      "text": "asked the vicar in surprise.",
+      "translations": {
+        "zh-Hans": "牧师惊讶地问。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 71.4,
+      "end": 74.2,
+      "text": "I'm trying to repair the bell, answered Bill.",
+      "translations": {
+        "zh-Hans": "“我在设法修钟，”比尔回答说。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 75.28,
+      "end": 78.22,
+      "text": "I've been coming up here night after night for weeks now.",
+      "translations": {
+        "zh-Hans": "“几个星期以来，我每天夜里都到这儿来。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 78.22,
+      "end": 80.98,
+      "text": "You see, I was hoping to give you a surprise.",
+      "translations": {
+        "zh-Hans": "你瞧，我原想给你一个惊喜。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 82.5,
+      "end": 85.38,
+      "text": "You certainly did give me a surprise, said the vicar.",
+      "translations": {
+        "zh-Hans": "“你确实给了我一个惊喜，”牧师说。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 85.88,
+      "end": 88.84,
+      "text": "You've probably woken up everyone in the village as well.",
+      "translations": {
+        "zh-Hans": "“你恐怕也把村里所有人都吵醒了。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 89.6,
+      "end": 91.84,
+      "text": "Still, I'm glad the bell is working again.",
+      "translations": {
+        "zh-Hans": "不过，我很高兴这钟又能走了。”"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 92.86,
+      "end": 95.22,
+      "text": "That's the trouble, vicar, answered Bill.",
+      "translations": {
+        "zh-Hans": "“问题就在这里，牧师，”比尔回答说。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 95.76,
+      "end": 96.74,
+      "text": "It's working all right.",
+      "translations": {
+        "zh-Hans": "“它走得倒是没问题。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 98.08,
+      "end": 104.08,
+      "text": "But I'm afraid that at one o'clock it will strike thirteen times, and there's nothing I can do about it.",
+      "translations": {
+        "zh-Hans": "可我担心每到一点钟它就会敲十三下，而我对此无能为力。”"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 104.98,
+      "end": 107.52,
+      "text": "We'll get used to that, Bill, said the vicar.",
+      "translations": {
+        "zh-Hans": "“我们会习惯的，比尔，”牧师说。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 107.52,
+      "end": 112,
+      "text": "Thirteen is not as good as one, but it's better than nothing.",
+      "translations": {
+        "zh-Hans": "“十三下虽不如一下好，但总比一下也不敲强。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 113.1,
+      "end": 115.82,
+      "text": "Now let's go downstairs and have a cup of tea.",
+      "translations": {
+        "zh-Hans": "现在我们下楼去喝杯茶吧。”"
+      }
+    }
+  ]
+}

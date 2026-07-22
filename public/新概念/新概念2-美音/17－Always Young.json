@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-017-always-young",
+    "title": "Lesson 17: Always Young",
+    "audioFilename": "17－Always Young.mp3",
+    "duration": 75.703,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.37,
+      "end": 2.19,
+      "text": "Lesson 17.",
+      "translations": {
+        "zh-Hans": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.17,
+      "end": 4.23,
+      "text": "Always Young.",
+      "translations": {
+        "zh-Hans": "永远年轻。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.75,
+      "end": 15.51,
+      "text": "First listen, and then answer the question, Why doesn't Aunt Jennifer tell anyone how old she is?",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题：为什么詹妮弗姑妈从不告诉别人她的年龄？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.31,
+      "end": 19.65,
+      "text": "My Aunt Jennifer is an actress.",
+      "translations": {
+        "zh-Hans": "我的姑妈詹妮弗是一名演员。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 21.07,
+      "end": 24.35,
+      "text": "She must be at least 35 years old.",
+      "translations": {
+        "zh-Hans": "她至少也有35岁了。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.35,
+      "end": 30.29,
+      "text": "In spite of this, she often appears on the stage as a young girl.",
+      "translations": {
+        "zh-Hans": "尽管如此，她却常在舞台上扮演年轻姑娘。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 31.95,
+      "end": 35.19,
+      "text": "Jennifer will have to take part in a new play soon.",
+      "translations": {
+        "zh-Hans": "詹妮弗很快又要参加一出新剧的演出。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 36.17,
+      "end": 39.29,
+      "text": "This time, she will be a girl of 17.",
+      "translations": {
+        "zh-Hans": "这一次，她将扮演一个17岁的少女。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 40.97,
+      "end": 48.15,
+      "text": "In the play, she must appear in a bright red dress and long black stockings.",
+      "translations": {
+        "zh-Hans": "剧中她必须穿一条鲜红色连衣裙和黑色长筒袜。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 49.15,
+      "end": 56.97,
+      "text": "Last year, in another play, she had to wear short socks and a bright orange colored dress.",
+      "translations": {
+        "zh-Hans": "去年，在另一出戏里，她得穿短袜和一条鲜橙色的连衣裙。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 58.43,
+      "end": 69.01,
+      "text": "If anyone ever asks her how old she is, she always answers, Darling, it must be terrible to be grown up.",
+      "translations": {
+        "zh-Hans": "要是有人问她多大年纪，她总是回答：“亲爱的，长大成人一定很可怕吧！”"
+      }
+    }
+  ]
+}

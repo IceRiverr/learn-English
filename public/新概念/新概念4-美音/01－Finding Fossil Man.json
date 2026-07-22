@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-001-finding-fossil-man",
+    "title": "Lesson 1: Finding Fossil Man",
+    "audioFilename": "01－Finding Fossil Man.mp3",
+    "duration": 133.904,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 1.55,
+      "text": "Lesson 1.",
+      "translations": {
+        "zh-Hans": "第1课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.69,
+      "end": 4.01,
+      "text": "Finding Fossil Man.",
+      "translations": {
+        "zh-Hans": "寻找化石人。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.11,
+      "end": 9.21,
+      "text": "listen and then answer the following question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.11,
+      "end": 15.09,
+      "text": "Why are legends handed down by storytellers useful?",
+      "translations": {
+        "zh-Hans": "故事讲述者代代相传的传说为什么有用？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.44,
+      "end": 25.5,
+      "text": "We can read of things that happened 5,000 years ago in the Near East, where people first learn to write.",
+      "translations": {
+        "zh-Hans": "我们可以读到五千年前近东发生的事情，那里的人最早学会了书写。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 26.3,
+      "end": 32.16,
+      "text": "But there are some parts of the world where even now people cannot write.",
+      "translations": {
+        "zh-Hans": "但世界上有些地方，即使现在人们仍不会书写。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 33.24,
+      "end": 39.22,
+      "text": "The only way that they can preserve their history is to recount it as sagas.",
+      "translations": {
+        "zh-Hans": "他们保存历史的唯一方式，是把它作为英雄传说讲述下来。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 40.34,
+      "end": 44.86,
+      "text": "Legends handed down from one generation of storytellers to another.",
+      "translations": {
+        "zh-Hans": "这些传说由一代代故事讲述者口耳相传。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 46.16,
+      "end": 52.98,
+      "text": "These legends are useful because they can tell us something about migrations of people who lived long ago.",
+      "translations": {
+        "zh-Hans": "这些传说很有用，因为它们能告诉我们一些远古民族迁徙的情况。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 53.98,
+      "end": 56.44,
+      "text": "But none could write down what they did.",
+      "translations": {
+        "zh-Hans": "但当时没有人能把自己的所作所为记录下来。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 58.1,
+      "end": 66.06,
+      "text": "Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from.",
+      "translations": {
+        "zh-Hans": "人类学家曾想知道，如今生活在太平洋岛屿上的波利尼西亚人的远祖来自哪里。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 66.88,
+      "end": 73.96,
+      "text": "The sagas of these people explained that some of them came from Indonesia about two thousand years ago.",
+      "translations": {
+        "zh-Hans": "这些民族的传说说明，其中一些人约在两千年前来自印度尼西亚。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 75.02,
+      "end": 84.56,
+      "text": "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.",
+      "translations": {
+        "zh-Hans": "然而，最早与我们相似的人生活的年代太过久远，以至他们的传说——如果曾有的话——也早已被遗忘。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 85.64,
+      "end": 94,
+      "text": "So archaeologists have neither history nor legends to help them to find out where the first modern men came from.",
+      "translations": {
+        "zh-Hans": "因此，考古学家既无历史记载也无传说可借助，来查明最早的现代人来自哪里。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 94.9,
+      "end": 104.8,
+      "text": "Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds.",
+      "translations": {
+        "zh-Hans": "不过幸运的是，古人用石头，特别是比其他石材更容易加工的燧石制作工具。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 105.66,
+      "end": 111.02,
+      "text": "They may also have used wood and skins, but these have rotted away.",
+      "translations": {
+        "zh-Hans": "他们或许也使用过木头和兽皮，但这些早已腐烂。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 111.32,
+      "end": 123.1,
+      "text": "Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.",
+      "translations": {
+        "zh-Hans": "石头不会腐朽，所以远古的工具保存至今，而制造它们的人的骨骼甚至都已消失得无影无踪。"
+      }
+    }
+  ]
+}

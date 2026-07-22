@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-061-trouble-with-the-hubble",
+    "title": "Lesson 61: Trouble with the Hubble",
+    "audioFilename": "61－Trouble with the Hubble.mp3",
+    "duration": 102.713,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.46,
+      "end": 9.5,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.74,
+      "end": 14.56,
+      "text": "What is the special importance of a telescope in space?",
+      "translations": {
+        "zh-Hans": "太空望远镜有什么特殊意义？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 17.05,
+      "end": 27.57,
+      "text": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.",
+      "translations": {
+        "zh-Hans": "1990年4月20日，美国国家航空航天局耗资十多亿美元，把哈勃望远镜发射到太空。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 28.61,
+      "end": 32.51,
+      "text": "Right from the start, there was trouble with the Hubble.",
+      "translations": {
+        "zh-Hans": "哈勃从一开始就出了问题。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 33.77,
+      "end": 40.01,
+      "text": "The pictures it sent us were very disappointing because its main mirror was faulty.",
+      "translations": {
+        "zh-Hans": "它传回的照片令人非常失望，因为主镜有缺陷。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 41.55,
+      "end": 50.07,
+      "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "translations": {
+        "zh-Hans": "美国国家航空航天局现在准备修好望远镜，因此很快会把四名宇航员送上太空进行维修。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 50.75,
+      "end": 55.07,
+      "text": "The shuttle Endeavor will be taking the astronauts to the Hubble.",
+      "translations": {
+        "zh-Hans": "“奋进号”航天飞机将把宇航员送到哈勃望远镜旁。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 56.13,
+      "end": 65.05,
+      "text": "A robot arm from the Endeavor will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "translations": {
+        "zh-Hans": "“奋进号”上的机械臂将抓住望远镜并固定住，供宇航员完成必要的维修。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 66.41,
+      "end": 79.55,
+      "text": "Of course, the Hubble is above the Earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "translations": {
+        "zh-Hans": "当然，哈勃位于地球大气层之外，因此很快会向我们传回有史以来最清晰的恒星和遥远星系照片。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 80.73,
+      "end": 86.37,
+      "text": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "translations": {
+        "zh-Hans": "哈勃将告诉我们许多有关宇宙年龄和大小的信息。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 87.75,
+      "end": 96.69,
+      "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "translations": {
+        "zh-Hans": "等你读到本文时，哈勃锐利的“鹰眼”将已经向我们传回成千上万张精彩照片。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-073-the-record-holder",
+    "title": "Lesson 73: The Record-Holder",
+    "audioFilename": "73－The Record-Holder.mp3",
+    "duration": 111.438,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.37,
+      "end": 9.43,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.85,
+      "end": 13.23,
+      "text": "Did the boy go where he wanted to?",
+      "translations": {
+        "zh-Hans": "这个男孩到达了自己想去的地方吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 15.57,
+      "end": 19.51,
+      "text": "Children who play truant from school are unimaginative.",
+      "translations": {
+        "zh-Hans": "逃学的孩子通常都缺乏想象力。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 20.71,
+      "end": 31.61,
+      "text": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
+      "translations": {
+        "zh-Hans": "安安静静地钓一天鱼，或是在电影院里把同一部电影反复看上八小时，通常就是他们所能想到的全部花样。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 32.43,
+      "end": 41.25,
+      "text": "They have all been put to shame by a boy who, while playing truant, traveled 1,600 miles.",
+      "translations": {
+        "zh-Hans": "然而，一个逃学期间旅行了1,600英里的男孩，却让他们全都相形见绌。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 42.83,
+      "end": 50.21,
+      "text": "He hitchhiked to Dover and, towards evening, went into a boat to find somewhere to sleep.",
+      "translations": {
+        "zh-Hans": "他搭便车到了多佛，傍晚时钻进一条船，想找个地方睡觉。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 51.33,
+      "end": 59.57,
+      "text": "When he woke up next morning, he discovered that the boat had, in the meantime, traveled to Calais.",
+      "translations": {
+        "zh-Hans": "第二天早晨醒来时，他发现那条船已经在这段时间里开到了加来。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 60.77,
+      "end": 63.85,
+      "text": "No one noticed the boy as he crept off.",
+      "translations": {
+        "zh-Hans": "男孩悄悄溜下船时，没有人注意到他。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 64.93,
+      "end": 68.77,
+      "text": "From there, he hitchhiked to Paris in a lorry.",
+      "translations": {
+        "zh-Hans": "他从那里搭上一辆卡车，前往巴黎。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 69.47,
+      "end": 76.51,
+      "text": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
+      "translations": {
+        "zh-Hans": "司机给了他几块饼干和一杯咖啡，把他留在了城外不远处。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 77.67,
+      "end": 90.19,
+      "text": "The next car the boy stopped did not take him into the center of Paris, as he hoped it would, but to Perpignan, on the French-Spanish border.",
+      "translations": {
+        "zh-Hans": "男孩拦下的下一辆车并没有如他所愿把他带进巴黎市中心，而是把他带到了法西边境的佩皮尼昂。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 91.59,
+      "end": 97.89,
+      "text": "There he was picked up by a policeman and sent back to England by the local authorities.",
+      "translations": {
+        "zh-Hans": "他在那里被一名警察发现，当地政府随后把他遣送回英国。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 99.15,
+      "end": 105.17,
+      "text": "He has surely set up a record for the thousands of children who dream of evading school.",
+      "translations": {
+        "zh-Hans": "对于成千上万梦想逃学的孩子来说，他无疑创下了一项纪录。"
+      }
+    }
+  ]
+}

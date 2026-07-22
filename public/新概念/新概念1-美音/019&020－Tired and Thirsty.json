@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-019-020-tired-and-thirsty",
+    "title": "Lesson 19: Tired and thirsty",
+    "audioFilename": "019&020－Tired and Thirsty.mp3",
+    "duration": 62.38,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.3,
+      "end": 5.16,
+      "text": "Lesson 19–Tired and Thirsty.",
+      "translations": {
+        "zh-Hans": "第19课——又累又渴。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.36,
+      "end": 10.7,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.26,
+      "end": 15.4,
+      "text": "Why do the children thank their mother?",
+      "translations": {
+        "zh-Hans": "孩子们为什么感谢他们的母亲？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.86,
+      "end": 19.5,
+      "text": "What's the matter, children?",
+      "translations": {
+        "zh-Hans": "孩子们，怎么了？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 20.5,
+      "end": 22.12,
+      "text": "We're tired.",
+      "translations": {
+        "zh-Hans": "我们累了。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.66,
+      "end": 24.34,
+      "text": "And thirsty, Mom.",
+      "translations": {
+        "zh-Hans": "还渴了，妈妈。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.2,
+      "end": 26.62,
+      "text": "Sit down here.",
+      "translations": {
+        "zh-Hans": "坐在这里吧。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 27.64,
+      "end": 29.54,
+      "text": "Are you all right now?",
+      "translations": {
+        "zh-Hans": "你们现在好些了吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 29.54,
+      "end": 31.94,
+      "text": "No, we aren't.",
+      "translations": {
+        "zh-Hans": "不，还没有。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 33.66,
+      "end": 35.78,
+      "text": "there's an ice cream man.",
+      "translations": {
+        "zh-Hans": "那里有个卖冰淇淋的人。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 36.92,
+      "end": 39.04,
+      "text": "Two ice creams, please.",
+      "translations": {
+        "zh-Hans": "请来两份冰淇淋。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 40.68,
+      "end": 42.18,
+      "text": "Here you are, children.",
+      "translations": {
+        "zh-Hans": "给你们，孩子们。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 43.64,
+      "end": 44.86,
+      "text": "Thanks, Mom.",
+      "translations": {
+        "zh-Hans": "谢谢，妈妈。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 46.04,
+      "end": 48.5,
+      "text": "These ice creams are nice.",
+      "translations": {
+        "zh-Hans": "这些冰淇淋真好吃。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 49.78,
+      "end": 51.6,
+      "text": "Are you all right now?",
+      "translations": {
+        "zh-Hans": "你们现在好些了吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 52.84,
+      "end": 54.78,
+      "text": "Yes, we are.",
+      "translations": {
+        "zh-Hans": "是的，好了。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 55.32,
+      "end": 56.18,
+      "text": "Thank you.",
+      "translations": {
+        "zh-Hans": "谢谢。"
+      }
+    }
+  ]
+}

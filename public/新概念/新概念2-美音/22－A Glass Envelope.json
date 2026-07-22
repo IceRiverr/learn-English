@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-022-a-glass-envelope",
+    "title": "Lesson 22: A Glass Envelope",
+    "audioFilename": "22－A Glass Envelope.mp3",
+    "duration": 71.262,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 2.03,
+      "text": "Lesson 22.",
+      "translations": {
+        "zh-Hans": "第22课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.87,
+      "end": 5.67,
+      "text": "A Glass Envelope.",
+      "translations": {
+        "zh-Hans": "玻璃信封。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.15,
+      "end": 9.27,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.95,
+      "end": 14.25,
+      "text": "How did Jane receive a letter from a stranger?",
+      "translations": {
+        "zh-Hans": "简是怎样收到一位陌生人的来信的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.81,
+      "end": 24.87,
+      "text": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "translations": {
+        "zh-Hans": "我女儿简做梦也没想到会收到荷兰一位同龄女孩的来信。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 26.53,
+      "end": 36.57,
+      "text": "Last year, we were traveling across the channel, and Jane put a piece of paper with her name and address on it into a bottle.",
+      "translations": {
+        "zh-Hans": "去年，我们横渡英吉利海峡时，简把写有自己姓名和地址的一张纸装进瓶子里。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 37.77,
+      "end": 40.21,
+      "text": "She threw the bottle into the sea.",
+      "translations": {
+        "zh-Hans": "她把瓶子扔进了大海。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 41.19,
+      "end": 48.81,
+      "text": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+      "translations": {
+        "zh-Hans": "她再也没想过这件事，但10个月后，她收到了荷兰一个女孩的来信。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 49.81,
+      "end": 53.37,
+      "text": "Both girls write to each other regularly now.",
+      "translations": {
+        "zh-Hans": "现在两个女孩经常互相通信。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 54.31,
+      "end": 58.59,
+      "text": "However, they have decided to use the post office.",
+      "translations": {
+        "zh-Hans": "不过，她们决定使用邮局。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 60.17,
+      "end": 65.15,
+      "text": "It will cost a little more, but they will certainly travel faster.",
+      "translations": {
+        "zh-Hans": "这样会多花一点钱，但信肯定会传得更快。"
+      }
+    }
+  ]
+}

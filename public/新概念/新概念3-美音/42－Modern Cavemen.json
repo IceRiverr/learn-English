@@ -1,0 +1,309 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-042-modern-cavemen",
+    "title": "Lesson 42: Modern Cavemen",
+    "audioFilename": "42－Modern Cavemen.mp3",
+    "duration": 268.669,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0,
+      "end": 1.6,
+      "text": "Lesson 42.",
+      "translations": {
+        "zh-Hans": "第42课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.46,
+      "end": 3.4,
+      "text": "Modern Cavemen.",
+      "translations": {
+        "zh-Hans": "现代洞穴人。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.66,
+      "end": 8,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.64,
+      "end": 13.08,
+      "text": "With what does the writer compare the Guffa Burge?",
+      "translations": {
+        "zh-Hans": "作者把古弗尔·贝尔热洞比作什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.24,
+      "end": 22.56,
+      "text": "Cave exploration, or potholing as it has come to be known, is a relatively new sport.",
+      "translations": {
+        "zh-Hans": "洞穴探险，也就是如今所说的地下洞穴探险，是一项较新的运动。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.56,
+      "end": 33,
+      "text": "Perhaps it is the desire for solitude, or the chance of making an unexpected discovery that lures people down to the depths of the earth.",
+      "translations": {
+        "zh-Hans": "也许是对独处的渴望，或意外发现某物的机会，把人们吸引到地球深处。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 34.36,
+      "end": 40.18,
+      "text": "It is impossible to give a satisfactory explanation for a potholder's motives.",
+      "translations": {
+        "zh-Hans": "要对洞穴探险者的动机作出令人满意的解释是不可能的。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 40.92,
+      "end": 48.22,
+      "text": "For him, have the same peculiar fascination which high mountains have for the climber.",
+      "translations": {
+        "zh-Hans": "对他来说，洞穴具有高山对登山者同样独特的吸引力。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 48.22,
+      "end": 52.59,
+      "text": "They arouse instincts which can only be dimly understood.",
+      "translations": {
+        "zh-Hans": "它们唤起的本能只能得到模糊的理解。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 54.68,
+      "end": 59.52,
+      "text": "Exploring really deep caves is not a task for the Sunday afternoon rambler.",
+      "translations": {
+        "zh-Hans": "探索真正深邃的洞穴，并非星期日下午散步的人所能胜任。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 60.38,
+      "end": 66.35,
+      "text": "Such undertakings require the precise planning and foresight of military operations.",
+      "translations": {
+        "zh-Hans": "这类行动需要像军事行动一样精确的计划和预见。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 67.31,
+      "end": 79.49,
+      "text": "It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave.",
+      "translations": {
+        "zh-Hans": "在进入一个很深的洞穴之前，架设绳梯和建立补给基地可能要花整整八天。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 80.79,
+      "end": 90.81,
+      "text": "Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the potholder.",
+      "translations": {
+        "zh-Hans": "这种预防措施必不可少，因为无法预知洞穴探险者究竟会遇到什么困难。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 91.81,
+      "end": 97.99,
+      "text": "The deepest known cave in the world is the Guffa Burge near Grenoble.",
+      "translations": {
+        "zh-Hans": "世界上已知最深的洞穴是格勒诺布尔附近的古弗尔·贝尔热洞。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 98.59,
+      "end": 103.39,
+      "text": "It extends to a depth of 3,723 feet.",
+      "translations": {
+        "zh-Hans": "它深达3723英尺。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 104.41,
+      "end": 112.69,
+      "text": "This immense chasm has been formed by an underground stream which has tunnelled a course through a flaw in the rocks.",
+      "translations": {
+        "zh-Hans": "这道巨大的深渊由一条地下河形成，河水沿岩石的一处裂隙冲出了通道。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 113.63,
+      "end": 118.95,
+      "text": "The entrance to the cave is on a plateau in the Dauphiné Alps.",
+      "translations": {
+        "zh-Hans": "洞口位于多菲内阿尔卑斯山的一处高原上。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 119.95,
+      "end": 124.31,
+      "text": "As it is only six feet across, it is barely noticeable.",
+      "translations": {
+        "zh-Hans": "它只有6英尺宽，几乎无法察觉。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 125.53,
+      "end": 133.85,
+      "text": "The cave might never have been discovered had not the entrance been spotted by the distinguished French potholder Burge.",
+      "translations": {
+        "zh-Hans": "若不是杰出的法国洞穴探险家贝尔热发现了洞口，这个洞也许永远不会被发现。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 134.75,
+      "end": 139.65,
+      "text": "Since its discovery, it has become a sort of potholder's Everest.",
+      "translations": {
+        "zh-Hans": "自发现以来，它已成为洞穴探险者心目中的珠穆朗玛峰。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 140.63,
+      "end": 146.57,
+      "text": "Though a number of descents have been made, much of it still remains to be explored.",
+      "translations": {
+        "zh-Hans": "虽然人们已经多次下洞探险，但其中许多地方仍有待探索。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 147.57,
+      "end": 152.01,
+      "text": "A team of potholers recently went down the Guffa Burge.",
+      "translations": {
+        "zh-Hans": "最近，一支洞穴探险队深入了古弗尔·贝尔热洞。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 153.17,
+      "end": 162.57,
+      "text": "After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to a narrow corridor.",
+      "translations": {
+        "zh-Hans": "他们从高原上的狭窄洞口进入，沿陡峭洞壁下行，来到一条狭窄通道。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 163.57,
+      "end": 171.81,
+      "text": "They had to edge their way along this, sometimes wading across shallow streams or swimming across deep pools.",
+      "translations": {
+        "zh-Hans": "他们不得不侧身沿通道前进，时而蹚过浅溪，时而游过深潭。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 172.65,
+      "end": 179.79,
+      "text": "Suddenly they came to a waterfall which dropped into an underground lake at the bottom of the cave.",
+      "translations": {
+        "zh-Hans": "突然，他们来到一道瀑布前，瀑布直泻洞底的地下湖。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 180.71,
+      "end": 190.77,
+      "text": "They plunged into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side.",
+      "translations": {
+        "zh-Hans": "他们跳进湖中，把装备装到充气橡皮艇上，任水流将他们带到对岸。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 191.59,
+      "end": 197.51,
+      "text": "To protect themselves from the icy water, they had to wear special rubber suits.",
+      "translations": {
+        "zh-Hans": "为抵御冰冷的湖水，他们必须穿特制的橡胶服。"
+      }
+    },
+    {
+      "id": "s028",
+      "start": 198.41,
+      "end": 205.93,
+      "text": "At the far end of the lake, they came to huge piles of rubble which had been washed up by the water.",
+      "translations": {
+        "zh-Hans": "在湖的另一端，他们遇到被水冲来的大堆碎石。"
+      }
+    },
+    {
+      "id": "s029",
+      "start": 206.81,
+      "end": 219.57,
+      "text": "In this part of the cave, they could hear an insistent booming sound, which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.",
+      "translations": {
+        "zh-Hans": "在洞穴的这部分，他们听到持续的轰鸣声，后来发现是洞顶一股小水柱射入水潭造成的。"
+      }
+    },
+    {
+      "id": "s030",
+      "start": 220.57,
+      "end": 229.13,
+      "text": "Squeezing through a cleft in the rocks, the potholers arrived at an enormous cavern the size of a huge concert hall.",
+      "translations": {
+        "zh-Hans": "洞穴探险者挤过岩石间的一条裂缝，来到一个如大型音乐厅般宽阔的巨大洞窟。"
+      }
+    },
+    {
+      "id": "s031",
+      "start": 229.81,
+      "end": 244.07,
+      "text": "After switching on powerful arc lights, they saw great stalagmites, some of them over 40 feet high, rising up like tree trunks to meet the stalactites suspended from the roof.",
+      "translations": {
+        "zh-Hans": "打开强力弧光灯后，他们看到巨大的石笋像树干般拔地而起，与洞顶垂下的钟乳石相接，有些高达40多英尺。"
+      }
+    },
+    {
+      "id": "s032",
+      "start": 244.97,
+      "end": 250.99,
+      "text": "Round about, piles of limestone glistened in all the colors of the rainbow.",
+      "translations": {
+        "zh-Hans": "四周成堆的石灰岩闪耀着彩虹般的各种颜色。"
+      }
+    },
+    {
+      "id": "s033",
+      "start": 252.17,
+      "end": 263.31,
+      "text": "In the eerie silence of the cavern, the only sound that could be heard was made by water, which dripped continuously from the high dome above them.",
+      "translations": {
+        "zh-Hans": "在洞窟诡异的寂静中，唯一能听到的是水从头顶高高的穹顶不断滴下的声音。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-003-please-send-me-a-card",
+    "title": "Lesson 3: Please Send Me a Card",
+    "audioFilename": "03－Please Send Me a Card.mp3",
+    "duration": 76.173,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 1.63,
+      "text": "Lesson 3.",
+      "translations": {
+        "zh-Hans": "第3课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.77,
+      "end": 4.73,
+      "text": "Please Send Me a Card.",
+      "translations": {
+        "zh-Hans": "请给我寄一张明信片。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.39,
+      "end": 9.61,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.19,
+      "end": 13.93,
+      "text": "How many cards did the writer send?",
+      "translations": {
+        "zh-Hans": "作者寄出了多少张明信片？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.31,
+      "end": 19.57,
+      "text": "Postcards always spoil my holidays.",
+      "translations": {
+        "zh-Hans": "明信片总是搅得我度假不得安宁。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.11,
+      "end": 23.37,
+      "text": "Last summer I went to Italy.",
+      "translations": {
+        "zh-Hans": "去年夏天我去了意大利。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 24.23,
+      "end": 27.99,
+      "text": "I visited museums and sat in public gardens.",
+      "translations": {
+        "zh-Hans": "我参观了博物馆，还常坐在公共花园里。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 27.99,
+      "end": 32.45,
+      "text": "A friendly waiter taught me a few words of Italian.",
+      "translations": {
+        "zh-Hans": "一位友好的服务员教了我几句意大利语。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 33.39,
+      "end": 34.99,
+      "text": "Then he lent me a book.",
+      "translations": {
+        "zh-Hans": "后来他借给我一本书。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 36.05,
+      "end": 40.47,
+      "text": "I read a few lines, but I did not understand a word.",
+      "translations": {
+        "zh-Hans": "我读了几行，却一个字也不懂。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 41.85,
+      "end": 45.01,
+      "text": "Every day I thought about postcards.",
+      "translations": {
+        "zh-Hans": "我每天都想着明信片的事。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 46.11,
+      "end": 51.65,
+      "text": "My holidays passed quickly, but I did not send cards to my friends.",
+      "translations": {
+        "zh-Hans": "假期过得很快，可我没有给朋友们寄明信片。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 52.89,
+      "end": 56.51,
+      "text": "On the last day I made a big decision.",
+      "translations": {
+        "zh-Hans": "到了最后一天，我作出了一项重大决定。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 57.33,
+      "end": 61.85,
+      "text": "I got up early and bought 37 cards.",
+      "translations": {
+        "zh-Hans": "我早早起床，买了37张明信片。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 63.03,
+      "end": 69.53,
+      "text": "I spent the whole day in my room, but I did not write a single card.",
+      "translations": {
+        "zh-Hans": "我在房间里待了一整天，却连一张明信片也没有写。"
+      }
+    }
+  ]
+}

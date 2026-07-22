@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-081-escape",
+    "title": "Lesson 81: Escape",
+    "audioFilename": "81－Escape.mp3",
+    "duration": 112.353,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.54,
+      "end": 8.22,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 9.98,
+      "end": 12.42,
+      "text": "Why did the prisoner attack the driver?",
+      "translations": {
+        "zh-Hans": "战俘为什么袭击司机？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 14.74,
+      "end": 20.92,
+      "text": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
+      "translations": {
+        "zh-Hans": "杀死卫兵后，战俘迅速把尸体拖进灌木丛。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 22.2,
+      "end": 27.92,
+      "text": "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
+      "translations": {
+        "zh-Hans": "他在黑暗中飞快行动，很快换上了死者的衣服。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 29.08,
+      "end": 39.68,
+      "text": "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of camp.",
+      "translations": {
+        "zh-Hans": "此刻，战俘身穿蓝色制服，肩挎步枪，大胆地在营地前来回走动。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 40.76,
+      "end": 43.52,
+      "text": "He could hear shouting in the camp itself.",
+      "translations": {
+        "zh-Hans": "他能听见营地里面的喊叫声。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 44.72,
+      "end": 48.56,
+      "text": "Lights were blazing and men were running here and there.",
+      "translations": {
+        "zh-Hans": "灯火通明，人们四处奔跑。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 49.4,
+      "end": 52.96,
+      "text": "They had just discovered that a prisoner had escaped.",
+      "translations": {
+        "zh-Hans": "他们刚刚发现一名战俘逃跑了。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 60.92,
+      "end": 61.96,
+      "text": "At that moment, a large black car with four officers inside it stopped at the camp gates.",
+      "translations": {
+        "zh-Hans": "这时，一辆载着四名军官的大型黑色汽车停在营地大门口。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 63.46,
+      "end": 69.8,
+      "text": "The officers got out and the prisoner stood to attention and saluted as they passed.",
+      "translations": {
+        "zh-Hans": "军官们下了车，战俘立正站好，在他们经过时敬了礼。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 71.32,
+      "end": 75.76,
+      "text": "When they had gone, the driver of the car came towards him.",
+      "translations": {
+        "zh-Hans": "他们走后，汽车司机朝他走来。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 76.6,
+      "end": 79.16,
+      "text": "The man obviously wanted to talk.",
+      "translations": {
+        "zh-Hans": "这人显然想和他交谈。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 80.22,
+      "end": 84.92,
+      "text": "He was rather elderly with gray hair and clear blue eyes.",
+      "translations": {
+        "zh-Hans": "他年纪颇大，头发灰白，有一双清澈的蓝眼睛。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 85.9,
+      "end": 91.24,
+      "text": "The prisoner felt sorry for him, but there was nothing else he could do.",
+      "translations": {
+        "zh-Hans": "战俘很同情他，可又别无选择。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 92.34,
+      "end": 98.46,
+      "text": "As the man came near, the prisoner knocked him to the ground with a sharp blow.",
+      "translations": {
+        "zh-Hans": "那人走近时，战俘猛击一拳，把他打倒在地。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 99.64,
+      "end": 105.78,
+      "text": "Then, jumping into the car, he drove off as quickly as he could.",
+      "translations": {
+        "zh-Hans": "随后，他跳上汽车，以最快速度驶离了那里。"
+      }
+    }
+  ]
+}

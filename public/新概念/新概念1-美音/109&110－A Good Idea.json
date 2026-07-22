@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-109-110-a-good-idea",
+    "title": "Lesson 109: A good idea",
+    "audioFilename": "109&110－A Good Idea.mp3",
+    "duration": 99.448,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Lesson 109.",
+      "translations": {
+        "zh-Hans": "第109课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.22,
+      "end": 4.64,
+      "text": "A Good Idea.",
+      "translations": {
+        "zh-Hans": "好主意。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.44,
+      "end": 10.32,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.82,
+      "end": 14.46,
+      "text": "What does Jane have with her coffee?",
+      "translations": {
+        "zh-Hans": "简喝咖啡时还吃了什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.18,
+      "end": 20.06,
+      "text": "Shall I make some coffee, Jane?",
+      "translations": {
+        "zh-Hans": "简，我来煮点咖啡好吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.44,
+      "end": 24.48,
+      "text": "That's a good idea, Charlotte.",
+      "translations": {
+        "zh-Hans": "好主意，夏洛特。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.76,
+      "end": 26.82,
+      "text": "It's ready.",
+      "translations": {
+        "zh-Hans": "煮好了。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 27.98,
+      "end": 29.84,
+      "text": "Do you want any milk?",
+      "translations": {
+        "zh-Hans": "要加牛奶吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 29.84,
+      "end": 32.6,
+      "text": "Just a little, please.",
+      "translations": {
+        "zh-Hans": "请加一点点。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 34.56,
+      "end": 36.26,
+      "text": "What about some sugar?",
+      "translations": {
+        "zh-Hans": "加点糖怎么样？"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 37.52,
+      "end": 38.84,
+      "text": "Two teaspoonfuls?",
+      "translations": {
+        "zh-Hans": "两茶匙？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 40.48,
+      "end": 42.8,
+      "text": "No, less than that.",
+      "translations": {
+        "zh-Hans": "不，比那少一点。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 43.86,
+      "end": 47.3,
+      "text": "One and a half teaspoonfuls, please.",
+      "translations": {
+        "zh-Hans": "请加一茶匙半。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 48.22,
+      "end": 49.9,
+      "text": "That's enough for me.",
+      "translations": {
+        "zh-Hans": "这对我来说够了。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 51.99,
+      "end": 54.01,
+      "text": "That was very nice.",
+      "translations": {
+        "zh-Hans": "味道真不错。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 55.37,
+      "end": 56.97,
+      "text": "Would you like some more?",
+      "translations": {
+        "zh-Hans": "还想再来一点吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 58.07,
+      "end": 59.79,
+      "text": "Yes, please.",
+      "translations": {
+        "zh-Hans": "好的，谢谢。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 61.09,
+      "end": 64.03,
+      "text": "I'd like a cigarette, too.",
+      "translations": {
+        "zh-Hans": "我还想抽支烟。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 65.01,
+      "end": 66.29,
+      "text": "May I have one?",
+      "translations": {
+        "zh-Hans": "可以给我一支吗？"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 67.57,
+      "end": 68.37,
+      "text": "Of course.",
+      "translations": {
+        "zh-Hans": "当然可以。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 69.39,
+      "end": 73.17,
+      "text": "I think there are a few in that box.",
+      "translations": {
+        "zh-Hans": "我想那个盒子里还有几支。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 74.65,
+      "end": 76.75,
+      "text": "I'm afraid it's empty.",
+      "translations": {
+        "zh-Hans": "恐怕盒子是空的。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 78.13,
+      "end": 79.35,
+      "text": "What a pity.",
+      "translations": {
+        "zh-Hans": "真遗憾。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 80.37,
+      "end": 81.85,
+      "text": "It doesn't matter.",
+      "translations": {
+        "zh-Hans": "没关系。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 83.27,
+      "end": 85.15,
+      "text": "Have a biscuit instead.",
+      "translations": {
+        "zh-Hans": "那就吃块饼干吧。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 86.27,
+      "end": 89.03,
+      "text": "Eat more and smoke less.",
+      "translations": {
+        "zh-Hans": "多吃点，少抽点。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 89.03,
+      "end": 92.51,
+      "text": "That's very good advice.",
+      "translations": {
+        "zh-Hans": "这个建议很好。"
+      }
+    }
+  ]
+}

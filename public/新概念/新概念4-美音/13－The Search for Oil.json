@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-013-the-search-for-oil",
+    "title": "Lesson 13: The Search for Oil",
+    "audioFilename": "13－The Search for Oil.mp3",
+    "duration": 143.203,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.02,
+      "end": 1.42,
+      "text": "Lesson 13.",
+      "translations": {
+        "zh-Hans": "第13课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.4,
+      "end": 4.14,
+      "text": "The Search for Oil.",
+      "translations": {
+        "zh-Hans": "寻找石油。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6,
+      "end": 9.16,
+      "text": "First listen and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.94,
+      "end": 15.24,
+      "text": "What do oilmen want to achieve as soon as they strike oil?",
+      "translations": {
+        "zh-Hans": "石油工人一旦钻到石油，想立即达到什么目的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.84,
+      "end": 24.58,
+      "text": "The deepest holes of all are made for oil, and they go down to as much as 25,000 feet.",
+      "translations": {
+        "zh-Hans": "所有钻孔中最深的是油井，深度可达二万五千英尺。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 25.6,
+      "end": 33.04,
+      "text": "But we do not need to send men down to get the oil out, as we must with other mineral deposits.",
+      "translations": {
+        "zh-Hans": "但不像开采其他矿藏那样，我们不需要把人送到地下去取石油。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 34.36,
+      "end": 38.74,
+      "text": "The holes are only borings, less than a foot in diameter.",
+      "translations": {
+        "zh-Hans": "这些孔只是钻井，直径不到一英尺。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 40.18,
+      "end": 50.56,
+      "text": "My particular experience is largely in oil, and the search for oil has done more to improve deep drilling than any other mining activity.",
+      "translations": {
+        "zh-Hans": "我的具体经验主要在石油领域；寻找石油对深井钻探技术的改进，比任何其他采矿活动贡献都大。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 51.9,
+      "end": 58.9,
+      "text": "When it has been decided where we are going to drill, we put up at the surface an oil derrick.",
+      "translations": {
+        "zh-Hans": "一旦决定了钻井地点，我们就在地面架起一座井架。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 59.8,
+      "end": 75.64,
+      "text": "It has to be tall because it is like a giant block and tackle, and we have to lower into the ground and haul out of the ground great lengths of drill pipe, which are rotated by an engine at the top and are fitted with a cutting",
+      "translations": {
+        "zh-Hans": "井架必须很高，因为它像一套巨型滑轮组；我们要把一长段一长段钻杆下放到地下再吊出来。钻杆由顶部发动机带动旋转，底端装有切削"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 75.64,
+      "end": 76.74,
+      "text": "bit at the bottom.",
+      "translations": {
+        "zh-Hans": "钻头。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 77.48,
+      "end": 87.08,
+      "text": "The geologist needs to know what rocks the drill has reached, so every so often a sample is obtained with a coring bit.",
+      "translations": {
+        "zh-Hans": "地质学家需要知道钻头已经到达哪种岩层，因此每隔一段时间就用取芯钻头取得样本。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 88.04,
+      "end": 95.16,
+      "text": "It cuts a clean cylinder of rock, from which can be seen the strata the drill has been cutting through.",
+      "translations": {
+        "zh-Hans": "它切取一段完整的圆柱形岩芯，由此可以看出钻头穿过的各个地层。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 96.02,
+      "end": 106.02,
+      "text": "Once we get down to the oil, it usually flows to the surface because great pressure, either from gas or water, is pushing it.",
+      "translations": {
+        "zh-Hans": "一旦钻到石油，石油通常会自行流到地面，因为来自天然气或水的巨大压力正把它向上推。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 106.98,
+      "end": 115.1,
+      "text": "This pressure must be under control, and we control it by means of the mud which we circulate down the drill pipe.",
+      "translations": {
+        "zh-Hans": "这种压力必须受到控制；我们通过在钻杆中循环的泥浆来控制它。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 116.04,
+      "end": 123.3,
+      "text": "We endeavor to avoid the old, romantic idea of a gusher, which wastes oil and gas.",
+      "translations": {
+        "zh-Hans": "我们尽力避免过去那种颇具浪漫色彩的井喷，因为它会浪费石油和天然气。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 123.96,
+      "end": 129.68,
+      "text": "We want it to stay down the hole until we can lead it off in a controlled manner.",
+      "translations": {
+        "zh-Hans": "我们希望石油留在井下，直到能够以受控方式把它引流出来。"
+      }
+    }
+  ]
+}

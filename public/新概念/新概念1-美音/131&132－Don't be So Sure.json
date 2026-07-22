@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-131-132-don-t-be-so-sure",
+    "title": "Lesson 131: Don't be so sure!",
+    "audioFilename": "131&132－Don't be So Sure.mp3",
+    "duration": 94.302,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.34,
+      "text": "Lesson 131.",
+      "translations": {
+        "zh-Hans": "第131课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.56,
+      "end": 5.5,
+      "text": "Don't Be So Sure.",
+      "translations": {
+        "zh-Hans": "别那么肯定。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 7.32,
+      "end": 11.58,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 13.18,
+      "end": 16.96,
+      "text": "What's the problem about deciding on a holiday?",
+      "translations": {
+        "zh-Hans": "在决定去哪里度假这件事上有什么难题？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 19.75,
+      "end": 24.43,
+      "text": "Where are you going to spend your holidays this year, Gary?",
+      "translations": {
+        "zh-Hans": "加里，你们今年准备去哪里度假？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 25.35,
+      "end": 27.53,
+      "text": "We may go abroad.",
+      "translations": {
+        "zh-Hans": "我们可能会出国。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 28.65,
+      "end": 29.81,
+      "text": "I'm not sure.",
+      "translations": {
+        "zh-Hans": "我还不确定。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 30.97,
+      "end": 33.49,
+      "text": "My wife wants to go to Egypt.",
+      "translations": {
+        "zh-Hans": "我妻子想去埃及。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 34.67,
+      "end": 36.49,
+      "text": "I'd like to go there too.",
+      "translations": {
+        "zh-Hans": "我也想去那里。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 37.81,
+      "end": 40.21,
+      "text": "We can't make up our minds.",
+      "translations": {
+        "zh-Hans": "我们拿不定主意。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 41.73,
+      "end": 45.31,
+      "text": "Will you travel by sea or by air?",
+      "translations": {
+        "zh-Hans": "你们坐船还是坐飞机？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 46.09,
+      "end": 48.09,
+      "text": "We may travel by sea.",
+      "translations": {
+        "zh-Hans": "我们可能坐船。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 48.95,
+      "end": 51.27,
+      "text": "It's cheaper, isn't it?",
+      "translations": {
+        "zh-Hans": "那样便宜些，对吧？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 51.27,
+      "end": 55.99,
+      "text": "It may be cheaper, but it takes a long time.",
+      "translations": {
+        "zh-Hans": "也许便宜些，但要花很长时间。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 57.01,
+      "end": 59.43,
+      "text": "I'm sure you'll enjoy yourselves.",
+      "translations": {
+        "zh-Hans": "我相信你们会玩得很开心。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 60.41,
+      "end": 61.81,
+      "text": "Don't Be So Sure.",
+      "translations": {
+        "zh-Hans": "别那么肯定。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 62.41,
+      "end": 64.41,
+      "text": "We might not go anywhere.",
+      "translations": {
+        "zh-Hans": "我们可能哪儿也不去。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 65.21,
+      "end": 68.15,
+      "text": "My wife always worries too much.",
+      "translations": {
+        "zh-Hans": "我妻子总是担心得太多。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 69.13,
+      "end": 71.67,
+      "text": "Who's going to look after the dog?",
+      "translations": {
+        "zh-Hans": "谁来照看狗呢？"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 72.57,
+      "end": 75.19,
+      "text": "Who's going to look after the house?",
+      "translations": {
+        "zh-Hans": "谁来照看房子呢？"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 76.13,
+      "end": 78.67,
+      "text": "Who's going to look after the garden?",
+      "translations": {
+        "zh-Hans": "谁来照看花园呢？"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 78.67,
+      "end": 82.23,
+      "text": "We have this problem every year.",
+      "translations": {
+        "zh-Hans": "我们每年都有这个难题。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 83.03,
+      "end": 87.85,
+      "text": "In the end, we stay at home and look after everything.",
+      "translations": {
+        "zh-Hans": "最后，我们总是待在家里照看一切。"
+      }
+    }
+  ]
+}

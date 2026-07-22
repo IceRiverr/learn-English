@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-089-090-for-sale",
+    "title": "Lesson 89: For sale",
+    "audioFilename": "089&090－For Sale.mp3",
+    "duration": 92.944,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.3,
+      "end": 2.12,
+      "text": "Lesson 89.",
+      "translations": {
+        "zh-Hans": "第89课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.1,
+      "end": 4.02,
+      "text": "For Sale.",
+      "translations": {
+        "zh-Hans": "待售。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.7,
+      "end": 9.86,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.36,
+      "end": 13.84,
+      "text": "Why couldn't Nigel decide?",
+      "translations": {
+        "zh-Hans": "奈杰尔为什么拿不定主意？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.35,
+      "end": 17.21,
+      "text": "Good afternoon.",
+      "translations": {
+        "zh-Hans": "下午好。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 18.27,
+      "end": 22.03,
+      "text": "I believe that this house is for sale.",
+      "translations": {
+        "zh-Hans": "我听说这所房子要出售。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 22.79,
+      "end": 23.45,
+      "text": "That's right.",
+      "translations": {
+        "zh-Hans": "是的。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 24.65,
+      "end": 27.17,
+      "text": "May I have a look at it, please?",
+      "translations": {
+        "zh-Hans": "我可以看一看吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 28.03,
+      "end": 29.19,
+      "text": "Yes, of course.",
+      "translations": {
+        "zh-Hans": "当然可以。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 29.81,
+      "end": 30.27,
+      "text": "Come in.",
+      "translations": {
+        "zh-Hans": "请进。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 31.27,
+      "end": 34.03,
+      "text": "How long have you lived here?",
+      "translations": {
+        "zh-Hans": "您在这里住了多久？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 35.05,
+      "end": 37.61,
+      "text": "I've lived here for twenty years.",
+      "translations": {
+        "zh-Hans": "我在这里住了二十年。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 38.57,
+      "end": 39.63,
+      "text": "Twenty years?",
+      "translations": {
+        "zh-Hans": "二十年？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 40.15,
+      "end": 42.07,
+      "text": "That's a long time.",
+      "translations": {
+        "zh-Hans": "那可够久的。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 42.77,
+      "end": 46.35,
+      "text": "Yes, I've been here since 1976.",
+      "translations": {
+        "zh-Hans": "是的，我从1976年起就住在这里。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 48.09,
+      "end": 51.17,
+      "text": "Then why do you want to sell it?",
+      "translations": {
+        "zh-Hans": "那您为什么想卖掉它？"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 51.87,
+      "end": 53.89,
+      "text": "Because I've just retired.",
+      "translations": {
+        "zh-Hans": "因为我刚退休。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 54.61,
+      "end": 58.47,
+      "text": "I want to buy a small house in the country.",
+      "translations": {
+        "zh-Hans": "我想在乡下买一所小房子。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 59.67,
+      "end": 62.83,
+      "text": "How much does this house cost?",
+      "translations": {
+        "zh-Hans": "这所房子多少钱？"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 64.99,
+      "end": 66.75,
+      "text": "£68,500.",
+      "translations": {
+        "zh-Hans": "68,500英镑。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 68.25,
+      "end": 70.21,
+      "text": "That's a lot of money.",
+      "translations": {
+        "zh-Hans": "那可是一大笔钱。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 70.85,
+      "end": 73.35,
+      "text": "It's worth every penny of it.",
+      "translations": {
+        "zh-Hans": "它值这个价，一分也不多。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 74.03,
+      "end": 79.33,
+      "text": "Well, I like the house, but I can't decide yet.",
+      "translations": {
+        "zh-Hans": "嗯，我喜欢这所房子，但还拿不定主意。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 80.47,
+      "end": 82.79,
+      "text": "My wife must see it first.",
+      "translations": {
+        "zh-Hans": "我妻子必须先看看。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 83.93,
+      "end": 86.59,
+      "text": "Women always have the last word.",
+      "translations": {
+        "zh-Hans": "女人总是最后说了算。"
+      }
+    }
+  ]
+}

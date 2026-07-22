@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-027-a-wet-night",
+    "title": "Lesson 27: A Wet Night",
+    "audioFilename": "27－A Wet Night.mp3",
+    "duration": 93.858,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 2.05,
+      "text": "Lesson 27.",
+      "translations": {
+        "zh-Hans": "第27课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.71,
+      "end": 4.03,
+      "text": "A Wet Night.",
+      "translations": {
+        "zh-Hans": "雨夜。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.57,
+      "end": 9.05,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.31,
+      "end": 12.99,
+      "text": "What happened to the boys in the night?",
+      "translations": {
+        "zh-Hans": "那些男孩夜里遇到了什么事？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.21,
+      "end": 20.75,
+      "text": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "translations": {
+        "zh-Hans": "傍晚时分，男孩们在田野中央搭起了帐篷。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.87,
+      "end": 26.93,
+      "text": "As soon as this was done, they cooked a meal over an open fire.",
+      "translations": {
+        "zh-Hans": "一搭好，他们便在篝火上做饭。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.82,
+      "end": 31.75,
+      "text": "They were all hungry and the food smelled good.",
+      "translations": {
+        "zh-Hans": "他们全都饿了，饭菜闻起来很香。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.01,
+      "end": 39.67,
+      "text": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "translations": {
+        "zh-Hans": "美餐一顿后，他们在篝火旁讲故事、唱歌。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 40.85,
+      "end": 43.65,
+      "text": "But some time later, it began to rain.",
+      "translations": {
+        "zh-Hans": "但过了一会儿，天开始下雨。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 44.69,
+      "end": 50.31,
+      "text": "The boys felt tired, so they put out the fire and crept into their tent.",
+      "translations": {
+        "zh-Hans": "男孩们累了，于是扑灭篝火，钻进帐篷。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 50.31,
+      "end": 57.73,
+      "text": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "translations": {
+        "zh-Hans": "睡袋既暖和又舒服，所以他们都睡得很沉。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 58.59,
+      "end": 63.47,
+      "text": "In the middle of the night, two boys woke up and began shouting.",
+      "translations": {
+        "zh-Hans": "午夜时分，两个男孩醒来，大声叫喊起来。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 64.29,
+      "end": 66.59,
+      "text": "The tent was full of water.",
+      "translations": {
+        "zh-Hans": "帐篷里全是水。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 67.53,
+      "end": 72.53,
+      "text": "They all leapt out of their sleeping bags and hurried outside.",
+      "translations": {
+        "zh-Hans": "他们全都跳出睡袋，匆忙跑到外面。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 73.31,
+      "end": 78.97,
+      "text": "It was raining heavily, and they found that a stream had formed in the field.",
+      "translations": {
+        "zh-Hans": "雨下得很大，他们发现田野里形成了一条小溪。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 78.97,
+      "end": 86.03,
+      "text": "The stream wound its way across the field and then flowed right under their tent.",
+      "translations": {
+        "zh-Hans": "小溪蜿蜒穿过田野，然后正好从他们的帐篷下面流过。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-093-a-noble-gift",
+    "title": "Lesson 93: A Noble Gift",
+    "audioFilename": "93－A Noble Gift.mp3",
+    "duration": 112.875,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.19,
+      "end": 9.11,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.85,
+      "end": 13.29,
+      "text": "Where was the Statue of Liberty made?",
+      "translations": {
+        "zh-Hans": "自由女神像是在哪里制造的？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 15.66,
+      "end": 28.02,
+      "text": "One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the 19th century by the people of France.",
+      "translations": {
+        "zh-Hans": "世界上最著名的纪念碑之一——自由女神像——是法国人民在19世纪赠送给美国的礼物。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 29.26,
+      "end": 37.82,
+      "text": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+      "translations": {
+        "zh-Hans": "这座巨像由雕塑家奥古斯特·巴托尔迪设计，历时十年才完成。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 39.02,
+      "end": 47.82,
+      "text": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
+      "translations": {
+        "zh-Hans": "雕像本体由铜制成，内部由埃菲尔专门建造的金属框架支撑。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 49.12,
+      "end": 57.4,
+      "text": "Before it could be transported to the United States, a site had to be found for it, and a pedestal had to be built.",
+      "translations": {
+        "zh-Hans": "运往美国之前，人们必须先为它选定地点并修建基座。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 58.8,
+      "end": 63.36,
+      "text": "The site chosen was an island at the entrance of New York Harbor.",
+      "translations": {
+        "zh-Hans": "最终选定的地点是纽约港入口处的一座岛。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 64.44,
+      "end": 72.28,
+      "text": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+      "translations": {
+        "zh-Hans": "到1884年，一座151英尺高的雕像已经在巴黎竖立起来。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 73.34,
+      "end": 78.12,
+      "text": "The following year, it was taken to pieces and sent to America.",
+      "translations": {
+        "zh-Hans": "第二年，它被拆成零件运往美国。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 79.52,
+      "end": 92.58,
+      "text": "By the end of October 1886, the statue had been put together again, and it was officially presented to the American people by Bartholdi.",
+      "translations": {
+        "zh-Hans": "到1886年10月底，雕像重新组装完成，并由巴托尔迪正式赠予美国人民。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 93.64,
+      "end": 106.2,
+      "text": "Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbor to make their homes in America.",
+      "translations": {
+        "zh-Hans": "从那以后，这座宏伟的纪念碑便成为自由的象征；数百万人穿过纽约港，在美国建立自己的家园。"
+      }
+    }
+  ]
+}

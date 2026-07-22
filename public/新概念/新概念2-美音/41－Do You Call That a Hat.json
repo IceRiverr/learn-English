@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-041-do-you-call-that-a-hat",
+    "title": "Lesson 41: Do You Call That a Hat",
+    "audioFilename": "41－Do You Call That a Hat.mp3",
+    "duration": 94.171,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 2.11,
+      "end": 5.23,
+      "text": "Do you call that a hat?",
+      "translations": {
+        "zh-Hans": "你把那个叫帽子吗？"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.99,
+      "end": 10.17,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 11.71,
+      "end": 15.57,
+      "text": "What kind of shopping does the writer enjoy, do you think?",
+      "translations": {
+        "zh-Hans": "你认为作者喜欢哪一种购物？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.88,
+      "end": 19.86,
+      "text": "Do you call that a hat?",
+      "translations": {
+        "zh-Hans": "“你把那个叫帽子吗？”"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 20.5,
+      "end": 21.92,
+      "text": "I said to my wife.",
+      "translations": {
+        "zh-Hans": "我对妻子说。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.82,
+      "end": 25.84,
+      "text": "You needn't be so rude about it!",
+      "translations": {
+        "zh-Hans": "“你不必这么没礼貌！”"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.28,
+      "end": 30.1,
+      "text": "My wife answered as she looked at herself in the mirror.",
+      "translations": {
+        "zh-Hans": "妻子一边照镜子一边回答。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 31.16,
+      "end": 36.84,
+      "text": "I sat down on one of those modern chairs with holes in it and waited.",
+      "translations": {
+        "zh-Hans": "我坐在一把带孔的现代椅子上等着。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 37.9,
+      "end": 44.28,
+      "text": "We had been in the hat shop for half an hour, and my wife was still in front of the mirror.",
+      "translations": {
+        "zh-Hans": "我们在帽子店里已经待了半个小时，妻子仍站在镜子前。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 45.32,
+      "end": 50.22,
+      "text": "We mustn't buy things we don't need, I remarked suddenly.",
+      "translations": {
+        "zh-Hans": "“我们不该买不需要的东西，”我突然说道。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 51.28,
+      "end": 54.16,
+      "text": "I regretted saying it almost at once.",
+      "translations": {
+        "zh-Hans": "话一出口我几乎立刻就后悔了。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 54.98,
+      "end": 58.7,
+      "text": "You needn't have said that, my wife answered.",
+      "translations": {
+        "zh-Hans": "“你本来不必说这句话，”妻子回答，"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 59.7,
+      "end": 64.24,
+      "text": "I needn't remind you of that terrible tie you bought yesterday.",
+      "translations": {
+        "zh-Hans": "“我不必提醒你昨天买的那条糟糕的领带吧。”"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 65.74,
+      "end": 68.52,
+      "text": "I find it beautiful, I said.",
+      "translations": {
+        "zh-Hans": "“我觉得它很漂亮，”我说，"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 69.22,
+      "end": 72,
+      "text": "A man can never have too many ties.",
+      "translations": {
+        "zh-Hans": "“男人有再多领带也不嫌多。”"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 73.3,
+      "end": 77.72,
+      "text": "And a woman can't have too many hats, she answered.",
+      "translations": {
+        "zh-Hans": "“女人有再多帽子也不嫌多，”她回答。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 78.62,
+      "end": 82.86,
+      "text": "Ten minutes later, we walked out of the shop together.",
+      "translations": {
+        "zh-Hans": "十分钟后，我们一起走出了商店。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 83.88,
+      "end": 87.6,
+      "text": "My wife was wearing a hat that looked like a lighthouse.",
+      "translations": {
+        "zh-Hans": "妻子戴着一顶看起来像灯塔的帽子。"
+      }
+    }
+  ]
+}

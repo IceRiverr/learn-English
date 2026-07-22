@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-063-she-was-not-amused",
+    "title": "Lesson 63: She Was Not Amused",
+    "audioFilename": "63－She Was Not Amused.mp3",
+    "duration": 98.978,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.5,
+      "end": 2.1,
+      "text": "Lesson 63.",
+      "translations": {
+        "zh-Hans": "第63课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.22,
+      "end": 4.94,
+      "text": "She Was Not Amused.",
+      "translations": {
+        "zh-Hans": "她并不觉得好笑。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.42,
+      "end": 9.82,
+      "text": "First, listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.5,
+      "end": 14.42,
+      "text": "Why did Jenny want to leave the wedding reception?",
+      "translations": {
+        "zh-Hans": "珍妮为什么想离开婚宴？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.84,
+      "end": 23.04,
+      "text": "Jeremy Hampton has a large circle of friends and is very popular at parties.",
+      "translations": {
+        "zh-Hans": "杰里米·汉普顿朋友众多，在聚会上很受欢迎。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.28,
+      "end": 27.64,
+      "text": "Everybody admires him for his great sense of humor.",
+      "translations": {
+        "zh-Hans": "人人都钦佩他极富幽默感。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 28.46,
+      "end": 33.4,
+      "text": "Everybody, that is, except his six-year-old daughter, Jenny.",
+      "translations": {
+        "zh-Hans": "也就是说，除了他六岁的女儿珍妮以外，人人都钦佩他。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 34.6,
+      "end": 41.98,
+      "text": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "translations": {
+        "zh-Hans": "最近，杰里米的一位密友请他在婚宴上发表讲话。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 43.04,
+      "end": 46.1,
+      "text": "This is the sort of thing that Jeremy loves.",
+      "translations": {
+        "zh-Hans": "这正是杰里米喜欢做的事。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 47.26,
+      "end": 51.36,
+      "text": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "translations": {
+        "zh-Hans": "他认真准备了讲稿，带着珍妮参加婚礼。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 52.34,
+      "end": 60.1,
+      "text": "He had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "translations": {
+        "zh-Hans": "他在讲话中加入了许多有趣的故事，当然，讲话非常成功。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 61.64,
+      "end": 66.52,
+      "text": "As soon as he had finished, Jenny told him she wanted to go home.",
+      "translations": {
+        "zh-Hans": "他一讲完，珍妮便告诉他她想回家。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 68.3,
+      "end": 73.94,
+      "text": "Jeremy was a little disappointed by this, but he did as his daughter asked.",
+      "translations": {
+        "zh-Hans": "杰里米对此有点失望，但还是照女儿说的做了。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 74.98,
+      "end": 79.78,
+      "text": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "translations": {
+        "zh-Hans": "回家的路上，他问珍妮是否喜欢他的讲话。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 80.58,
+      "end": 84.04,
+      "text": "To his surprise, she said she hadn't.",
+      "translations": {
+        "zh-Hans": "令他吃惊的是，她说不喜欢。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 85.32,
+      "end": 92.9,
+      "text": "Jeremy asked her why this was so, and she told him that she did not like to see so many people laughing at him.",
+      "translations": {
+        "zh-Hans": "杰里米问她为什么，她告诉父亲，自己不喜欢看到那么多人嘲笑他。"
+      }
+    }
+  ]
+}

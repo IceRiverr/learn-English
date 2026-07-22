@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-017-the-longest-suspension-bridge-in-the-world",
+    "title": "Lesson 17: The Longest Suspension Bridge in the World",
+    "audioFilename": "17－The Longest Suspension Bridge in the World.mp3",
+    "duration": 154.802,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.02,
+      "end": 1.66,
+      "text": "Lesson 17.",
+      "translations": {
+        "zh-Hans": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.98,
+      "end": 5.96,
+      "text": "The Longest Suspension Bridge in the World.",
+      "translations": {
+        "zh-Hans": "世界上最长的吊桥。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 7.8,
+      "end": 10.98,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 12.48,
+      "end": 14.38,
+      "text": "How is the bridge supported?",
+      "translations": {
+        "zh-Hans": "这座桥由什么支撑？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.69,
+      "end": 27.29,
+      "text": "Verrazano, an Italian about whom little is known, sailed into New York Harbor in 1524 and named it Anjulemae.",
+      "translations": {
+        "zh-Hans": "维拉萨诺是一位鲜为人知的意大利人，他于1524年驶入纽约港，并将其命名为安古莱姆。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 28.18,
+      "end": 38.19,
+      "text": "He described it as a very agreeable situation located within two small hills in the midst of which flowed a great river.",
+      "translations": {
+        "zh-Hans": "他形容那里是“两座小山之间一处十分宜人的所在，一条大河从山间流过”。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 39.49,
+      "end": 55.05,
+      "text": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21, 1964, the longest suspension bridge in the",
+      "translations": {
+        "zh-Hans": "尽管维拉萨诺绝算不上伟大的探险家，他的名字却很可能永垂不朽，因为1964年11月21日，世界上最长的吊桥"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 55.05,
+      "end": 57.01,
+      "text": "world was named after him.",
+      "translations": {
+        "zh-Hans": "以他的名字命名。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 59.36,
+      "end": 67,
+      "text": "The Verrazano Bridge, which was designed by Othmar Amman, joins Brooklyn to Staten Island.",
+      "translations": {
+        "zh-Hans": "维拉萨诺大桥由奥特马尔·阿曼设计，连接布鲁克林和斯塔滕岛。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 67.72,
+      "end": 71.48,
+      "text": "It has a span of 4,260 feet.",
+      "translations": {
+        "zh-Hans": "它的跨度为4,260英尺。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 72.46,
+      "end": 78.72,
+      "text": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+      "translations": {
+        "zh-Hans": "这座桥如此之长，设计师甚至必须把地球的弧度考虑在内。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 79.58,
+      "end": 84.3,
+      "text": "Two great towers support four huge cables.",
+      "translations": {
+        "zh-Hans": "两座巨塔支撑着四根粗大的钢缆。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 85.54,
+      "end": 91.1,
+      "text": "The towers are built on immense underwater platforms made of steel and concrete.",
+      "translations": {
+        "zh-Hans": "桥塔建在由钢筋和混凝土制成的巨大水下平台上。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 92.16,
+      "end": 96.58,
+      "text": "The platforms extend to a depth of over 100 feet under the sea.",
+      "translations": {
+        "zh-Hans": "平台深入海底100多英尺。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 97.62,
+      "end": 100.64,
+      "text": "These alone took 16 months to build.",
+      "translations": {
+        "zh-Hans": "仅建造这些平台就用了16个月。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 101.48,
+      "end": 107.12,
+      "text": "Above the surface of the water, the towers rise to a height of nearly 700 feet.",
+      "translations": {
+        "zh-Hans": "水面以上，桥塔高近700英尺。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 107.82,
+      "end": 111.66,
+      "text": "They support the cables from which the bridge has been suspended.",
+      "translations": {
+        "zh-Hans": "它们支撑着悬吊桥身的钢缆。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 112.66,
+      "end": 118.52,
+      "text": "Each of the four cables contains 26,108 lengths of wire.",
+      "translations": {
+        "zh-Hans": "四根钢缆中的每一根都由26,108股钢丝组成。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 119.54,
+      "end": 128.16,
+      "text": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+      "translations": {
+        "zh-Hans": "据估计，即使桥上挤满汽车，它所承受的也只有总负荷能力的三分之一。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 129.56,
+      "end": 135.1,
+      "text": "However, size and strength are not the only important things about this bridge.",
+      "translations": {
+        "zh-Hans": "然而，规模和强度并不是这座桥仅有的重要之处。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 135.93,
+      "end": 149.14,
+      "text": "Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to create an enormous object drawn as faintly as possible.",
+      "translations": {
+        "zh-Hans": "尽管体量巨大，它却简洁而优美，实现了设计师的梦想：创造一个“尽可能用轻淡线条勾勒出来的庞然大物”。"
+      }
+    }
+  ]
+}

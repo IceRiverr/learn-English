@@ -11,34 +11,12 @@ import {
   type Course,
   type Segment
 } from "./db";
+import { lessonCollections, lessons, type Lesson } from "./lessons";
 
-const lessons = [
-  {
-    id: "voa-no-brainer",
-    title: "VOA English in a Minute: No Brainer",
-    durationLabel: "1 分钟",
-    audioUrl: "/samples/no-brainer.mp3",
-    transcriptUrl: "/samples/no-brainer.json"
-  },
-  {
-    id: "context-engineering-with-dex-horthy",
-    title: "Context engineering with Dex Horthy",
-    durationLabel: "92 分钟",
-    sizeLabel: "90 MB",
-    audioUrl: "/samples/context-engineering-with-dex-horthy.mp3",
-    transcriptUrl: "/samples/context-engineering-with-dex-horthy.json"
-  },
-  {
-    id: "lex-475-demis-hassabis-2",
-    title: "Lex Fridman Podcast #475: Demis Hassabis 2",
-    durationLabel: "155 分钟",
-    sizeLabel: "106 MB",
-    audioUrl: "/samples/lex_ai_demis_hassabis_2.mp3",
-    transcriptUrl: "/samples/lex-475-demis-hassabis-2.json?v=3"
-  }
-] as const;
-
-type Lesson = (typeof lessons)[number];
+const groupedLessons = lessonCollections.map((collection) => ({
+  ...collection,
+  lessons: lessons.filter((lesson) => lesson.collection === collection.id)
+}));
 
 const transcriptSchema = z.object({
   version: z.literal(1),
@@ -682,27 +660,37 @@ export default function App() {
 
         <section className="course-list" aria-label="课程列表">
           <h2>课程</h2>
-          {lessons.map((lesson) => {
-            const isDownloading = downloading === lesson.id;
-            const isDownloaded = downloaded[lesson.id];
-            return (
-              <div className="course-row" key={lesson.id}>
-                <button className="course-open" onClick={() => void openLesson(lesson)} disabled={busy || Boolean(downloading)}>
-                  <span className="course-copy">
-                    <strong>{lesson.title}</strong>
-                    <span>{lesson.durationLabel}{"sizeLabel" in lesson ? ` · ${lesson.sizeLabel}` : ""}</span>
-                  </span>
-                </button>
-                <button
-                  className={isDownloaded ? "download downloaded" : "download"}
-                  disabled={checkingDownloads || isDownloading || isDownloaded}
-                  onClick={() => void downloadLesson(lesson)}
-                >
-                  {checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}
-                </button>
+          {groupedLessons.map((group) => (
+            <details className="course-group" key={group.id}>
+              <summary>
+                <strong>{group.title}</strong>
+                <span>{group.lessons.length} 课</span>
+              </summary>
+              <div className="course-group-list">
+                {group.lessons.map((lesson) => {
+                  const isDownloading = downloading === lesson.id;
+                  const isDownloaded = downloaded[lesson.id];
+                  return (
+                    <div className="course-row" key={lesson.id}>
+                      <button className="course-open" onClick={() => void openLesson(lesson)} disabled={busy || Boolean(downloading)}>
+                        <span className="course-copy">
+                          <strong>{lesson.title}</strong>
+                          <span>{lesson.durationLabel}{lesson.sizeLabel ? ` · ${lesson.sizeLabel}` : ""}</span>
+                        </span>
+                      </button>
+                      <button
+                        className={isDownloaded ? "download downloaded" : "download"}
+                        disabled={checkingDownloads || isDownloading || isDownloaded}
+                        onClick={() => void downloadLesson(lesson)}
+                      >
+                        {checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}
+                      </button>
+                    </div>
+                  );
+                })}
               </div>
-            );
-          })}
+            </details>
+          ))}
         </section>
 
         <div className="divider"><span>或者导入自己的课程</span></div>

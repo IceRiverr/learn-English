@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-050-new-year-resolutions",
+    "title": "Lesson 50: New Year Resolutions",
+    "audioFilename": "50－New Year Resolutions.mp3",
+    "duration": 258.978,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 1.73,
+      "text": "Lesson 50.",
+      "translations": {
+        "zh-Hans": "第50课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.83,
+      "end": 4.35,
+      "text": "New Year Resolutions.",
+      "translations": {
+        "zh-Hans": "新年决心。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.97,
+      "end": 9.03,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.13,
+      "end": 14.69,
+      "text": "What marked the end of the writer's New Year resolutions?",
+      "translations": {
+        "zh-Hans": "什么标志着作者的新年决心彻底告终？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.51,
+      "end": 19.29,
+      "text": "The New Year is a time for resolutions.",
+      "translations": {
+        "zh-Hans": "新年是下决心的时候。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.15,
+      "end": 27.09,
+      "text": "Mentally, at least, most of us could compile formidable lists of do's and don'ts.",
+      "translations": {
+        "zh-Hans": "至少在心里，我们大多数人都能列出一长串该做和不该做的事。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.49,
+      "end": 33.23,
+      "text": "The same old favorites recur year in, year out, with monotonous regularity.",
+      "translations": {
+        "zh-Hans": "那些老一套的热门项目年复一年，以单调的规律反复出现。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 34.19,
+      "end": 49.85,
+      "text": "We resolve to get up earlier each morning, eat less, find more time to play with the children, do a thousand and one jobs about the house, be nice to people we don't like, drive carefully, and take the dog for a walk",
+      "translations": {
+        "zh-Hans": "我们决心每天早起、少吃、多抽时间陪孩子玩、做完家中无数杂事、善待不喜欢的人、谨慎驾驶，并带狗出去散步"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 49.85,
+      "end": 50.67,
+      "text": "every day.",
+      "translations": {
+        "zh-Hans": "每天都如此。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 51.85,
+      "end": 56.61,
+      "text": "Past experience has taught us that certain accomplishments are beyond attainment.",
+      "translations": {
+        "zh-Hans": "以往经验告诉我们，有些成就是无法达到的。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 57.83,
+      "end": 66.53,
+      "text": "If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure.",
+      "translations": {
+        "zh-Hans": "如果我们仍是根深蒂固的烟民，那只是因为我们太多次体验过失败带来的挫折。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 67.87,
+      "end": 76.55,
+      "text": "Most of us fail in our efforts at self-improvement because our schemes are too ambitious and we never have time to carry them out.",
+      "translations": {
+        "zh-Hans": "我们大多数人的自我改善努力都以失败告终，因为计划过于宏大，而且永远没有时间实施。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 77.37,
+      "end": 87.93,
+      "text": "We also make the fundamental error of announcing our resolutions to everybody so that we look even more foolish when we slip back into our bad old ways.",
+      "translations": {
+        "zh-Hans": "我们还会犯一个根本错误：把决心告诉所有人，以至于重回过去的坏习惯时显得更加可笑。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 89.15,
+      "end": 94.99,
+      "text": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
+      "translations": {
+        "zh-Hans": "意识到这些陷阱，今年我尽力把决心藏在心里。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 96.11,
+      "end": 99.45,
+      "text": "I limited myself to two modest ambitions.",
+      "translations": {
+        "zh-Hans": "我只给自己定了两个不高的目标。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 99.45,
+      "end": 105.71,
+      "text": "To do physical exercises every morning and to read more of an evening.",
+      "translations": {
+        "zh-Hans": "每天早晨锻炼，晚上多读书。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 106.49,
+      "end": 122.13,
+      "text": "An all-night party on New Year's Eve provided me with a good excuse for not carrying out either of these new resolutions on the first day of the year, but on the second I applied myself assiduously to the",
+      "translations": {
+        "zh-Hans": "除夕通宵聚会给了我一个好借口，让我元旦当天两个新决心都没执行；但第二天我便勤奋地投入"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 122.13,
+      "end": 122.53,
+      "text": "task.",
+      "translations": {
+        "zh-Hans": "这项任务。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 123.41,
+      "end": 132.25,
+      "text": "The daily exercises lasted only eleven minutes and I proposed to do them early in the morning before anyone had got up.",
+      "translations": {
+        "zh-Hans": "每天锻炼只需11分钟，我打算在早晨所有人起床前完成。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 133.19,
+      "end": 140.67,
+      "text": "The self-discipline required to drag myself out of bed eleven minutes earlier than usual was considerable.",
+      "translations": {
+        "zh-Hans": "要比平时早11分钟把自己从床上拖起来，需要相当强的自制力。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 141.75,
+      "end": 149.53,
+      "text": "Nevertheless, I managed to creep down into the living room for two days before anyone found me out.",
+      "translations": {
+        "zh-Hans": "尽管如此，我还是连续两天悄悄下楼进了客厅，才被人发现。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 150.97,
+      "end": 161.65,
+      "text": "After jumping about on the carpet and twisting the human frame into uncomfortable positions, I sat down at the breakfast table in an exhausted condition.",
+      "translations": {
+        "zh-Hans": "在地毯上蹦跳，又把身体扭成种种不舒服的姿势后，我筋疲力尽地坐到早餐桌旁。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 162.59,
+      "end": 165.01,
+      "text": "It was this that portrayed me.",
+      "translations": {
+        "zh-Hans": "正是这一点暴露了我。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 165.57,
+      "end": 169.69,
+      "text": "The next morning the whole family trooped in to watch the performance.",
+      "translations": {
+        "zh-Hans": "第二天早晨，全家人列队进来观看我的表演。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 170.37,
+      "end": 179.59,
+      "text": "That was really unsettling, but I fended off the taunts and jibes of the family good-humoredly and soon everybody got used to the idea.",
+      "translations": {
+        "zh-Hans": "这实在令人心神不宁，不过我还是和气地挡住了家人的嘲弄和挖苦，很快大家便习惯了。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 180.29,
+      "end": 182.99,
+      "text": "However, my enthusiasm waned.",
+      "translations": {
+        "zh-Hans": "然而，我的热情渐渐消退。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 183.63,
+      "end": 186.99,
+      "text": "The time I spent at exercises gradually diminished.",
+      "translations": {
+        "zh-Hans": "我用于锻炼的时间逐渐缩短。"
+      }
+    },
+    {
+      "id": "s028",
+      "start": 187.67,
+      "end": 191.43,
+      "text": "Little by little the eleven minutes fell to zero.",
+      "translations": {
+        "zh-Hans": "那11分钟一点一点降到了零。"
+      }
+    },
+    {
+      "id": "s029",
+      "start": 192.23,
+      "end": 196.33,
+      "text": "By January 10th I was back to where I had started from.",
+      "translations": {
+        "zh-Hans": "到1月10日，我又回到了起点。"
+      }
+    },
+    {
+      "id": "s030",
+      "start": 197.17,
+      "end": 207.13,
+      "text": "I argued that if I spent less time exhausting myself at exercises in the morning, I would keep my mind fresh for reading when I got home from work.",
+      "translations": {
+        "zh-Hans": "我辩解说，如果早晨少花时间把自己锻炼得精疲力竭，下班回家后就能保持清醒的头脑读书。"
+      }
+    },
+    {
+      "id": "s031",
+      "start": 208.37,
+      "end": 216.45,
+      "text": "Resisting the hypnotizing effect of television, I sat in my room for a few evenings with my eyes glued to a book.",
+      "translations": {
+        "zh-Hans": "我抵抗着电视的催眠作用，连续几个晚上坐在房间里，目不转睛地盯着一本书。"
+      }
+    },
+    {
+      "id": "s032",
+      "start": 217.17,
+      "end": 225.89,
+      "text": "One night, however, feeling cold and lonely, I went downstairs and sat in front of the television pretending to read.",
+      "translations": {
+        "zh-Hans": "然而一天晚上，我觉得又冷又孤单，便下楼坐到电视机前，假装读书。"
+      }
+    },
+    {
+      "id": "s033",
+      "start": 226.75,
+      "end": 229.63,
+      "text": "That proved to be my undoing.",
+      "translations": {
+        "zh-Hans": "这成了我失败的根源。"
+      }
+    },
+    {
+      "id": "s034",
+      "start": 230.39,
+      "end": 236.33,
+      "text": "For I soon got back to my old bad habit of dozing off in front of the screen.",
+      "translations": {
+        "zh-Hans": "因为我很快又恢复了在电视机前打瞌睡的老毛病。"
+      }
+    },
+    {
+      "id": "s035",
+      "start": 237.13,
+      "end": 240.79,
+      "text": "I still haven't given up my resolution to do more reading.",
+      "translations": {
+        "zh-Hans": "我仍没有放弃多读书的决心。"
+      }
+    },
+    {
+      "id": "s036",
+      "start": 241.21,
+      "end": 247.61,
+      "text": "In fact, I have just bought a book entitled, How to Read a Thousand Words a Minute.",
+      "translations": {
+        "zh-Hans": "事实上，我刚买了一本名叫《一分钟读一千字》的书。"
+      }
+    },
+    {
+      "id": "s037",
+      "start": 248.73,
+      "end": 253.57,
+      "text": "Perhaps it will solve my problem, but I just haven't had time to read it.",
+      "translations": {
+        "zh-Hans": "也许它能解决我的问题，可我就是一直没时间读它。"
+      }
+    }
+  ]
+}

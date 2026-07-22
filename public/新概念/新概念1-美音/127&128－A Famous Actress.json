@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-127-128-a-famous-actress",
+    "title": "Lesson 127: A famous actress",
+    "audioFilename": "127&128－A Famous Actress.mp3",
+    "duration": 106.397,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.34,
+      "end": 2.46,
+      "text": "Lesson 127.",
+      "translations": {
+        "zh-Hans": "第127课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.62,
+      "end": 4.98,
+      "text": "A Famous Actress.",
+      "translations": {
+        "zh-Hans": "一位著名的女演员。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.76,
+      "end": 10.88,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 12.22,
+      "end": 17.88,
+      "text": "Who is only 29, and why is it so unclear?",
+      "translations": {
+        "zh-Hans": "谁只有29岁？为什么这件事让人搞不清楚？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 20.33,
+      "end": 32.05,
+      "text": "Can you recognize that woman, I think I can, It must be Karen Marsh, the actress.",
+      "translations": {
+        "zh-Hans": "你能认出那个女人吗？我想我能。她一定是女演员卡伦·马什。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 33.25,
+      "end": 34.53,
+      "text": "I thought so.",
+      "translations": {
+        "zh-Hans": "我也这么想。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 35.33,
+      "end": 37.17,
+      "text": "Who's that beside her?",
+      "translations": {
+        "zh-Hans": "她旁边的那个人是谁？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 38.33,
+      "end": 41.35,
+      "text": "That must be Conrad Reeves.",
+      "translations": {
+        "zh-Hans": "那一定是康拉德·里夫斯。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 42.49,
+      "end": 45.09,
+      "text": "Conrad Reeves, the actor?",
+      "translations": {
+        "zh-Hans": "演员康拉德·里夫斯？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 45.97,
+      "end": 47.11,
+      "text": "It can't be.",
+      "translations": {
+        "zh-Hans": "不可能。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 47.77,
+      "end": 49.95,
+      "text": "Let me have another look.",
+      "translations": {
+        "zh-Hans": "让我再看一眼。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 51.27,
+      "end": 52.67,
+      "text": "I think you're right.",
+      "translations": {
+        "zh-Hans": "我想你是对的。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 53.65,
+      "end": 56.25,
+      "text": "Isn't he her third husband?",
+      "translations": {
+        "zh-Hans": "他不是她的第三任丈夫吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 57.39,
+      "end": 58.01,
+      "text": "No.",
+      "translations": {
+        "zh-Hans": "不是。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 58.79,
+      "end": 61.93,
+      "text": "He must be her fourth or fifth.",
+      "translations": {
+        "zh-Hans": "他一定是她的第四任或第五任丈夫。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 63.81,
+      "end": 66.35,
+      "text": "Doesn't Karen Marsh look old?",
+      "translations": {
+        "zh-Hans": "卡伦·马什看起来不是很老吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 67.35,
+      "end": 69.95,
+      "text": "She does, doesn't she?",
+      "translations": {
+        "zh-Hans": "是显老，对吧？"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 70.65,
+      "end": 77.77,
+      "text": "I read she's 29, but she must be at least 40.",
+      "translations": {
+        "zh-Hans": "我看到报道说她29岁，但她肯定至少有40岁。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 79.15,
+      "end": 81.07,
+      "text": "I'm sure she is.",
+      "translations": {
+        "zh-Hans": "我敢肯定她有。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 82.47,
+      "end": 87.29,
+      "text": "She was a famous actress when I was still at school.",
+      "translations": {
+        "zh-Hans": "我还在上学时，她就已经是著名演员了。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 88.89,
+      "end": 92.53,
+      "text": "That was a long time ago, wasn't it?",
+      "translations": {
+        "zh-Hans": "那是很久以前的事了，对吧？"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 92.53,
+      "end": 95.39,
+      "text": "Not that long ago.",
+      "translations": {
+        "zh-Hans": "也没有那么久。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 96.37,
+      "end": 99.65,
+      "text": "I'm not more than 29 myself.",
+      "translations": {
+        "zh-Hans": "我自己也还不到29岁呢。"
+      }
+    }
+  ]
+}

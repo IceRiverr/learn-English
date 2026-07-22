@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-052-a-pretty-carpet",
+    "title": "Lesson 52: A Pretty Carpet",
+    "audioFilename": "52－A Pretty Carpet.mp3",
+    "duration": 97.097,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 2.03,
+      "text": "Lesson 52.",
+      "translations": {
+        "zh-Hans": "第52课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.79,
+      "end": 3.99,
+      "text": "A Pretty Carpet.",
+      "translations": {
+        "zh-Hans": "漂亮的地毯。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.49,
+      "end": 8.33,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.99,
+      "end": 12.53,
+      "text": "What is the writer's carpet made of?",
+      "translations": {
+        "zh-Hans": "作者的地毯是由什么做成的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.33,
+      "end": 20.93,
+      "text": "We have just moved into a new house, and I have been working hard all morning.",
+      "translations": {
+        "zh-Hans": "我们刚搬进一所新房子，我整个上午一直在辛苦干活。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.09,
+      "end": 26.01,
+      "text": "I have been trying to get my new room in order.",
+      "translations": {
+        "zh-Hans": "我一直在设法把新房间整理好。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.81,
+      "end": 32.49,
+      "text": "This has not been easy because I own over a thousand books.",
+      "translations": {
+        "zh-Hans": "这并不容易，因为我有一千多本书。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.75,
+      "end": 42.53,
+      "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "translations": {
+        "zh-Hans": "更糟的是，房间相当小，所以我暂时把书放在了地板上。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 43.77,
+      "end": 54.17,
+      "text": "At the moment, they cover every inch of floor space, and I actually have to walk on them to get in or out of the room.",
+      "translations": {
+        "zh-Hans": "眼下，书铺满了地面的每一寸空间，我进出房间实际上都得踩着它们走。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 55.17,
+      "end": 63.21,
+      "text": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "translations": {
+        "zh-Hans": "不久前，姐姐帮我把一个旧书架搬上了楼。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 64.25,
+      "end": 71.77,
+      "text": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "translations": {
+        "zh-Hans": "她走进我的房间，看到地上那些书时大吃一惊。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 73.19,
+      "end": 78.75,
+      "text": "This is the prettiest carpet I have ever seen, she said.",
+      "translations": {
+        "zh-Hans": "“这是我见过的最漂亮的地毯，”她说。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 79.47,
+      "end": 86.47,
+      "text": "She gazed at it for some time, then added, You don't need bookcases at all.",
+      "translations": {
+        "zh-Hans": "她凝视了一会儿，然后又说：“你根本不需要书架。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 87.25,
+      "end": 91.15,
+      "text": "You can sit here in your spare time and read the carpet.",
+      "translations": {
+        "zh-Hans": "闲暇时你可以坐在这里读这张地毯。”"
+      }
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-020-snake-poison",
+    "title": "Lesson 20: Snake Poison",
+    "audioFilename": "20－Snake Poison.mp3",
+    "duration": 181.368,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 1.67,
+      "text": "Lesson 20.",
+      "translations": {
+        "zh-Hans": "第20课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.63,
+      "end": 3.19,
+      "text": "Poison.",
+      "translations": {
+        "zh-Hans": "蛇毒。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.43,
+      "end": 7.35,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 8.99,
+      "end": 12.47,
+      "text": "What are the two different ways in which snake poison acts?",
+      "translations": {
+        "zh-Hans": "蛇毒以哪两种不同方式发挥作用？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.22,
+      "end": 19.1,
+      "text": "How it came about that snakes manufactured poison is a mystery.",
+      "translations": {
+        "zh-Hans": "蛇为什么会产生毒液，至今仍是个谜。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.38,
+      "end": 29.42,
+      "text": "Over the periods, their saliva, a mild digestive juice like our own, was converted into a poison that defies analysis even today.",
+      "translations": {
+        "zh-Hans": "经过漫长年代，它们原本像人类唾液一样温和的消化液，转化成一种直到今天也难以分析的毒液。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 29.42,
+      "end": 33.82,
+      "text": "It was not forced upon them by the survival competition.",
+      "translations": {
+        "zh-Hans": "这并不是生存竞争强迫它们形成的。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 34.72,
+      "end": 41.94,
+      "text": "could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do.",
+      "translations": {
+        "zh-Hans": "蛇本来可以不用毒液捕捉猎物并以此为生，就像今天仍然存在的成千上万种无毒蛇一样。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 43.26,
+      "end": 45.54,
+      "text": "Poison to a snake is merely a luxury.",
+      "translations": {
+        "zh-Hans": "毒液对蛇来说只是一种奢侈品。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 46.34,
+      "end": 52.28,
+      "text": "It enables it to get its food with very little effort, no more effort than one bite.",
+      "translations": {
+        "zh-Hans": "它让蛇几乎不费力就能获得食物，只需咬一口。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 53.16,
+      "end": 54.64,
+      "text": "And why only snakes?",
+      "translations": {
+        "zh-Hans": "而且为什么只有蛇有毒液？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 55.5,
+      "end": 57.84,
+      "text": "Cats, for instance, would be greatly helped.",
+      "translations": {
+        "zh-Hans": "例如，猫若有毒液也会得到极大帮助。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 57.84,
+      "end": 66,
+      "text": "No running fights with large fierce rats or tussles with grown rabbits, just a bite and no more effort needed.",
+      "translations": {
+        "zh-Hans": "它们不必与凶猛的大老鼠追逐搏斗，也不必同成年兔子扭打；只要咬一口，就无需再费力。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 66.62,
+      "end": 73.32,
+      "text": "In fact, it would be an assistance to all carnivores, though it would be a two-edged weapon when they fought each other.",
+      "translations": {
+        "zh-Hans": "事实上，毒液会帮助所有食肉动物，不过当它们彼此争斗时，这也会成为双刃剑。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 74.22,
+      "end": 79.94,
+      "text": "But of the vertebrates, unpredictable nature selected only snakes and one lizard.",
+      "translations": {
+        "zh-Hans": "但在脊椎动物中，难以捉摸的大自然只选择了蛇和一种蜥蜴。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 80.92,
+      "end": 86.78,
+      "text": "One wonders also why nature, with some snakes, concocted poison of such extreme potency.",
+      "translations": {
+        "zh-Hans": "人们还会疑惑，大自然为什么为某些蛇调制出威力如此极端的毒液。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 87.64,
+      "end": 93.98,
+      "text": "In the conversion of saliva into poison, one might suppose that a fixed process took place.",
+      "translations": {
+        "zh-Hans": "对于唾液转化成毒液的过程，人们也许会认为存在固定的变化方式。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 94.86,
+      "end": 95.54,
+      "text": "It did not.",
+      "translations": {
+        "zh-Hans": "其实并非如此。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 96.16,
+      "end": 106.22,
+      "text": "Some snakes manufactured a poison different in every respect from that of others, as different as arsenic is from strychnine, and having different effects.",
+      "translations": {
+        "zh-Hans": "有些蛇产生的毒液与其他蛇在各方面都截然不同，差别就像砒霜与马钱子碱，而且作用也不相同。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 107.12,
+      "end": 110.4,
+      "text": "One poison acts on the nerves, the other on the blood.",
+      "translations": {
+        "zh-Hans": "一种毒液作用于神经，另一种作用于血液。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 111.52,
+      "end": 118.16,
+      "text": "The makers of the nerve poison include the mambus and the cobras and their venom is called neurotoxic.",
+      "translations": {
+        "zh-Hans": "产生神经毒液的蛇包括曼巴蛇和眼镜蛇，它们的毒液称为神经毒素。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 119.3,
+      "end": 126.38,
+      "text": "Vipers, adders, and rattlesnakes manufacture the blood poison, which is known as hemolytic.",
+      "translations": {
+        "zh-Hans": "蝰蛇、宽吻蝰和响尾蛇产生血液毒素，称为溶血性毒素。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 127.16,
+      "end": 132,
+      "text": "Both poisons are unpleasant, but by far the more unpleasant is the blood poison.",
+      "translations": {
+        "zh-Hans": "两种毒液都令人痛苦，但血液毒素远远更加可怕。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 132.66,
+      "end": 141.16,
+      "text": "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula.",
+      "translations": {
+        "zh-Hans": "据说神经毒素是二者中较原始的一种；可以说，血液毒素是依照改良配方制成的较新产品。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 141.16,
+      "end": 147.82,
+      "text": "Be that as it may, the nerve poison does its business with man far more quickly than the blood poison.",
+      "translations": {
+        "zh-Hans": "不管怎样，神经毒素在人身上发作的速度比血液毒素快得多。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 148.52,
+      "end": 150,
+      "text": "This, however, means nothing.",
+      "translations": {
+        "zh-Hans": "然而，这一点并没有意义。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 151.12,
+      "end": 162.26,
+      "text": "Snakes did not acquire their poison for use against man, but for use against prey, such as rats and mice, and the effects on these of viperine poison is almost immediate.",
+      "translations": {
+        "zh-Hans": "蛇获得毒液不是为了对付人，而是为了对付老鼠等猎物；蝰蛇毒液对这些猎物几乎立即生效。"
+      }
+    }
+  ]
+}

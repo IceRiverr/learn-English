@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-033-education",
+    "title": "Lesson 33: Education",
+    "audioFilename": "33－Education.mp3",
+    "duration": 243.148,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 2.74,
+      "end": 3.54,
+      "text": "Education.",
+      "translations": {
+        "zh-Hans": "教育。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.2,
+      "end": 8.68,
+      "text": "First listen and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 11.14,
+      "end": 15.66,
+      "text": "Why is education democratic in bookless, tribal societies?",
+      "translations": {
+        "zh-Hans": "在没有书写文字的部落社会中，教育为什么是民主的？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 18.78,
+      "end": 21.82,
+      "text": "Education is one of the key words of our time.",
+      "translations": {
+        "zh-Hans": "教育是我们时代的关键词之一。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 23.2,
+      "end": 36.04,
+      "text": "A man without an education, many of us believe, is an unfortunate victim of adverse circumstances, deprived of one of the greatest 20th century opportunities.",
+      "translations": {
+        "zh-Hans": "我们许多人认为，没有受过教育的人是不利环境的可怜受害者，被剥夺了20世纪最伟大的机会之一。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 37.28,
+      "end": 52.56,
+      "text": "Convinced of the importance of education, modern states invest in institutions of learning to get back interest in the form of a large group of enlightened young men and women who are potential leaders.",
+      "translations": {
+        "zh-Hans": "现代国家确信教育的重要性，便投资教育机构，希望以一大批开明、可能成为领袖的青年男女作为回报和利息。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 54.02,
+      "end": 68.62,
+      "text": "Education, with its cycles of instruction so carefully worked out, punctuated by textbooks, those purchasable wells of wisdom, what would civilization be like without its benefits?",
+      "translations": {
+        "zh-Hans": "教育有精心设计的教学周期，又有可以买到的智慧之泉——教科书——穿插其间；没有这些益处，文明会是什么样子？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 70.54,
+      "end": 83.94,
+      "text": "So much is certain that we would have doctors and preachers, lawyers and defendants, and births, but our spiritual outlook would be different.",
+      "translations": {
+        "zh-Hans": "可以肯定的是，我们仍会有医生和传教士、律师和被告，也仍会有生老病死，但精神面貌会有所不同。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 84.88,
+      "end": 97.88,
+      "text": "We would lay less stress on facts and figures, and more on a good memory, on applied psychology, and on the capacity of a man to get along with his fellow citizens.",
+      "translations": {
+        "zh-Hans": "我们会较少强调事实和数字，更多重视良好记忆、应用心理学以及与同胞和睦相处的能力。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 98.86,
+      "end": 109.06,
+      "text": "If our educational system were fashioned after its bookless past, we would have the most democratic form of college imaginable.",
+      "translations": {
+        "zh-Hans": "如果教育制度仿照没有书本的过去来设计，我们将拥有所能想象的最民主的学校。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 110.12,
+      "end": 116.28,
+      "text": "Among tribal people, all knowledge inherited by tradition is shared by all.",
+      "translations": {
+        "zh-Hans": "在部落民族中，传统传承的一切知识为所有人共享。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 116.9,
+      "end": 124.26,
+      "text": "It is taught to every member of the tribe, so that in this respect everybody is equally equipped for life.",
+      "translations": {
+        "zh-Hans": "每个部落成员都受到这种教育，因此在这方面人人都为生活作了同等准备。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 126.31,
+      "end": 135.63,
+      "text": "It is the ideal condition of the equal start, which only our most progressive forms of modern education try to regain.",
+      "translations": {
+        "zh-Hans": "这就是平等起点的理想状态，只有最进步的现代教育形式才试图重新实现它。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 135.63,
+      "end": 144.91,
+      "text": "In primitive cultures, the obligation to seek and to receive the traditional instruction is binding to all.",
+      "translations": {
+        "zh-Hans": "在原始文化中，寻求并接受传统教导是每个人必须履行的义务。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 145.53,
+      "end": 160.71,
+      "text": "There are no illiterates, if the term can be applied to peoples without a script, while our own compulsory school attendance became law in Germany in 1642, in France in",
+      "translations": {
+        "zh-Hans": "如果“文盲”一词能用于没有文字的民族，那么那里没有文盲；而我们自己的义务教育直到1642年才在德国、1806年在法国、"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 160.71,
+      "end": 169.75,
+      "text": "1806, and in England in 1876, and is still non-existent in a number of civilized nations.",
+      "translations": {
+        "zh-Hans": "1876年在英国成为法律，许多文明国家至今仍不存在义务教育。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 171.09,
+      "end": 185.09,
+      "text": "This shows how long it was before we deemed it necessary to make sure that all our children could share in the knowledge accumulated by the happy few during the past centuries.",
+      "translations": {
+        "zh-Hans": "这说明我们过了多久才认为有必要确保所有孩子都能分享过去几个世纪由少数幸运者积累的知识。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 187.11,
+      "end": 191.63,
+      "text": "Education in the wilderness is not a matter of monetary means.",
+      "translations": {
+        "zh-Hans": "荒野中的教育并不取决于金钱条件。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 192.59,
+      "end": 195.27,
+      "text": "All are entitled to an equal start.",
+      "translations": {
+        "zh-Hans": "人人都有权获得平等起点。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 196.37,
+      "end": 204.55,
+      "text": "There is none of the hurry which, in our society, often hampers the full development of a growing personality.",
+      "translations": {
+        "zh-Hans": "那里没有我们社会中那种常常妨碍成长中人格充分发展的匆忙。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 206.05,
+      "end": 210.95,
+      "text": "There, a child grows up under the ever-present attention of his parents.",
+      "translations": {
+        "zh-Hans": "孩子始终在父母的关注下长大。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 210.95,
+      "end": 217.81,
+      "text": "Therefore, the jungles and the savannas know of no juvenile delinquency.",
+      "translations": {
+        "zh-Hans": "因此，丛林和草原上没有青少年犯罪。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 219.29,
+      "end": 231.15,
+      "text": "No necessity of making a living away from home results in neglect of children, and no father is confronted with his inability to buy an education for his child.",
+      "translations": {
+        "zh-Hans": "父母不必离家谋生，孩子因而不会被忽视；也没有父亲会面对无力为孩子购买教育的困境。"
+      }
+    }
+  ]
+}

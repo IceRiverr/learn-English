@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-043-044-hurry-up",
+    "title": "Lesson 43: Hurry up!",
+    "audioFilename": "043&044－Hurry Up.mp3",
+    "duration": 78.864,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.1,
+      "text": "Lesson 43.",
+      "translations": {
+        "zh-Hans": "第43课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.32,
+      "end": 4.16,
+      "text": "Hurry Up.",
+      "translations": {
+        "zh-Hans": "快点！"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.94,
+      "end": 9.78,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.44,
+      "end": 16.1,
+      "text": "How do you know Sam doesn't make the tea very often?",
+      "translations": {
+        "zh-Hans": "你怎么知道萨姆不常沏茶？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 18.28,
+      "end": 20.62,
+      "text": "Can you make the tea, Sam?",
+      "translations": {
+        "zh-Hans": "萨姆，你会沏茶吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.12,
+      "end": 25.16,
+      "text": "Yes, of course I can, Penny.",
+      "translations": {
+        "zh-Hans": "会，我当然会，彭妮。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.94,
+      "end": 29.74,
+      "text": "Is there any water in this kettle?",
+      "translations": {
+        "zh-Hans": "这个水壶里有水吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 30.66,
+      "end": 32.48,
+      "text": "Yes, there is.",
+      "translations": {
+        "zh-Hans": "有。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 33.58,
+      "end": 34.72,
+      "text": "Where's the tea?",
+      "translations": {
+        "zh-Hans": "茶叶在哪里？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 35.3,
+      "end": 38.82,
+      "text": "It's over there, behind the teapot.",
+      "translations": {
+        "zh-Hans": "在那边，茶壶后面。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 40.86,
+      "end": 42.22,
+      "text": "Can you see it?",
+      "translations": {
+        "zh-Hans": "你看得见吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 43.46,
+      "end": 49.02,
+      "text": "I can see the teapot, but I can't see the tea.",
+      "translations": {
+        "zh-Hans": "我看得见茶壶，可看不见茶叶。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 49.74,
+      "end": 50.9,
+      "text": "There it is.",
+      "translations": {
+        "zh-Hans": "就在那里。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 51.4,
+      "end": 52.92,
+      "text": "It's in front of you.",
+      "translations": {
+        "zh-Hans": "就在你面前。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 53.64,
+      "end": 54.74,
+      "text": "Ah, yes.",
+      "translations": {
+        "zh-Hans": "啊，是的。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 55.54,
+      "end": 57.36,
+      "text": "I can see it now.",
+      "translations": {
+        "zh-Hans": "我现在看见了。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 58.24,
+      "end": 60.14,
+      "text": "Where are the cups?",
+      "translations": {
+        "zh-Hans": "茶杯在哪里？"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 61.18,
+      "end": 63.36,
+      "text": "There are some in the cupboard.",
+      "translations": {
+        "zh-Hans": "碗橱里有几只。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 64.18,
+      "end": 65.5,
+      "text": "Can you find them?",
+      "translations": {
+        "zh-Hans": "你能找到吗？"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 66.3,
+      "end": 68.34,
+      "text": "Yes, here they are.",
+      "translations": {
+        "zh-Hans": "能，在这里。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 69.36,
+      "end": 70.32,
+      "text": "Hurry up, Sam.",
+      "translations": {
+        "zh-Hans": "快点，萨姆。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 71.14,
+      "end": 72.4,
+      "text": "The kettle's boiling.",
+      "translations": {
+        "zh-Hans": "水开了。"
+      }
+    }
+  ]
+}

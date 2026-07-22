@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-004-an-exciting-trip",
+    "title": "Lesson 4: An Exciting Trip",
+    "audioFilename": "04－An Exciting Trip.mp3",
+    "duration": 66.22,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.62,
+      "text": "Lesson 4.",
+      "translations": {
+        "zh-Hans": "第4课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.38,
+      "end": 3.68,
+      "text": "An Exciting Trip.",
+      "translations": {
+        "zh-Hans": "激动人心的旅行。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.22,
+      "end": 8.44,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.08,
+      "end": 13.6,
+      "text": "Why is Tim finding this trip exciting?",
+      "translations": {
+        "zh-Hans": "为什么蒂姆觉得这次旅行令人兴奋？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.01,
+      "end": 19.73,
+      "text": "I have just received a letter from my brother, Tim.",
+      "translations": {
+        "zh-Hans": "我刚刚收到弟弟蒂姆的一封信。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.71,
+      "end": 22.05,
+      "text": "He is in Australia.",
+      "translations": {
+        "zh-Hans": "他正在澳大利亚。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 23.13,
+      "end": 25.43,
+      "text": "He has been there for six months.",
+      "translations": {
+        "zh-Hans": "他在那里已经待了六个月。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 25.43,
+      "end": 27.87,
+      "text": "Tim is an engineer.",
+      "translations": {
+        "zh-Hans": "蒂姆是一名工程师。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 28.75,
+      "end": 36.31,
+      "text": "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "translations": {
+        "zh-Hans": "他在一家大公司工作，并且已经去过澳大利亚许多不同的地方。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 37.63,
+      "end": 46.15,
+      "text": "He has just bought an Australian car and has gone to Alice Springs, a small town in the center of Australia.",
+      "translations": {
+        "zh-Hans": "他刚买了一辆澳大利亚汽车，现在已经去了澳大利亚中部的小镇艾丽斯斯普林斯。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 47.45,
+      "end": 49.17,
+      "text": "He will soon visit Darwin.",
+      "translations": {
+        "zh-Hans": "他不久还将到达尔文去。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 50.17,
+      "end": 52.53,
+      "text": "From there, he will fly to Perth.",
+      "translations": {
+        "zh-Hans": "从那里，他将飞往珀斯。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 52.53,
+      "end": 60.11,
+      "text": "My brother has never been abroad before, so he is finding this trip very exciting.",
+      "translations": {
+        "zh-Hans": "我弟弟以前从未出过国，因此他觉得这次旅行非常令人兴奋。"
+      }
+    }
+  ]
+}

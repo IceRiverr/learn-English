@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-046-expensive-and-uncomfortable",
+    "title": "Lesson 46: Expensive and Uncomfortable",
+    "audioFilename": "46－Expensive and Uncomfortable.mp3",
+    "duration": 100.101,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.5,
+      "end": 2.1,
+      "text": "Lesson 46.",
+      "translations": {
+        "zh-Hans": "第46课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.94,
+      "end": 5.38,
+      "text": "Expensive and Uncomfortable.",
+      "translations": {
+        "zh-Hans": "既昂贵又不舒服。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.96,
+      "end": 10,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.44,
+      "end": 14.08,
+      "text": "What did the man in this story do?",
+      "translations": {
+        "zh-Hans": "故事里的那个人做了什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.12,
+      "end": 26.34,
+      "text": "When a plane from London arrived at Sydney Airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "translations": {
+        "zh-Hans": "一架从伦敦飞来的飞机抵达悉尼机场后，工人们开始卸下一批装有衣服的木箱。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 27.76,
+      "end": 33.96,
+      "text": "No one could account for the fact that one of the boxes was extremely heavy.",
+      "translations": {
+        "zh-Hans": "谁也解释不了为什么其中一只箱子格外沉重。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 35.12,
+      "end": 40.5,
+      "text": "It suddenly occurred to one of the workers to open up the box.",
+      "translations": {
+        "zh-Hans": "一名工人突然想到把箱子打开。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 41.46,
+      "end": 44.5,
+      "text": "He was astonished at what he found.",
+      "translations": {
+        "zh-Hans": "他看到里面的东西后大吃一惊。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 45.52,
+      "end": 51.06,
+      "text": "A man was lying in the box on top of a pile of woolen goods.",
+      "translations": {
+        "zh-Hans": "一个男人躺在一堆毛织品上面。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 52.26,
+      "end": 59.3,
+      "text": "He was so surprised at being discovered that he did not even try to run away.",
+      "translations": {
+        "zh-Hans": "他被发现后惊讶得甚至没有试图逃跑。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 60.74,
+      "end": 68.26,
+      "text": "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "translations": {
+        "zh-Hans": "被捕后，那人承认自己在飞机离开伦敦前藏进了箱子。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 69.7,
+      "end": 80.36,
+      "text": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "translations": {
+        "zh-Hans": "他的旅程漫长而不舒服，因为他被关在木箱里超过18小时。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 81.82,
+      "end": 88.72,
+      "text": "The man was ordered to pay three thousand five hundred pounds for the cost of the trip.",
+      "translations": {
+        "zh-Hans": "那人被责令支付3,500英镑的旅费。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 89.8,
+      "end": 93.72,
+      "text": "The normal price of a ticket is two thousand pounds.",
+      "translations": {
+        "zh-Hans": "普通机票的价格是2,000英镑。"
+      }
+    }
+  ]
+}

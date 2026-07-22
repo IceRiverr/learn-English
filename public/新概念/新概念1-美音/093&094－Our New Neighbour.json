@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-093-094-our-new-neighbour",
+    "title": "Lesson 93: Our new neighbour",
+    "audioFilename": "093&094－Our New Neighbour.mp3",
+    "duration": 79.569,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 4.45,
+      "text": "Lesson 93–Our New Neighbour.",
+      "translations": {
+        "zh-Hans": "第93课——我们的新邻居。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.07,
+      "end": 10.57,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.05,
+      "end": 14.77,
+      "text": "Why is Nigel a lucky man?",
+      "translations": {
+        "zh-Hans": "奈杰尔为什么是个幸运的人？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.66,
+      "end": 20.56,
+      "text": "Nigel is our new next-door neighbour.",
+      "translations": {
+        "zh-Hans": "奈杰尔是我们新搬来的隔壁邻居。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 21.62,
+      "end": 22.86,
+      "text": "He's a pilot.",
+      "translations": {
+        "zh-Hans": "他是一名飞行员。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.1,
+      "end": 26.06,
+      "text": "He was in the RAF.",
+      "translations": {
+        "zh-Hans": "他曾在英国皇家空军服役。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.64,
+      "end": 31.34,
+      "text": "He will fly to New York next month.",
+      "translations": {
+        "zh-Hans": "下个月他将飞往纽约。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.18,
+      "end": 36.94,
+      "text": "The month after next, he'll fly to Tokyo.",
+      "translations": {
+        "zh-Hans": "再下个月，他将飞往东京。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 38.46,
+      "end": 41.24,
+      "text": "At the moment, he's in Madrid.",
+      "translations": {
+        "zh-Hans": "此刻他在马德里。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 42.28,
+      "end": 45,
+      "text": "He flew to Spain a week ago.",
+      "translations": {
+        "zh-Hans": "他一星期前飞去了西班牙。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 46.58,
+      "end": 50.54,
+      "text": "He'll return to London the week after next.",
+      "translations": {
+        "zh-Hans": "他将在下下个星期返回伦敦。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 51.54,
+      "end": 61.86,
+      "text": "He's only 41 years old, and he has already been to nearly every country in the world.",
+      "translations": {
+        "zh-Hans": "他只有41岁，却已经去过世界上几乎每一个国家。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 63.76,
+      "end": 69.74,
+      "text": "Nigel is a very lucky man, but his wife isn't very lucky.",
+      "translations": {
+        "zh-Hans": "奈杰尔是个非常幸运的人，但他的妻子并不幸运。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 70.54,
+      "end": 73.02,
+      "text": "She usually stays at home.",
+      "translations": {
+        "zh-Hans": "她通常待在家里。"
+      }
+    }
+  ]
+}

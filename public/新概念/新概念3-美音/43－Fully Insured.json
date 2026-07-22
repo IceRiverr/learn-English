@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-043-fully-insured",
+    "title": "Lesson 43: Fully Insured",
+    "audioFilename": "43－Fully Insured.mp3",
+    "duration": 258.194,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.02,
+      "end": 1.8,
+      "text": "Lesson 43.",
+      "translations": {
+        "zh-Hans": "第43课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.98,
+      "end": 4.42,
+      "text": "Fully Insured.",
+      "translations": {
+        "zh-Hans": "全额保险。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.32,
+      "end": 9.72,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.02,
+      "end": 13.44,
+      "text": "Who owned the pie dish, and why?",
+      "translations": {
+        "zh-Hans": "馅饼盘属于谁？为什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.21,
+      "end": 19.71,
+      "text": "companies are normally willing to insure anything.",
+      "translations": {
+        "zh-Hans": "保险公司通常愿意为任何东西承保。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.99,
+      "end": 27.07,
+      "text": "Insuring public or private property is a standard practice in most countries in the world.",
+      "translations": {
+        "zh-Hans": "在世界大多数国家，为公共或私人财产投保都是惯例。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 28.07,
+      "end": 38.91,
+      "text": "If, however, you were holding an open area, It would be equally possible to insure yourself in the event of bad weather.",
+      "translations": {
+        "zh-Hans": "不过，如果你要在露天举办活动，同样也可以为天气恶劣的情况投保。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 40.39,
+      "end": 48.59,
+      "text": "Needless to say, the bigger the risk an insurance company takes, the higher the premium you will have to pay.",
+      "translations": {
+        "zh-Hans": "不用说，保险公司承担的风险越大，你要付的保险费就越高。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 49.89,
+      "end": 61.29,
+      "text": "It is not uncommon to hear that a shipping company has made a claim for the cost of salvaging a sunken ship, but the claim made by a local authority to recover.",
+      "translations": {
+        "zh-Hans": "航运公司为打捞沉船的费用索赔并不少见，但某地方当局提出索赔，以收回"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 61.29,
+      "end": 67.01,
+      "text": "The of salvaging a sunken pie dish must surely be unique.",
+      "translations": {
+        "zh-Hans": "打捞一个沉没馅饼盘的费用，这恐怕是绝无仅有的。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 68.39,
+      "end": 76.39,
+      "text": "Admittedly, it was an unusual pie dish, for it was eighteen feet long and six feet wide.",
+      "translations": {
+        "zh-Hans": "诚然，这是个不同寻常的馅饼盘，长18英尺、宽6英尺。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 77.33,
+      "end": 85.03,
+      "text": "It had been purchased by a local authority, so that an enormous pie could be baked for an annual fare.",
+      "translations": {
+        "zh-Hans": "它由地方当局购买，用来为一年一度的集市烤制一个巨型馅饼。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 86.01,
+      "end": 95.51,
+      "text": "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip.",
+      "translations": {
+        "zh-Hans": "馅饼委员会认为水路运输这个盘子最合适，因此为这段行程投了保。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 96.77,
+      "end": 102.11,
+      "text": "Shortly after it was launched, the pie committee went to a local inn to celebrate.",
+      "translations": {
+        "zh-Hans": "盘子下水后不久，委员会成员到当地一家小酒馆庆祝去了。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 103.15,
+      "end": 110.23,
+      "text": "At the same time, a number of teenagers climbed onto the dish and held a little party of their own.",
+      "translations": {
+        "zh-Hans": "与此同时，一群少年爬上盘子，举行了自己的小聚会。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 110.23,
+      "end": 120.41,
+      "text": "Dancing proved to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.",
+      "translations": {
+        "zh-Hans": "跳舞超出了盘子的承受能力，聚会期间它翻倒了，沉入7英尺深的水中。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 121.67,
+      "end": 129.55,
+      "text": "The pie committee telephoned a local garage owner who arrived in a recovery truck to salvage the pie dish.",
+      "translations": {
+        "zh-Hans": "馅饼委员会给当地一位汽车修理厂老板打电话，他开着抢修车前来打捞。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 130.99,
+      "end": 140.13,
+      "text": "Shivering in their wet clothes, the teenagers looked on while three men dived repeatedly into the water to locate the dish.",
+      "translations": {
+        "zh-Hans": "少年们穿着湿衣服冻得发抖，在一旁看着三个人反复潜入水中寻找盘子。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 140.23,
+      "end": 149.27,
+      "text": "They had little difficulty in finding it, but hauling it out of the water proved to be a serious problem.",
+      "translations": {
+        "zh-Hans": "找到盘子并不难，但把它拖出水面却成了严重的问题。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 150.09,
+      "end": 160.97,
+      "text": "The sides of the dish were so smooth that it was almost impossible to attach hausers and chains to the rim without damaging it.",
+      "translations": {
+        "zh-Hans": "盘壁十分光滑，几乎无法在不损坏它的情况下把粗缆和铁链系到边缘。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 162.03,
+      "end": 169.51,
+      "text": "Eventually, chains were fixed to one end of the dish and a powerful winch was put into operation.",
+      "translations": {
+        "zh-Hans": "最后，铁链被固定在盘子的一端，一台强力绞车开始运转。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 170.77,
+      "end": 177.07,
+      "text": "The dish rose to the surface and was gently drawn towards the canal bank.",
+      "translations": {
+        "zh-Hans": "盘子浮出水面，被轻轻拉向运河岸边。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 178.01,
+      "end": 190.43,
+      "text": "For one agonizing moment, the dish was perched precariously on the bank of the canal, but it suddenly overbalanced and slid back into the water.",
+      "translations": {
+        "zh-Hans": "在令人揪心的一瞬间，盘子摇摇欲坠地搭在岸边，随后突然失去平衡，又滑回水中。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 190.97,
+      "end": 194.77,
+      "text": "The men were now obliged to try once more.",
+      "translations": {
+        "zh-Hans": "人们只得再试一次。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 195.85,
+      "end": 203.63,
+      "text": "This time, they fixed heavy metal clamps to both sides of the dish so that they could fasten the chains.",
+      "translations": {
+        "zh-Hans": "这一次，他们在盘子两侧装上沉重的金属夹，以便固定铁链。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 204.65,
+      "end": 211.35,
+      "text": "The dish now had to be lifted vertically because one edge was resting against the side of the canal.",
+      "translations": {
+        "zh-Hans": "因为盘子的一边靠着运河壁，现在必须垂直把它吊起。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 212.21,
+      "end": 217.71,
+      "text": "The winch was again put into operation and one of the men started up the truck.",
+      "translations": {
+        "zh-Hans": "绞车再次启动，其中一人也发动了卡车。"
+      }
+    },
+    {
+      "id": "s028",
+      "start": 218.65,
+      "end": 224.39,
+      "text": "Several minutes later, the dish was successfully hauled above the surface of the water.",
+      "translations": {
+        "zh-Hans": "几分钟后，盘子终于被成功吊出水面。"
+      }
+    },
+    {
+      "id": "s029",
+      "start": 225.45,
+      "end": 233.07,
+      "text": "Water streamed in torrents over its sides with such force that it set up a huge wave in the canal.",
+      "translations": {
+        "zh-Hans": "水从盘子两侧倾泻而下，力量之大在运河里掀起一股巨浪。"
+      }
+    },
+    {
+      "id": "s030",
+      "start": 233.95,
+      "end": 243.17,
+      "text": "There was danger that the wave would rebound off the other side of the bank and send the dish plunging into the water again.",
+      "translations": {
+        "zh-Hans": "巨浪可能从对岸反弹回来，把盘子再次冲进水里。"
+      }
+    },
+    {
+      "id": "s031",
+      "start": 243.17,
+      "end": 252.81,
+      "text": "By working at tremendous speed, the men managed to get the dish onto dry land before the wave returned.",
+      "translations": {
+        "zh-Hans": "人们飞快地工作，终于在巨浪返回之前把盘子弄到了干地上。"
+      }
+    }
+  ]
+}

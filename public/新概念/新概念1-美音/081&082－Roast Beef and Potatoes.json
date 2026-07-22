@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-081-082-roast-beef-and-potatoes",
+    "title": "Lesson 81: Roast beef and potatoes",
+    "audioFilename": "081&082－Roast Beef and Potatoes.mp3",
+    "duration": 84.558,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 5.46,
+      "text": "Lesson 81–Roast Beef and Potatoes.",
+      "translations": {
+        "zh-Hans": "第81课——烤牛肉和土豆。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 7.14,
+      "end": 11.08,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.52,
+      "end": 14.84,
+      "text": "Why is Carol disappointed?",
+      "translations": {
+        "zh-Hans": "卡罗尔为什么感到失望？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 16.98,
+      "end": 17.92,
+      "text": "Hi, Carol.",
+      "translations": {
+        "zh-Hans": "你好，卡罗尔。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 18.74,
+      "end": 19.56,
+      "text": "Where's Tom?",
+      "translations": {
+        "zh-Hans": "汤姆在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.26,
+      "end": 21.6,
+      "text": "He's upstairs.",
+      "translations": {
+        "zh-Hans": "他在楼上。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 22.48,
+      "end": 23.98,
+      "text": "He's having a bath.",
+      "translations": {
+        "zh-Hans": "他正在洗澡。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 25.18,
+      "end": 25.82,
+      "text": "Tom?",
+      "translations": {
+        "zh-Hans": "汤姆？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 26.6,
+      "end": 27.32,
+      "text": "Yes.",
+      "translations": {
+        "zh-Hans": "什么事？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 28.46,
+      "end": 29.02,
+      "text": "Sam's here.",
+      "translations": {
+        "zh-Hans": "萨姆来了。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 29.02,
+      "end": 31.5,
+      "text": "I'm nearly ready.",
+      "translations": {
+        "zh-Hans": "我马上就好。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 32.78,
+      "end": 33.76,
+      "text": "Hello, Sam.",
+      "translations": {
+        "zh-Hans": "你好，萨姆。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 34.72,
+      "end": 35.72,
+      "text": "Have a cigarette.",
+      "translations": {
+        "zh-Hans": "来支香烟吧。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 36.56,
+      "end": 38.1,
+      "text": "No, thanks, Tom.",
+      "translations": {
+        "zh-Hans": "不了，谢谢，汤姆。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 39.2,
+      "end": 41.16,
+      "text": "Have a glass of whiskey, then.",
+      "translations": {
+        "zh-Hans": "那就喝杯威士忌吧。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 41.68,
+      "end": 43.04,
+      "text": "Okay, thanks.",
+      "translations": {
+        "zh-Hans": "好的，谢谢。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 44.24,
+      "end": 49.36,
+      "text": "Is dinner ready? It's nearly ready.",
+      "translations": {
+        "zh-Hans": "晚饭好了吗？快好了。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 50.1,
+      "end": 53.14,
+      "text": "We can have dinner at seven o'clock.",
+      "translations": {
+        "zh-Hans": "我们七点钟可以吃晚饭。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 54.84,
+      "end": 57.76,
+      "text": "Sam and I had lunch together today.",
+      "translations": {
+        "zh-Hans": "萨姆和我今天一起吃了午饭。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 57.76,
+      "end": 60.28,
+      "text": "We went to a restaurant.",
+      "translations": {
+        "zh-Hans": "我们去了一家餐馆。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 61.14,
+      "end": 62.5,
+      "text": "What did you have?",
+      "translations": {
+        "zh-Hans": "你们吃了什么？"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 63.54,
+      "end": 66.22,
+      "text": "We had roast beef and potatoes.",
+      "translations": {
+        "zh-Hans": "我们吃了烤牛肉和土豆。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 67.12,
+      "end": 67.54,
+      "text": "Oh!",
+      "translations": {
+        "zh-Hans": "哦！"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 68.5,
+      "end": 70.14,
+      "text": "What's the matter, Carol?",
+      "translations": {
+        "zh-Hans": "怎么了，卡罗尔？"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 71.18,
+      "end": 77.22,
+      "text": "Well, you're going to have roast beef and potatoes again tonight.",
+      "translations": {
+        "zh-Hans": "嗯，今晚你们又要吃烤牛肉和土豆了。"
+      }
+    }
+  ]
+}

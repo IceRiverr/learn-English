@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-029-funny-or-not",
+    "title": "Lesson 29: Funny or Not",
+    "audioFilename": "29－Funny or Not.mp3",
+    "duration": 181.786,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.05,
+      "end": 1.61,
+      "text": "Lesson 29.",
+      "translations": {
+        "zh-Hans": "第29课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.45,
+      "end": 3.29,
+      "text": "Funny or Not.",
+      "translations": {
+        "zh-Hans": "是否可笑。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.93,
+      "end": 8.15,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.49,
+      "end": 12.07,
+      "text": "What is the basis of sick humor?",
+      "translations": {
+        "zh-Hans": "病态幽默以什么为基础？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.62,
+      "end": 20.3,
+      "text": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+      "translations": {
+        "zh-Hans": "我们觉得一个笑话好不好笑，很大程度上取决于自己在哪里长大。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.26,
+      "end": 26.28,
+      "text": "The sense of humor is mysteriously bound up with national characteristics.",
+      "translations": {
+        "zh-Hans": "幽默感与民族特征有着神秘的联系。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.28,
+      "end": 32.38,
+      "text": "A Frenchman, for instance, might find it hard to laugh at a Russian joke.",
+      "translations": {
+        "zh-Hans": "例如，一个法国人可能很难被俄罗斯笑话逗笑。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.06,
+      "end": 41.54,
+      "text": "In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.",
+      "translations": {
+        "zh-Hans": "同样，一个能让英国人笑出眼泪的笑话，俄罗斯人可能丝毫看不出哪里有趣。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 43.48,
+      "end": 47.14,
+      "text": "funny stories are based on comic situations.",
+      "translations": {
+        "zh-Hans": "许多滑稽故事都以喜剧性情境为基础。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 48.02,
+      "end": 53.72,
+      "text": "In spite of national differences, certain funny situations have a universal appeal.",
+      "translations": {
+        "zh-Hans": "尽管各国存在差异，某些滑稽情境却具有普遍吸引力。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 54.34,
+      "end": 62.4,
+      "text": "No matter where you live, would find it difficult not to laugh at, say, Charlie Chaplin's early films.",
+      "translations": {
+        "zh-Hans": "无论住在哪里，你恐怕都很难不被卓别林的早期电影逗笑。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 64.26,
+      "end": 70.76,
+      "text": "a new type of humor, which stems largely from the U.S., has recently come into fashion.",
+      "translations": {
+        "zh-Hans": "然而，近来一种主要源自美国的新型幽默开始流行。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 71.62,
+      "end": 73.48,
+      "text": "It is called sick humor.",
+      "translations": {
+        "zh-Hans": "它被称为“病态幽默”。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 74.7,
+      "end": 81.74,
+      "text": "Comedians base their jokes on tragic situations, like violent death or serious accidents.",
+      "translations": {
+        "zh-Hans": "喜剧演员以惨烈死亡或严重事故等悲剧情境作为笑料。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 81.74,
+      "end": 86.48,
+      "text": "Many people find this sort of joke distasteful.",
+      "translations": {
+        "zh-Hans": "许多人觉得这种笑话令人反感。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 87.4,
+      "end": 92.4,
+      "text": "The following example of sick humor will enable you to judge for yourself.",
+      "translations": {
+        "zh-Hans": "下面这个病态幽默的例子可以让你自行判断。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 94.02,
+      "end": 99.64,
+      "text": "man who had broken his right leg was taken to hospital a few weeks before Christmas.",
+      "translations": {
+        "zh-Hans": "圣诞节前几个星期，一名摔断右腿的男子被送进医院。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 100.64,
+      "end": 108.04,
+      "text": "From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.",
+      "translations": {
+        "zh-Hans": "从到达医院那一刻起，他便不断纠缠医生，问自己何时才能回家。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 108.04,
+      "end": 111.88,
+      "text": "He dreaded having to spend Christmas in hospital.",
+      "translations": {
+        "zh-Hans": "他害怕不得不在医院度过圣诞节。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 112.78,
+      "end": 117.02,
+      "text": "Though the doctor did his best, the patient's recovery was slow.",
+      "translations": {
+        "zh-Hans": "尽管医生竭尽全力，病人恢复得仍很缓慢。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 118.02,
+      "end": 122.38,
+      "text": "On Christmas Day, the man still had his right leg in plaster.",
+      "translations": {
+        "zh-Hans": "圣诞节当天，他的右腿还打着石膏。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 123.64,
+      "end": 128.44,
+      "text": "He spent a miserable day in bed, thinking of all the fun he was missing.",
+      "translations": {
+        "zh-Hans": "他郁郁寡欢地在床上度过一天，想着自己错过的种种欢乐。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 129.42,
+      "end": 140.54,
+      "text": "The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year's celebrations were good.",
+      "translations": {
+        "zh-Hans": "不过第二天，医生安慰他说，他很有希望及时出院参加新年庆祝活动。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 141.6,
+      "end": 148.68,
+      "text": "The man took heart, and sure enough, on New Year's Eve, he was able to hobble along to a party.",
+      "translations": {
+        "zh-Hans": "男子重新振作起来；果然，除夕夜他已经能一瘸一拐地去参加聚会。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 149.64,
+      "end": 157.36,
+      "text": "To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.",
+      "translations": {
+        "zh-Hans": "为了补偿在医院里的不愉快经历，他喝得比适量多了一些。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 157.36,
+      "end": 165.86,
+      "text": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.",
+      "translations": {
+        "zh-Hans": "期间他玩得非常尽兴，还不停地告诉每个人自己多么讨厌医院。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 167.14,
+      "end": 176.64,
+      "text": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.",
+      "translations": {
+        "zh-Hans": "聚会结束时，他还在嘟囔着有关医院的话，结果踩到一块冰滑倒，摔断了左腿。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-007-008-are-you-a-teacher",
+    "title": "Lesson 7: Are you a teacher?",
+    "audioFilename": "007&008－Are You a Teacher.mp3",
+    "duration": 64.34,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.18,
+      "end": 1.56,
+      "text": "Lesson 7.",
+      "translations": {
+        "zh-Hans": "第7课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.54,
+      "end": 4.5,
+      "text": "Are You a Teacher?",
+      "translations": {
+        "zh-Hans": "你是教师吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.94,
+      "end": 9.74,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.14,
+      "end": 12.98,
+      "text": "What is Robert's job?",
+      "translations": {
+        "zh-Hans": "罗伯特是做什么工作的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.36,
+      "end": 17.22,
+      "text": "I am a new student.",
+      "translations": {
+        "zh-Hans": "我是一名新学生。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 18.12,
+      "end": 19.66,
+      "text": "My name's Robert.",
+      "translations": {
+        "zh-Hans": "我叫罗伯特。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 20.52,
+      "end": 22.02,
+      "text": "Nice to meet you.",
+      "translations": {
+        "zh-Hans": "很高兴见到你。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 22.6,
+      "end": 24.06,
+      "text": "My name's Sophie.",
+      "translations": {
+        "zh-Hans": "我叫索菲。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 25.72,
+      "end": 26.96,
+      "text": "Are you French?",
+      "translations": {
+        "zh-Hans": "你是法国人吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 27.68,
+      "end": 29.18,
+      "text": "Yes, I am.",
+      "translations": {
+        "zh-Hans": "是的，我是。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 29.18,
+      "end": 32.12,
+      "text": "Are you French too?",
+      "translations": {
+        "zh-Hans": "你也是法国人吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 33.2,
+      "end": 35.54,
+      "text": "No, I am not.",
+      "translations": {
+        "zh-Hans": "不，我不是。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 36.64,
+      "end": 38.76,
+      "text": "What nationality are you?",
+      "translations": {
+        "zh-Hans": "你是哪国人？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 40.02,
+      "end": 41.62,
+      "text": "I'm Italian.",
+      "translations": {
+        "zh-Hans": "我是意大利人。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 43.34,
+      "end": 45.2,
+      "text": "Are you a teacher?",
+      "translations": {
+        "zh-Hans": "你是教师吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 45.92,
+      "end": 47.58,
+      "text": "No, I'm not.",
+      "translations": {
+        "zh-Hans": "不，我不是。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 48.6,
+      "end": 49.88,
+      "text": "What's your job?",
+      "translations": {
+        "zh-Hans": "你是做什么工作的？"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 50.62,
+      "end": 52.98,
+      "text": "I'm a keyboard operator.",
+      "translations": {
+        "zh-Hans": "我是一名电脑录入员。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 54.12,
+      "end": 55.32,
+      "text": "What's your job?",
+      "translations": {
+        "zh-Hans": "你是做什么工作的？"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 56.32,
+      "end": 57.98,
+      "text": "I'm an engineer.",
+      "translations": {
+        "zh-Hans": "我是一名工程师。"
+      }
+    }
+  ]
+}

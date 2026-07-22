@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-123-124-a-trip-to-australia",
+    "title": "Lesson 123: A trip to Australia",
+    "audioFilename": "123&124－A Trip to Australia.mp3",
+    "duration": 84.95,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.82,
+      "text": "Lesson 123.",
+      "translations": {
+        "zh-Hans": "第123课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.86,
+      "end": 5.98,
+      "text": "A Trip to Australia.",
+      "translations": {
+        "zh-Hans": "澳大利亚之旅。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 7.62,
+      "end": 11.62,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 13,
+      "end": 15.32,
+      "text": "Who is the man with the beard?",
+      "translations": {
+        "zh-Hans": "那个留胡子的男人是谁？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.91,
+      "end": 18.73,
+      "text": "Look, Scott!",
+      "translations": {
+        "zh-Hans": "看，斯科特！"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 19.91,
+      "end": 25.33,
+      "text": "This is a photograph I took during my trip to Australia.",
+      "translations": {
+        "zh-Hans": "这是我去澳大利亚旅行时拍的一张照片。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.71,
+      "end": 28.27,
+      "text": "Let me see it, Mike.",
+      "translations": {
+        "zh-Hans": "让我看看，迈克。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 29.23,
+      "end": 31.21,
+      "text": "This is a good photograph.",
+      "translations": {
+        "zh-Hans": "这张照片拍得真好。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 31.83,
+      "end": 33.55,
+      "text": "Who are these people?",
+      "translations": {
+        "zh-Hans": "这些人是谁？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 34.93,
+      "end": 38.03,
+      "text": "They're people I met during the trip.",
+      "translations": {
+        "zh-Hans": "他们是我在旅行途中认识的人。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 39.31,
+      "end": 41.65,
+      "text": "That's the ship we traveled on.",
+      "translations": {
+        "zh-Hans": "那就是我们乘坐的船。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 42.49,
+      "end": 44.23,
+      "text": "What a beautiful ship!",
+      "translations": {
+        "zh-Hans": "多漂亮的船啊！"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 45.09,
+      "end": 45.83,
+      "text": "Who's this?",
+      "translations": {
+        "zh-Hans": "这个人是谁？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 46.83,
+      "end": 50.65,
+      "text": "That's the man I told you about, remember?",
+      "translations": {
+        "zh-Hans": "他就是我跟你提过的那个人，还记得吗？"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 51.49,
+      "end": 52.51,
+      "text": "Ah, yes.",
+      "translations": {
+        "zh-Hans": "啊，记得。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 53.11,
+      "end": 56.39,
+      "text": "The one who offered you a job in Australia.",
+      "translations": {
+        "zh-Hans": "就是那个请你去澳大利亚工作的人。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 57.33,
+      "end": 58.13,
+      "text": "That's right.",
+      "translations": {
+        "zh-Hans": "没错。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 58.97,
+      "end": 59.75,
+      "text": "Who's this?",
+      "translations": {
+        "zh-Hans": "这个人是谁？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 60.55,
+      "end": 60.95,
+      "text": "Guess.",
+      "translations": {
+        "zh-Hans": "猜猜看。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 61.81,
+      "end": 63.77,
+      "text": "It's not you, is it?",
+      "translations": {
+        "zh-Hans": "不会是你吧？"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 64.13,
+      "end": 65.07,
+      "text": "That's right.",
+      "translations": {
+        "zh-Hans": "正是我。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 66.27,
+      "end": 72.97,
+      "text": "I grew a beard during the trip, but I shaved it off when I came home.",
+      "translations": {
+        "zh-Hans": "旅行期间我留了胡子，不过回家后就把它刮掉了。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 73.59,
+      "end": 75.43,
+      "text": "Why did you shave it off?",
+      "translations": {
+        "zh-Hans": "你为什么把胡子刮掉？"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 76.11,
+      "end": 78.31,
+      "text": "My wife didn't like it.",
+      "translations": {
+        "zh-Hans": "我妻子不喜欢。"
+      }
+    }
+  ]
+}

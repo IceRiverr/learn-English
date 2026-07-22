@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-033-out-of-the-darkness",
+    "title": "Lesson 33: Out of the Darkness",
+    "audioFilename": "33－Out of the Darkness.mp3",
+    "duration": 86.439,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.37,
+      "end": 2.19,
+      "text": "Lesson 33.",
+      "translations": {
+        "zh-Hans": "第33课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.37,
+      "end": 4.61,
+      "text": "Out of the Darkness.",
+      "translations": {
+        "zh-Hans": "冲出黑暗。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.13,
+      "end": 9.17,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.83,
+      "end": 12.97,
+      "text": "Why was the girl in hospital?",
+      "translations": {
+        "zh-Hans": "那个女孩为什么住院？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.63,
+      "end": 21.29,
+      "text": "Nearly a week passed before the girl was able to explain what had happened to her.",
+      "translations": {
+        "zh-Hans": "差不多过了一个星期，那个女孩才说清楚自己遭遇了什么。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.71,
+      "end": 30.15,
+      "text": "One afternoon, she set out from the coast in a small boat and was caught in a storm.",
+      "translations": {
+        "zh-Hans": "一天下午，她乘一条小船从海岸出发，途中遇上了暴风雨。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 31.55,
+      "end": 37.15,
+      "text": "Towards evening, the boat struck a rock and the girl jumped into the sea.",
+      "translations": {
+        "zh-Hans": "傍晚时分，小船撞上礁石，女孩跳进了海里。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 38.31,
+      "end": 43.45,
+      "text": "Then she swam to the shore after spending the whole night in the water.",
+      "translations": {
+        "zh-Hans": "她在水里度过整整一夜后，游到了岸边。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 44.81,
+      "end": 49.41,
+      "text": "During that time, she covered a distance of eight miles.",
+      "translations": {
+        "zh-Hans": "在此期间，她游了八英里。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 50.41,
+      "end": 54.75,
+      "text": "Early next morning, she saw a light ahead.",
+      "translations": {
+        "zh-Hans": "第二天清晨，她看到前方有一盏灯。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 55.87,
+      "end": 62.17,
+      "text": "She knew she was near the shore because the light was high up on the cliffs.",
+      "translations": {
+        "zh-Hans": "她知道自己已接近海岸，因为那盏灯高高地位于峭壁上。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 63.41,
+      "end": 71.11,
+      "text": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen.",
+      "translations": {
+        "zh-Hans": "到达岸边后，女孩挣扎着爬上峭壁，朝她看到的灯光走去。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 71.91,
+      "end": 73.99,
+      "text": "That was all she remembered.",
+      "translations": {
+        "zh-Hans": "她只记得这些。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 73.99,
+      "end": 80.11,
+      "text": "When she woke up a day later, she found herself in hospital.",
+      "translations": {
+        "zh-Hans": "一天后醒来时，她发现自己躺在医院里。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-047-048-a-cup-of-coffee",
+    "title": "Lesson 47: A cup of coffee",
+    "audioFilename": "047&048－A Cup of Coffee.mp3",
+    "duration": 64,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.37,
+      "end": 2.11,
+      "text": "Lesson 47.",
+      "translations": {
+        "zh-Hans": "第47课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.17,
+      "end": 4.75,
+      "text": "A Cup of Coffee.",
+      "translations": {
+        "zh-Hans": "一杯咖啡。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.31,
+      "end": 10.55,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 12.21,
+      "end": 14.57,
+      "text": "How does Anne like her coffee?",
+      "translations": {
+        "zh-Hans": "安喜欢喝什么样的咖啡？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.15,
+      "end": 19.29,
+      "text": "Do you like coffee, Anne?",
+      "translations": {
+        "zh-Hans": "安，你喜欢咖啡吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.37,
+      "end": 22.17,
+      "text": "Yes, I do.",
+      "translations": {
+        "zh-Hans": "喜欢。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 23.47,
+      "end": 24.99,
+      "text": "Do you want a cup?",
+      "translations": {
+        "zh-Hans": "想来一杯吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 26.29,
+      "end": 28.69,
+      "text": "Yes, please, Christine.",
+      "translations": {
+        "zh-Hans": "好的，谢谢，克里斯蒂娜。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 29.83,
+      "end": 32.45,
+      "text": "Do you want any sugar?",
+      "translations": {
+        "zh-Hans": "要加糖吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 33.83,
+      "end": 34.77,
+      "text": "Yes, please.",
+      "translations": {
+        "zh-Hans": "好的，请加一点。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 35.99,
+      "end": 38.01,
+      "text": "Do you want any milk?",
+      "translations": {
+        "zh-Hans": "要加牛奶吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 39.19,
+      "end": 40.31,
+      "text": "No, thank you.",
+      "translations": {
+        "zh-Hans": "不了，谢谢。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 40.81,
+      "end": 43.75,
+      "text": "I don't like milk in my coffee.",
+      "translations": {
+        "zh-Hans": "我不喜欢在咖啡里加牛奶。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 44.61,
+      "end": 47.11,
+      "text": "I like black coffee.",
+      "translations": {
+        "zh-Hans": "我喜欢黑咖啡。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 48.39,
+      "end": 50.13,
+      "text": "Do you like biscuits?",
+      "translations": {
+        "zh-Hans": "你喜欢饼干吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 51.33,
+      "end": 52.75,
+      "text": "Yes, I do.",
+      "translations": {
+        "zh-Hans": "喜欢。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 53.87,
+      "end": 55.25,
+      "text": "Do you want one?",
+      "translations": {
+        "zh-Hans": "想来一块吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 56.09,
+      "end": 57.15,
+      "text": "Yes, please.",
+      "translations": {
+        "zh-Hans": "好的，谢谢。"
+      }
+    }
+  ]
+}

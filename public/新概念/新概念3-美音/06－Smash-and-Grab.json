@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-006-smash-and-grab",
+    "title": "Lesson 6: Smash-and-Grab",
+    "audioFilename": "06－Smash-and-Grab.mp3",
+    "duration": 131.866,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 1.61,
+      "text": "Lesson 6.",
+      "translations": {
+        "zh-Hans": "第6课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.61,
+      "end": 3.33,
+      "text": "Smash-and-Grab.",
+      "translations": {
+        "zh-Hans": "砸橱窗抢劫。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.43,
+      "end": 7.57,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 8.81,
+      "end": 9.53,
+      "text": "How did Mr.",
+      "translations": {
+        "zh-Hans": "泰勒先生是怎样"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 9.97,
+      "end": 11.43,
+      "text": "try to stop the thieves?",
+      "translations": {
+        "zh-Hans": "试图阻止盗贼的？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 13.96,
+      "end": 19.02,
+      "text": "The expensive shops in a famous arcade near Piccadilly were just opening.",
+      "translations": {
+        "zh-Hans": "皮卡迪利大街附近一条著名拱廊里的高档商店刚刚开门。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 19.9,
+      "end": 23.64,
+      "text": "At this time of the morning, the arcade was almost empty.",
+      "translations": {
+        "zh-Hans": "早晨这个时候，拱廊里几乎空无一人。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 24.62,
+      "end": 24.9,
+      "text": "Mr.",
+      "translations": {
+        "zh-Hans": "泰勒先生，"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 25.72,
+      "end": 29.9,
+      "text": "the owner of a jewelry shop, was admiring a new window display.",
+      "translations": {
+        "zh-Hans": "一家珠宝店的老板，正在欣赏新布置的橱窗。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 30.76,
+      "end": 37.4,
+      "text": "Two of his assistants had been working busily since eight o'clock and had only just finished.",
+      "translations": {
+        "zh-Hans": "他的两名店员从八点起一直忙个不停，刚刚才布置完。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 38.68,
+      "end": 44.42,
+      "text": "necklaces and rings had been beautifully arranged on a background of black velvet.",
+      "translations": {
+        "zh-Hans": "项链和戒指精美地陈列在黑色天鹅绒衬底上。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 45.46,
+      "end": 48.94,
+      "text": "After gazing at the display for several minutes, Mr.",
+      "translations": {
+        "zh-Hans": "泰勒先生凝视了几分钟后，"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 49.3,
+      "end": 51.06,
+      "text": "went back into his shop.",
+      "translations": {
+        "zh-Hans": "回到了店里。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 52.14,
+      "end": 60.98,
+      "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+      "translations": {
+        "zh-Hans": "突然，一辆开着前灯、狂按喇叭的大轿车呼啸着冲进拱廊，打破了寂静。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 61.92,
+      "end": 64.58,
+      "text": "It came to a stop outside the jewelers.",
+      "translations": {
+        "zh-Hans": "车在珠宝店外停了下来。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 65.84,
+      "end": 75.86,
+      "text": "One man stayed at the wheel, while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.",
+      "translations": {
+        "zh-Hans": "一人留在驾驶座上，另外两人用黑色长筒袜蒙着脸跳下车，用铁棍砸碎了商店的橱窗。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 77,
+      "end": 79.16,
+      "text": "While this was going on, Mr.",
+      "translations": {
+        "zh-Hans": "这一切发生时，泰勒先生"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 79.58,
+      "end": 80.42,
+      "text": "was upstairs.",
+      "translations": {
+        "zh-Hans": "正在楼上。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 81.46,
+      "end": 85.1,
+      "text": "He and his staff began throwing furniture out of the window.",
+      "translations": {
+        "zh-Hans": "他和店员们开始把家具从窗户扔下去。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 86.08,
+      "end": 89.6,
+      "text": "Chairs and tables went flying into the arcade.",
+      "translations": {
+        "zh-Hans": "椅子和桌子纷纷飞进拱廊。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 90.72,
+      "end": 99.26,
+      "text": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain.",
+      "translations": {
+        "zh-Hans": "一名窃贼被一尊沉重的雕像击中，但他正忙着大把抓钻石，根本顾不上疼。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 100.46,
+      "end": 109.14,
+      "text": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.",
+      "translations": {
+        "zh-Hans": "抢劫行动三分钟便结束了；几个人爬回汽车，车以惊人的速度开走。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 110.06,
+      "end": 112.26,
+      "text": "Just as it was leaving, Mr.",
+      "translations": {
+        "zh-Hans": "车正要离开时，泰勒先生"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 112.68,
+      "end": 120.26,
+      "text": "rushed out and ran after it, throwing ashtrays and vases, but it was impossible to stop the thieves.",
+      "translations": {
+        "zh-Hans": "冲出来追赶，一边投掷烟灰缸和花瓶，但根本无法拦住盗贼。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 121.1,
+      "end": 125.2,
+      "text": "They had got away with thousands of pounds worth of diamonds.",
+      "translations": {
+        "zh-Hans": "他们抢走了价值数千英镑的钻石。"
+      }
+    }
+  ]
+}

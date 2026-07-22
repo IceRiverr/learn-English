@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-036-across-the-channel",
+    "title": "Lesson 36: Across the Channel",
+    "audioFilename": "36－Across the Channel.mp3",
+    "duration": 86.021,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.37,
+      "end": 2.01,
+      "text": "Lesson 36.",
+      "translations": {
+        "zh-Hans": "第36课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.23,
+      "end": 4.07,
+      "text": "Across the Channel.",
+      "translations": {
+        "zh-Hans": "横渡海峡。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.65,
+      "end": 8.55,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.07,
+      "end": 12.63,
+      "text": "What is Debbie going to try to do?",
+      "translations": {
+        "zh-Hans": "黛比准备尝试做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.67,
+      "end": 19.11,
+      "text": "Debbie Hart is going to swim across the English channel tomorrow.",
+      "translations": {
+        "zh-Hans": "黛比·哈特明天准备游过英吉利海峡。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.45,
+      "end": 25.17,
+      "text": "She is going to set out from the French coast at five o'clock in the morning.",
+      "translations": {
+        "zh-Hans": "她准备清晨五点从法国海岸出发。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.25,
+      "end": 32.35,
+      "text": "Debbie is only 11 years old and she hopes to set up a new world record.",
+      "translations": {
+        "zh-Hans": "黛比只有11岁，她希望创下一项新的世界纪录。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.53,
+      "end": 38.81,
+      "text": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "translations": {
+        "zh-Hans": "她游泳很棒，许多人认为她一定会成功。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 40.23,
+      "end": 43.81,
+      "text": "Debbie's father will set out with her in a small boat.",
+      "translations": {
+        "zh-Hans": "黛比的父亲将乘一条小船和她一起出发。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 45.05,
+      "end": 45.37,
+      "text": "Mr.",
+      "translations": {
+        "zh-Hans": "哈特"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 45.67,
+      "end": 48.03,
+      "text": "Hart has trained his daughter for years.",
+      "translations": {
+        "zh-Hans": "先生训练女儿已经多年。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 48.93,
+      "end": 55.61,
+      "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "translations": {
+        "zh-Hans": "明天，当她长途游向英国时，他将焦急地注视着她。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 57.15,
+      "end": 60.77,
+      "text": "Debbie intends to take short rests every two hours.",
+      "translations": {
+        "zh-Hans": "黛比打算每两小时短暂休息一次。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 61.65,
+      "end": 66.29,
+      "text": "She will have something to drink but she will not eat any solid food.",
+      "translations": {
+        "zh-Hans": "她会喝些东西，但不吃任何固体食物。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 67.69,
+      "end": 72.35,
+      "text": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "translations": {
+        "zh-Hans": "黛比的大多数同学将在英国海岸等候她。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 72.35,
+      "end": 79.47,
+      "text": "Among them will be Debbie's mother, who swam the channel herself when she was a girl.",
+      "translations": {
+        "zh-Hans": "其中还有黛比的母亲，她年轻时也曾游过英吉利海峡。"
+      }
+    }
+  ]
+}

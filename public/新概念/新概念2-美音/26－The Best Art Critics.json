@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-026-the-best-art-critics",
+    "title": "Lesson 26: The Best Art Critics",
+    "audioFilename": "26－The Best Art Critics.mp3",
+    "duration": 99.945,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.34,
+      "end": 2,
+      "text": "Lesson 26.",
+      "translations": {
+        "zh-Hans": "第26课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3,
+      "end": 4.82,
+      "text": "The Best Art Critics.",
+      "translations": {
+        "zh-Hans": "最佳艺术评论家。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.5,
+      "end": 9.78,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.06,
+      "end": 13.76,
+      "text": "Who is the student's best critic?",
+      "translations": {
+        "zh-Hans": "谁是这位学生最好的评论家？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.98,
+      "end": 20.3,
+      "text": "I am an art student, and I paint a lot of pictures.",
+      "translations": {
+        "zh-Hans": "我是一名学艺术的学生，画了许多画。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.6,
+      "end": 25.52,
+      "text": "Many people pretend that they understand modern art.",
+      "translations": {
+        "zh-Hans": "许多人装成很懂现代艺术的样子。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.24,
+      "end": 29.6,
+      "text": "They always tell you what a picture is about.",
+      "translations": {
+        "zh-Hans": "他们总要告诉你一幅画表现的是什么。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 30.36,
+      "end": 34.7,
+      "text": "Of course, many pictures are not about anything.",
+      "translations": {
+        "zh-Hans": "当然，许多画其实什么也不表现。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 35.26,
+      "end": 37.04,
+      "text": "They are just pretty patterns.",
+      "translations": {
+        "zh-Hans": "它们只是一些好看的图案。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 37.92,
+      "end": 42.7,
+      "text": "We like them in the same way that we like pretty curtain material.",
+      "translations": {
+        "zh-Hans": "我们喜欢它们，就像喜欢漂亮的窗帘布一样。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 44.18,
+      "end": 51.2,
+      "text": "I think that young children often appreciate modern pictures better than anyone else.",
+      "translations": {
+        "zh-Hans": "我认为小孩子往往比任何人都更能欣赏现代绘画。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 51.98,
+      "end": 53.14,
+      "text": "They notice more.",
+      "translations": {
+        "zh-Hans": "他们观察到的东西更多。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 54.06,
+      "end": 61.44,
+      "text": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "translations": {
+        "zh-Hans": "我妹妹只有7岁，但她总能说出我的画是好还是不好。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 62.68,
+      "end": 64.72,
+      "text": "She came into my room yesterday.",
+      "translations": {
+        "zh-Hans": "昨天她走进我的房间。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 65.72,
+      "end": 67,
+      "text": "What are you doing?",
+      "translations": {
+        "zh-Hans": "“你在做什么？”"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 67.66,
+      "end": 68.36,
+      "text": "She asked.",
+      "translations": {
+        "zh-Hans": "她问。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 69.3,
+      "end": 71.92,
+      "text": "I'm hanging this picture on the wall.",
+      "translations": {
+        "zh-Hans": "“我正把这幅画挂到墙上。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 72.58,
+      "end": 74.9,
+      "text": "I answered, it's a new one.",
+      "translations": {
+        "zh-Hans": "我回答，“这是幅新画。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 75.5,
+      "end": 76.46,
+      "text": "Do you like it?",
+      "translations": {
+        "zh-Hans": "你喜欢吗？”"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 77.42,
+      "end": 80.1,
+      "text": "She looked at it critically for a moment.",
+      "translations": {
+        "zh-Hans": "她挑剔地看了一会儿。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 81.02,
+      "end": 85.74,
+      "text": "It's all right, she said, but isn't it upside down?",
+      "translations": {
+        "zh-Hans": "“还可以，”她说，“不过它不是挂倒了吗？”"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 86.72,
+      "end": 88.34,
+      "text": "I looked at it again.",
+      "translations": {
+        "zh-Hans": "我又看了看。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 89.04,
+      "end": 89.98,
+      "text": "She was right.",
+      "translations": {
+        "zh-Hans": "她说得对。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 90.68,
+      "end": 91.48,
+      "text": "It was.",
+      "translations": {
+        "zh-Hans": "它的确挂倒了。"
+      }
+    }
+  ]
+}

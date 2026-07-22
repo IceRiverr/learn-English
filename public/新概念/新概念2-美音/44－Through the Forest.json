@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-044-through-the-forest",
+    "title": "Lesson 44: Through the Forest",
+    "audioFilename": "44－Through the Forest.mp3",
+    "duration": 87.484,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.9,
+      "end": 8.48,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.14,
+      "end": 10.98,
+      "text": "How did Mrs.",
+      "translations": {
+        "zh-Hans": "斯特林太太"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 11.4,
+      "end": 13.02,
+      "text": "Stirling get her bag back?",
+      "translations": {
+        "zh-Hans": "是怎样拿回提包的？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 15.28,
+      "end": 15.66,
+      "text": "Mrs.",
+      "translations": {
+        "zh-Hans": "安·"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.02,
+      "end": 23.04,
+      "text": "Ann Stirling did not think of the risk she was taking when she ran through a forest after two men.",
+      "translations": {
+        "zh-Hans": "斯特林太太追着两个男人跑进森林时，根本没想到自己所冒的风险。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.76,
+      "end": 31.28,
+      "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children.",
+      "translations": {
+        "zh-Hans": "当时她正和孩子们在森林边缘野餐，那两个人突然冲到她面前。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 43.86,
+      "end": 44.58,
+      "text": "Mrs.",
+      "translations": {
+        "zh-Hans": "斯特林"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 46.22,
+      "end": 50.06,
+      "text": "Stirling got so angry that she ran after them.",
+      "translations": {
+        "zh-Hans": "太太气愤极了，便追了上去。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 50.96,
+      "end": 55.2,
+      "text": "She was soon out of breath, but she continued to run.",
+      "translations": {
+        "zh-Hans": "她很快就上气不接下气，但仍继续追赶。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 55.2,
+      "end": 66.72,
+      "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "translations": {
+        "zh-Hans": "追上他们时，她看到两人已经坐下，正在翻看包里的东西，于是径直朝他们冲过去。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 67.58,
+      "end": 73.24,
+      "text": "The men got such a fright that they dropped the bag and ran away.",
+      "translations": {
+        "zh-Hans": "那两个人吓得扔下提包逃走了。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 74.2,
+      "end": 77.62,
+      "text": "The strap needs mending, said Mrs.",
+      "translations": {
+        "zh-Hans": "“包带需要修一修，”斯特林太太"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 77.94,
+      "end": 81.44,
+      "text": "Stirling later, but they did not steal anything.",
+      "translations": {
+        "zh-Hans": "后来又说，“不过他们什么也没偷走。”"
+      }
+    }
+  ]
+}

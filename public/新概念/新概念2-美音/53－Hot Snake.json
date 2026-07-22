@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-053-hot-snake",
+    "title": "Lesson 53: Hot Snake",
+    "audioFilename": "53－Hot Snake.mp3",
+    "duration": 104.934,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.72,
+      "end": 2.34,
+      "text": "Lesson 53.",
+      "translations": {
+        "zh-Hans": "第53课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.28,
+      "end": 4.38,
+      "text": "Hot Snake.",
+      "translations": {
+        "zh-Hans": "触电的蛇。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.22,
+      "end": 9.26,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.7,
+      "end": 12.36,
+      "text": "What caused the fire?",
+      "translations": {
+        "zh-Hans": "是什么引起了火灾？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.39,
+      "end": 19.73,
+      "text": "At last, firemen have put out a big forest fire in California.",
+      "translations": {
+        "zh-Hans": "消防队员终于扑灭了加利福尼亚的一场森林大火。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.15,
+      "end": 26.19,
+      "text": "Since then, they have been trying to find out how the fire began.",
+      "translations": {
+        "zh-Hans": "从那以后，他们一直在设法查明起火原因。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 27.61,
+      "end": 36.57,
+      "text": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "translations": {
+        "zh-Hans": "森林火灾常由碎玻璃或人们随手丢弃的烟头引起。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 38.03,
+      "end": 45.55,
+      "text": "Yesterday, the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "translations": {
+        "zh-Hans": "昨天，消防队员仔细检查了地面，却没能找到任何碎玻璃。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 46.65,
+      "end": 51.75,
+      "text": "They were also quite sure that a cigarette end did not start the fire.",
+      "translations": {
+        "zh-Hans": "他们也十分确信，火灾不是由烟头引起的。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 52.67,
+      "end": 58.25,
+      "text": "This morning, however, a fireman accidentally discovered the cause.",
+      "translations": {
+        "zh-Hans": "然而今天早晨，一名消防队员偶然发现了起火原因。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 59.39,
+      "end": 68.65,
+      "text": "He noticed the remains of a snake which was wound round the electric wires of a 16,000 volt power line.",
+      "translations": {
+        "zh-Hans": "他注意到一条蛇的残骸缠绕在一条16,000伏高压线的电线上。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 69.89,
+      "end": 73.51,
+      "text": "In this way, he was able to solve the mystery.",
+      "translations": {
+        "zh-Hans": "这样，他便解开了这个谜。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 74.65,
+      "end": 78.57,
+      "text": "The explanation was simple but very unusual.",
+      "translations": {
+        "zh-Hans": "解释很简单，却十分不同寻常。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 79.43,
+      "end": 86.69,
+      "text": "A bird had snatched up the snake from the ground and then dropped it onto the wires.",
+      "translations": {
+        "zh-Hans": "一只鸟从地面抓起那条蛇，随后把它丢到了电线上。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 87.77,
+      "end": 91.01,
+      "text": "The snake then wound itself round the wires.",
+      "translations": {
+        "zh-Hans": "蛇接着把身体缠在电线上。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 91.79,
+      "end": 99.11,
+      "text": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "translations": {
+        "zh-Hans": "它这样做时，火花落到地面，立刻引发了火灾。"
+      }
+    }
+  ]
+}

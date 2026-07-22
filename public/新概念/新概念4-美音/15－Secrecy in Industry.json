@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-015-secrecy-in-industry",
+    "title": "Lesson 15: Secrecy in Industry",
+    "audioFilename": "15－Secrecy in Industry.mp3",
+    "duration": 146.051,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.11,
+      "end": 1.65,
+      "text": "Lesson 15.",
+      "translations": {
+        "zh-Hans": "第15课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.87,
+      "end": 4.73,
+      "text": "Secrecy in Industry.",
+      "translations": {
+        "zh-Hans": "工业中的保密。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.41,
+      "end": 9.57,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.77,
+      "end": 15.61,
+      "text": "Why is secrecy particularly important in the chemical industries?",
+      "translations": {
+        "zh-Hans": "为什么保密在化学工业中尤其重要？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.85,
+      "end": 23.97,
+      "text": "Two factors weigh heavily against the effectiveness of scientific research in industry.",
+      "translations": {
+        "zh-Hans": "有两个因素严重妨碍工业科学研究发挥成效。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 25.23,
+      "end": 30.03,
+      "text": "One is the general atmosphere of secrecy in which it is carried out.",
+      "translations": {
+        "zh-Hans": "一是开展研究时普遍存在的保密氛围。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 30.85,
+      "end": 35.11,
+      "text": "The other, the lack of freedom of the individual research worker.",
+      "translations": {
+        "zh-Hans": "另一个是研究人员个人缺乏自由。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 35.87,
+      "end": 51.43,
+      "text": "In so far as any inquiry is a secret one, it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities, or",
+      "translations": {
+        "zh-Hans": "只要一项研究属于机密，保密自然会限制所有参与者同其他科学家进行有效接触，不论对方在其他国家、大学，还是"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 51.43,
+      "end": 56.47,
+      "text": "even, often enough, in other departments of the same firm.",
+      "translations": {
+        "zh-Hans": "很多时候就在同一公司的其他部门。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 57.17,
+      "end": 60.71,
+      "text": "The degree of secrecy naturally varies considerably.",
+      "translations": {
+        "zh-Hans": "保密程度自然大不相同。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 61.91,
+      "end": 73.39,
+      "text": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature that it is a positive advantage to them not to keep them secret.",
+      "translations": {
+        "zh-Hans": "一些大公司从事的研究具有广泛而基础的性质，不予保密反而对它们明显有利。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 74.97,
+      "end": 84.95,
+      "text": "Yet a great many processes, depending on such research, are sought for with complete secrecy until the stage at which patents can be taken out.",
+      "translations": {
+        "zh-Hans": "然而，依赖这类研究的许多工艺，在能够申请专利之前都会完全秘密地研制。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 85.59,
+      "end": 91.29,
+      "text": "Even more processes are never patented at all, but kept as secret processes.",
+      "translations": {
+        "zh-Hans": "更多工艺根本不申请专利，而是作为秘密工艺保存。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 92.41,
+      "end": 103.59,
+      "text": "This applies particularly to chemical industries, where chance discoveries play a much larger part than they do in physical and mechanical industries.",
+      "translations": {
+        "zh-Hans": "这种情况在化学工业中尤其常见，因为偶然发现所起的作用远大于在物理和机械工业中所起的作用。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 104.55,
+      "end": 112.13,
+      "text": "Sometimes, the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
+      "translations": {
+        "zh-Hans": "有时保密甚至严到整个研究的性质都不能提及。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 113.07,
+      "end": 126.73,
+      "text": "Many firms, for instance, have great difficulty in obtaining technical or scientific books from libraries because they are unwilling to have their names entered as having taken out such and such a book.",
+      "translations": {
+        "zh-Hans": "例如，许多公司很难从图书馆借到技术或科学书籍，因为它们不愿让自己的名称被登记为借阅了某本书。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 127.65,
+      "end": 134.87,
+      "text": "For fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.",
+      "translations": {
+        "zh-Hans": "它们担心其他公司的人员会据此追查出自己可能正在进行哪一类研究。"
+      }
+    }
+  ]
+}

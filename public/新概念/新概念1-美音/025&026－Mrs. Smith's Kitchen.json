@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-025-026-mrs-smith-s-kitchen",
+    "title": "Lesson 25: Mrs. Smith's kitchen",
+    "audioFilename": "025&026－Mrs. Smith's Kitchen.mp3",
+    "duration": 72.307,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.11,
+      "end": 2.09,
+      "text": "Lesson 25.",
+      "translations": {
+        "zh-Hans": "第25课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.35,
+      "end": 3.65,
+      "text": "Mrs.",
+      "translations": {
+        "zh-Hans": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.21,
+      "end": 5.13,
+      "text": "Smith's Kitchen.",
+      "translations": {
+        "zh-Hans": "厨房。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 6.61,
+      "end": 10.89,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 12.69,
+      "end": 16.05,
+      "text": "What color is the electric cooker?",
+      "translations": {
+        "zh-Hans": "电灶是什么颜色的？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 18.44,
+      "end": 18.78,
+      "text": "Mrs.",
+      "translations": {
+        "zh-Hans": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 19.24,
+      "end": 21.52,
+      "text": "Smith's is small.",
+      "translations": {
+        "zh-Hans": "厨房很小。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 23.06,
+      "end": 26.68,
+      "text": "There is a refrigerator in the kitchen.",
+      "translations": {
+        "zh-Hans": "厨房里有一台冰箱。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 27.7,
+      "end": 30.02,
+      "text": "The refrigerator is white.",
+      "translations": {
+        "zh-Hans": "冰箱是白色的。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 30.98,
+      "end": 33.46,
+      "text": "It is on the right.",
+      "translations": {
+        "zh-Hans": "它在右边。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 34.92,
+      "end": 38.58,
+      "text": "There is an electric cooker in the kitchen.",
+      "translations": {
+        "zh-Hans": "厨房里有一个电灶。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 39.78,
+      "end": 41.5,
+      "text": "The cooker is blue.",
+      "translations": {
+        "zh-Hans": "电灶是蓝色的。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 42.86,
+      "end": 44.7,
+      "text": "It is on the left.",
+      "translations": {
+        "zh-Hans": "它在左边。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 46.22,
+      "end": 50.08,
+      "text": "There is a table in the middle of the room.",
+      "translations": {
+        "zh-Hans": "房间中央有一张桌子。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 51.48,
+      "end": 54.2,
+      "text": "There is a bottle on the table.",
+      "translations": {
+        "zh-Hans": "桌子上有一个瓶子。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 55.22,
+      "end": 57.44,
+      "text": "The bottle is empty.",
+      "translations": {
+        "zh-Hans": "瓶子是空的。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 58.44,
+      "end": 62.44,
+      "text": "There is a cup on the table too.",
+      "translations": {
+        "zh-Hans": "桌子上还有一只杯子。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 63.7,
+      "end": 65.74,
+      "text": "The cup is clean.",
+      "translations": {
+        "zh-Hans": "杯子很干净。"
+      }
+    }
+  ]
+}

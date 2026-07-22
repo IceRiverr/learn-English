@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-007-bats",
+    "title": "Lesson 7: Bats",
+    "audioFilename": "07－Bats.mp3",
+    "duration": 155.429,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 1.59,
+      "text": "Lesson 7.",
+      "translations": {
+        "zh-Hans": "第7课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.63,
+      "end": 2.99,
+      "text": "Bats.",
+      "translations": {
+        "zh-Hans": "蝙蝠。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.33,
+      "end": 7.59,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.8,
+      "end": 15.32,
+      "text": "In what way does echolocation in bats play a utilitarian role?",
+      "translations": {
+        "zh-Hans": "蝙蝠的回声定位以何种方式发挥实用作用？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 18.1,
+      "end": 33.64,
+      "text": "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echolocation in bats to see a case in which the voice plays a strictly utilitarian",
+      "translations": {
+        "zh-Hans": "动物发出的声音并非都用作语言；只要看看蝙蝠回声定位这一非凡发现，就会看到声音发挥纯粹实用"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 33.64,
+      "end": 34.32,
+      "text": "role.",
+      "translations": {
+        "zh-Hans": "作用的例子。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 35.96,
+      "end": 43.08,
+      "text": "To get a full appreciation of what this means, we must turn first to some recent human inventions.",
+      "translations": {
+        "zh-Hans": "要充分理解这意味着什么，必须先看看人类最近的一些发明。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 44.4,
+      "end": 51.38,
+      "text": "Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back.",
+      "translations": {
+        "zh-Hans": "人人都知道，在墙壁或山坡附近喊叫，回声会传回来。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 52.6,
+      "end": 59.08,
+      "text": "The further off this solid obstruction, the longer time will elapse for the return of the echo.",
+      "translations": {
+        "zh-Hans": "固体障碍物离得越远，回声返回所需的时间就越长。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 61.17,
+      "end": 77.17,
+      "text": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes, the depth of the sea at that point can",
+      "translations": {
+        "zh-Hans": "敲击船体发出的声音会从海底反射回来；通过测量敲击与收到回声之间的时间间隔，便可计算该处海水的"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 77.17,
+      "end": 77.99,
+      "text": "be calculated.",
+      "translations": {
+        "zh-Hans": "深度。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 79.41,
+      "end": 85.03,
+      "text": "So was born the echo-sounding apparatus, now in general use in ships.",
+      "translations": {
+        "zh-Hans": "于是，现已广泛用于船舶的回声测深仪便诞生了。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 86.03,
+      "end": 93.97,
+      "text": "Every solid object will reflect a sound, varying according to the size and nature of the object.",
+      "translations": {
+        "zh-Hans": "任何固体都会反射声音，反射情况随物体大小和性质而异。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 94.93,
+      "end": 104.79,
+      "text": "A shoal of fish will do this, so it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.",
+      "translations": {
+        "zh-Hans": "鱼群也会反射声音，因此从定位海底到定位鱼群，只是相对简单的一步。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 105.91,
+      "end": 120.47,
+      "text": "With experience and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, or other well-known fish by the pattern of its echo.",
+      "translations": {
+        "zh-Hans": "凭借经验和改进后的设备，如今不仅能定位鱼群，还能根据回声模式判断它是鲱鱼还是其他熟知的鱼类。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 121.45,
+      "end": 134.51,
+      "text": "It has been found that certain bats emit squeaks, and by receiving the echoes, they can locate and steer clear of obstacles, or locate flying insects on which they feed.",
+      "translations": {
+        "zh-Hans": "人们发现，某些蝙蝠会发出尖细叫声，并通过接收回声来定位、避开障碍物，或发现它们赖以为食的飞虫。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 134.51,
+      "end": 143.23,
+      "text": "This echolocation in bats is often compared with radar, the principle of which is similar.",
+      "translations": {
+        "zh-Hans": "蝙蝠的这种回声定位常被比作雷达，因为二者原理相似。"
+      }
+    }
+  ]
+}

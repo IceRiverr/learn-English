@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-006-the-sporting-spirit",
+    "title": "Lesson 6: The Sporting Spirit",
+    "audioFilename": "06－The Sporting Spirit.mp3",
+    "duration": 120.581,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.02,
+      "end": 1.16,
+      "text": "Lesson 6.",
+      "translations": {
+        "zh-Hans": "第6课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 1.72,
+      "end": 2.72,
+      "text": "The Sporting Spirit.",
+      "translations": {
+        "zh-Hans": "体育精神。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 3.74,
+      "end": 6.78,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 7.72,
+      "end": 11.36,
+      "text": "How does the writer describe sport at the international level?",
+      "translations": {
+        "zh-Hans": "作者如何描述国际层面的体育运动？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.15,
+      "end": 29.55,
+      "text": "I am always amazed when I hear people saying that sport creates good will between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield.",
+      "translations": {
+        "zh-Hans": "每当听人说体育能促进各国友好，只要世界各国普通人在足球场或板球场上相遇，就不会想在战场上交锋，我总感到惊讶。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 30.53,
+      "end": 44.35,
+      "text": "Even if one didn't know from concrete examples, the 1936 Olympic Games, for instance, that international sporting contests lead to orgies of hatred, one could deduce it from general principles.",
+      "translations": {
+        "zh-Hans": "即便没有1936年奥运会等具体事例告诉我们国际体育竞赛会引发仇恨狂潮，人们也能从一般原则推断出来。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 45.67,
+      "end": 48.61,
+      "text": "Nearly all the sports practice nowadays are competitive.",
+      "translations": {
+        "zh-Hans": "如今开展的体育运动几乎全都具有竞争性。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 49.41,
+      "end": 54.91,
+      "text": "You play to win, and the game has little meaning unless you do your utmost to win.",
+      "translations": {
+        "zh-Hans": "比赛就是为了获胜；除非竭尽全力争胜，否则比赛几乎没有意义。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 54.91,
+      "end": 65.07,
+      "text": "On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise.",
+      "translations": {
+        "zh-Hans": "在乡村草地上临时分队比赛，不牵涉地方荣誉，人们可以纯粹为了乐趣和锻炼而参加。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 65.87,
+      "end": 78.39,
+      "text": "But as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage, combative instincts are aroused.",
+      "translations": {
+        "zh-Hans": "但声望问题一旦出现，一旦觉得失败会使自己和所属的更大团体蒙羞，最野蛮、好斗的本能便会被唤醒。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 79.43,
+      "end": 82.79,
+      "text": "Anyone who has played even in a school football match knows this.",
+      "translations": {
+        "zh-Hans": "哪怕只参加过学校足球赛的人也明白这一点。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 82.79,
+      "end": 87.81,
+      "text": "At the international level, sport is frankly mimic warfare.",
+      "translations": {
+        "zh-Hans": "在国际层面，体育坦率说就是模拟战争。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 88.79,
+      "end": 104.55,
+      "text": "But the significant thing is not the behavior of the players, but the attitude of the spectators, and behind the spectators of the nations who work themselves into furies over these absurd contests and seriously believe, at any rate",
+      "translations": {
+        "zh-Hans": "然而重要的不是运动员的行为，而是观众的态度，以及观众背后的各个国家；人们会为这些荒谬的比赛狂怒，并且至少"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 104.55,
+      "end": 111.17,
+      "text": "for short periods, that running, jumping, and kicking a ball are tests of national virtue.",
+      "translations": {
+        "zh-Hans": "在短时间内，真心相信跑步、跳跃和踢球是检验国家品格的标准。"
+      }
+    }
+  ]
+}

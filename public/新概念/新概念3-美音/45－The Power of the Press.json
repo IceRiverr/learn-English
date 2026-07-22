@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-045-the-power-of-the-press",
+    "title": "Lesson 45: The Power of the Press",
+    "audioFilename": "45－The Power of the Press.mp3",
+    "duration": 231.967,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.22,
+      "end": 8.76,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.12,
+      "end": 16.76,
+      "text": "Does the writer think the parents were lucky or unlucky to gain prosperity in this way?",
+      "translations": {
+        "zh-Hans": "作者认为这对父母以这种方式变得富裕，是幸运还是不幸？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 17.56,
+      "end": 17.92,
+      "text": "Why?",
+      "translations": {
+        "zh-Hans": "为什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 20.34,
+      "end": 27.68,
+      "text": "In democratic countries, any efforts to restrict the freedom of the press are rightly condemned.",
+      "translations": {
+        "zh-Hans": "在民主国家，任何限制新闻自由的企图都理应受到谴责。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 27.68,
+      "end": 32.02,
+      "text": "However, this freedom can easily be abused.",
+      "translations": {
+        "zh-Hans": "然而，这种自由很容易被滥用。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 33.9,
+      "end": 39.66,
+      "text": "Stories about people often attract far more public attention than political events.",
+      "translations": {
+        "zh-Hans": "关于个人的报道往往比政治事件更能吸引公众注意。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 40.68,
+      "end": 50.5,
+      "text": "Though we may enjoy reading about the lives of others, it is extremely doubtful whether we would equally enjoy reading about ourselves.",
+      "translations": {
+        "zh-Hans": "我们也许喜欢读别人的生活故事，但是否同样喜欢读有关自己的报道，就极其可疑了。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 50.5,
+      "end": 64.4,
+      "text": "Acting on the contention that facts are sacred, can cause untold suffering to individuals by publishing details about their private lives.",
+      "translations": {
+        "zh-Hans": "有人以“事实神圣不可侵犯”为由，刊登个人私生活的细节，给当事人造成无法估量的痛苦。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 65.92,
+      "end": 77.48,
+      "text": "Newspapers exert such tremendous influence that they can not only bring about major changes to the lives of ordinary people, but can even overthrow a government.",
+      "translations": {
+        "zh-Hans": "报纸影响力极大，不仅能使普通人的生活发生重大改变，甚至能推翻一个政府。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 79.14,
+      "end": 87.26,
+      "text": "The story of a poor family that acquired fame and fortune overnight dramatically illustrates the power of the press.",
+      "translations": {
+        "zh-Hans": "一个贫困家庭一夜之间名利双收的故事，生动说明了新闻界的力量。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 88.38,
+      "end": 94.82,
+      "text": "The family lived in Aberdeen, a small town of 23,000 inhabitants in South Dakota.",
+      "translations": {
+        "zh-Hans": "这家人住在南达科他州一座拥有2.3万居民的小城阿伯丁。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 95.94,
+      "end": 101.36,
+      "text": "As the parents had five children, life was a perpetual struggle against poverty.",
+      "translations": {
+        "zh-Hans": "父母已有五个孩子，生活就是一场没完没了的反贫困斗争。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 102.18,
+      "end": 108.44,
+      "text": "They were expecting their sixth child and were faced with even more pressing economic problems.",
+      "translations": {
+        "zh-Hans": "他们正期待第六个孩子，面临更加紧迫的经济问题。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 109.34,
+      "end": 114.58,
+      "text": "If they had only had one more child, the fact would have passed unnoticed.",
+      "translations": {
+        "zh-Hans": "如果他们只是又多了一个孩子，这件事根本不会引人注意。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 115.52,
+      "end": 121.4,
+      "text": "They would have continued to struggle against economic odds and would have lived in obscurity.",
+      "translations": {
+        "zh-Hans": "他们会继续在经济困境中挣扎，默默无闻地生活。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 122.4,
+      "end": 131.96,
+      "text": "But they suddenly became the parents of quintuplets, four girls and a boy, an event which radically changed their lives.",
+      "translations": {
+        "zh-Hans": "然而他们突然成了五胞胎——四女一男——的父母，这件事彻底改变了他们的生活。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 133.1,
+      "end": 141.12,
+      "text": "The day after the birth of the five children, an airplane arrived in Aberdeen, bringing sixty reporters and photographers.",
+      "translations": {
+        "zh-Hans": "五个孩子出生后的第二天，一架飞机抵达阿伯丁，带来了60名记者和摄影师。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 142.4,
+      "end": 144.12,
+      "text": "The rise to fame was swift.",
+      "translations": {
+        "zh-Hans": "他们迅速出了名。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 145.14,
+      "end": 149.38,
+      "text": "Television cameras and newspapers carried the news to everyone in the country.",
+      "translations": {
+        "zh-Hans": "电视镜头和报纸把消息传遍全国。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 150.28,
+      "end": 157.6,
+      "text": "Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs.",
+      "translations": {
+        "zh-Hans": "报刊向这家人开出巨额报酬，购买独家刊登报道和照片的权利。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 158.92,
+      "end": 167.56,
+      "text": "poured in not only from unknown people, but from baby food and soap manufacturers who wished to advertise their products.",
+      "translations": {
+        "zh-Hans": "礼物纷纷涌来，不仅来自素不相识的人，也来自希望宣传产品的婴儿食品和肥皂制造商。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 168.66,
+      "end": 175.82,
+      "text": "The old farmhouse the family lived in was to be replaced by a new, five hundred thousand dollar home.",
+      "translations": {
+        "zh-Hans": "这家人居住的旧农舍将被一幢价值50万美元的新房取代。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 176.98,
+      "end": 185.64,
+      "text": "Reporters kept pressing for interviews, so lawyers had to be employed to act as spokesmen for the family at press conferences.",
+      "translations": {
+        "zh-Hans": "记者不断要求采访，因此不得不雇用律师，在新闻发布会上担任这家人的发言人。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 186.94,
+      "end": 196.52,
+      "text": "While the five babies were still quietly sleeping in oxygen tents in a hospital nursery, their parents were paying the price for fame.",
+      "translations": {
+        "zh-Hans": "五个婴儿还在医院育婴室的氧气帐里安静睡觉时，他们的父母已经在为成名付出代价。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 197.24,
+      "end": 201.06,
+      "text": "It would never again be possible for them to lead normal lives.",
+      "translations": {
+        "zh-Hans": "他们再也不可能过正常生活了。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 202.2,
+      "end": 209.5,
+      "text": "They had become the victims of commercialization, for their names had acquired a market value.",
+      "translations": {
+        "zh-Hans": "他们成了商业化的受害者，因为他们的姓名已经有了市场价值。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 210.42,
+      "end": 216.9,
+      "text": "Instead of being five new family members, these children had immediately become a commodity.",
+      "translations": {
+        "zh-Hans": "这些孩子不再只是五名新的家庭成员，而是立刻变成了商品。"
+      }
+    }
+  ]
+}

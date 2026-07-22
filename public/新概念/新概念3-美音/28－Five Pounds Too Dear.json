@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-028-five-pounds-too-dear",
+    "title": "Lesson 28: Five Pounds Too Dear",
+    "audioFilename": "28－Five Pounds Too Dear.mp3",
+    "duration": 184.816,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.2,
+      "end": 9.46,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.94,
+      "end": 14.24,
+      "text": "Why was even five pounds too dear?",
+      "translations": {
+        "zh-Hans": "为什么即使五英镑也太贵？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 16.88,
+      "end": 22.4,
+      "text": "Small boats, loaded with wares, sped to the great liner as she was entering the harbor.",
+      "translations": {
+        "zh-Hans": "大客轮驶入港口时，满载货物的小船飞快地向它驶来。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 23.66,
+      "end": 39.14,
+      "text": "Before she had anchored, the men from the boats had climbed on board, and the decks were soon covered with colorful rugs from Persia, silks from India, copper coffee pots and beautiful handmade silverware.",
+      "translations": {
+        "zh-Hans": "客轮还没抛锚，小船上的商人便已爬上甲板，很快甲板上铺满了波斯的彩色地毯、印度丝绸、铜咖啡壶和精美的手工银器。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 40.08,
+      "end": 42.06,
+      "text": "It was difficult not to be tempted.",
+      "translations": {
+        "zh-Hans": "人很难不受诱惑。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 43.32,
+      "end": 52.26,
+      "text": "Many of the tourists on board had begun bargaining with the tradesmen, but I decided not to buy anything until I had disembarked.",
+      "translations": {
+        "zh-Hans": "船上许多游客已经开始同商贩讨价还价，但我决定等下船后再买东西。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 53.24,
+      "end": 60.62,
+      "text": "I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.",
+      "translations": {
+        "zh-Hans": "我刚下船，就被一个想卖给我钻戒的人缠住。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 61.7,
+      "end": 70.08,
+      "text": "I had no intention of buying one, but I could not conceal the fact that I was impressed by the size of the diamonds.",
+      "translations": {
+        "zh-Hans": "我根本没打算买钻戒，却掩饰不住自己对钻石大小的惊叹。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 71.38,
+      "end": 73.72,
+      "text": "Some of them were as big as marbles.",
+      "translations": {
+        "zh-Hans": "有些钻石像玻璃弹珠一样大。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 74.56,
+      "end": 78.92,
+      "text": "The man went to great lengths to prove that the diamonds were real.",
+      "translations": {
+        "zh-Hans": "那人竭尽全力证明钻石是真的。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 79.74,
+      "end": 87.66,
+      "text": "As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.",
+      "translations": {
+        "zh-Hans": "我们经过一家商店时，他把一颗钻石紧压在橱窗玻璃上，在玻璃上划出一道深痕。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 88.64,
+      "end": 91.72,
+      "text": "It took me over half an hour to get rid of him.",
+      "translations": {
+        "zh-Hans": "我花了半个多小时才摆脱他。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 92.88,
+      "end": 97.06,
+      "text": "The next man to approach me was selling expensive pens and watches.",
+      "translations": {
+        "zh-Hans": "接着走近我的是一个出售昂贵钢笔和手表的人。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 98,
+      "end": 100.28,
+      "text": "I examined one of the pens closely.",
+      "translations": {
+        "zh-Hans": "我仔细看了其中一支钢笔。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 100.98,
+      "end": 102.78,
+      "text": "It certainly looked genuine.",
+      "translations": {
+        "zh-Hans": "它看起来确实像真货。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 103.62,
+      "end": 111.08,
+      "text": "At the base of the gold cap, the words, Made in the USA, had been neatly inscribed.",
+      "translations": {
+        "zh-Hans": "金色笔帽底部整齐地刻着“美国制造”几个字。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 112.04,
+      "end": 120.86,
+      "text": "The man said that the pen was worth fifty pounds, but as a special favor, he would let me have it for thirty pounds.",
+      "translations": {
+        "zh-Hans": "那人说钢笔价值50英镑，但作为特别优惠，可以30英镑卖给我。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 121.86,
+      "end": 128.98,
+      "text": "I shook my head and held up five fingers, indicating that I was willing to pay five pounds.",
+      "translations": {
+        "zh-Hans": "我摇摇头，举起五根手指，表示只愿付5英镑。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 130.74,
+      "end": 141.6,
+      "text": "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to ten pounds.",
+      "translations": {
+        "zh-Hans": "那人疯狂地比划着，装作认为我的出价荒唐至极，但最后还是把价格降到10英镑。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 142.76,
+      "end": 151.9,
+      "text": "Shrugging my shoulders, I began to walk away when, a moment later, he ran after me and thrust the pen into my hands.",
+      "translations": {
+        "zh-Hans": "我耸耸肩开始走开，片刻之后，他追上来把钢笔塞进我手里。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 153.36,
+      "end": 159.6,
+      "text": "Though he kept throwing up his arms in despair, he readily accepted the five pounds I gave him.",
+      "translations": {
+        "zh-Hans": "尽管他不断绝望地扬起双臂，却爽快地收下了我给的5英镑。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 160.4,
+      "end": 166.76,
+      "text": "I felt especially pleased with my wonderful bargain, until I got back to the ship.",
+      "translations": {
+        "zh-Hans": "我为这笔绝妙的便宜买卖格外得意，直到回到船上。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 167.8,
+      "end": 179.08,
+      "text": "No matter how hard I tried, it was impossible to fill this beautiful pen with ink, and to this day, it has never written a single word.",
+      "translations": {
+        "zh-Hans": "无论怎样努力，我都无法给这支漂亮钢笔灌入墨水；直到今天，它一个字也没写出来过。"
+      }
+    }
+  ]
+}

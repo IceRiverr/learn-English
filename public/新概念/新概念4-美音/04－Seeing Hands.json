@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-004-seeing-hands",
+    "title": "Lesson 4: Seeing Hands",
+    "audioFilename": "04－Seeing Hands.mp3",
+    "duration": 135.706,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.3,
+      "end": 1.68,
+      "text": "Lesson 4.",
+      "translations": {
+        "zh-Hans": "第4课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.12,
+      "end": 4.04,
+      "text": "Seeing Hands.",
+      "translations": {
+        "zh-Hans": "能‘看见’的手。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.16,
+      "end": 8.36,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.62,
+      "end": 13.32,
+      "text": "How did Vera discover she had this gift of second sight?",
+      "translations": {
+        "zh-Hans": "维拉是怎样发现自己具有这种超感知能力的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.22,
+      "end": 26.2,
+      "text": "Several cases have been reported in Russia recently of people who can read and detect colors with their fingers, and even see through solid doors and walls.",
+      "translations": {
+        "zh-Hans": "俄罗斯最近报告了几个案例，有些人能用手指阅读和辨别颜色，甚至能看穿坚固的门和墙。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 27.4,
+      "end": 39.74,
+      "text": "One case concerns an 11-year-old schoolgirl, Vera Petrovna, who has normal vision but who can also perceive things with different parts of her skin and through solid walls.",
+      "translations": {
+        "zh-Hans": "其中一个案例涉及11岁女学生维拉·彼得罗芙娜。她视力正常，却还能用皮肤不同部位，甚至隔着实心墙感知事物。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 41,
+      "end": 43.34,
+      "text": "ability was first noticed by her father.",
+      "translations": {
+        "zh-Hans": "她的这种能力最先被父亲发现。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 44.28,
+      "end": 49.42,
+      "text": "One day, she came into his office and happened to put her hands on the door of a locked safe.",
+      "translations": {
+        "zh-Hans": "一天，她走进父亲的办公室，碰巧把手放在一只锁着的保险柜门上。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 51.12,
+      "end": 59.14,
+      "text": "she asked her father why he kept so many old newspapers locked away there, and even described the way they were done up in bundles.",
+      "translations": {
+        "zh-Hans": "她问父亲为什么把这么多旧报纸锁在里面，甚至还描述了报纸捆扎成束的样子。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 60.12,
+      "end": 75.84,
+      "text": "Vera's curious talent was brought to the notice of a scientific research institute in the town of Yolyanovsk, near where she lives, and in April, was given a series of tests by a special commission of the Ministry of Health",
+      "translations": {
+        "zh-Hans": "维拉奇特的才能引起了她家附近乌里扬诺夫斯克市一家科研机构的注意；四月，俄罗斯联邦共和国卫生部的一个特别委员会对她进行了一系列测试"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 75.84,
+      "end": 78.04,
+      "text": "of the Russian Federal Republic.",
+      "translations": {
+        "zh-Hans": "。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 79.68,
+      "end": 95.62,
+      "text": "During these tests, she was able to read a newspaper through an opaque screen, and stranger still, by moving her elbow over a child's game of lotto, she was able to describe the figures and colors printed on it, and, in another instance, wearing stockings",
+      "translations": {
+        "zh-Hans": "测试中，她能隔着不透明屏幕阅读报纸。更奇怪的是，她把肘部移过一副儿童乐透游戏牌时，能说出上面印的数字和颜色；另一次，她穿着长袜"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 95.62,
+      "end": 101.54,
+      "text": "and slippers to make out with her foot the outlines and colors of a picture hidden under a carpet.",
+      "translations": {
+        "zh-Hans": "和拖鞋，却能用脚辨认藏在地毯下面一幅画的轮廓和颜色。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 102.74,
+      "end": 107.32,
+      "text": "Other experiments showed that her knees and shoulders had a similar sensitivity.",
+      "translations": {
+        "zh-Hans": "其他实验表明，她的膝盖和肩膀也有类似的敏感性。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 108.34,
+      "end": 116.14,
+      "text": "During all these tests, Vera was blindfold, and indeed, except when blindfold, she lacked the ability to perceive things with her skin.",
+      "translations": {
+        "zh-Hans": "在所有测试中，维拉都蒙着眼睛；事实上，只有蒙眼时，她才具有用皮肤感知事物的能力。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 116.67,
+      "end": 124.5,
+      "text": "It was also found that, although she could perceive things with her fingers, this ability ceased the moment her hands were wet.",
+      "translations": {
+        "zh-Hans": "人们还发现，尽管她能用手指感知物体，但双手一湿，这种能力便立即消失。"
+      }
+    }
+  ]
+}

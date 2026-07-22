@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-048-the-silent-village",
+    "title": "Lesson 48: The Silent Village",
+    "audioFilename": "48－The Silent Village.mp3",
+    "duration": 259.239,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.36,
+      "end": 8.92,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.22,
+      "end": 12.26,
+      "text": "Why was the village silent?",
+      "translations": {
+        "zh-Hans": "这个村庄为什么一片寂静？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 14.62,
+      "end": 21.9,
+      "text": "In this much-traveled world, there are still thousands of places which are inaccessible to tourists.",
+      "translations": {
+        "zh-Hans": "在这个足迹遍布的世界里，仍有成千上万个游客无法到达的地方。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 23.14,
+      "end": 28.68,
+      "text": "We always assume that villagers in remote places are friendly and hospitable.",
+      "translations": {
+        "zh-Hans": "我们总以为偏远地区的村民友好好客。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 29.62,
+      "end": 31.44,
+      "text": "But people who are cut-off",
+      "translations": {
+        "zh-Hans": "但与世隔绝的人们"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 39.8,
+      "end": 47.72,
+      "text": "Visits to really remote villages are seldom enjoyable, as my wife and I discovered during a tour through the Balkans.",
+      "translations": {
+        "zh-Hans": "去真正偏僻的村庄游览很少令人愉快，我和妻子在巴尔干半岛旅行时就发现了这一点。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 48.82,
+      "end": 54.88,
+      "text": "We had spent several days in a small town, and visited a number of old churches in the vicinity.",
+      "translations": {
+        "zh-Hans": "我们在一座小镇住了几天，参观了附近几座古老教堂。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 56.06,
+      "end": 66.6,
+      "text": "These attracted many visitors, for they were not only of great architectural interest, but contained a large number of preserved frescoes as well.",
+      "translations": {
+        "zh-Hans": "这些教堂吸引了许多游客，因为它们不仅在建筑上极有价值，还保存着大量壁画。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 67.9,
+      "end": 73.54,
+      "text": "On the day before our departure, several busloads of tourists descended on the town.",
+      "translations": {
+        "zh-Hans": "出发前一天，几辆满载游客的大巴突然涌入小镇。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 74.4,
+      "end": 80.88,
+      "text": "This was more than we could bear, so we decided to spend our last day exploring the countryside.",
+      "translations": {
+        "zh-Hans": "这实在令我们无法忍受，于是决定用最后一天去探索乡间。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 82.4,
+      "end": 89.8,
+      "text": "Taking a path which led out of the town, we crossed a few fields until we came to a dense wood.",
+      "translations": {
+        "zh-Hans": "我们沿一条通往镇外的小路走去，穿过几块田地，来到一片茂密的树林。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 90.26,
+      "end": 97.22,
+      "text": "We expected the path to end abruptly, but we found that it traced its way through the trees.",
+      "translations": {
+        "zh-Hans": "我们原以为小路会突然中断，却发现它蜿蜒穿过树林。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 98.14,
+      "end": 103.96,
+      "text": "We tramped through the wood for over two hours until we arrived at a deep stream.",
+      "translations": {
+        "zh-Hans": "我们在林中跋涉了两个多小时，来到一条很深的溪流旁。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 104.6,
+      "end": 112.44,
+      "text": "We could see that the path continued on the other side, but we had no idea how we could get across the stream.",
+      "translations": {
+        "zh-Hans": "我们看得见小路在对岸继续延伸，却不知道怎样渡过溪流。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 113.54,
+      "end": 117.04,
+      "text": "Suddenly, my wife spotted a boat moored to the bank.",
+      "translations": {
+        "zh-Hans": "突然，妻子发现岸边系着一条船。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 117.68,
+      "end": 120.56,
+      "text": "In it, there was a boatman fast asleep.",
+      "translations": {
+        "zh-Hans": "船上有个船夫正在酣睡。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 121.2,
+      "end": 125.92,
+      "text": "We gently woke him up, and asked him to ferry us to the other side.",
+      "translations": {
+        "zh-Hans": "我们轻轻叫醒他，请他把我们摆渡到对岸。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 126.64,
+      "end": 132.26,
+      "text": "Though he was reluctant to do so at first, we eventually persuaded him to take us.",
+      "translations": {
+        "zh-Hans": "起初他不愿意，最后我们还是说服了他。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 133.08,
+      "end": 138.14,
+      "text": "The path led to a tiny village perched on the steep sides of a mountain.",
+      "translations": {
+        "zh-Hans": "小路通向一个坐落在陡峭山坡上的小村庄。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 139.14,
+      "end": 145.9,
+      "text": "The place consisted of a straggling, unmade road which was lined on either side by small houses.",
+      "translations": {
+        "zh-Hans": "村里只有一条参差延伸、没有铺设的道路，两旁排列着小房子。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 146.8,
+      "end": 155.06,
+      "text": "Even under a clear blue sky, the village looked forbidding, as all the houses were built of gray mud bricks.",
+      "translations": {
+        "zh-Hans": "即使在晴朗的蓝天下，村庄仍显得阴森，因为所有房屋都是灰色土砖建成的。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 155.93,
+      "end": 167.7,
+      "text": "The village seemed deserted, the only sign of life, being an ugly-looking black goat on a short length of rope tied to a tree in a field nearby.",
+      "translations": {
+        "zh-Hans": "村庄似乎空无一人，唯一的生命迹象是附近田里一只样子丑陋的黑山羊，被一小段绳子拴在树上。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 168.76,
+      "end": 177.88,
+      "text": "Sitting down on a dilapidated wooden fence near the field, we opened a couple of tins of sardines and had a picnic lunch.",
+      "translations": {
+        "zh-Hans": "我们在田边一段破旧的木栅栏上坐下，打开两罐沙丁鱼，吃起野餐午饭。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 178.76,
+      "end": 183.96,
+      "text": "All at once, I noticed that my wife seemed to be filled with alarm.",
+      "translations": {
+        "zh-Hans": "我突然注意到妻子似乎惊恐万分。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 184.8,
+      "end": 192.02,
+      "text": "Looking up, I saw that we were surrounded by children in rags who were looking at us silently as we ate.",
+      "translations": {
+        "zh-Hans": "抬头一看，只见一群衣衫褴褛的孩子把我们围住，在我们吃东西时默默看着。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 192.76,
+      "end": 198.9,
+      "text": "We offered them food and spoke to them kindly, but they remained motionless.",
+      "translations": {
+        "zh-Hans": "我们把食物给他们，并友善地同他们说话，但他们仍一动不动。"
+      }
+    },
+    {
+      "id": "s027",
+      "start": 199.84,
+      "end": 203.1,
+      "text": "I concluded that they were simply shy of strangers.",
+      "translations": {
+        "zh-Hans": "我断定他们只是见到陌生人害羞。"
+      }
+    },
+    {
+      "id": "s028",
+      "start": 204.06,
+      "end": 211.28,
+      "text": "When we later walked down the main street of the village, we were followed by a silent procession of children.",
+      "translations": {
+        "zh-Hans": "后来我们沿村里的大街走去，身后跟着一队沉默的孩子。"
+      }
+    },
+    {
+      "id": "s029",
+      "start": 212.28,
+      "end": 217.14,
+      "text": "The village which had seemed deserted immediately came to life.",
+      "translations": {
+        "zh-Hans": "刚才还像是空无一人的村庄立刻活了起来。"
+      }
+    },
+    {
+      "id": "s030",
+      "start": 218.68,
+      "end": 225.02,
+      "text": "appeared at windows, men in shirtsleeves stood outside their houses and glared at us.",
+      "translations": {
+        "zh-Hans": "女人出现在窗口，穿衬衫的男人站在屋外怒视我们。"
+      }
+    },
+    {
+      "id": "s031",
+      "start": 225.7,
+      "end": 229.66,
+      "text": "Old women in black shawls peered at us from doorways.",
+      "translations": {
+        "zh-Hans": "披黑色披肩的老妇人从门口窥视我们。"
+      }
+    },
+    {
+      "id": "s032",
+      "start": 230.52,
+      "end": 235.74,
+      "text": "The most frightening thing of all was that not a sound could be heard.",
+      "translations": {
+        "zh-Hans": "最可怕的是听不到任何声音。"
+      }
+    },
+    {
+      "id": "s033",
+      "start": 236.66,
+      "end": 240.58,
+      "text": "There was no doubt that we were unwelcome visitors.",
+      "translations": {
+        "zh-Hans": "毫无疑问，我们是不受欢迎的来客。"
+      }
+    },
+    {
+      "id": "s034",
+      "start": 241.54,
+      "end": 243.46,
+      "text": "We needed no further warning.",
+      "translations": {
+        "zh-Hans": "我们不需要更多警告。"
+      }
+    },
+    {
+      "id": "s035",
+      "start": 244.3,
+      "end": 253.7,
+      "text": "Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting.",
+      "translations": {
+        "zh-Hans": "我们转身沿大街往回走，加快脚步，迅速赶往溪边，希望船夫还在那里等候。"
+      }
+    }
+  ]
+}

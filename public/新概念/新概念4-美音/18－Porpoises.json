@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-018-porpoises",
+    "title": "Lesson 18: Porpoises",
+    "audioFilename": "18－Porpoises.mp3",
+    "duration": 177.607,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.62,
+      "end": 2.06,
+      "text": "Lesson 18.",
+      "translations": {
+        "zh-Hans": "第18课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3,
+      "end": 3.46,
+      "text": "Porpoises.",
+      "translations": {
+        "zh-Hans": "鼠海豚。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 4.64,
+      "end": 7.6,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.16,
+      "end": 12.84,
+      "text": "What would you say is the main characteristic of porpoises?",
+      "translations": {
+        "zh-Hans": "你认为鼠海豚的主要特征是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.58,
+      "end": 28.04,
+      "text": "There has long been a superstition among mariners that porpoises will save drowning men by pushing them to the surface, or protect them from sharks by surrounding them in defensive formation.",
+      "translations": {
+        "zh-Hans": "水手中长期流传着一种迷信：鼠海豚会把溺水者推到水面救人，或围成防御阵形保护他们免受鲨鱼攻击。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 28.84,
+      "end": 39.66,
+      "text": "Marine studio biologists have pointed out that, however intelligent they may be, is probably a mistake to credit dolphins with any motive of life-saving.",
+      "translations": {
+        "zh-Hans": "海洋生物学家指出，无论海豚多么聪明，把任何救生动机归于它们恐怕都是错误的。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 40.68,
+      "end": 51.9,
+      "text": "On the occasions when they have pushed ashore an unconscious human being, they have much more likely done it out of curiosity or for sport, as in riding the bow waves of a ship.",
+      "translations": {
+        "zh-Hans": "它们偶尔把昏迷的人推上岸，更可能只是出于好奇或玩耍，就像乘着船头浪滑行一样。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 53.16,
+      "end": 60.54,
+      "text": "In 1928, some porpoises were photographed working like beavers to push ashore a waterlogged mattress.",
+      "translations": {
+        "zh-Hans": "1928年，有人拍到几只鼠海豚像海狸一样合力把一张浸水的床垫推上岸。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 61.8,
+      "end": 73.18,
+      "text": "If, as has been reported, they have protected humans from sharks, it may have been because curiosity attracted them, and because the scent of a possible meal attracted the sharks.",
+      "translations": {
+        "zh-Hans": "如果它们真像报道所说保护过人类免遭鲨鱼袭击，那也许是因为好奇心吸引了它们，而可能食物的气味又吸引了鲨鱼。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 74.26,
+      "end": 76.52,
+      "text": "Porpoises and sharks are natural enemies.",
+      "translations": {
+        "zh-Hans": "鼠海豚和鲨鱼是天敌。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 76.52,
+      "end": 83.94,
+      "text": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.",
+      "translations": {
+        "zh-Hans": "这种情况下，双方可能爆发战斗，鲨鱼被赶走或杀死。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 85.08,
+      "end": 91.16,
+      "text": "Whether it be bird, fish, or beast, the porpoise is intrigued with anything that is alive.",
+      "translations": {
+        "zh-Hans": "无论鸟、鱼还是兽，凡是活物都会引起鼠海豚的兴趣。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 91.88,
+      "end": 97.18,
+      "text": "They are constantly after the turtles, who peacefully submit to all sorts of indignities.",
+      "translations": {
+        "zh-Hans": "它们总去纠缠海龟，而海龟温顺地忍受各种侮辱。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 97.9,
+      "end": 107.4,
+      "text": "One young calf, especially, enjoyed raising a turtle to the surface with his snout, and then shoving him across the tank like an aquaplane.",
+      "translations": {
+        "zh-Hans": "有一只幼豚特别喜欢用吻部把海龟抬到水面，再像推滑水板一样把它推过水池。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 108.5,
+      "end": 120.1,
+      "text": "Almost any day a young porpoise may be seen trying to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell and pushing up for dear life.",
+      "translations": {
+        "zh-Hans": "几乎每天都能看到幼豚试图把一只三百磅重的海龟翻过来：它把吻部伸到龟壳边缘下面，拼命向上顶。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 120.92,
+      "end": 125.32,
+      "text": "This is not easy, and may require two porpoises working together.",
+      "translations": {
+        "zh-Hans": "这并不容易，可能需要两只鼠海豚合作。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 126.38,
+      "end": 135.8,
+      "text": "In another game, as the turtle swims across the oceanarium, the first porpoise swoops down from above and butts his shell with his belly.",
+      "translations": {
+        "zh-Hans": "另一种游戏是，海龟游过水族馆时，第一只鼠海豚从上方俯冲下来，用腹部猛撞龟壳。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 136.42,
+      "end": 138.98,
+      "text": "This knocks the turtle down several feet.",
+      "translations": {
+        "zh-Hans": "这一撞会使海龟下沉好几英尺。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 139.7,
+      "end": 146.4,
+      "text": "He no sooner recovers his equilibrium, then the next porpoise comes along and hits him another crack.",
+      "translations": {
+        "zh-Hans": "海龟刚恢复平衡，下一只鼠海豚便过来再猛撞一下。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 147.28,
+      "end": 152.24,
+      "text": "Eventually, the turtle has been butted all the way down to the floor of the tank.",
+      "translations": {
+        "zh-Hans": "最后，海龟被一路撞到水池底部。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 153,
+      "end": 160.36,
+      "text": "He is now satisfied merely to try to stand up, but as soon as he does so, a porpoise knocks him flat.",
+      "translations": {
+        "zh-Hans": "这时它只求能站起来，可刚一起身，又会被鼠海豚撞倒。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 161.2,
+      "end": 166.94,
+      "text": "The turtle at last gives up by pulling his feet under his shell, and the game is over.",
+      "translations": {
+        "zh-Hans": "海龟最后把脚缩进壳里认输，游戏也就结束了。"
+      }
+    }
+  ]
+}

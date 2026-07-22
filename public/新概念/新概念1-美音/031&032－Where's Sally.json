@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-031-032-where-s-sally",
+    "title": "Lesson 31: Where's Sally?",
+    "audioFilename": "031&032－Where's Sally.mp3",
+    "duration": 58.984,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 1.79,
+      "text": "Lesson 31.",
+      "translations": {
+        "zh-Hans": "第31课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.21,
+      "end": 4.13,
+      "text": "Where's Sally?",
+      "translations": {
+        "zh-Hans": "萨莉在哪里？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.47,
+      "end": 9.87,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.49,
+      "end": 13.75,
+      "text": "Is the cat climbing the tree?",
+      "translations": {
+        "zh-Hans": "猫正在爬树吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.51,
+      "end": 17.57,
+      "text": "Where's Sally, Jack?",
+      "translations": {
+        "zh-Hans": "杰克，萨莉在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 18.49,
+      "end": 20.67,
+      "text": "She's in the garden, Jean.",
+      "translations": {
+        "zh-Hans": "她在花园里，琼。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 21.49,
+      "end": 22.65,
+      "text": "What's she doing?",
+      "translations": {
+        "zh-Hans": "她在做什么？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 23.39,
+      "end": 25.69,
+      "text": "She's sitting under the tree.",
+      "translations": {
+        "zh-Hans": "她正坐在树下。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 26.61,
+      "end": 29.19,
+      "text": "Is Tim in the garden, too?",
+      "translations": {
+        "zh-Hans": "蒂姆也在花园里吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 29.19,
+      "end": 31.25,
+      "text": "Yes, he is.",
+      "translations": {
+        "zh-Hans": "是的，他在。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 31.87,
+      "end": 33.51,
+      "text": "He's climbing the tree.",
+      "translations": {
+        "zh-Hans": "他正在爬树。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 34.55,
+      "end": 36.11,
+      "text": "I beg your pardon.",
+      "translations": {
+        "zh-Hans": "请再说一遍。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 36.91,
+      "end": 38.75,
+      "text": "Who's climbing the tree?",
+      "translations": {
+        "zh-Hans": "谁在爬树？"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 39.51,
+      "end": 40.39,
+      "text": "Tim is.",
+      "translations": {
+        "zh-Hans": "蒂姆。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 41.37,
+      "end": 42.93,
+      "text": "What about the dog?",
+      "translations": {
+        "zh-Hans": "那只狗呢？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 43.79,
+      "end": 46.27,
+      "text": "The dog's in the garden, too.",
+      "translations": {
+        "zh-Hans": "那只狗也在花园里。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 46.87,
+      "end": 49.25,
+      "text": "It's running across the grass.",
+      "translations": {
+        "zh-Hans": "它正跑过草地。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 50.01,
+      "end": 52.33,
+      "text": "It's running after a cat.",
+      "translations": {
+        "zh-Hans": "它正在追一只猫。"
+      }
+    }
+  ]
+}

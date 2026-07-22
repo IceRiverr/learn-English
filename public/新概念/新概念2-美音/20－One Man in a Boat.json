@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-020-one-man-in-a-boat",
+    "title": "Lesson 20: One Man in a Boat",
+    "audioFilename": "20－One Man in a Boat.mp3",
+    "duration": 82.39,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 1.95,
+      "text": "Lesson 20.",
+      "translations": {
+        "zh-Hans": "第20课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.77,
+      "end": 4.61,
+      "text": "One Man in a Boat.",
+      "translations": {
+        "zh-Hans": "独坐孤舟。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.29,
+      "end": 9.65,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.25,
+      "end": 14.63,
+      "text": "Why is fishing the writer's favorite sport?",
+      "translations": {
+        "zh-Hans": "为什么钓鱼是作者最喜欢的运动？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.07,
+      "end": 18.05,
+      "text": "Fishing is my favorite sport.",
+      "translations": {
+        "zh-Hans": "钓鱼是我最喜欢的运动。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 18.89,
+      "end": 22.85,
+      "text": "I often fish for hours without catching anything.",
+      "translations": {
+        "zh-Hans": "我常一钓就是几个小时，却什么也钓不到。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 24.07,
+      "end": 26.37,
+      "text": "But this does not worry me.",
+      "translations": {
+        "zh-Hans": "但这并不使我烦恼。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 27.37,
+      "end": 29.69,
+      "text": "Some fishermen are unlucky.",
+      "translations": {
+        "zh-Hans": "有些垂钓者运气不好。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 30.75,
+      "end": 36.11,
+      "text": "Instead of catching fish, they catch old boots and rubbish.",
+      "translations": {
+        "zh-Hans": "他们钓不到鱼，反而钓上旧靴子和垃圾。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 37.39,
+      "end": 39.41,
+      "text": "I am even less lucky.",
+      "translations": {
+        "zh-Hans": "我的运气甚至更差。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 40.17,
+      "end": 45.09,
+      "text": "I never catch anything, not even old boots.",
+      "translations": {
+        "zh-Hans": "我什么也钓不到，连旧靴子也没有。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 46.43,
+      "end": 53.79,
+      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "translations": {
+        "zh-Hans": "在河边耗费整个上午后，我总是提着空袋子回家。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 54.75,
+      "end": 58.65,
+      "text": "You must give up fishing, my friends say.",
+      "translations": {
+        "zh-Hans": "“你必须放弃钓鱼，”朋友们说。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 59.49,
+      "end": 61.23,
+      "text": "It's a waste of time.",
+      "translations": {
+        "zh-Hans": "“这是浪费时间。”"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 62.41,
+      "end": 65.97,
+      "text": "But they don't realize one important thing.",
+      "translations": {
+        "zh-Hans": "但他们没有认识到一件重要的事。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 66.93,
+      "end": 69.91,
+      "text": "I'm not really interested in fishing.",
+      "translations": {
+        "zh-Hans": "我对钓鱼其实并不感兴趣。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 70.73,
+      "end": 76.23,
+      "text": "I am only interested in sitting in a boat and doing nothing at all.",
+      "translations": {
+        "zh-Hans": "我只对坐在船上无所事事感兴趣。"
+      }
+    }
+  ]
+}

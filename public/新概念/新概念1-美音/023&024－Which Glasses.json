@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-023-024-which-glasses",
+    "title": "Lesson 23: Which glasses?",
+    "audioFilename": "023&024－Which Glasses.mp3",
+    "duration": 44.304,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.08,
+      "end": 1.78,
+      "text": "Lesson 23.",
+      "translations": {
+        "zh-Hans": "第23课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.08,
+      "end": 4.84,
+      "text": "Which Glasses.",
+      "translations": {
+        "zh-Hans": "哪几只杯子？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.76,
+      "end": 10.16,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.9,
+      "end": 14.94,
+      "text": "Which glasses does the man want?",
+      "translations": {
+        "zh-Hans": "这位男士想要哪几只杯子？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.9,
+      "end": 20.14,
+      "text": "Give me some glasses, please, Jane.",
+      "translations": {
+        "zh-Hans": "简，请给我几只杯子。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.2,
+      "end": 22.2,
+      "text": "Which glasses?",
+      "translations": {
+        "zh-Hans": "哪几只？"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 23.44,
+      "end": 24.32,
+      "text": "These glasses?",
+      "translations": {
+        "zh-Hans": "这几只吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 24.32,
+      "end": 27.62,
+      "text": "No, not those.",
+      "translations": {
+        "zh-Hans": "不，不是那些。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 28.54,
+      "end": 30.44,
+      "text": "The ones on the shelf.",
+      "translations": {
+        "zh-Hans": "架子上的那些。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 31.68,
+      "end": 31.98,
+      "text": "These?",
+      "translations": {
+        "zh-Hans": "这些吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 32.84,
+      "end": 34.04,
+      "text": "Yes, please.",
+      "translations": {
+        "zh-Hans": "是的，请给我。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 34.96,
+      "end": 36.08,
+      "text": "Here you are.",
+      "translations": {
+        "zh-Hans": "给你。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 37.02,
+      "end": 37.48,
+      "text": "Thanks.",
+      "translations": {
+        "zh-Hans": "谢谢。"
+      }
+    }
+  ]
+}

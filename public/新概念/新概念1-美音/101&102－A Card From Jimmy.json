@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-101-102-a-card-from-jimmy",
+    "title": "Lesson 101: A card from Jimmy",
+    "audioFilename": "101&102－A Card From Jimmy.mp3",
+    "duration": 113.659,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.59,
+      "end": 2.51,
+      "text": "Lesson 101.",
+      "translations": {
+        "zh-Hans": "第101课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 4.47,
+      "end": 5.97,
+      "text": "A Card From Jimmy.",
+      "translations": {
+        "zh-Hans": "吉米寄来的明信片。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 7.67,
+      "end": 11.61,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 13.07,
+      "end": 18.07,
+      "text": "Does grandmother seem pleased to get a card from Jimmy?",
+      "translations": {
+        "zh-Hans": "祖母收到吉米的明信片后似乎高兴吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 19.05,
+      "end": 19.67,
+      "text": "Why?",
+      "translations": {
+        "zh-Hans": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.43,
+      "end": 21.03,
+      "text": "Why not?",
+      "translations": {
+        "zh-Hans": "为什么不高兴？"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 23.56,
+      "end": 36.22,
+      "text": "Read Jimmy's card to me, please. I have just arrived in Scotland, and I'm staying at a youth hostel.",
+      "translations": {
+        "zh-Hans": "请把吉米的明信片读给我听。“我刚到苏格兰，现在住在一家青年旅舍。”"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 37.2,
+      "end": 37.6,
+      "text": "Eh?",
+      "translations": {
+        "zh-Hans": "什么？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 38.54,
+      "end": 43.1,
+      "text": "He says he's just arrived in Scotland.",
+      "translations": {
+        "zh-Hans": "他说他刚到苏格兰。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 44.06,
+      "end": 48.6,
+      "text": "He says he's staying at a youth hostel.",
+      "translations": {
+        "zh-Hans": "他说他正住在一家青年旅舍。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 48.6,
+      "end": 54.56,
+      "text": "You know, he's a member of the YHA.",
+      "translations": {
+        "zh-Hans": "你知道，他是青年旅舍协会的会员。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 56.06,
+      "end": 57,
+      "text": "The what?",
+      "translations": {
+        "zh-Hans": "什么协会？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 58.12,
+      "end": 60.36,
+      "text": "The YHA, Mum.",
+      "translations": {
+        "zh-Hans": "青年旅舍协会，妈妈。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 61.42,
+      "end": 63.94,
+      "text": "The Youth Hostels Association.",
+      "translations": {
+        "zh-Hans": "青年旅舍协会。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 65.84,
+      "end": 67.84,
+      "text": "What else does he say?",
+      "translations": {
+        "zh-Hans": "他还说了什么？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 69.28,
+      "end": 71.54,
+      "text": "I'll write a letter soon.",
+      "translations": {
+        "zh-Hans": "“我很快会写信。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 72.4,
+      "end": 75.08,
+      "text": "I hope you are all well.",
+      "translations": {
+        "zh-Hans": "希望你们都好。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 76.16,
+      "end": 77.16,
+      "text": "What?",
+      "translations": {
+        "zh-Hans": "什么？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 78.12,
+      "end": 79.38,
+      "text": "Speak up, Penny.",
+      "translations": {
+        "zh-Hans": "大声点，彭妮。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 80.18,
+      "end": 83.1,
+      "text": "I'm afraid I can't hear you.",
+      "translations": {
+        "zh-Hans": "恐怕我听不见。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 83.94,
+      "end": 87.62,
+      "text": "He says he'll write a letter soon.",
+      "translations": {
+        "zh-Hans": "他说他很快会写信。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 88.42,
+      "end": 91.36,
+      "text": "He hopes we are all well.",
+      "translations": {
+        "zh-Hans": "他希望我们都好。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 92.46,
+      "end": 94.06,
+      "text": "Love, Jimmy.",
+      "translations": {
+        "zh-Hans": "爱你们的吉米。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 95.76,
+      "end": 96.86,
+      "text": "Is that all?",
+      "translations": {
+        "zh-Hans": "就这些吗？"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 97.8,
+      "end": 101.24,
+      "text": "He doesn't say very much, does he?",
+      "translations": {
+        "zh-Hans": "他说得不多，是吧？"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 101.24,
+      "end": 106.6,
+      "text": "He can't write very much on a card, Mum.",
+      "translations": {
+        "zh-Hans": "明信片上写不了太多，妈妈。"
+      }
+    }
+  ]
+}

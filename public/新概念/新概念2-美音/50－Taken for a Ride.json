@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-050-taken-for-a-ride",
+    "title": "Lesson 50: Taken for a Ride",
+    "audioFilename": "50－Taken for a Ride.mp3",
+    "duration": 104.307,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.68,
+      "end": 8.26,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 9.74,
+      "end": 13.98,
+      "text": "Why did the rider not get off the bus at Woodford Green?",
+      "translations": {
+        "zh-Hans": "乘客为什么没有在伍德福德绿地站下车？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 16.12,
+      "end": 21.24,
+      "text": "I love traveling in the country, but I don't like losing my way.",
+      "translations": {
+        "zh-Hans": "我喜欢在乡间旅行，但不喜欢迷路。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 22.54,
+      "end": 28.54,
+      "text": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "translations": {
+        "zh-Hans": "最近我去远足了一次，但旅途花的时间比预计的更长。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 29.8,
+      "end": 39.24,
+      "text": "I'm going to Woodford Green, I said to the conductor as I got on the bus, but I don't know where it is.",
+      "translations": {
+        "zh-Hans": "“我要去伍德福德绿地，”上车时我对售票员说，“但我不知道它在哪里。”"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 40.42,
+      "end": 44.58,
+      "text": "I'll tell you where to get off, answered the conductor.",
+      "translations": {
+        "zh-Hans": "“我会告诉你在哪里下车，”售票员回答。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 45.78,
+      "end": 50.76,
+      "text": "I sat in the front of the bus to get a good view of the countryside.",
+      "translations": {
+        "zh-Hans": "我坐在公共汽车前部，以便好好欣赏乡间景色。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 52.08,
+      "end": 54.72,
+      "text": "After some time, the bus stopped.",
+      "translations": {
+        "zh-Hans": "过了一段时间，公共汽车停了。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 55.54,
+      "end": 62.92,
+      "text": "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "translations": {
+        "zh-Hans": "我环顾四周，吃惊地发现自己是车上仅剩的一名乘客。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 64.14,
+      "end": 68.12,
+      "text": "You'll have to get off here, the conductor said.",
+      "translations": {
+        "zh-Hans": "“你得在这里下车，”售票员说，"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 69.02,
+      "end": 71.08,
+      "text": "This is as far as we go.",
+      "translations": {
+        "zh-Hans": "“我们的车就到这里为止。”"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 72.3,
+      "end": 73.9,
+      "text": "Is this Woodford Green?",
+      "translations": {
+        "zh-Hans": "“这里是伍德福德绿地吗？”"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 74.46,
+      "end": 75.04,
+      "text": "I asked.",
+      "translations": {
+        "zh-Hans": "我问。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 76.08,
+      "end": 79.1,
+      "text": "Oh dear, said the conductor suddenly.",
+      "translations": {
+        "zh-Hans": "“哎呀，”售票员突然说，"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 80.2,
+      "end": 82.02,
+      "text": "I forgot to put you off.",
+      "translations": {
+        "zh-Hans": "“我忘了让你下车。”"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 82.9,
+      "end": 85.36,
+      "text": "It doesn't matter, I said.",
+      "translations": {
+        "zh-Hans": "“没关系，”我说，"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 86.34,
+      "end": 87.46,
+      "text": "I'll get off here.",
+      "translations": {
+        "zh-Hans": "“我就在这里下吧。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 88.44,
+      "end": 91.62,
+      "text": "We're going back now, said the conductor.",
+      "translations": {
+        "zh-Hans": "“我们现在要往回开了，”售票员说。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 92.84,
+      "end": 98.22,
+      "text": "Well, in that case, I prefer to stay on the bus, I answered.",
+      "translations": {
+        "zh-Hans": "“既然这样，我还是留在车上吧，”我回答。"
+      }
+    }
+  ]
+}

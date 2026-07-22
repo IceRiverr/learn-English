@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-019-sold-out",
+    "title": "Lesson 19: Sold Out",
+    "audioFilename": "19－Sold Out.mp3",
+    "duration": 86.256,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 1.97,
+      "text": "Lesson 19.",
+      "translations": {
+        "zh-Hans": "第19课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.23,
+      "end": 3.93,
+      "text": "Sold Out.",
+      "translations": {
+        "zh-Hans": "票已售完。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.27,
+      "end": 8.65,
+      "text": "First listen and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.35,
+      "end": 12.83,
+      "text": "When will the writer see the play?",
+      "translations": {
+        "zh-Hans": "作者什么时候能看到这出戏？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.09,
+      "end": 18.79,
+      "text": "The play may begin at any moment, I said.",
+      "translations": {
+        "zh-Hans": "“戏随时都会开演，”我说。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 19.51,
+      "end": 23.51,
+      "text": "It may have begun already, Susan answered.",
+      "translations": {
+        "zh-Hans": "“也许已经开演了，”苏珊回答。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 24.57,
+      "end": 26.65,
+      "text": "I hurried to the ticket office.",
+      "translations": {
+        "zh-Hans": "我匆忙赶到售票处。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 26.65,
+      "end": 30.13,
+      "text": "May I have two tickets, please?",
+      "translations": {
+        "zh-Hans": "“请给我两张票好吗？”"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 30.97,
+      "end": 31.49,
+      "text": "I asked.",
+      "translations": {
+        "zh-Hans": "我问。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 32.27,
+      "end": 36.17,
+      "text": "I'm sorry, we've sold out, the girl said.",
+      "translations": {
+        "zh-Hans": "“对不起，票已售完，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 37.13,
+      "end": 40.35,
+      "text": "What a pity, Susan exclaimed.",
+      "translations": {
+        "zh-Hans": "“真可惜！”苏珊惊呼道。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 41.65,
+      "end": 45.33,
+      "text": "Just then, a man hurried to the ticket office.",
+      "translations": {
+        "zh-Hans": "正在这时，一个男人匆匆赶到售票处。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 46.51,
+      "end": 49.13,
+      "text": "Can I return these two tickets?",
+      "translations": {
+        "zh-Hans": "“我可以退掉这两张票吗？”"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 49.67,
+      "end": 50.21,
+      "text": "he asked.",
+      "translations": {
+        "zh-Hans": "他问。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 51.39,
+      "end": 53.71,
+      "text": "Certainly, the girl said.",
+      "translations": {
+        "zh-Hans": "“当然可以，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 53.71,
+      "end": 58.05,
+      "text": "I went back to the ticket office at once.",
+      "translations": {
+        "zh-Hans": "我马上又回到售票处。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 59.37,
+      "end": 62.39,
+      "text": "Could I have those two tickets, please?",
+      "translations": {
+        "zh-Hans": "“我可以买那两张票吗？”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 63.27,
+      "end": 63.81,
+      "text": "I asked.",
+      "translations": {
+        "zh-Hans": "我问。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 65.21,
+      "end": 67.59,
+      "text": "Certainly, the girl said.",
+      "translations": {
+        "zh-Hans": "“当然可以，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 68.69,
+      "end": 74.15,
+      "text": "But they're for next Wednesday's performance. Do you still want them?",
+      "translations": {
+        "zh-Hans": "“不过那是下星期三演出的票。您还要吗？”"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 75.41,
+      "end": 79.65,
+      "text": "I might as well have them, I said sadly.",
+      "translations": {
+        "zh-Hans": "“我还是买下吧，”我难过地说。"
+      }
+    }
+  ]
+}

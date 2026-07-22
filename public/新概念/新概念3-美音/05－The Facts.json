@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-005-the-facts",
+    "title": "Lesson 5: The Facts",
+    "audioFilename": "05－The Facts.mp3",
+    "duration": 131.004,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 3.07,
+      "end": 7.37,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 8.83,
+      "end": 14.21,
+      "text": "What was the consequence of the editor's insistence on facts and statistics?",
+      "translations": {
+        "zh-Hans": "编辑坚持要事实和数据，结果怎样？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 16.75,
+      "end": 24.05,
+      "text": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.",
+      "translations": {
+        "zh-Hans": "报纸和杂志的编辑常常走向极端，向读者提供一些无关紧要的事实和数据。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 24.05,
+      "end": 33.89,
+      "text": "Last year, a journalist had been instructed by a well-known magazine to write an article on the President's palace in a new African republic.",
+      "translations": {
+        "zh-Hans": "去年，一家著名杂志指派一名记者写一篇有关某个新成立的非洲共和国总统府的文章。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 35.15,
+      "end": 41.27,
+      "text": "When the article arrived, the editor read the first sentence and then refused to publish it.",
+      "translations": {
+        "zh-Hans": "稿件寄到后，编辑只读了第一句话便拒绝刊登。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 42.49,
+      "end": 43.45,
+      "text": "The article began.",
+      "translations": {
+        "zh-Hans": "文章开头是这样写的："
+      }
+    },
+    {
+      "id": "s007",
+      "start": 44.95,
+      "end": 49.07,
+      "text": "of steps lead to the high wall which surrounds the President's palace.",
+      "translations": {
+        "zh-Hans": "“许多级台阶通向环绕总统府的高墙。”"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 49.85,
+      "end": 59.27,
+      "text": "The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.",
+      "translations": {
+        "zh-Hans": "编辑立即给记者发了一份传真，命令他查清台阶的确切数目和围墙的高度。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 60.89,
+      "end": 67.83,
+      "text": "The journalist immediately set out to obtain these important facts, but he took a long time to send them.",
+      "translations": {
+        "zh-Hans": "记者马上着手去获取这些“重要事实”，但过了很久也没有把结果发回来。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 69.43,
+      "end": 73.23,
+      "text": "the editor was getting impatient, for the magazine would soon go to press.",
+      "translations": {
+        "zh-Hans": "编辑渐渐不耐烦了，因为杂志很快就要付印。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 73.23,
+      "end": 78.53,
+      "text": "He sent the journalist two more faxes, but received no reply.",
+      "translations": {
+        "zh-Hans": "他又给记者发了两份传真，却没有收到答复。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 79.45,
+      "end": 85.65,
+      "text": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired.",
+      "translations": {
+        "zh-Hans": "他再发了一份传真，通知记者如果不尽快回复就会被解雇。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 86.67,
+      "end": 94.47,
+      "text": "When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written.",
+      "translations": {
+        "zh-Hans": "记者仍未回复，编辑只好勉强按原稿刊登了那篇文章。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 95.47,
+      "end": 100.03,
+      "text": "A week later, the editor at last received a fax from the journalist.",
+      "translations": {
+        "zh-Hans": "一周后，编辑终于收到了记者发来的传真。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 100.65,
+      "end": 106.37,
+      "text": "Not only had the poor man been arrested, but he had been sent to prison as well.",
+      "translations": {
+        "zh-Hans": "这个可怜的人不仅被捕了，而且还被关进了监狱。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 107.01,
+      "end": 122.79,
+      "text": "However, he had at last been allowed to send a fax, in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the 15-foot wall which surrounded",
+      "translations": {
+        "zh-Hans": "不过，他终于获准发一份传真。他在传真中告诉编辑，自己是在数通往那堵15英尺高围墙的1,084级台阶时被捕的；那堵围墙环绕着"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 122.79,
+      "end": 123.85,
+      "text": "the President's palace.",
+      "translations": {
+        "zh-Hans": "总统府。"
+      }
+    }
+  ]
+}

@@ -217,11 +217,15 @@ function validate(sourceFile, workDirectory, language, sourceLanguage) {
   if (digest(course) !== manifest.sourceDigest) fail("English source, IDs, or timeline differ from the prepared manifest");
   if (course.course.language !== sourceLanguage) fail(`course.language must be ${sourceLanguage}`);
 
+  const translations = collectTranslations(workDirectory, manifest, language);
   const expectedIds = new Set(manifest.chunks.flatMap((chunk) => chunk.targetIds));
   for (const segment of course.segments) {
     const translated = segment.translations?.[language];
     if (expectedIds.has(segment.id) && (typeof translated !== "string" || translated.trim() === "")) {
       fail(`missing ${language} translation for ${segment.id}`);
+    }
+    if (expectedIds.has(segment.id) && translated !== translations.get(segment.id)) {
+      fail(`${language} translation for ${segment.id} differs from the prepared chunk output`);
     }
   }
   if (expectedIds.size !== manifest.segmentCount) fail("manifest does not cover every source segment");

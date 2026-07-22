@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-027-nothing-to-sell-and-nothing-to-buy",
+    "title": "Lesson 27: Nothing to Sell and Nothing to Buy",
+    "audioFilename": "27－Nothing to Sell and Nothing to Buy.mp3",
+    "duration": 171.442,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.05,
+      "end": 1.59,
+      "text": "Lesson 27.",
+      "translations": {
+        "zh-Hans": "第27课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.43,
+      "end": 4.95,
+      "text": "Nothing to Sell and Nothing to Buy.",
+      "translations": {
+        "zh-Hans": "无物可卖，也无物可买。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.49,
+      "end": 9.97,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.35,
+      "end": 14.67,
+      "text": "What is the most important thing for a tramp?",
+      "translations": {
+        "zh-Hans": "对流浪汉而言，最重要的是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17,
+      "end": 20.48,
+      "text": "It has been said that everyone lives by selling something.",
+      "translations": {
+        "zh-Hans": "有人说，每个人都靠出售某种东西谋生。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.34,
+      "end": 31.08,
+      "text": "In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom, and priests by selling spiritual comfort.",
+      "translations": {
+        "zh-Hans": "照此说法，教师靠出售知识生活，哲学家靠出售智慧，牧师则靠出售精神慰藉。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 31.58,
+      "end": 45.76,
+      "text": "Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us.",
+      "translations": {
+        "zh-Hans": "尽管物质商品的价值或许可以用金钱衡量，但要估算人们为我们提供的服务的真正价值却极其困难。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 46.54,
+      "end": 59.08,
+      "text": "There are times when we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.",
+      "translations": {
+        "zh-Hans": "有时为了保命，我们愿意交出自己拥有的一切；然而，当外科医生提供的恰恰是这种服务时，我们却可能舍不得支付高额费用。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 59.88,
+      "end": 68.14,
+      "text": "The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.",
+      "translations": {
+        "zh-Hans": "社会现实决定了，技能必须像商店里的商品一样付费购买。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 68.88,
+      "end": 70.66,
+      "text": "Everyone has something to sell.",
+      "translations": {
+        "zh-Hans": "每个人都有东西可卖。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 72.28,
+      "end": 75.8,
+      "text": "Tramps seem to be the only exception to this general rule.",
+      "translations": {
+        "zh-Hans": "流浪汉似乎是这条普遍规则唯一的例外。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 76.92,
+      "end": 82.36,
+      "text": "Beggars almost sell themselves as human beings to arouse the pity of passers-by.",
+      "translations": {
+        "zh-Hans": "乞丐几乎是在出卖自己的人格，以博取路人的怜悯。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 83.14,
+      "end": 85.06,
+      "text": "But real tramps are not beggars.",
+      "translations": {
+        "zh-Hans": "但真正的流浪汉不是乞丐。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 85.06,
+      "end": 89.42,
+      "text": "They have nothing to sell and require nothing from others.",
+      "translations": {
+        "zh-Hans": "他们无物可卖，也不向别人索取什么。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 90.24,
+      "end": 94.94,
+      "text": "In seeking independence, they do not sacrifice their human dignity.",
+      "translations": {
+        "zh-Hans": "在追求独立时，他们并没有牺牲人的尊严。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 95.56,
+      "end": 100.76,
+      "text": "A tramp may ask you for money, but he will never ask you to feel sorry for him.",
+      "translations": {
+        "zh-Hans": "流浪汉可能向你要钱，却绝不会要求你同情他。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 101.52,
+      "end": 108.2,
+      "text": "He has deliberately chosen to lead the life he leads and is fully aware of the consequences.",
+      "translations": {
+        "zh-Hans": "他有意选择了自己的生活方式，也完全清楚其后果。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 109.14,
+      "end": 118.92,
+      "text": "He may never be sure where the next meal is coming from, but he is free from the thousands of anxieties which afflict other people.",
+      "translations": {
+        "zh-Hans": "他也许永远不知道下一顿饭从何而来，却摆脱了折磨其他人的千百种忧虑。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 120,
+      "end": 126.74,
+      "text": "His few material possessions make it possible for him to move from place to place with ease.",
+      "translations": {
+        "zh-Hans": "仅有的几件财物使他能够轻松地四处迁移。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 127.78,
+      "end": 135.12,
+      "text": "By having to sleep in the open, he gets far closer to the world of nature than most of us ever do.",
+      "translations": {
+        "zh-Hans": "由于不得不露宿户外，他比我们大多数人都有机会更贴近大自然。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 136.1,
+      "end": 141.06,
+      "text": "He may hunt, beg, or steal occasionally to keep himself alive.",
+      "translations": {
+        "zh-Hans": "为了活命，他偶尔可能打猎、乞讨或偷窃。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 141.06,
+      "end": 149.36,
+      "text": "He may even, in times of real need, do a little work, but he will never sacrifice his freedom.",
+      "translations": {
+        "zh-Hans": "真正需要时，他甚至可能干一点活，但绝不会牺牲自由。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 150.08,
+      "end": 155.52,
+      "text": "We often speak of tramps with contempt and put them in the same class as beggars.",
+      "translations": {
+        "zh-Hans": "我们常鄙视地谈论流浪汉，把他们与乞丐归为一类。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 156,
+      "end": 166,
+      "text": "But how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?",
+      "translations": {
+        "zh-Hans": "但我们中有多少人能诚实地说，自己从未对他们简单的生活方式和无忧无虑的自由感到一丝羡慕？"
+      }
+    }
+  ]
+}

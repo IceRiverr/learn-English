@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-017-018-how-do-you-do",
+    "title": "Lesson 17: How do you do",
+    "audioFilename": "017&018－How do you do.mp3",
+    "duration": 87.954,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 1.91,
+      "text": "Lesson 17.",
+      "translations": {
+        "zh-Hans": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.87,
+      "end": 4.33,
+      "text": "How do you do.",
+      "translations": {
+        "zh-Hans": "你好。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.38,
+      "end": 10.7,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 12.76,
+      "end": 17.28,
+      "text": "What are Michael Baker and Jeremy Short's jobs?",
+      "translations": {
+        "zh-Hans": "迈克尔·贝克和杰里米·肖特是做什么工作的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 19.65,
+      "end": 22.97,
+      "text": "Come and meet our employees, Mr. Richards.",
+      "translations": {
+        "zh-Hans": "理查兹先生，来认识一下我们的雇员。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 24.95,
+      "end": 26.53,
+      "text": "Thank you, Mr.",
+      "translations": {
+        "zh-Hans": "谢谢您，"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.97,
+      "end": 27.01,
+      "text": "Jackson.",
+      "translations": {
+        "zh-Hans": "杰克逊先生。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 28.01,
+      "end": 30.37,
+      "text": "This is Nicola Gray.",
+      "translations": {
+        "zh-Hans": "这位是尼古拉·格雷。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 31.45,
+      "end": 33.81,
+      "text": "And this is Claire Taylor.",
+      "translations": {
+        "zh-Hans": "这位是克莱尔·泰勒。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 35.27,
+      "end": 36.73,
+      "text": "How do you do.",
+      "translations": {
+        "zh-Hans": "你好。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 38.25,
+      "end": 41.41,
+      "text": "Those women are very hard-working.",
+      "translations": {
+        "zh-Hans": "那些女士工作很勤奋。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 42.97,
+      "end": 44.73,
+      "text": "What are their jobs?",
+      "translations": {
+        "zh-Hans": "她们是做什么工作的？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 46.37,
+      "end": 48.83,
+      "text": "They're keyboard operators.",
+      "translations": {
+        "zh-Hans": "她们是电脑录入员。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 50.21,
+      "end": 52.81,
+      "text": "This is Michael Baker.",
+      "translations": {
+        "zh-Hans": "这位是迈克尔·贝克。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 53.85,
+      "end": 56.29,
+      "text": "And this is Jeremy Short.",
+      "translations": {
+        "zh-Hans": "这位是杰里米·肖特。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 57.31,
+      "end": 58.99,
+      "text": "How do you do.",
+      "translations": {
+        "zh-Hans": "你好。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 60.33,
+      "end": 62.61,
+      "text": "They aren't very busy.",
+      "translations": {
+        "zh-Hans": "他们不太忙。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 63.79,
+      "end": 65.85,
+      "text": "What are their jobs?",
+      "translations": {
+        "zh-Hans": "他们是做什么工作的？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 67.67,
+      "end": 69.27,
+      "text": "They're sales reps.",
+      "translations": {
+        "zh-Hans": "他们是推销员。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 70.17,
+      "end": 71.89,
+      "text": "They're very lazy.",
+      "translations": {
+        "zh-Hans": "他们很懒。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 73.25,
+      "end": 75.43,
+      "text": "Who is this young man?",
+      "translations": {
+        "zh-Hans": "这位年轻人是谁？"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 75.43,
+      "end": 78.47,
+      "text": "This is Jim.",
+      "translations": {
+        "zh-Hans": "这是吉姆。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 79.31,
+      "end": 81.55,
+      "text": "He's our office assistant.",
+      "translations": {
+        "zh-Hans": "他是我们的办公室助理。"
+      }
+    }
+  ]
+}

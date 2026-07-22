@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-059-060-is-that-all",
+    "title": "Lesson 59: Is that all?",
+    "audioFilename": "059&060－Is That All.mp3",
+    "duration": 80.614,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.4,
+      "end": 2.02,
+      "text": "Lesson 59.",
+      "translations": {
+        "zh-Hans": "第59课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.16,
+      "end": 4.36,
+      "text": "Is That All?",
+      "translations": {
+        "zh-Hans": "就这些吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.06,
+      "end": 10.26,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 11.88,
+      "end": 14.06,
+      "text": "Does the lady buy any chalk?",
+      "translations": {
+        "zh-Hans": "这位女士买粉笔了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.22,
+      "end": 19,
+      "text": "I want some envelopes, please.",
+      "translations": {
+        "zh-Hans": "我想买一些信封。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 20.14,
+      "end": 23.9,
+      "text": "Do you want the large size or the small size?",
+      "translations": {
+        "zh-Hans": "您要大号的还是小号的？"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.12,
+      "end": 27.22,
+      "text": "The large size, please.",
+      "translations": {
+        "zh-Hans": "请给我大号的。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 28.22,
+      "end": 31.14,
+      "text": "Do you have any writing paper?",
+      "translations": {
+        "zh-Hans": "你们有信纸吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 32,
+      "end": 32.98,
+      "text": "Yes, we do.",
+      "translations": {
+        "zh-Hans": "有。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 34.22,
+      "end": 37.28,
+      "text": "I don't have any small pads.",
+      "translations": {
+        "zh-Hans": "我没有小本的信纸簿。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 38.26,
+      "end": 40.56,
+      "text": "I only have large ones.",
+      "translations": {
+        "zh-Hans": "只有大本的。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 41.54,
+      "end": 43.38,
+      "text": "Do you want a pad?",
+      "translations": {
+        "zh-Hans": "您要一本吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 44.12,
+      "end": 45.4,
+      "text": "Yes, please.",
+      "translations": {
+        "zh-Hans": "要的，谢谢。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 46.5,
+      "end": 48.58,
+      "text": "And I want some glue.",
+      "translations": {
+        "zh-Hans": "我还要一些胶水。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 49.88,
+      "end": 51.4,
+      "text": "A bottle of glue.",
+      "translations": {
+        "zh-Hans": "一瓶胶水。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 52.56,
+      "end": 57.32,
+      "text": "And I want a large box of chalk, too.",
+      "translations": {
+        "zh-Hans": "我还想要一大盒粉笔。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 58.1,
+      "end": 60.62,
+      "text": "I only have small boxes.",
+      "translations": {
+        "zh-Hans": "我只有小盒的。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 61.46,
+      "end": 62.5,
+      "text": "Do you want one?",
+      "translations": {
+        "zh-Hans": "您要一盒吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 63.06,
+      "end": 64.18,
+      "text": "No, thank you.",
+      "translations": {
+        "zh-Hans": "不了，谢谢。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 64.8,
+      "end": 65.96,
+      "text": "Is That All?",
+      "translations": {
+        "zh-Hans": "就这些吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 66.6,
+      "end": 68.62,
+      "text": "That's All, thank you.",
+      "translations": {
+        "zh-Hans": "就这些，谢谢。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 69.26,
+      "end": 70.78,
+      "text": "What else do you want?",
+      "translations": {
+        "zh-Hans": "您还要什么？"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 71.44,
+      "end": 73.66,
+      "text": "I want my change.",
+      "translations": {
+        "zh-Hans": "我要找给我的零钱。"
+      }
+    }
+  ]
+}

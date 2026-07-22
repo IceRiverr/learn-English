@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-092-asking-for-trouble",
+    "title": "Lesson 92: Asking for Trouble",
+    "audioFilename": "92－Asking for Trouble.mp3",
+    "duration": 116.976,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.46,
+      "end": 8.96,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 10.46,
+      "end": 15.08,
+      "text": "Why did the policeman ask the writer to come to the police station?",
+      "translations": {
+        "zh-Hans": "警察为什么让作者去警察局？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 17.32,
+      "end": 21.48,
+      "text": "It must have been about two in the morning when I returned home.",
+      "translations": {
+        "zh-Hans": "我回到家时，大概已经是凌晨两点。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 22.74,
+      "end": 37.46,
+      "text": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
+      "translations": {
+        "zh-Hans": "我按门铃想叫醒妻子，可她睡得很熟。于是我从花园的小棚里拿来一架梯子，靠在墙上，开始向卧室窗户爬去。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 38.3,
+      "end": 48.66,
+      "text": "I was almost there when a sarcastic voice below said, I don't think the windows need cleaning at this time of the night.",
+      "translations": {
+        "zh-Hans": "我快爬到时，下面传来一个讽刺的声音：“我看半夜这个时候，窗户不需要清洗吧。”"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 49.64,
+      "end": 54.82,
+      "text": "I looked down and nearly fell off the ladder when I saw a policeman.",
+      "translations": {
+        "zh-Hans": "我低头一看，发现一名警察，差点从梯子上摔下来。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 55.76,
+      "end": 66.18,
+      "text": "I immediately regretted answering in the way I did, but I said, I enjoy cleaning windows at night.",
+      "translations": {
+        "zh-Hans": "我立刻后悔自己用那种方式回答，但还是说道：“我喜欢晚上擦窗户。”"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 67.82,
+      "end": 71.94,
+      "text": "So do I, answered the policeman in the same tone.",
+      "translations": {
+        "zh-Hans": "“我也喜欢。”警察用同样的语气回答。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 73.32,
+      "end": 75.56,
+      "text": "Excuse my interrupting you.",
+      "translations": {
+        "zh-Hans": "“请原谅我打扰你。”"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 76.12,
+      "end": 84.14,
+      "text": "I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?",
+      "translations": {
+        "zh-Hans": "“我不愿打扰正在忙碌的人，不过你介意跟我去一趟警察局吗？”"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 85.72,
+      "end": 89.82,
+      "text": "Well, I'd prefer to stay here, I said.",
+      "translations": {
+        "zh-Hans": "“嗯，我更愿意留在这里。”我说。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 90.72,
+      "end": 92.9,
+      "text": "You see, I've forgotten my key.",
+      "translations": {
+        "zh-Hans": "“你看，我忘带钥匙了。”"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 94.16,
+      "end": 95.1,
+      "text": "Your what?",
+      "translations": {
+        "zh-Hans": "“你的什么？”"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 95.88,
+      "end": 96.42,
+      "text": "he called.",
+      "translations": {
+        "zh-Hans": "他喊道。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 97.28,
+      "end": 99.9,
+      "text": "My key, I shouted.",
+      "translations": {
+        "zh-Hans": "“我的钥匙！”我大喊。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 101.38,
+      "end": 110.58,
+      "text": "Fortunately, the shouting woke up my wife, who opened the window just as the policeman had started to climb towards me.",
+      "translations": {
+        "zh-Hans": "幸运的是，喊声惊醒了妻子；警察刚开始向我爬来，她便打开了窗户。"
+      }
+    }
+  ]
+}

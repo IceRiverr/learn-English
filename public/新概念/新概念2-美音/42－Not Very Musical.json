@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-042-not-very-musical",
+    "title": "Lesson 42: Not Very Musical",
+    "audioFilename": "42－Not Very Musical.mp3",
+    "duration": 86.047,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.24,
+      "end": 1.76,
+      "text": "Lesson 42.",
+      "translations": {
+        "zh-Hans": "第42课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.8,
+      "end": 4.24,
+      "text": "Not Very Musical.",
+      "translations": {
+        "zh-Hans": "并非很懂音乐。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.88,
+      "end": 8.82,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.12,
+      "end": 13.96,
+      "text": "What happened when the snake charmer began to play jazz?",
+      "translations": {
+        "zh-Hans": "耍蛇人开始演奏爵士乐时发生了什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 16.14,
+      "end": 24.68,
+      "text": "As we had had a long walk through one of the markets of Old Delhi, we stopped at a square to have a rest.",
+      "translations": {
+        "zh-Hans": "我们在旧德里的一个市场里走了很长一段路，便在一处广场停下来休息。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 25.64,
+      "end": 36.34,
+      "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "translations": {
+        "zh-Hans": "过了一会儿，我们注意到广场另一边有个耍蛇人，旁边放着两只大篮子，于是走过去看他表演。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 37.42,
+      "end": 45.76,
+      "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "translations": {
+        "zh-Hans": "他一看见我们，就拿起一根镶满硬币的长笛，打开其中一只篮子。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 46.76,
+      "end": 52.8,
+      "text": "When he began to play a tune, we had our first glimpse of the snake.",
+      "translations": {
+        "zh-Hans": "他开始吹奏一支曲子时，我们第一次看见了蛇。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 53.64,
+      "end": 59.04,
+      "text": "It rose out of the basket and began to follow the movements of the pipe.",
+      "translations": {
+        "zh-Hans": "蛇从篮子里探出身子，开始随着笛子的摆动而扭动。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 60.14,
+      "end": 67.98,
+      "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "translations": {
+        "zh-Hans": "耍蛇人突然开始演奏爵士乐和现代流行歌曲时，我们非常惊讶。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 67.98,
+      "end": 73.48,
+      "text": "The snake, however, continued to dance slowly.",
+      "translations": {
+        "zh-Hans": "然而，蛇仍然缓慢地舞动着。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 74.58,
+      "end": 79.9,
+      "text": "It obviously could not tell the difference between Indian music and jazz.",
+      "translations": {
+        "zh-Hans": "显然，它分辨不出印度音乐和爵士乐。"
+      }
+    }
+  ]
+}

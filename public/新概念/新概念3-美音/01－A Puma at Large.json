@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-001-a-puma-at-large",
+    "title": "Lesson 1: A Puma at Large",
+    "audioFilename": "01－A Puma at Large.mp3",
+    "duration": 129.933,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 4.25,
+      "end": 8.25,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 9.99,
+      "end": 12.35,
+      "text": "Where must the Puma have come from?",
+      "translations": {
+        "zh-Hans": "这只美洲狮一定是从哪里来的？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 14.58,
+      "end": 18.16,
+      "text": "Pumas are large, cat-like animals which are found in America.",
+      "translations": {
+        "zh-Hans": "美洲狮是产于美洲的大型猫科动物。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 19.28,
+      "end": 28.16,
+      "text": "When reports came into London Zoo that a wild Puma had been spotted 45 miles south of London, they were not taken seriously.",
+      "translations": {
+        "zh-Hans": "伦敦动物园接到报告，说在伦敦以南45英里处发现了一只野生美洲狮，起初并没有把这些报告当回事。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 28.88,
+      "end": 42.88,
+      "text": "However, as the evidence began to accumulate, experts from the zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the Puma were extraordinarily similar.",
+      "translations": {
+        "zh-Hans": "然而，随着证据不断增多，动物园的专家们感到有必要展开调查，因为那些声称见过美洲狮的人所作的描述惊人地相似。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 43.88,
+      "end": 52.84,
+      "text": "The hunt for the Puma began in a small village where a woman picking blackberries saw a large cat, only five yards away from her.",
+      "translations": {
+        "zh-Hans": "搜寻美洲狮的行动从一个小村庄开始，一名正在采摘黑莓的妇女看见一只大猫，离她只有五码远。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 52.84,
+      "end": 61.88,
+      "text": "It immediately ran away when she saw it, and experts confirmed that a Puma will not attack a human being unless it is cornered.",
+      "translations": {
+        "zh-Hans": "它一见到她便立即逃走了；专家证实，除非被逼入绝境，美洲狮是不会攻击人的。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 63,
+      "end": 71.56,
+      "text": "The search proved difficult, for the Puma was often observed at one place in the morning and at another place 20 miles away in the evening.",
+      "translations": {
+        "zh-Hans": "搜寻工作十分困难，因为人们常常早晨在一个地方看见它，晚上却又在20英里外的另一个地方发现它。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 72.66,
+      "end": 77.72,
+      "text": "Wherever it went, it left behind a trail of dead deer and small animals, like rabbits.",
+      "translations": {
+        "zh-Hans": "它所到之处，总会留下一路被咬死的鹿和兔子之类的小动物。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 78.96,
+      "end": 84.34,
+      "text": "Paw prints were seen in a number of places and Puma fur was found clinging to bushes.",
+      "translations": {
+        "zh-Hans": "许多地方都发现了爪印，灌木丛上还粘有美洲狮的毛。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 85.76,
+      "end": 93.02,
+      "text": "people complained of cat-like noises at night, and a businessman on a fishing trip saw the Puma up a tree.",
+      "translations": {
+        "zh-Hans": "有人抱怨夜里听到猫一样的叫声，还有一位外出钓鱼的商人在树上看见了美洲狮。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 94.18,
+      "end": 100.2,
+      "text": "The experts were now fully convinced that the animal was a Puma, but where had it come from?",
+      "translations": {
+        "zh-Hans": "专家们此时已完全确信这是一只美洲狮，可它究竟从哪里来呢？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 101.2,
+      "end": 111.14,
+      "text": "As no Pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.",
+      "translations": {
+        "zh-Hans": "由于全国任何一家动物园都没有报告美洲狮失踪，因此这只美洲狮一定原属于一位私人收藏家，后来不知怎么逃了出来。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 112.28,
+      "end": 116.16,
+      "text": "The hunt went on for several weeks, but the Puma was not caught.",
+      "translations": {
+        "zh-Hans": "搜寻持续了好几个星期，但始终没有抓到那只美洲狮。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 117.34,
+      "end": 123.42,
+      "text": "It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.",
+      "translations": {
+        "zh-Hans": "一想到这只危险的野兽仍在宁静的乡间逍遥自在，实在令人不安。"
+      }
+    }
+  ]
+}

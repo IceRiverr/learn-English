@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-005-no-wrong-numbers",
+    "title": "Lesson 5: No Wrong Numbers",
+    "audioFilename": "05－No Wrong Numbers.mp3",
+    "duration": 74.736,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.4,
+      "end": 1.78,
+      "text": "Lesson 5.",
+      "translations": {
+        "zh-Hans": "第5课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.82,
+      "end": 4.22,
+      "text": "No Wrong Numbers.",
+      "translations": {
+        "zh-Hans": "不会拨错号码。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.88,
+      "end": 9.06,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.52,
+      "end": 13.66,
+      "text": "What does no wrong numbers mean?",
+      "translations": {
+        "zh-Hans": "“不会拨错号码”是什么意思？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.96,
+      "end": 16.28,
+      "text": "Mr.",
+      "translations": {
+        "zh-Hans": "斯科特"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 16.74,
+      "end": 24.18,
+      "text": "Scott has a garage in Silbury, and now he has just bought another garage in Pinhurst.",
+      "translations": {
+        "zh-Hans": "先生在锡尔伯里有一家汽车修理厂，现在他刚在平赫斯特又买了一家。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 25.48,
+      "end": 30.32,
+      "text": "Pinhurst is only five miles from Silbury, but Mr.",
+      "translations": {
+        "zh-Hans": "平赫斯特离锡尔伯里只有5英里，不过斯科特"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 30.74,
+      "end": 37.56,
+      "text": "Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+      "translations": {
+        "zh-Hans": "先生无法为新修理厂装上电话，所以他刚买了12只鸽子。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 39.1,
+      "end": 44.52,
+      "text": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "translations": {
+        "zh-Hans": "昨天，一只鸽子把第一封信从平赫斯特带到了锡尔伯里。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 45.24,
+      "end": 48.28,
+      "text": "The bird covered the distance in three minutes.",
+      "translations": {
+        "zh-Hans": "这只鸟只用了3分钟就飞完了全程。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 49.36,
+      "end": 51.28,
+      "text": "Up to now, Mr.",
+      "translations": {
+        "zh-Hans": "到目前为止，斯科特"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 51.7,
+      "end": 59.92,
+      "text": "Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+      "translations": {
+        "zh-Hans": "先生已经从一个修理厂向另一个修理厂发出了许多索要备件的请求和其他紧急信息。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 60.88,
+      "end": 66.64,
+      "text": "In this way, he has begun his own private telephone service.",
+      "translations": {
+        "zh-Hans": "就这样，他开始了自己的私人电话服务。"
+      }
+    }
+  ]
+}

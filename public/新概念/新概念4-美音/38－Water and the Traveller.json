@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce4-038-water-and-the-traveller",
+    "title": "Lesson 38: Water and the Traveller",
+    "audioFilename": "38－Water and the Traveller.mp3",
+    "duration": 183.615,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.27,
+      "end": 1.67,
+      "text": "Lesson 38.",
+      "translations": {
+        "zh-Hans": "第38课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.61,
+      "end": 4.03,
+      "text": "Water and the Traveller.",
+      "translations": {
+        "zh-Hans": "水与旅行者。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.07,
+      "end": 8.39,
+      "text": "First listen, and then answer the following question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.65,
+      "end": 11.81,
+      "text": "What does this text describe?",
+      "translations": {
+        "zh-Hans": "本文讲述什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 13.47,
+      "end": 29.39,
+      "text": "Contamination of water supplies is usually due to poor sanitation close to water sources, sewage disposal into the sources themselves, leakage of sewage into distribution systems, or contamination with",
+      "translations": {
+        "zh-Hans": "水源污染通常源于水源附近卫生条件差、污水直接排入水源、污水渗漏进供水系统，或受到"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 29.39,
+      "end": 31.05,
+      "text": "industrial or farm waste.",
+      "translations": {
+        "zh-Hans": "工业和农业废物污染。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 32.23,
+      "end": 39.01,
+      "text": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap.",
+      "translations": {
+        "zh-Hans": "即使管道供水在源头是安全的，到达水龙头时也未必安全。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 39.73,
+      "end": 44.87,
+      "text": "Intermittent tap water supplies should be regarded as particularly suspect.",
+      "translations": {
+        "zh-Hans": "间歇性自来水供应尤其应当受到怀疑。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 46.01,
+      "end": 56.09,
+      "text": "Travellers on short trips to areas with water supplies of uncertain quality should avoid drinking tap water or untreated water from any other source.",
+      "translations": {
+        "zh-Hans": "短期前往供水质量不确定地区的旅行者，应避免饮用自来水或其他来源未经处理的水。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 57.13,
+      "end": 62.25,
+      "text": "It is best to keep to hot drinks, bottled or canned drinks of well-known brand names.",
+      "translations": {
+        "zh-Hans": "最好只喝热饮，或知名品牌的瓶装、罐装饮料。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 62.97,
+      "end": 67.09,
+      "text": "International standards of water treatment are usually followed at bottling plants.",
+      "translations": {
+        "zh-Hans": "瓶装厂通常遵循国际水处理标准。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 68.55,
+      "end": 71.35,
+      "text": "Carbonated drinks are acidic and slightly safer.",
+      "translations": {
+        "zh-Hans": "碳酸饮料呈酸性，稍微安全一些。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 72.29,
+      "end": 78.09,
+      "text": "Make sure that all bottles are opened in your presence and that their rims are clean and dry.",
+      "translations": {
+        "zh-Hans": "确保所有瓶子都在你面前打开，并且瓶口清洁干燥。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 78.93,
+      "end": 81.67,
+      "text": "Boiling is always a good way of treating water.",
+      "translations": {
+        "zh-Hans": "煮沸始终是处理饮用水的好办法。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 82.53,
+      "end": 88.65,
+      "text": "Some hotels supplied boiled water on request, and this can be used for drinking or for brushing teeth.",
+      "translations": {
+        "zh-Hans": "有些旅馆可应要求提供开水，可用于饮用或刷牙。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 89.93,
+      "end": 97.19,
+      "text": "boiling elements that can boil small quantities of water are useful when the right voltage of electricity is available.",
+      "translations": {
+        "zh-Hans": "在电压合适的地方，能煮少量水的便携电热器很有用。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 98.01,
+      "end": 101.73,
+      "text": "Refuse politely any cold drink from an unknown source.",
+      "translations": {
+        "zh-Hans": "对来源不明的冷饮要礼貌拒绝。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 103.35,
+      "end": 110.87,
+      "text": "Ice is only as safe as the water from which it is made, and should not be put in drinks unless it is known to be safe.",
+      "translations": {
+        "zh-Hans": "冰块的安全程度取决于制冰用水；除非知道它安全，否则不应放进饮料。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 111.93,
+      "end": 116.89,
+      "text": "Drinks can be cooled by placing them on ice rather than adding ice to them.",
+      "translations": {
+        "zh-Hans": "可以把饮料放在冰上冷却，而不要把冰加入饮料。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 118.71,
+      "end": 124.61,
+      "text": "may be a medical disinfectant, but should not be relied upon to sterilize water.",
+      "translations": {
+        "zh-Hans": "酒精也许是医用消毒剂，却不应依靠它给水灭菌。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 125.69,
+      "end": 130.31,
+      "text": "Ethanol is more effective at a concentration of 50 to 70 percent.",
+      "translations": {
+        "zh-Hans": "浓度为50%至70%的乙醇更有效。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 130.81,
+      "end": 134.93,
+      "text": "Below 20 percent, its bactericidal action is negligible.",
+      "translations": {
+        "zh-Hans": "低于20%时，它的杀菌作用微乎其微。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 134.93,
+      "end": 141.69,
+      "text": "Spirits labeled 95 proof contain only about 47 percent alcohol.",
+      "translations": {
+        "zh-Hans": "标为95 proof酒度的烈酒只含约47%的酒精。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 142.79,
+      "end": 149.27,
+      "text": "Beware of methylated alcohol, which is very poisonous and should never be added to drinking water.",
+      "translations": {
+        "zh-Hans": "要当心工业酒精，它毒性很强，绝不能加入饮用水。"
+      }
+    },
+    {
+      "id": "s025",
+      "start": 150.75,
+      "end": 160.33,
+      "text": "If no other safe water supply can be obtained, tap water that is too hot to touch can be left to cool and is generally safe to drink.",
+      "translations": {
+        "zh-Hans": "如果无法获得其他安全水源，可让烫得无法触摸的自来水冷却，通常即可安全饮用。"
+      }
+    },
+    {
+      "id": "s026",
+      "start": 161.13,
+      "end": 173.65,
+      "text": "Those planning a trip to remote areas or intending to live in countries where drinking water is not readily available should know about the various possible methods for making water safe.",
+      "translations": {
+        "zh-Hans": "计划去偏远地区旅行，或打算在不易获得饮用水的国家生活的人，应了解使水安全的各种方法。"
+      }
+    }
+  ]
+}

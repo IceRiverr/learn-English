@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-029-030-come-in-amy",
+    "title": "Lesson 29: Come in, Amy.",
+    "audioFilename": "029&030－Come In, Amy..mp3",
+    "duration": 54.309,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.21,
+      "end": 4.79,
+      "text": "Lesson 29–Come In, Amy.",
+      "translations": {
+        "zh-Hans": "第29课——进来吧，艾米。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 6.83,
+      "end": 10.71,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 12.73,
+      "end": 15.17,
+      "text": "How must Amy clean the floor?",
+      "translations": {
+        "zh-Hans": "艾米必须怎样清扫地板？"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 17.3,
+      "end": 18.68,
+      "text": "Come in, Amy.",
+      "translations": {
+        "zh-Hans": "进来吧，艾米。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 19.92,
+      "end": 21.16,
+      "text": "Shut the door, please.",
+      "translations": {
+        "zh-Hans": "请把门关上。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 22.54,
+      "end": 25.38,
+      "text": "This bedroom's very untidy.",
+      "translations": {
+        "zh-Hans": "这间卧室太不整洁了。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.76,
+      "end": 28.66,
+      "text": "What must I do, Mrs.",
+      "translations": {
+        "zh-Hans": "我必须做什么，"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 28.78,
+      "end": 29.22,
+      "text": "Jones?",
+      "translations": {
+        "zh-Hans": "琼斯太太？"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 30.22,
+      "end": 33.7,
+      "text": "Open the window and air the room.",
+      "translations": {
+        "zh-Hans": "打开窗户，给房间通通风。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 35.24,
+      "end": 38.56,
+      "text": "Then put these clothes in the wardrobe.",
+      "translations": {
+        "zh-Hans": "然后把这些衣服放进衣柜里。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 40,
+      "end": 41.46,
+      "text": "Then make the bed.",
+      "translations": {
+        "zh-Hans": "接着整理床铺。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 43.28,
+      "end": 44.9,
+      "text": "Dust the dressing table.",
+      "translations": {
+        "zh-Hans": "给梳妆台掸灰。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 45.84,
+      "end": 48,
+      "text": "Then sweep the floor.",
+      "translations": {
+        "zh-Hans": "然后扫地。"
+      }
+    }
+  ]
+}

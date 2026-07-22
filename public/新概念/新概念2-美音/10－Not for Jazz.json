@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-010-not-for-jazz",
+    "title": "Lesson 10: Not for Jazz",
+    "audioFilename": "10－Not for Jazz.mp3",
+    "duration": 63.06,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.08,
+      "end": 1.34,
+      "text": "Lesson 10.",
+      "translations": {
+        "zh-Hans": "第10课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.36,
+      "end": 3.42,
+      "text": "Not for Jazz.",
+      "translations": {
+        "zh-Hans": "不适合演奏爵士乐。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.08,
+      "end": 7.92,
+      "text": "listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 9.06,
+      "end": 11.1,
+      "text": "What happened to the clavichord?",
+      "translations": {
+        "zh-Hans": "那架古钢琴发生了什么事？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 12.62,
+      "end": 15.22,
+      "text": "We have an old musical instrument.",
+      "translations": {
+        "zh-Hans": "我们有一件古老的乐器。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 16.06,
+      "end": 18,
+      "text": "It is called a clavichord.",
+      "translations": {
+        "zh-Hans": "它叫古钢琴。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 18.92,
+      "end": 22.3,
+      "text": "It was made in Germany in 1681.",
+      "translations": {
+        "zh-Hans": "它于1681年在德国制造。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 23.8,
+      "end": 26.06,
+      "text": "Our clavichord is kept in the living room.",
+      "translations": {
+        "zh-Hans": "我们的古钢琴存放在客厅里。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 27.18,
+      "end": 35.54,
+      "text": "It has belonged to our family for a long time. The instrument was bought by my grandfather many years ago.",
+      "translations": {
+        "zh-Hans": "它属于我们家已经很久了。这件乐器是我祖父多年前买的。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 36.58,
+      "end": 39.02,
+      "text": "Recently it was damaged by a visitor.",
+      "translations": {
+        "zh-Hans": "最近它被一位客人弄坏了。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 39.88,
+      "end": 42.22,
+      "text": "She tried to play jazz on it.",
+      "translations": {
+        "zh-Hans": "她试图用它演奏爵士乐。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 42.88,
+      "end": 47.3,
+      "text": "She struck the keys too hard and two of the strings were broken.",
+      "translations": {
+        "zh-Hans": "她敲键太用力，弄断了两根琴弦。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 48.4,
+      "end": 50.12,
+      "text": "My father was shocked.",
+      "translations": {
+        "zh-Hans": "我父亲大为震惊。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 51.24,
+      "end": 53.72,
+      "text": "Now we are not allowed to touch it.",
+      "translations": {
+        "zh-Hans": "现在不许我们碰它。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 54.3,
+      "end": 57.08,
+      "text": "It is being repaired by a friend of my father's.",
+      "translations": {
+        "zh-Hans": "父亲的一位朋友正在修理它。"
+      }
+    }
+  ]
+}

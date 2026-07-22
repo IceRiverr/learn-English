@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce1-113-114-small-change",
+    "title": "Lesson 113: Small change",
+    "audioFilename": "113&114－Small Change.mp3",
+    "duration": 90.514,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.43,
+      "end": 2.43,
+      "text": "Lesson 113.",
+      "translations": {
+        "zh-Hans": "第113课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.85,
+      "end": 5.11,
+      "text": "Small Change.",
+      "translations": {
+        "zh-Hans": "零钱。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 6.71,
+      "end": 10.65,
+      "text": "Listen to the tape, then answer this question.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 12.05,
+      "end": 14.65,
+      "text": "Who has got some small change?",
+      "translations": {
+        "zh-Hans": "谁有零钱？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.44,
+      "end": 18.3,
+      "text": "Fairs, please.",
+      "translations": {
+        "zh-Hans": "请买票。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 19.34,
+      "end": 20.88,
+      "text": "Trafalgar Square, please.",
+      "translations": {
+        "zh-Hans": "请给我一张去特拉法加广场的票。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 21.62,
+      "end": 23,
+      "text": "I'm sorry, sir.",
+      "translations": {
+        "zh-Hans": "对不起，先生。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 24.08,
+      "end": 27.42,
+      "text": "I can't change a ten-pound note.",
+      "translations": {
+        "zh-Hans": "我找不开十英镑的钞票。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 28.34,
+      "end": 31.04,
+      "text": "Haven't you got any small change?",
+      "translations": {
+        "zh-Hans": "您没有零钱吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 31.04,
+      "end": 35.26,
+      "text": "I've got no small change, I'm afraid.",
+      "translations": {
+        "zh-Hans": "恐怕我一点零钱也没有。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 36.48,
+      "end": 38.7,
+      "text": "I'll ask some of the passengers.",
+      "translations": {
+        "zh-Hans": "我问问其他乘客。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 40.22,
+      "end": 42.96,
+      "text": "Have you any small change, sir?",
+      "translations": {
+        "zh-Hans": "先生，您有零钱吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 43.58,
+      "end": 46.06,
+      "text": "I'm sorry, I've got none.",
+      "translations": {
+        "zh-Hans": "对不起，我没有。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 47.72,
+      "end": 50.28,
+      "text": "I haven't got any either.",
+      "translations": {
+        "zh-Hans": "我也没有。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 51.72,
+      "end": 55.68,
+      "text": "Can you change this ten-pound note, madam?",
+      "translations": {
+        "zh-Hans": "女士，您能找开这张十英镑的钞票吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 56.76,
+      "end": 59.32,
+      "text": "I'm afraid I can't.",
+      "translations": {
+        "zh-Hans": "恐怕不能。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 59.32,
+      "end": 61.96,
+      "text": "Neither can I.",
+      "translations": {
+        "zh-Hans": "我也不能。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 63.08,
+      "end": 64.74,
+      "text": "I'm very sorry, sir.",
+      "translations": {
+        "zh-Hans": "非常抱歉，先生。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 65.34,
+      "end": 67.54,
+      "text": "You must get off the bus.",
+      "translations": {
+        "zh-Hans": "您必须下车。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 68.8,
+      "end": 72.72,
+      "text": "None of our passengers can change this note.",
+      "translations": {
+        "zh-Hans": "我们的乘客谁也找不开这张钞票。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 73.56,
+      "end": 75.18,
+      "text": "They're all millionaires.",
+      "translations": {
+        "zh-Hans": "他们全是百万富翁。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 76.48,
+      "end": 77.86,
+      "text": "Except us.",
+      "translations": {
+        "zh-Hans": "除了我们。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 79.44,
+      "end": 81.56,
+      "text": "I've got some small change.",
+      "translations": {
+        "zh-Hans": "我有一些零钱。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 82.98,
+      "end": 84.2,
+      "text": "So have I.",
+      "translations": {
+        "zh-Hans": "我也有。"
+      }
+    }
+  ]
+}

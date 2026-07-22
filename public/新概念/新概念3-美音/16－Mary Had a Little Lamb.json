@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-016-mary-had-a-little-lamb",
+    "title": "Lesson 16: Mary Had a Little Lamb",
+    "audioFilename": "16－Mary Had a Little Lamb.mp3",
+    "duration": 137.482,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0,
+      "end": 1.6,
+      "text": "Lesson 16.",
+      "translations": {
+        "zh-Hans": "第16课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 2.8,
+      "end": 4.4,
+      "text": "Mary Had a Little Lamb.",
+      "translations": {
+        "zh-Hans": "玛丽有一只小羊羔。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.56,
+      "end": 8.78,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.38,
+      "end": 13.46,
+      "text": "Was Demetri right to apologize to his neighbor?",
+      "translations": {
+        "zh-Hans": "德米特里向邻居道歉是对的吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 14.26,
+      "end": 14.88,
+      "text": "Why not?",
+      "translations": {
+        "zh-Hans": "为什么不对？"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 17.32,
+      "end": 23.92,
+      "text": "Mary and her husband Demetri lived in the tiny village of Parachora in southern Greece.",
+      "translations": {
+        "zh-Hans": "玛丽和丈夫德米特里住在希腊南部的小村庄帕拉乔拉。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 24.74,
+      "end": 31.2,
+      "text": "One of Mary's prized possessions was a little white lamb which her husband had given her.",
+      "translations": {
+        "zh-Hans": "玛丽最珍爱的财物之一，是丈夫送给她的一只白色小羊羔。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 31.86,
+      "end": 38.42,
+      "text": "She kept it tied to a tree in a field during the day, and went to fetch it every evening.",
+      "translations": {
+        "zh-Hans": "白天她把小羊拴在田野的一棵树上，每天傍晚再把它牵回来。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 39.5,
+      "end": 42.52,
+      "text": "One evening, however, the lamb was missing.",
+      "translations": {
+        "zh-Hans": "然而一天晚上，小羊不见了。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 43.2,
+      "end": 48.12,
+      "text": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+      "translations": {
+        "zh-Hans": "绳子被割断，显然小羊被偷了。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 49.02,
+      "end": 54.06,
+      "text": "When Demetri came in from the fields, his wife told him what had happened.",
+      "translations": {
+        "zh-Hans": "德米特里从田里回来后，妻子把事情告诉了他。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 55.02,
+      "end": 58.12,
+      "text": "Demetri at once set out to find the thief.",
+      "translations": {
+        "zh-Hans": "德米特里立即出发寻找窃贼。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 58.96,
+      "end": 62.5,
+      "text": "He knew it would not prove difficult in such a small village.",
+      "translations": {
+        "zh-Hans": "他知道在这样一个小村庄里，找到窃贼不会很难。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 64.28,
+      "end": 74.18,
+      "text": "After telling several of his friends about the theft, Demetri found out that his neighbor, Aleko, had suddenly acquired a new lamb.",
+      "translations": {
+        "zh-Hans": "他把失窃的事告诉几个朋友后，得知邻居阿列科突然有了一只新羊羔。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 75.1,
+      "end": 81.74,
+      "text": "Demetri immediately went to Aleko's house and angrily accused him of stealing the lamb.",
+      "translations": {
+        "zh-Hans": "德米特里马上来到阿列科家，愤怒地指责他偷了羊羔。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 82.74,
+      "end": 86.52,
+      "text": "He told him he had better return it or he would call the police.",
+      "translations": {
+        "zh-Hans": "他警告阿列科最好把羊还回来，否则就叫警察。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 87.94,
+      "end": 92.04,
+      "text": "Aleko denied taking it and led Demetri into his backyard.",
+      "translations": {
+        "zh-Hans": "阿列科否认偷羊，并把德米特里领进后院。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 93.08,
+      "end": 99,
+      "text": "It was true that he had just bought a lamb, he explained, but his lamb was black.",
+      "translations": {
+        "zh-Hans": "他解释说，自己的确刚买了一只羊羔，但这只羊是黑色的。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 100.26,
+      "end": 107.36,
+      "text": "Ashamed of having acted so rashly, Demetri apologized to Aleko for having accused him.",
+      "translations": {
+        "zh-Hans": "德米特里为自己如此鲁莽而惭愧，便因错误指责阿列科向他道歉。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 108.38,
+      "end": 115.42,
+      "text": "While they were talking, it began to rain, and Demetri stayed in Aleko's house until the rain stopped.",
+      "translations": {
+        "zh-Hans": "两人交谈时下起了雨，德米特里留在阿列科家，直到雨停。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 116.22,
+      "end": 124.58,
+      "text": "When he went outside, half an hour later, he was astonished to find that the little black lamb was almost white.",
+      "translations": {
+        "zh-Hans": "半小时后他走到外面，惊讶地发现那只黑色小羊几乎变成了白色。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 124.58,
+      "end": 131.08,
+      "text": "Its wool, which had been dyed black, had been washed clean by the rain.",
+      "translations": {
+        "zh-Hans": "它被染黑的羊毛已经让雨水冲洗干净了。"
+      }
+    }
+  ]
+}

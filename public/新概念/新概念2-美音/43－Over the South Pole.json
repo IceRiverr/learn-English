@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-043-over-the-south-pole",
+    "title": "Lesson 43: Over the South Pole",
+    "audioFilename": "43－Over the South Pole.mp3",
+    "duration": 94.929,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 2.04,
+      "text": "Lesson 43.",
+      "translations": {
+        "zh-Hans": "第43课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.24,
+      "end": 4.58,
+      "text": "Over the South Pole.",
+      "translations": {
+        "zh-Hans": "飞越南极。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.72,
+      "end": 9.36,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.64,
+      "end": 13.54,
+      "text": "How was the plane able to clear the mountains?",
+      "translations": {
+        "zh-Hans": "飞机是怎样越过群山的？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 15.82,
+      "end": 25.42,
+      "text": "In 1929, three years after his flight over the North Pole, the American explorer R.",
+      "translations": {
+        "zh-Hans": "1929年，在飞越北极三年后，美国探险家R·"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 25.78,
+      "end": 25.9,
+      "text": "E.",
+      "translations": {
+        "zh-Hans": "E·"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 26.24,
+      "end": 31.3,
+      "text": "Byrd successfully flew over the South Pole for the first time.",
+      "translations": {
+        "zh-Hans": "伯德首次成功飞越南极。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 31.78,
+      "end": 45,
+      "text": "Though at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.",
+      "translations": {
+        "zh-Hans": "起初，伯德和队员们还能拍摄下面群山的大量照片，但很快便陷入了严重困境。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 45.86,
+      "end": 50.46,
+      "text": "At one point, it seemed certain that their plane would crash.",
+      "translations": {
+        "zh-Hans": "一度看来，他们的飞机肯定会坠毁。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 51.3,
+      "end": 56.44,
+      "text": "It could only get over the mountains if it rose to 10,000 feet.",
+      "translations": {
+        "zh-Hans": "飞机只有升到一万英尺才能越过群山。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 57.46,
+      "end": 62.94,
+      "text": "Byrd at once ordered his men to throw out two heavy food sacks.",
+      "translations": {
+        "zh-Hans": "伯德立即命令队员扔掉两袋沉重的食物。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 64.06,
+      "end": 69.72,
+      "text": "The plane was then able to rise and it cleared the mountains by 400 feet.",
+      "translations": {
+        "zh-Hans": "随后飞机得以升高，以400英尺的余量越过了群山。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 71.04,
+      "end": 81.3,
+      "text": "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight.",
+      "translations": {
+        "zh-Hans": "伯德这时知道，他能够到达300英里外的南极了，因为视野中再也没有山峰。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 81.3,
+      "end": 88.26,
+      "text": "The aircraft was able to fly over the endless white plains without difficulty.",
+      "translations": {
+        "zh-Hans": "飞机得以毫无困难地飞越无边无际的白色平原。"
+      }
+    }
+  ]
+}

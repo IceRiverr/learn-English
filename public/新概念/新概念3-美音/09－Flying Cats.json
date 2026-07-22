@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce3-009-flying-cats",
+    "title": "Lesson 9: Flying Cats",
+    "audioFilename": "09－Flying Cats.mp3",
+    "duration": 146.129,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 0.46,
+      "end": 1.74,
+      "text": "Lesson 9.",
+      "translations": {
+        "zh-Hans": "第9课。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 3.2,
+      "end": 3.82,
+      "text": "Cats.",
+      "translations": {
+        "zh-Hans": "会飞的猫。"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 5.36,
+      "end": 8.26,
+      "text": "Listen to the tape, then answer the question below.",
+      "translations": {
+        "zh-Hans": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 10.12,
+      "end": 14.86,
+      "text": "How do cats try to protect themselves when falling from great heights?",
+      "translations": {
+        "zh-Hans": "猫从高处坠落时怎样设法保护自己？"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 17.48,
+      "end": 20.66,
+      "text": "Cats never fail to fascinate human beings.",
+      "translations": {
+        "zh-Hans": "猫总能使人着迷。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 21.82,
+      "end": 28.38,
+      "text": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well.",
+      "translations": {
+        "zh-Hans": "它们可以对人友好而亲昵，却也过着属于自己的神秘生活。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 29.31,
+      "end": 32.68,
+      "text": "They never become submissive like dogs and horses.",
+      "translations": {
+        "zh-Hans": "它们从不像狗和马那样顺从。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 33.66,
+      "end": 38.06,
+      "text": "As a result, humans have learned to respect feline independence.",
+      "translations": {
+        "zh-Hans": "因此，人类学会了尊重猫的独立性。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 39.44,
+      "end": 43.06,
+      "text": "Most cats remain suspicious of humans all their lives.",
+      "translations": {
+        "zh-Hans": "大多数猫终其一生都对人保持戒心。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 44.08,
+      "end": 51.06,
+      "text": "One of the things that fascinates us most about cats is the popular belief that they have nine lives.",
+      "translations": {
+        "zh-Hans": "猫最令我们着迷的事情之一，是人们普遍相信它有九条命。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 51.96,
+      "end": 56.06,
+      "text": "Apparently, there is a good deal of truth in this idea.",
+      "translations": {
+        "zh-Hans": "显然，这种说法确有不少道理。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 57.18,
+      "end": 61.8,
+      "text": "A cat's ability to survive falls is based on fact.",
+      "translations": {
+        "zh-Hans": "猫从坠落中幸存的能力是有事实依据的。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 64.5,
+      "end": 72.14,
+      "text": "the New York Animal Medical Center made a study of 132 cats over a period of five months.",
+      "translations": {
+        "zh-Hans": "纽约动物医疗中心曾在五个月内研究了132只猫。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 73.04,
+      "end": 76.14,
+      "text": "All these cats had one experience in common.",
+      "translations": {
+        "zh-Hans": "这些猫都有一段共同经历。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 76.92,
+      "end": 82.92,
+      "text": "They had fallen off high buildings, yet only eight of them died from shock or injuries.",
+      "translations": {
+        "zh-Hans": "它们都曾从高楼坠落，却只有8只因休克或受伤而死亡。"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 83.92,
+      "end": 92.8,
+      "text": "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings.",
+      "translations": {
+        "zh-Hans": "当然，纽约是进行这项有趣研究的理想场所，因为那里从不缺高楼大厦。"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 93.88,
+      "end": 97.42,
+      "text": "There are plenty of high-rise windowsills to fall from.",
+      "translations": {
+        "zh-Hans": "可供猫跌落的高层窗台多得很。"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 98.46,
+      "end": 105.6,
+      "text": "One cat, Sabrina, fell 32 stories, yet only suffered from a broken tooth.",
+      "translations": {
+        "zh-Hans": "一只名叫萨布丽娜的猫从32层楼坠下，却只摔断了一颗牙。"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 106.46,
+      "end": 111.38,
+      "text": "Cats behave like well-trained paratroopers, a doctor said.",
+      "translations": {
+        "zh-Hans": "“猫表现得像训练有素的跳伞员，”一位医生说。"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 112.06,
+      "end": 118.3,
+      "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
+      "translations": {
+        "zh-Hans": "猫似乎坠落得越远，受伤的可能性反而越小。"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 119.14,
+      "end": 124.18,
+      "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
+      "translations": {
+        "zh-Hans": "长距离坠落时，它们的速度会达到每小时60英里甚至更快。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 125,
+      "end": 128.68,
+      "text": "At high speeds, falling cats have time to relax.",
+      "translations": {
+        "zh-Hans": "高速坠落时，猫有时间放松身体。"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 129.32,
+      "end": 133.62,
+      "text": "They stretch out their legs like flying squirrels.",
+      "translations": {
+        "zh-Hans": "它们像鼯鼠一样伸展开四肢。"
+      }
+    },
+    {
+      "id": "s024",
+      "start": 133.62,
+      "end": 140,
+      "text": "This increases their air resistance and reduces the shock of impact when they hit the ground.",
+      "translations": {
+        "zh-Hans": "这会增大空气阻力，并减轻落地时撞击造成的冲击。"
+      }
+    }
+  ]
+}

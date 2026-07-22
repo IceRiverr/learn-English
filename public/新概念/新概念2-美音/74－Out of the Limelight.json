@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-074-out-of-the-limelight",
+    "title": "Lesson 74: Out of the Limelight",
+    "audioFilename": "74－Out of the Limelight.mp3",
+    "duration": 136.333,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 5.62,
+      "end": 9.68,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 11.36,
+      "end": 14.46,
+      "text": "Why was their disguise too perfect?",
+      "translations": {
+        "zh-Hans": "他们的伪装为什么过于完美？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 16.7,
+      "end": 24.6,
+      "text": "An ancient bus stopped by a dry riverbed, and a party of famous actors and actresses got off.",
+      "translations": {
+        "zh-Hans": "一辆老式公共汽车停在干涸的河床旁，一群著名男女演员下了车。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 25.88,
+      "end": 34.52,
+      "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "translations": {
+        "zh-Hans": "他们戴着墨镜，穿着旧衣服，采取了特别的防范措施，以免被人认出。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 35.74,
+      "end": 41.92,
+      "text": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "translations": {
+        "zh-Hans": "不过，他们很快就发现，伪装有时也会过于完美。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 43.24,
+      "end": 48.78,
+      "text": "This is a wonderful place for a picnic, said Gloria Gleam.",
+      "translations": {
+        "zh-Hans": "“这里真是野餐的好地方。”格洛丽亚·格利姆说。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 49.62,
+      "end": 51.74,
+      "text": "It couldn't be better, Gloria.",
+      "translations": {
+        "zh-Hans": "“再好不过了，格洛丽亚。”"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 52.68,
+      "end": 54.2,
+      "text": "Brinksley Meers agreed.",
+      "translations": {
+        "zh-Hans": "布林克斯利·米尔斯表示赞同。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 55.08,
+      "end": 58.18,
+      "text": "No newspapermen, no film fans.",
+      "translations": {
+        "zh-Hans": "“没有记者，也没有影迷。”"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 59.34,
+      "end": 61.32,
+      "text": "Why don't we come more often?",
+      "translations": {
+        "zh-Hans": "“我们为什么不常来呢？”"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 61.32,
+      "end": 75.06,
+      "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "translations": {
+        "zh-Hans": "与此同时，另外两名演员罗克沃尔·斯林格和默林·格里夫斯把两个大食物篮搬到树下的一片阴凉处。"
+      }
+    },
+    {
+      "id": "s012",
+      "start": 76.74,
+      "end": 81.64,
+      "text": "When they had all made themselves comfortable, a stranger appeared.",
+      "translations": {
+        "zh-Hans": "大家都安顿舒适后，一个陌生人出现了。"
+      }
+    },
+    {
+      "id": "s013",
+      "start": 82.56,
+      "end": 84.58,
+      "text": "He looked very angry.",
+      "translations": {
+        "zh-Hans": "他看起来非常生气。"
+      }
+    },
+    {
+      "id": "s014",
+      "start": 85.46,
+      "end": 90.54,
+      "text": "Now you get out of here, all of you, he shouted.",
+      "translations": {
+        "zh-Hans": "“你们所有人，现在就离开这里！”他喊道。"
+      }
+    },
+    {
+      "id": "s015",
+      "start": 91.66,
+      "end": 93.06,
+      "text": "I'm Sheriff here.",
+      "translations": {
+        "zh-Hans": "“我是这里的治安官。”"
+      }
+    },
+    {
+      "id": "s016",
+      "start": 94.04,
+      "end": 95.88,
+      "text": "Do you see that notice?",
+      "translations": {
+        "zh-Hans": "“你们看见那块告示了吗？”"
+      }
+    },
+    {
+      "id": "s017",
+      "start": 96.74,
+      "end": 102,
+      "text": "It says no camping, in case you can't read.",
+      "translations": {
+        "zh-Hans": "“上面写着禁止露营——如果你们还识字的话。”"
+      }
+    },
+    {
+      "id": "s018",
+      "start": 103,
+      "end": 108.76,
+      "text": "Look, Sheriff, said Rockwall, don't be too hard on us.",
+      "translations": {
+        "zh-Hans": "“听着，治安官，”罗克沃尔说，“别对我们太苛刻。”"
+      }
+    },
+    {
+      "id": "s019",
+      "start": 109.74,
+      "end": 114.44,
+      "text": "I'm Rockwall Slinger, and this is Merlin Greeves.",
+      "translations": {
+        "zh-Hans": "“我是罗克沃尔·斯林格，这位是默林·格里夫斯。”"
+      }
+    },
+    {
+      "id": "s020",
+      "start": 115.62,
+      "end": 116.92,
+      "text": "Oh, is it?",
+      "translations": {
+        "zh-Hans": "“哦，是吗？”"
+      }
+    },
+    {
+      "id": "s021",
+      "start": 117.44,
+      "end": 119.24,
+      "text": "said the Sheriff with a sneer.",
+      "translations": {
+        "zh-Hans": "治安官冷笑着说。"
+      }
+    },
+    {
+      "id": "s022",
+      "start": 120.26,
+      "end": 126,
+      "text": "Well, I'm Brinksley Meers, and my other name is Gloria Gleam.",
+      "translations": {
+        "zh-Hans": "“那我就是布林克斯利·米尔斯，我的另一个名字还叫格洛丽亚·格利姆呢。”"
+      }
+    },
+    {
+      "id": "s023",
+      "start": 126.84,
+      "end": 129.52,
+      "text": "Now you get out of here fast.",
+      "translations": {
+        "zh-Hans": "“现在赶快离开这里。”"
+      }
+    }
+  ]
+}

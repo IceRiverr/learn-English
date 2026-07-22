@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "course": {
+    "id": "nce2-048-did-you-want-to-tell-me-something",
+    "title": "Lesson 48: Did You Want to Tell Me Something",
+    "audioFilename": "48－Did You Want to Tell Me Something.mp3",
+    "duration": 89.104,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "start": 6.38,
+      "end": 10.64,
+      "text": "First listen, and then answer the question.",
+      "translations": {
+        "zh-Hans": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "start": 12.16,
+      "end": 15.24,
+      "text": "Why did the writer become very worried?",
+      "translations": {
+        "zh-Hans": "作者为什么变得非常担心？"
+      }
+    },
+    {
+      "id": "s003",
+      "start": 17.68,
+      "end": 23.32,
+      "text": "Dentists always ask questions when it is impossible for you to answer.",
+      "translations": {
+        "zh-Hans": "牙医总是在你无法回答时问问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "start": 24.9,
+      "end": 31.3,
+      "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "translations": {
+        "zh-Hans": "我的牙医刚拔掉我的一颗牙，并让我休息一会儿。"
+      }
+    },
+    {
+      "id": "s005",
+      "start": 32.14,
+      "end": 37.02,
+      "text": "I tried to say something, but my mouth was full of cotton wool.",
+      "translations": {
+        "zh-Hans": "我想说点什么，可嘴里塞满了药棉。"
+      }
+    },
+    {
+      "id": "s006",
+      "start": 38.32,
+      "end": 43.66,
+      "text": "He knew I collected match boxes and asked me whether my collection was growing.",
+      "translations": {
+        "zh-Hans": "他知道我收集火柴盒，便问我的收藏是否在增加。"
+      }
+    },
+    {
+      "id": "s007",
+      "start": 44.84,
+      "end": 51.3,
+      "text": "He then asked me how my brother was and whether I liked my new job in London.",
+      "translations": {
+        "zh-Hans": "接着，他又问我哥哥身体如何，以及我是否喜欢在伦敦的新工作。"
+      }
+    },
+    {
+      "id": "s008",
+      "start": 52.9,
+      "end": 58.76,
+      "text": "In answer to these questions, I either nodded or made strange noises.",
+      "translations": {
+        "zh-Hans": "回答这些问题时，我不是点头，就是发出奇怪的声音。"
+      }
+    },
+    {
+      "id": "s009",
+      "start": 60.1,
+      "end": 65.76,
+      "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "translations": {
+        "zh-Hans": "与此同时，我的舌头正忙着寻找原来牙齿所在的那个洞。"
+      }
+    },
+    {
+      "id": "s010",
+      "start": 66.86,
+      "end": 71.78,
+      "text": "I suddenly felt very worried, but could not say anything.",
+      "translations": {
+        "zh-Hans": "我突然非常担心，却什么也说不出来。"
+      }
+    },
+    {
+      "id": "s011",
+      "start": 73.38,
+      "end": 83.04,
+      "text": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.",
+      "translations": {
+        "zh-Hans": "牙医终于从我嘴里取出药棉后，我才得以告诉他，他拔错了牙。"
+      }
+    }
+  ]
+}
