@@ -43,8 +43,8 @@ export default defineConfig({
         name: "英语听力训练",
         short_name: "听力训练",
         description: "本地优先的逐句英语听力播放器",
-        theme_color: "#f7f5ef",
-        background_color: "#f7f5ef",
+        theme_color: "#f7f8fa",
+        background_color: "#f7f8fa",
         display: "standalone",
         icons: [
           {

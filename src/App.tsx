@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
 import { z } from "zod";
 import {
   deleteCourse,
@@ -12,6 +12,21 @@ import {
   type Segment
 } from "./db";
 import { lessonCollections, lessons, type Lesson } from "./lessons";
+import {
+  ArrowLeftIcon,
+  CheckIcon,
+  ChevronDownIcon,
+  DownloadIcon,
+  LoaderIcon,
+  LocateIcon,
+  PauseIcon,
+  PlayIcon,
+  SlidersExpandIcon,
+  SlidersIcon,
+  SkipBackIcon,
+  SkipForwardIcon,
+  TrashIcon
+} from "./icons";
 
 const groupedLessons = lessonCollections.map((collection) => ({
   ...collection,
@@ -478,7 +493,10 @@ export default function App() {
   function seekToSegment(index: number, autoplay = true) {
     if (!course) return;
     const next = Math.max(0, Math.min(index, course.segments.length - 1));
-    seekTo(Math.max(0, course.segments[next].start - 0.15));
+    // Manual sentence navigation starts at the exact boundary. The 150ms
+    // pre-roll belongs to repeat transitions; using it here briefly makes
+    // the generic seek path identify the previous sentence.
+    seekTo(course.segments[next].start);
     setCurrentSegment(next);
     if (loopSegmentRef.current !== undefined) {
       updateLoopSegment(next);
@@ -642,7 +660,7 @@ export default function App() {
         <time>{formatTime(segment.start)}</time>
         <span className="segment-copy">
           {segment.speaker && <small>{segment.speaker}</small>}
-          <span>{segment.text}</span>
+          <span className="segment-english">{segment.text}</span>
           {showTranslation && segment.translations?.[translationLanguage] && (
             <span className="segment-translation">{segment.translations[translationLanguage]}</span>
           )}
@@ -654,7 +672,6 @@ export default function App() {
   if (!course || !audioUrl) {
     return (
       <main className="center-card course-home">
-        <div className="brand">LISTEN / 0005</div>
         <h1>选择一课，认真听懂。</h1>
         <p className="intro">点击课程即可在线播放；下载后也能离线学习。</p>
 
@@ -663,6 +680,7 @@ export default function App() {
           {groupedLessons.map((group) => (
             <details className="course-group" key={group.id}>
               <summary>
+                <ChevronDownIcon className="course-group-icon" />
                 <strong>{group.title}</strong>
                 <span>{group.lessons.length} 课</span>
               </summary>
@@ -683,7 +701,12 @@ export default function App() {
                         disabled={checkingDownloads || isDownloading || isDownloaded}
                         onClick={() => void downloadLesson(lesson)}
                       >
-                        {checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}
+                        {checkingDownloads || isDownloading
+                          ? <LoaderIcon className="button-icon loading-icon" />
+                          : isDownloaded
+                            ? <CheckIcon className="button-icon" />
+                            : <DownloadIcon className="button-icon" />}
+                        <span>{checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}</span>
                       </button>
                     </div>
                   );
@@ -719,11 +742,10 @@ export default function App() {
   return (
     <main className={playerSettingsExpanded ? "player-page" : "player-page settings-collapsed"}>
       <header>
-        <button className="back" onClick={returnToCourses}>← 返回课程</button>
-        <div className="brand">LISTEN / 0005</div>
+        <button className="back" onClick={returnToCourses}><ArrowLeftIcon className="button-icon" />返回课程</button>
         <div className="course-heading">
           <h1>{course.title}</h1>
-          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}>删除本地课程</button>}
+          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}><TrashIcon className="button-icon" />删除本地课程</button>}
         </div>
       </header>
 
@@ -752,7 +774,7 @@ export default function App() {
           <>
             <section className="transcript" aria-label="完整字幕">{transcriptContent}</section>
             {!followingTranscript && (
-              <button className="follow-transcript" onClick={resumeTranscriptFollowing}>回到当前句</button>
+              <button className="follow-transcript" onClick={resumeTranscriptFollowing}><LocateIcon className="button-icon" />回到当前句</button>
             )}
           </>
         )}
@@ -797,7 +819,7 @@ export default function App() {
               <div className="player-menu speed-menu" id="speed-menu" role="menu" aria-label="播放倍速">
                 {speeds.map((value) => <button key={value} role="menuitemradio" aria-checked={speed === value}
                   className={speed === value ? "menu-option selected" : "menu-option"}
-                  onClick={() => changeSpeed(value)}><span>{speed === value ? "✓" : ""}</span>{value}×</button>)}
+                  onClick={() => changeSpeed(value)}><span className="icon-slot">{speed === value && <CheckIcon />}</span>{value}×</button>)}
               </div>
             )}
           </div>
@@ -813,12 +835,12 @@ export default function App() {
                 <div className="repeat-grid">
                   {repeatLimits.slice(0, 10).map((value) => <button key={value} role="menuitemradio"
                     aria-checked={repeatLimit === value} className={repeatLimit === value ? "selected" : ""}
-                    onClick={() => selectRepeatLimit(value)}>{repeatLimit === value ? `✓ ${value}` : value}</button>)}
+                    onClick={() => selectRepeatLimit(value)}>{repeatLimit === value && <CheckIcon />}{value}</button>)}
                 </div>
                 <button role="menuitemradio" aria-checked={repeatLimit === "infinite"}
                   className={repeatLimit === "infinite" ? "menu-option selected" : "menu-option"}
                   onClick={() => selectRepeatLimit("infinite")}>
-                  <span>{repeatLimit === "infinite" ? "✓" : ""}</span>∞ 无限循环
+                  <span className="icon-slot">{repeatLimit === "infinite" && <CheckIcon />}</span>∞ 无限循环
                 </button>
                 <button className="menu-option repeat-off" disabled={loopSegment === undefined}
                   onClick={() => { toggleRepeat(); closePlayerMenu(); }}><span />关闭逐句循环</button>
@@ -834,26 +856,29 @@ export default function App() {
             {openPlayerMenu === "reading" && (
               <div className="player-menu reading-menu" id="reading-menu" role="menu" aria-label="阅读模式">
                 <button role="menuitemradio" aria-checked={showTranslation} className={showTranslation ? "menu-option selected" : "menu-option"}
-                  onClick={() => { if (!showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span>{showTranslation ? "✓" : ""}</span>中英双语</button>
+                  onClick={() => { if (!showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span className="icon-slot">{showTranslation && <CheckIcon />}</span>中英双语</button>
                 <button role="menuitemradio" aria-checked={!showTranslation} className={!showTranslation ? "menu-option selected" : "menu-option"}
-                  onClick={() => { if (showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span>{!showTranslation ? "✓" : ""}</span>仅英文</button>
+                  onClick={() => { if (showTranslation) toggleTranslation(); else closePlayerMenu(); }}><span className="icon-slot">{!showTranslation && <CheckIcon />}</span>仅英文</button>
               </div>
             )}
           </div>
         </div>
         <div className="player-progress">
           <input className="timeline" type="range" min="0" max={course.duration} step="0.05" value={currentTime}
+            style={{ "--timeline-progress": `${Math.min(100, Math.max(0, currentTime / course.duration * 100))}%` } as CSSProperties}
             aria-label="播放进度" onChange={(event) => seekTo(Number(event.target.value))} />
           <div className="time-row"><span>{formatTime(currentTime)}</span><span>{formatTime(course.duration)}</span></div>
         </div>
         <div className="main-controls">
           <button className="settings-toggle" aria-expanded={playerSettingsExpanded}
             aria-controls="player-settings" aria-label={playerSettingsExpanded ? "收起播放设置" : "展开播放设置"}
-            onClick={togglePlayerSettings}>{playerSettingsExpanded ? "⌄" : "⌃"}</button>
-          <button onClick={() => seekToSegment(currentSegment - 1)} aria-label="上一句">‹</button>
+            onClick={togglePlayerSettings}>
+            {playerSettingsExpanded ? <SlidersIcon /> : <SlidersExpandIcon />}
+          </button>
+          <button onClick={() => seekToSegment(currentSegment - 1)} aria-label="上一句"><SkipBackIcon /></button>
           <button className="play" onClick={togglePlayback}
-            aria-label={playing ? "暂停" : "播放"}>{playing ? "Ⅱ" : "▶"}</button>
-          <button onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">›</button>
+            aria-label={playing ? "暂停" : "播放"}>{playing ? <PauseIcon /> : <PlayIcon />}</button>
+          <button onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句"><SkipForwardIcon /></button>
           <span className="main-controls-spacer" aria-hidden="true" />
         </div>
       </section>
