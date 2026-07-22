@@ -189,6 +189,7 @@ export default function App() {
   const repeatSwitchingRef = useRef(false);
   const repeatFinishedRef = useRef(false);
   const repeatTimerRef = useRef(0);
+  const lastRepeatFrameAtRef = useRef(0);
   const playerSettingsRef = useRef<HTMLDivElement>(null);
   const playerMenuTriggerRef = useRef<HTMLButtonElement>(null);
   const activeSegmentRef = useRef<HTMLButtonElement>(null);
@@ -262,7 +263,7 @@ export default function App() {
     repeatFinishedRef.current = false;
   }
 
-  function completeRepeatIteration(audio: HTMLAudioElement) {
+  function completeRepeatIteration(audio: HTMLAudioElement, resumeImmediately = false) {
     const target = loopSegmentRef.current;
     if (!course || target === undefined || repeatSwitchingRef.current) return;
 
@@ -270,12 +271,12 @@ export default function App() {
     if (audio.currentTime < Math.min(course.duration, segment.end + 0.2)) return;
 
     repeatSwitchingRef.current = true;
-    audio.pause();
     const limit = repeatLimitRef.current;
     const iteration = repeatIterationRef.current;
     const isComplete = limit !== "infinite" && iteration >= limit;
 
     if (isComplete && target === course.segments.length - 1) {
+      audio.pause();
       audio.currentTime = Math.min(course.duration, segment.end);
       setCurrentTime(audio.currentTime);
       repeatFinishedRef.current = true;
@@ -291,12 +292,13 @@ export default function App() {
       setCurrentTime(audio.currentTime);
       setCurrentSegment(nextTarget);
       repeatSwitchingRef.current = false;
-      void audio.play();
+      if (audio.paused) void audio.play();
     };
 
-    if (document.hidden) {
+    if (resumeImmediately) {
       resume();
     } else {
+      audio.pause();
       repeatTimerRef.current = window.setTimeout(resume, 300);
     }
   }
@@ -317,13 +319,16 @@ export default function App() {
     if (loopSegment === undefined || !course) return;
     let frame = 0;
     const monitor = () => {
+      lastRepeatFrameAtRef.current = Date.now();
       const audio = audioRef.current;
       if (audio && !document.hidden) completeRepeatIteration(audio);
       frame = requestAnimationFrame(monitor);
     };
+    lastRepeatFrameAtRef.current = Date.now();
     frame = requestAnimationFrame(monitor);
     return () => {
       cancelAnimationFrame(frame);
+      lastRepeatFrameAtRef.current = 0;
     };
   }, [course, loopSegment]);
 
@@ -781,7 +786,8 @@ export default function App() {
           }}
           onTimeUpdate={(event) => {
             let time = event.currentTarget.currentTime;
-            if (document.hidden) completeRepeatIteration(event.currentTarget);
+            const frameInactive = Date.now() - lastRepeatFrameAtRef.current > 500;
+            completeRepeatIteration(event.currentTarget, document.hidden || frameInactive);
             time = event.currentTarget.currentTime;
             setCurrentTime(time);
             const index = loopSegmentRef.current ?? findSegmentIndex(course.segments, time);
