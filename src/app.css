@@ -506,6 +506,20 @@ h1 {
 .segment.active time { color: var(--color-accent); }
 .segment.active .segment-english { color: var(--color-text); font-weight: 650; }
 .segment.active .segment-translation { color: var(--color-text-secondary); }
+.timed-word {
+  border-radius: 3px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.timed-word.past { color: var(--color-text); }
+.timed-word.future { color: var(--color-text-secondary); }
+.timed-word.current {
+  color: var(--color-accent);
+  background: var(--color-accent-soft);
+  box-shadow: inset 0 -2px var(--color-accent);
+}
+.segment.active .timed-word.future { color: var(--color-text-secondary); }
+.segment.active .timed-word.current { color: var(--color-accent); }
 .follow-transcript {
   position: fixed;
   z-index: 9;

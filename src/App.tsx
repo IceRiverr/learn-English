@@ -1,4 +1,12 @@
-import { useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
+import {
+  forwardRef,
+  memo,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type CSSProperties
+} from "react";
 import { z } from "zod";
 import {
   clearLastPlayed,
@@ -80,6 +88,72 @@ type ResumePreview = {
   currentTime: number;
   unavailable: boolean;
 };
+type TimedTextToken = {
+  text: string;
+  wordIndex?: number;
+  weight: number;
+};
+
+const timedWordPattern = /[\p{L}\p{N}]+(?:['’\u2010-\u2015-][\p{L}\p{N}]+)*/gu;
+const timedCharacterPattern = /[\p{L}\p{N}]/gu;
+const timedTextTokenCache = new Map<string, TimedTextToken[]>();
+
+function tokenizeTimedText(text: string): TimedTextToken[] {
+  const cached = timedTextTokenCache.get(text);
+  if (cached) return cached;
+  const tokens: TimedTextToken[] = [];
+  let cursor = 0;
+  let wordIndex = 0;
+
+  for (const match of text.matchAll(timedWordPattern)) {
+    const index = match.index;
+    if (index > cursor) tokens.push({ text: text.slice(cursor, index), weight: 0 });
+    const word = match[0];
+    const weight = Math.max(1, word.match(timedCharacterPattern)?.length ?? 0);
+    tokens.push({ text: word, wordIndex, weight });
+    wordIndex += 1;
+    cursor = index + word.length;
+  }
+  if (cursor < text.length) tokens.push({ text: text.slice(cursor), weight: 0 });
+  if (timedTextTokenCache.size >= 512) timedTextTokenCache.clear();
+  timedTextTokenCache.set(text, tokens);
+  return tokens;
+}
+
+function findEstimatedWordIndex(segment: Segment, currentTime: number): number {
+  const words = tokenizeTimedText(segment.text).filter(
+    (token): token is TimedTextToken & { wordIndex: number } => token.wordIndex !== undefined
+  );
+  if (words.length === 0) return -1;
+  if (currentTime >= segment.end) return words.length;
+  if (segment.end <= segment.start || currentTime <= segment.start) return 0;
+
+  const progress = Math.min(1, Math.max(0, (currentTime - segment.start) / (segment.end - segment.start)));
+  const totalWeight = words.reduce((total, word) => total + word.weight, 0);
+  const targetWeight = progress * totalWeight;
+  let cumulativeWeight = 0;
+  for (const word of words) {
+    cumulativeWeight += word.weight;
+    if (targetWeight < cumulativeWeight) return word.wordIndex;
+  }
+  return words.length - 1;
+}
+
+const TimedEnglishText = memo(forwardRef<HTMLSpanElement, { text: string }>(
+  function TimedEnglishText({ text }, ref) {
+    const tokens = useMemo(() => tokenizeTimedText(text), [text]);
+    return (
+      <span className="timed-text" ref={ref}>
+        {tokens.map((token, tokenIndex) => token.wordIndex === undefined
+          ? token.text
+          : (
+            <span key={tokenIndex} className={token.wordIndex === 0 ? "timed-word current" : "timed-word future"}
+              data-word-index={token.wordIndex}>{token.text}</span>
+          ))}
+      </span>
+    );
+  }
+));
 
 function readRepeatLimit(): RepeatLimit {
   try {
@@ -216,6 +290,10 @@ export default function App() {
   const activeSegmentRef = useRef<HTMLButtonElement>(null);
   const transcriptShouldCenterRef = useRef(false);
   const sessionRequestRef = useRef(0);
+  const focusTimedTextRef = useRef<HTMLSpanElement>(null);
+  const transcriptTimedTextRef = useRef<HTMLSpanElement>(null);
+  const highlightedWordRef = useRef(-2);
+  const wordSyncFrameRef = useRef(0);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -363,6 +441,7 @@ export default function App() {
     return () => {
       cancelled = true;
       clearRepeatTimer();
+      cancelAnimationFrame(wordSyncFrameRef.current);
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
     };
   }, []);
@@ -474,6 +553,26 @@ export default function App() {
     const frame = requestAnimationFrame(() => scrollActiveSegment(center));
     return () => cancelAnimationFrame(frame);
   }, [currentSegment, followingTranscript, playerView]);
+
+  useEffect(() => {
+    if (!course || appView !== "player") return;
+    let frame = 0;
+    let force = true;
+    const update = () => {
+      const audio = audioRef.current;
+      const time = audio && audio.readyState > 0 ? audio.currentTime : restoreTime.current;
+      const segmentIndex = loopSegmentRef.current ?? findSegmentIndex(course.segments, time);
+      if (segmentIndex !== currentSegment) {
+        setCurrentSegment(segmentIndex);
+      } else {
+        applyEstimatedWordHighlight(course.segments[segmentIndex], time, force);
+        force = false;
+      }
+      if (audio && !audio.paused) frame = requestAnimationFrame(update);
+    };
+    frame = requestAnimationFrame(update);
+    return () => cancelAnimationFrame(frame);
+  }, [appView, course, currentSegment, playerView, playing]);
 
   useEffect(() => {
     setCompactHeaderVisible(false);
@@ -652,6 +751,7 @@ export default function App() {
     setCurrentTime(audio.currentTime);
     const nextSegment = findSegmentIndex(course.segments, audio.currentTime);
     setCurrentSegment(nextSegment);
+    scheduleEstimatedWordHighlight(course.segments[nextSegment], audio.currentTime);
     if (loopSegmentRef.current !== undefined) {
       updateLoopSegment(nextSegment);
       updateRepeatIteration(1);
@@ -726,6 +826,30 @@ export default function App() {
   function closePlayerMenu() {
     setOpenPlayerMenu(undefined);
     window.setTimeout(() => playerMenuTriggerRef.current?.focus(), 0);
+  }
+
+  function applyEstimatedWordHighlight(segment: Segment, time: number, force = false) {
+    const wordIndex = findEstimatedWordIndex(segment, time);
+    if (!force && highlightedWordRef.current === wordIndex) return;
+    highlightedWordRef.current = wordIndex;
+
+    for (const container of [focusTimedTextRef.current, transcriptTimedTextRef.current]) {
+      if (!container) continue;
+      for (const word of container.querySelectorAll<HTMLElement>(".timed-word")) {
+        const index = Number(word.dataset.wordIndex);
+        word.classList.toggle("past", index < wordIndex);
+        word.classList.toggle("current", index === wordIndex);
+        word.classList.toggle("future", index > wordIndex);
+      }
+    }
+  }
+
+  function scheduleEstimatedWordHighlight(segment: Segment, time: number) {
+    cancelAnimationFrame(wordSyncFrameRef.current);
+    wordSyncFrameRef.current = requestAnimationFrame(() => {
+      wordSyncFrameRef.current = 0;
+      applyEstimatedWordHighlight(segment, time, true);
+    });
   }
 
   function scrollActiveSegment(center: boolean) {
@@ -858,7 +982,11 @@ export default function App() {
         <time>{formatTime(segment.start)}</time>
         <span className="segment-copy">
           {segment.speaker && <small>{segment.speaker}</small>}
-          <span className="segment-english">{segment.text}</span>
+          <span className="segment-english">
+            {index === currentSegment
+              ? <TimedEnglishText ref={transcriptTimedTextRef} text={segment.text} />
+              : segment.text}
+          </span>
           {showTranslation && segment.translations?.[translationLanguage] && (
             <span className="segment-translation">{segment.translations[translationLanguage]}</span>
           )}
@@ -875,7 +1003,9 @@ export default function App() {
         event.currentTarget.playbackRate = speed;
         event.currentTarget.currentTime = Math.min(restoreTime.current, activeCourse.duration);
         setCurrentTime(event.currentTarget.currentTime);
-        setCurrentSegment(findSegmentIndex(activeCourse.segments, event.currentTarget.currentTime));
+        const segmentIndex = findSegmentIndex(activeCourse.segments, event.currentTarget.currentTime);
+        setCurrentSegment(segmentIndex);
+        scheduleEstimatedWordHighlight(activeCourse.segments[segmentIndex], event.currentTarget.currentTime);
       }}
       onPlay={(event) => handlePlay(event.currentTarget)}
       onPause={(event) => {
@@ -1076,7 +1206,9 @@ export default function App() {
               <span className="focus-index">{currentSegment + 1} / {course.segments.length}</span>
               {activeSegment.speaker && <><span className="focus-separator">·</span><span className="focus-speaker">{activeSegment.speaker}</span></>}
             </div>
-            <p className="focus-english">{activeSegment.text}</p>
+            <p className="focus-english">
+              <TimedEnglishText ref={focusTimedTextRef} text={activeSegment.text} />
+            </p>
             {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
           </section>
         ) : (
