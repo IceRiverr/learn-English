@@ -41,6 +41,7 @@
 - 有限循环完成后进入下一句；最后一句完成后暂停。
 - 手动切句或跳转后，重置循环目标和当前次数。
 - 持久化循环次数和翻译显示偏好，但不持久化正在进行的循环会话。
+- 页面导航不得卸载或重建当前播放会话的 `HTMLAudioElement`；返回听力库后通过底部迷你播放器继续控制当前材料。
 
 ## 存储与离线
 
@@ -60,9 +61,19 @@
 
 ## 课程内容
 
+- 当前产品只支持内置课程，不提供用户自定义 MP3 或字幕 JSON 导入入口；除非用户明确提出新 Feature，否则不要恢复导入界面。
 - 音频链接可用不代表拥有再发布权。添加公开课程前必须检查来源、署名和授权状态。
 - 大型音频和本地制作中间文件不得进入 Git。
 - 分块翻译应使用 `scripts/translation-workflow.mjs`，不要直接重写大型课程 JSON。
+
+## 部署
+
+- 除非用户明确要求生产部署，否则不得运行 `pnpm deploy`、`pnpm deploy:light` 或 `pnpm deploy:audio`。
+- 日常代码、样式、PWA 和课程 JSON 使用 `pnpm deploy`；它等同于 `pnpm deploy:light`，全量上传非 MP3 文件。
+- 新增或修改课程 MP3 时使用 `pnpm deploy:audio`。该命令根据 SHA-256 清单只上传变化的 MP3，不删除远端音频。
+- 新课程同时包含 MP3 和 JSON 时，先部署音频，再执行轻量部署，避免 JSON 先引用尚未上线的音频。
+- 两类部署都只能写入 `/var/www/learn.iceriver.cc`，不得访问、修改或清理 `/var/www/iceriver.cc`。
+- 不得把日常部署改回完整上传含 MP3 的 `dist`；不得把服务器密码、SSH 私钥或音频清单中的敏感信息写入 Git。
 
 ## 验证
 
@@ -74,5 +85,3 @@ git diff --check
 ```
 
 项目目前没有自动测试命令。修改播放器、存储、PWA 或响应式界面时，应进行与风险相称的浏览器验证。高风险的音频和离线改动必须在真实 iPhone 的 Safari 和主屏幕 Web App 中验证。
-
-除非用户明确要求生产部署，否则不得运行 `pnpm deploy`。部署只能写入 `/var/www/learn.iceriver.cc`，不得修改 `/var/www/iceriver.cc`。

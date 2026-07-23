@@ -13,7 +13,7 @@ const publishedPublicAssets = [
   "新概念/新概念4-美音"
 ] as const;
 
-function copyPublishedPublicAssets() {
+function copyPublishedPublicAssets(skipAudioAssets: boolean) {
   return {
     name: "copy-published-public-assets",
     apply: "build" as const,
@@ -23,19 +23,22 @@ function copyPublishedPublicAssets() {
         const source = new URL(`./public/${asset}`, import.meta.url);
         const destination = new URL(`./dist/${asset}`, import.meta.url);
         await mkdir(new URL(`./dist/${parent}`, import.meta.url), { recursive: true });
-        await cp(source, destination, { recursive: true });
+        await cp(source, destination, {
+          recursive: true,
+          filter: (path) => !skipAudioAssets || !path.toLowerCase().endsWith(".mp3")
+        });
       }
     }
   };
 }
 
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   build: {
     copyPublicDir: false
   },
   plugins: [
     react(),
-    copyPublishedPublicAssets(),
+    copyPublishedPublicAssets(mode === "deploy-light"),
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["icon.svg"],
@@ -61,4 +64,4 @@ export default defineConfig({
       }
     })
   ]
-});
+}));

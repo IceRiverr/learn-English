@@ -1,15 +1,4 @@
-# Sample source
-
-`no-brainer.mp3` is the audio track from VOA Learning English's one-minute video
-“English in a Minute: No Brainer” (February 10, 2025).
-
-- Program: https://learningenglish.voanews.com/a/7967134.html
-- VOA usage policy: https://learningenglish.voanews.com/p/6861.html
-- Credit: VOA Learning English
-
-VOA states that Learning English texts, MP3s, photos, and videos are in the
-public domain. The sentence timestamps in `no-brainer.json` were aligned to the
-captions displayed in the official video.
+# Sample sources
 
 ## Context engineering with Dex Horthy
 

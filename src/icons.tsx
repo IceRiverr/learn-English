@@ -55,6 +55,19 @@ export function LocateIcon(props: IconProps) {
   );
 }
 
+export function SingleSentenceIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M8 5H5v3M16 5h3v3M5 16v3h3M19 16v3h-3" />
+      <path d="M8 12h8" />
+    </Icon>
+  );
+}
+
+export function FullTextIcon(props: IconProps) {
+  return <Icon {...props}><path d="M5 6h14M5 12h14M5 18h10" /></Icon>;
+}
+
 export function PauseIcon(props: IconProps) {
   return (
     <Icon {...props} fill="currentColor" stroke="none">

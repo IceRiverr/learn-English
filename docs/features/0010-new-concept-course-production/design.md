@@ -253,18 +253,27 @@ Workbox 仍只预缓存 HTML、JavaScript、CSS 和 SVG 等应用外壳，不预
 pnpm deploy
 ```
 
-`scripts/deploy.ps1` 的流程是：
+`scripts/deploy-light.ps1` 是默认的日常部署，流程是：
 
 1. 优先使用 Codex 随附的稳定 Node/pnpm 运行时，规避本机 Node 版本导致的 Vite 构建崩溃。
-2. 执行完整生产构建，构建失败立即停止。
-3. 通过 Windows OpenSSH 连接服务器。
-4. 只创建和写入 `/var/www/learn.iceriver.cc`。
-5. 把 `dist` 上传到生产目录。
-6. 恢复调用前的进程 `PATH`。
+2. 执行轻量生产构建，完整生成应用代码、PWA 文件、图标和课程 JSON，但从 `dist` 排除所有 MP3；构建失败或发现 MP3 时立即停止。
+3. 通过 Windows OpenSSH 把轻量 `dist` 全量上传到服务器。
+4. 只创建和写入 `/var/www/learn.iceriver.cc`，不删除服务器上已有的音频。
+5. 恢复调用前的进程 `PATH`。
+
+新增或修改音频时单独执行：
+
+```powershell
+pnpm deploy:audio
+```
+
+`scripts/deploy-audio.ps1` 根据 SHA-256 清单比较 `public` 和服务器上的 MP3，只上传新增或内容发生变化的文件。首次没有清单时，
+脚本直接计算服务器现有 MP3 的哈希作为基线，避免无意义地重传相同音频；上传全部成功后才更新远端
+`.audio-manifest.sha256`。脚本不会删除远端音频。
 
 部署目标不得改为 `/var/www/iceriver.cc`。
 
-首次上线四册时上传完整资源。后续仅修改 JSON 或应用外壳时，可以采用经核对的选择性上传，避免重复传输数百 MB 的未变化 MP3；选择性上传前后必须核对远端目标路径，且不得在站点目录遗留临时目录。
+首次上线四册或音频发生变化时使用音频部署；后续只修改 JSON 或应用外壳时使用默认轻量部署，避免重复传输数百 MB 的未变化 MP3。
 
 ## 10. 验证结果
 

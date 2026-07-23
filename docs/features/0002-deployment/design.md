@@ -20,13 +20,18 @@ learn.iceriver.cc
 → 部署英语学习 PWA
 ```
 
-第一版构建产物只有约 1 MB，不需要复制 `mote` 的复杂增量部署脚本。采用最简单的流程：
+第一版曾采用直接上传完整 `dist` 的简单流程。加入四册课程后，静态资源已包含数百 MB 音频；当前部署按资源类型拆分：
 
 ```text
-本地构建
-→ 检查 dist
-→ 上传 dist 中的全部文件
-→ 打开线上地址验证
+日常部署
+→ 轻量构建
+→ 检查 dist 不含 MP3
+→ 全量上传代码、PWA 文件、图标和课程 JSON
+
+音频部署
+→ 比较本地与远端 SHA-256 清单
+→ 只上传新增或内容变化的 MP3
+→ 全部成功后更新远端音频清单
 ```
 
 ---
@@ -109,9 +114,14 @@ mkdir -p /var/www/learn.iceriver.cc
 ├── workbox-*.js
 ├── icon.svg
 ├── assets/
-└── samples/
-    ├── no-brainer.mp3
-    └── no-brainer.json
+├── samples/
+│   ├── *.mp3
+│   └── *.json
+├── 新概念/
+│   └── 新概念*-美音/
+│       ├── *.mp3
+│       └── *.json
+└── .audio-manifest.sha256
 ```
 
 不要上传源码、`node_modules`、文档或 `.git`。
@@ -227,7 +237,7 @@ Nginx 静态文件服务默认支持 MP3 Range 请求，不需要增加音频代
 
 ---
 
-## 9. 最简部署流程
+## 9. 部署流程
 
 ### 9.1 本地构建
 
@@ -247,50 +257,54 @@ pnpm build
 Get-ChildItem -Recurse dist
 ```
 
-### 9.2 首次上传
+### 9.2 日常轻量部署
 
-服务器目录为空时，使用 Windows 自带的 OpenSSH `scp`：
+修改应用代码、样式、PWA 文件、图标或课程 JSON 时执行：
 
 ```powershell
-scp -r dist/* root@8.210.175.90:/var/www/learn.iceriver.cc/
+pnpm deploy
 ```
 
-### 9.3 后续上传
+`pnpm deploy` 等同于 `pnpm deploy:light`，由 `scripts/deploy-light.ps1` 完成：
 
-MVP 阶段继续使用同一条命令。当前总文件很小，全量上传比维护增量部署代码更简单。
+1. 使用稳定的 Node/pnpm 运行时执行 TypeScript 与 Vite 轻量构建。
+2. Vite 使用 `deploy-light` mode，复制公开课程资源时排除所有 `.mp3`。
+3. 上传前再次扫描 `dist`；发现任何 MP3 都立即停止。
+4. 将代码、PWA 文件、图标和所有课程 JSON 全量上传到 `/var/www/learn.iceriver.cc`。
+5. 不删除服务器上的音频或旧 hash 资源。
 
-上传时遵循：
+### 9.3 增量音频部署
 
-1. 先确保本地构建成功。
-2. 上传新的 `assets`、Workbox 和示例文件。
-3. 最后覆盖 `index.html` 和 `sw.js`。
-4. MVP 阶段暂不自动删除旧的 hash 文件。
+新增或修改 `public/**/*.mp3` 后执行：
 
-保留旧 hash 文件只会占用很少空间，却能避免用户更新过程中请求到已经删除的旧资源。
+```powershell
+pnpm deploy:audio
+```
 
-当构建产物明显变大，或者旧文件需要定期清理时，再从 `mote` 复制并简化 SFTP 增量部署脚本。
+`scripts/deploy-audio.ps1` 对每个本地 MP3 计算 SHA-256，并与远端 `.audio-manifest.sha256` 比较，只暂存和上传新增或哈希变化的文件。
+远端尚无清单时，脚本在服务器上计算现有 MP3 的哈希作为首次基线，避免重传内容相同的音频。只有全部上传成功后才更新远端清单；
+上传失败时保留旧清单，且任何情况下都不自动删除远端 MP3。
+
+新课程同时包含 MP3 和 JSON 时，先执行音频部署，再执行轻量部署，避免线上 JSON 暂时引用不存在的音频。
 
 ---
 
-## 10. 建议的项目命令
+## 10. 项目命令
 
-后续实施部署时，可以增加：
+当前项目命令为：
 
 ```json
 {
   "scripts": {
-    "deploy": "pnpm build && powershell -ExecutionPolicy Bypass -File scripts/deploy.ps1"
+    "deploy": "powershell -ExecutionPolicy Bypass -File scripts/deploy-light.ps1",
+    "deploy:light": "powershell -ExecutionPolicy Bypass -File scripts/deploy-light.ps1",
+    "deploy:audio": "powershell -ExecutionPolicy Bypass -File scripts/deploy-audio.ps1"
   }
 }
 ```
 
-`scripts/deploy.ps1` 只做三件事：
-
-1. 确认 `dist/index.html` 存在。
-2. 将 `dist` 上传到 `/var/www/learn.iceriver.cc`。
-3. 请求 `https://learn.iceriver.cc/` 并确认返回 200。
-
-第一版不要实现远程目录递归扫描、MD5 比较、自动删除和多环境配置。
+两个脚本都使用 Windows OpenSSH 和批处理模式，只允许访问当前生产服务器与 `/var/www/learn.iceriver.cc`。部署仍不实现自动删除、
+多环境配置或自动回滚。
 
 ---
 
@@ -351,7 +365,7 @@ curl.exe -I https://learn.iceriver.cc/assets/实际文件名.js
 - OSS 或 CDN。
 - 测试、预发布和生产多环境。
 - 自动回滚和多版本发布。
-- 服务器保存用户课程或 MP3。
+- 服务器端用户上传接口或用户私有课程存储。
 
 这些能力对当前个人使用的静态 PWA 没有必要。
 
@@ -369,3 +383,5 @@ curl.exe -I https://learn.iceriver.cc/assets/实际文件名.js
 8. 飞行模式下可以重新打开并播放已保存课程。
 9. 新版本部署后，页面和 Service Worker 能正确更新。
 10. 项目中没有服务器密码或私钥。
+11. 日常部署产物不含 MP3，修改 JSON 时不会重传课程音频。
+12. 音频部署只上传 SHA-256 发生变化的 MP3，并且不会删除远端音频。

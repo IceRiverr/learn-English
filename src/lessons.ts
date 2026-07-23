@@ -30,7 +30,7 @@ export const lessonCollections = [
   },
   {
     "id": "other",
-    "title": "其他课程"
+    "title": "其他"
   }
 ] as const;
 
@@ -39,7 +39,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-001-002-excuse-me",
     "collection": "nce1",
     "title": "Lesson 1: Excuse me!",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:37",
     "sizeLabel": "0.7 MB",
     "audioUrl": "/新概念/新概念1-美音/001&002－Excuse Me.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/001&002－Excuse Me.json"
@@ -48,7 +48,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-003-004-sorry-sir",
     "collection": "nce1",
     "title": "Lesson 3: Sorry, sir.",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:00",
     "sizeLabel": "1.0 MB",
     "audioUrl": "/新概念/新概念1-美音/003&004－Sorry, Sir..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/003&004－Sorry, Sir..json"
@@ -57,7 +57,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-005-006-nice-to-meet-you",
     "collection": "nce1",
     "title": "Lesson 5: Nice to meet you",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:11",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/005&006－Nice to Meet You..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/005&006－Nice to Meet You..json"
@@ -66,7 +66,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-007-008-are-you-a-teacher",
     "collection": "nce1",
     "title": "Lesson 7: Are you a teacher?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:04",
     "sizeLabel": "1.1 MB",
     "audioUrl": "/新概念/新概念1-美音/007&008－Are You a Teacher.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/007&008－Are You a Teacher.json"
@@ -75,7 +75,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-009-010-how-are-you-today",
     "collection": "nce1",
     "title": "Lesson 9: How are you today?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:53",
     "sizeLabel": "0.9 MB",
     "audioUrl": "/新概念/新概念1-美音/009&010－How Are You Today.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/009&010－How Are You Today.json"
@@ -84,7 +84,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-011-012-is-this-your-shirt",
     "collection": "nce1",
     "title": "Lesson 11: Is this your shirt?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:59",
     "sizeLabel": "1.0 MB",
     "audioUrl": "/新概念/新概念1-美音/011&012－Is This Your Shirt.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/011&012－Is This Your Shirt.json"
@@ -93,7 +93,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-013-014-a-new-dress",
     "collection": "nce1",
     "title": "Lesson 13: A new dress",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:56",
     "sizeLabel": "1.0 MB",
     "audioUrl": "/新概念/新概念1-美音/013&014－A New Dress.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/013&014－A New Dress.json"
@@ -102,7 +102,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-015-016-your-passports-please",
     "collection": "nce1",
     "title": "Lesson 15: Your passports, please.",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:19",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/015&016－Your Passports, Please..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/015&016－Your Passports, Please..json"
@@ -111,7 +111,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-017-018-how-do-you-do",
     "collection": "nce1",
     "title": "Lesson 17: How do you do",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:27",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/017&018－How do you do.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/017&018－How do you do.json"
@@ -120,7 +120,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-019-020-tired-and-thirsty",
     "collection": "nce1",
     "title": "Lesson 19: Tired and thirsty",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:02",
     "sizeLabel": "1.1 MB",
     "audioUrl": "/新概念/新概念1-美音/019&020－Tired and Thirsty.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/019&020－Tired and Thirsty.json"
@@ -129,7 +129,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-021-022-which-book",
     "collection": "nce1",
     "title": "Lesson 21: Which book?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:41",
     "sizeLabel": "0.8 MB",
     "audioUrl": "/新概念/新概念1-美音/021&022－Which Book.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/021&022－Which Book.json"
@@ -138,7 +138,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-023-024-which-glasses",
     "collection": "nce1",
     "title": "Lesson 23: Which glasses?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:44",
     "sizeLabel": "0.8 MB",
     "audioUrl": "/新概念/新概念1-美音/023&024－Which Glasses.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/023&024－Which Glasses.json"
@@ -147,7 +147,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-025-026-mrs-smith-s-kitchen",
     "collection": "nce1",
     "title": "Lesson 25: Mrs. Smith's kitchen",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:12",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/025&026－Mrs. Smith's Kitchen.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/025&026－Mrs. Smith's Kitchen.json"
@@ -156,7 +156,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-027-028-mrs-smith-s-living-room",
     "collection": "nce1",
     "title": "Lesson 27: Mrs. Smith's living room",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:18",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/027&028－Mrs. Smith's Living Room.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/027&028－Mrs. Smith's Living Room.json"
@@ -165,7 +165,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-029-030-come-in-amy",
     "collection": "nce1",
     "title": "Lesson 29: Come in, Amy.",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:54",
     "sizeLabel": "1.0 MB",
     "audioUrl": "/新概念/新概念1-美音/029&030－Come In, Amy..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/029&030－Come In, Amy..json"
@@ -174,7 +174,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-031-032-where-s-sally",
     "collection": "nce1",
     "title": "Lesson 31: Where's Sally?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "00:58",
     "sizeLabel": "1.0 MB",
     "audioUrl": "/新概念/新概念1-美音/031&032－Where's Sally.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/031&032－Where's Sally.json"
@@ -183,7 +183,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-033-034-a-fine-day",
     "collection": "nce1",
     "title": "Lesson 33: A fine day",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:09",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/033&034－A Fine Day.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/033&034－A Fine Day.json"
@@ -192,7 +192,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-035-036-our-village",
     "collection": "nce1",
     "title": "Lesson 35: Our village",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:25",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/035&036－Our Village.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/035&036－Our Village.json"
@@ -201,7 +201,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-037-038-making-a-bookcase",
     "collection": "nce1",
     "title": "Lesson 37: Making a bookcase",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:16",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/037&038－Making a Bookcase.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/037&038－Making a Bookcase.json"
@@ -210,7 +210,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-039-040-don-t-drop-it",
     "collection": "nce1",
     "title": "Lesson 39: Don't drop it!",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:09",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/039&040－Don't Drop It.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/039&040－Don't Drop It.json"
@@ -219,7 +219,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-041-042-penny-s-bag",
     "collection": "nce1",
     "title": "Lesson 41: Penny's bag",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:12",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/041&042－Penny's Bag.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/041&042－Penny's Bag.json"
@@ -228,7 +228,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-043-044-hurry-up",
     "collection": "nce1",
     "title": "Lesson 43: Hurry up!",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:18",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/043&044－Hurry Up.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/043&044－Hurry Up.json"
@@ -237,7 +237,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-045-046-the-boss-s-letter",
     "collection": "nce1",
     "title": "Lesson 45: The boss's letter",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:11",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/045&046－The Boss's Letter.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/045&046－The Boss's Letter.json"
@@ -246,7 +246,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-047-048-a-cup-of-coffee",
     "collection": "nce1",
     "title": "Lesson 47: A cup of coffee",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:04",
     "sizeLabel": "1.1 MB",
     "audioUrl": "/新概念/新概念1-美音/047&048－A Cup of Coffee.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/047&048－A Cup of Coffee.json"
@@ -255,7 +255,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-049-050-at-the-butcher-s",
     "collection": "nce1",
     "title": "Lesson 49: At the butcher's",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:22",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/049&050－At the Butcher's.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/049&050－At the Butcher's.json"
@@ -264,7 +264,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-051-052-a-pleasant-climate",
     "collection": "nce1",
     "title": "Lesson 51: A pleasant climate",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:31",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/051&052－A Pleasant Climate.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/051&052－A Pleasant Climate.json"
@@ -273,7 +273,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-053-054-an-interesting-climate",
     "collection": "nce1",
     "title": "Lesson 53: An interesting climate",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/053&054－An Interesting Climate.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/053&054－An Interesting Climate.json"
@@ -282,7 +282,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-055-056-the-sawyer-family",
     "collection": "nce1",
     "title": "Lesson 55: The Sawyer family",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/055&056－The Sawyer Family.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/055&056－The Sawyer Family.json"
@@ -291,7 +291,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-057-058-an-unusual-day",
     "collection": "nce1",
     "title": "Lesson 57: An unusual day",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/057&058－An Unusual Day.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/057&058－An Unusual Day.json"
@@ -300,7 +300,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-059-060-is-that-all",
     "collection": "nce1",
     "title": "Lesson 59: Is that all?",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:20",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/059&060－Is That All.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/059&060－Is That All.json"
@@ -309,7 +309,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-061-062-a-bad-cold",
     "collection": "nce1",
     "title": "Lesson 61: A bad cold",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:21",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/061&062－A Bad Cold.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/061&062－A Bad Cold.json"
@@ -318,7 +318,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-063-064-thank-you-doctor",
     "collection": "nce1",
     "title": "Lesson 63: Thank you, doctor.",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/063&064－Thank You, Doctor..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/063&064－Thank You, Doctor..json"
@@ -327,7 +327,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-065-066-not-a-baby",
     "collection": "nce1",
     "title": "Lesson 65: Not a baby",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:35",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/065&066－Not a Baby.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/065&066－Not a Baby.json"
@@ -336,7 +336,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-067-068-the-weekend",
     "collection": "nce1",
     "title": "Lesson 67: The weekend",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:27",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/067&068－The Weekend.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/067&068－The Weekend.json"
@@ -345,7 +345,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-069-070-the-car-race",
     "collection": "nce1",
     "title": "Lesson 69: The car race",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:45",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/069&070－The Car Race.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/069&070－The Car Race.json"
@@ -354,7 +354,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-071-072-he-s-awful",
     "collection": "nce1",
     "title": "Lesson 71: He's awful!",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:02",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念1-美音/071&072－He's Awful.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/071&072－He's Awful.json"
@@ -363,7 +363,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-073-074-the-way-to-king-street",
     "collection": "nce1",
     "title": "Lesson 73: The way to King Street",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/073&074－The Way to King Street.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/073&074－The Way to King Street.json"
@@ -372,7 +372,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-075-076-uncomfortable-shoes",
     "collection": "nce1",
     "title": "Lesson 75: Uncomfortable shoes",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:32",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/075&076－Uncomfortable Shoes.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/075&076－Uncomfortable Shoes.json"
@@ -381,7 +381,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-077-078-terrible-toothache",
     "collection": "nce1",
     "title": "Lesson 77: Terrible toothache",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:37",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/077&078－Terrible Toothache.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/077&078－Terrible Toothache.json"
@@ -390,7 +390,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-079-080-carol-s-shopping-list",
     "collection": "nce1",
     "title": "Lesson 79: Carol's shopping-list",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/079&080－Carol's Shopping List.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/079&080－Carol's Shopping List.json"
@@ -399,7 +399,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-081-082-roast-beef-and-potatoes",
     "collection": "nce1",
     "title": "Lesson 81: Roast beef and potatoes",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:24",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/081&082－Roast Beef and Potatoes.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/081&082－Roast Beef and Potatoes.json"
@@ -408,7 +408,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-083-084-going-on-holiday",
     "collection": "nce1",
     "title": "Lesson 83: Going on holiday",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/083&084－Going on Holiday.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/083&084－Going on Holiday.json"
@@ -417,7 +417,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-085-086-paris-in-the-spring",
     "collection": "nce1",
     "title": "Lesson 85: Paris in the spring",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:16",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/085&086－Paris in the Spring..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/085&086－Paris in the Spring..json"
@@ -426,7 +426,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-087-088-a-car-crash",
     "collection": "nce1",
     "title": "Lesson 87: A car crash",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:27",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/087&088－A Car Crash.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/087&088－A Car Crash.json"
@@ -435,7 +435,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-089-090-for-sale",
     "collection": "nce1",
     "title": "Lesson 89: For sale",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:32",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/089&090－For Sale.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/089&090－For Sale.json"
@@ -444,7 +444,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-091-092-poor-ian",
     "collection": "nce1",
     "title": "Lesson 91: Poor Ian",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:46",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/091&092－Poor Ian.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/091&092－Poor Ian.json"
@@ -453,7 +453,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-093-094-our-new-neighbour",
     "collection": "nce1",
     "title": "Lesson 93: Our new neighbour",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:19",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念1-美音/093&094－Our New Neighbour.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/093&094－Our New Neighbour.json"
@@ -462,7 +462,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-095-096-tickets-please",
     "collection": "nce1",
     "title": "Lesson 95: Tickets, please.",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:37",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/095&096－Tickets, Please..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/095&096－Tickets, Please..json"
@@ -471,7 +471,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-097-098-a-small-blue-case",
     "collection": "nce1",
     "title": "Lesson 97: A small blue case",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/097&098－A Small Blue Case.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/097&098－A Small Blue Case.json"
@@ -480,7 +480,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-099-100-ow",
     "collection": "nce1",
     "title": "Lesson 99: Ow!",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:12",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念1-美音/099&100－Ow.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/099&100－Ow.json"
@@ -489,7 +489,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-101-102-a-card-from-jimmy",
     "collection": "nce1",
     "title": "Lesson 101: A card from Jimmy",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:53",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念1-美音/101&102－A Card From Jimmy.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/101&102－A Card From Jimmy.json"
@@ -498,7 +498,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-103-104-the-french-test",
     "collection": "nce1",
     "title": "Lesson 103: The French test",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/103&104－The French Test.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/103&104－The French Test.json"
@@ -507,7 +507,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-105-106-full-of-mistakes",
     "collection": "nce1",
     "title": "Lesson 105: Full of mistakes",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:35",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/105&106－Full of Mistakes.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/105&106－Full of Mistakes.json"
@@ -516,7 +516,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-107-108-it-s-too-small",
     "collection": "nce1",
     "title": "Lesson 107: It's too small.",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/107&108－It's Too Small..mp3",
     "transcriptUrl": "/新概念/新概念1-美音/107&108－It's Too Small..json"
@@ -525,7 +525,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-109-110-a-good-idea",
     "collection": "nce1",
     "title": "Lesson 109: A good idea",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/109&110－A Good Idea.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/109&110－A Good Idea.json"
@@ -534,7 +534,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-111-112-the-most-expensive-model",
     "collection": "nce1",
     "title": "Lesson 111: The most expensive model",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:55",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念1-美音/111&112－The Most Expensive Model.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/111&112－The Most Expensive Model.json"
@@ -543,7 +543,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-113-114-small-change",
     "collection": "nce1",
     "title": "Lesson 113: Small change",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:30",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/113&114－Small Change.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/113&114－Small Change.json"
@@ -552,7 +552,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-115-116-knock-knock",
     "collection": "nce1",
     "title": "Lesson 115: Knock, knock!",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/115&116－Knock, Knock.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/115&116－Knock, Knock.json"
@@ -561,7 +561,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-117-118-tommy-s-breakfast",
     "collection": "nce1",
     "title": "Lesson 117: Tommy's breakfast",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:42",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/117&118－Tommy's Breakfast.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/117&118－Tommy's Breakfast.json"
@@ -570,7 +570,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-119-120-a-true-story",
     "collection": "nce1",
     "title": "Lesson 119: A true story",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:52",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念1-美音/119&120－A True Story.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/119&120－A True Story.json"
@@ -579,7 +579,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-121-122-the-man-in-a-hat",
     "collection": "nce1",
     "title": "Lesson 121: The man in a hat",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:27",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念1-美音/121&122－The Man in a Hat.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/121&122－The Man in a Hat.json"
@@ -588,7 +588,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-123-124-a-trip-to-australia",
     "collection": "nce1",
     "title": "Lesson 123: A trip to Australia",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:24",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/123&124－A Trip to Australia.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/123&124－A Trip to Australia.json"
@@ -597,7 +597,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-125-126-tea-for-two",
     "collection": "nce1",
     "title": "Lesson 125: Tea for two",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:21",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念1-美音/125&126－Tea for Two.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/125&126－Tea for Two.json"
@@ -606,7 +606,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-127-128-a-famous-actress",
     "collection": "nce1",
     "title": "Lesson 127: A famous actress",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:46",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/127&128－A Famous Actress.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/127&128－A Famous Actress.json"
@@ -615,7 +615,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-129-130-seventy-miles-an-hour",
     "collection": "nce1",
     "title": "Lesson 129: Seventy miles an hour",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/129&130－Seventy Miles an Hour.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/129&130－Seventy Miles an Hour.json"
@@ -624,7 +624,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-131-132-don-t-be-so-sure",
     "collection": "nce1",
     "title": "Lesson 131: Don't be so sure!",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念1-美音/131&132－Don't be So Sure.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/131&132－Don't be So Sure.json"
@@ -633,7 +633,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-133-134-sensational-news",
     "collection": "nce1",
     "title": "Lesson 133: Sensational news!",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:49",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念1-美音/133&134－Sensational News.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/133&134－Sensational News.json"
@@ -642,7 +642,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-135-136-the-latest-report",
     "collection": "nce1",
     "title": "Lesson 135: The latest report",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:00",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念1-美音/135&136－The Latest Report.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/135&136－The Latest Report.json"
@@ -651,7 +651,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-137-138-a-pleasant-dream",
     "collection": "nce1",
     "title": "Lesson 137: A pleasant dream",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/137&138－A Pleasant Dream.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/137&138－A Pleasant Dream.json"
@@ -660,7 +660,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-139-140-is-that-you-john",
     "collection": "nce1",
     "title": "Lesson 139: Is that you, John?",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念1-美音/139&140－Is That You, John.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/139&140－Is That You, John.json"
@@ -669,7 +669,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-141-142-sally-s-first-train-ride",
     "collection": "nce1",
     "title": "Lesson 141: Sally's first train ride",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:07",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念1-美音/141&142－Sally's First Train Ride.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/141&142－Sally's First Train Ride.json"
@@ -678,7 +678,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce1-143-144-a-walk-through-the-woods",
     "collection": "nce1",
     "title": "Lesson 143: A walk through the woods",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:00",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念1-美音/143&144－A Walk Through the Woods.mp3",
     "transcriptUrl": "/新概念/新概念1-美音/143&144－A Walk Through the Woods.json"
@@ -687,7 +687,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-001-a-private-conversation",
     "collection": "nce2",
     "title": "Lesson 1: A Private Conversation",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:18",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/01－A Private Conversation.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/01－A Private Conversation.json"
@@ -696,7 +696,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-002-breakfast-or-lunch",
     "collection": "nce2",
     "title": "Lesson 2: Breakfast or Lunch",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:21",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念2-美音/02－Breakfast or Lunch.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/02－Breakfast or Lunch.json"
@@ -705,7 +705,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-003-please-send-me-a-card",
     "collection": "nce2",
     "title": "Lesson 3: Please Send Me a Card",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:16",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/03－Please Send Me a Card.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/03－Please Send Me a Card.json"
@@ -714,7 +714,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-004-an-exciting-trip",
     "collection": "nce2",
     "title": "Lesson 4: An Exciting Trip",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:06",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/04－An Exciting Trip.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/04－An Exciting Trip.json"
@@ -723,7 +723,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-005-no-wrong-numbers",
     "collection": "nce2",
     "title": "Lesson 5: No Wrong Numbers",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:14",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/05－No Wrong Numbers.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/05－No Wrong Numbers.json"
@@ -732,7 +732,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-006-percy-buttons",
     "collection": "nce2",
     "title": "Lesson 6: Percy Buttons",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:05",
     "sizeLabel": "1.1 MB",
     "audioUrl": "/新概念/新概念2-美音/06－Percy Buttons.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/06－Percy Buttons.json"
@@ -741,7 +741,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-007-too-late",
     "collection": "nce2",
     "title": "Lesson 7: Too Late",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:10",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/07－Too Late.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/07－Too Late.json"
@@ -750,7 +750,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-008-the-best-and-the-worst",
     "collection": "nce2",
     "title": "Lesson 8: The Best and the Worst",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:14",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/08－The Best and the Worst.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/08－The Best and the Worst.json"
@@ -759,7 +759,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-009-a-cold-welcome",
     "collection": "nce2",
     "title": "Lesson 9: A Cold Welcome",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:10",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/09－A Cold Welcome.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/09－A Cold Welcome.json"
@@ -768,7 +768,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-010-not-for-jazz",
     "collection": "nce2",
     "title": "Lesson 10: Not for Jazz",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:03",
     "sizeLabel": "1.1 MB",
     "audioUrl": "/新概念/新概念2-美音/10－Not for Jazz.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/10－Not for Jazz.json"
@@ -777,7 +777,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-011-one-good-turn-deserves-another",
     "collection": "nce2",
     "title": "Lesson 11: One Good Turn Deserves Another",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:06",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/11－One Good Turn Deserves Another.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/11－One Good Turn Deserves Another.json"
@@ -786,7 +786,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-012-goodbye-and-good-luck",
     "collection": "nce2",
     "title": "Lesson 12: Goodbye and Good Luck",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:07",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/12－Goodbye and Good Luck.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/12－Goodbye and Good Luck.json"
@@ -795,7 +795,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-013-the-greenwood-boys",
     "collection": "nce2",
     "title": "Lesson 13: The Greenwood Boys",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:06",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/13－The Greenwood Boys.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/13－The Greenwood Boys.json"
@@ -804,7 +804,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-014-do-you-speak-english",
     "collection": "nce2",
     "title": "Lesson 14: Do You Speak English",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:14",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/14－Do You Speak English.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/14－Do You Speak English.json"
@@ -813,7 +813,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-015-good-news",
     "collection": "nce2",
     "title": "Lesson 15: Good News",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:08",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/15－Good News.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/15－Good News.json"
@@ -822,7 +822,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-016-a-polite-request",
     "collection": "nce2",
     "title": "Lesson 16: A Polite Request",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:12",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/16－A Polite Request.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/16－A Polite Request.json"
@@ -831,7 +831,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-017-always-young",
     "collection": "nce2",
     "title": "Lesson 17: Always Young",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:15",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/17－Always Young.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/17－Always Young.json"
@@ -840,7 +840,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-018-he-often-does-this",
     "collection": "nce2",
     "title": "Lesson 18: He Often does This",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:09",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/18－He Often does This.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/18－He Often does This.json"
@@ -849,7 +849,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-019-sold-out",
     "collection": "nce2",
     "title": "Lesson 19: Sold Out",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:26",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/19－Sold Out.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/19－Sold Out.json"
@@ -858,7 +858,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-020-one-man-in-a-boat",
     "collection": "nce2",
     "title": "Lesson 20: One Man in a Boat",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:22",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念2-美音/20－One Man in a Boat.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/20－One Man in a Boat.json"
@@ -867,7 +867,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-021-mad-or-not",
     "collection": "nce2",
     "title": "Lesson 21: Mad or Not",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:16",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/21－Mad or Not.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/21－Mad or Not.json"
@@ -876,7 +876,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-022-a-glass-envelope",
     "collection": "nce2",
     "title": "Lesson 22: A Glass Envelope",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:11",
     "sizeLabel": "1.2 MB",
     "audioUrl": "/新概念/新概念2-美音/22－A Glass Envelope.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/22－A Glass Envelope.json"
@@ -885,7 +885,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-023-a-new-house",
     "collection": "nce2",
     "title": "Lesson 23: A New House",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:13",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/23－A New House.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/23－A New House.json"
@@ -894,7 +894,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-024-it-could-be-worse",
     "collection": "nce2",
     "title": "Lesson 24: It Could be Worse",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:17",
     "sizeLabel": "1.3 MB",
     "audioUrl": "/新概念/新概念2-美音/24－It Could be Worse.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/24－It Could be Worse.json"
@@ -903,7 +903,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-025-do-the-english-speak-english",
     "collection": "nce2",
     "title": "Lesson 25: Do the English Speak English",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:46",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/25－Do the English Speak English.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/25－Do the English Speak English.json"
@@ -912,7 +912,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-026-the-best-art-critics",
     "collection": "nce2",
     "title": "Lesson 26: The Best Art Critics",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/26－The Best Art Critics.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/26－The Best Art Critics.json"
@@ -921,7 +921,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-027-a-wet-night",
     "collection": "nce2",
     "title": "Lesson 27: A Wet Night",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/27－A Wet Night.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/27－A Wet Night.json"
@@ -930,7 +930,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-028-no-parking",
     "collection": "nce2",
     "title": "Lesson 28: No Parking",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:31",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/28－No Parking.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/28－No Parking.json"
@@ -939,7 +939,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-029-taxi",
     "collection": "nce2",
     "title": "Lesson 29: Taxi",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/29－Taxi.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/29－Taxi.json"
@@ -948,7 +948,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-030-football-or-polo",
     "collection": "nce2",
     "title": "Lesson 30: Football or Polo",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:25",
     "sizeLabel": "1.4 MB",
     "audioUrl": "/新概念/新概念2-美音/30－Football or Polo.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/30－Football or Polo.json"
@@ -957,7 +957,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-031-success-story",
     "collection": "nce2",
     "title": "Lesson 31: Success Story",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/31－Success Story.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/31－Success Story.json"
@@ -966,7 +966,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-032-shopping-made-easy",
     "collection": "nce2",
     "title": "Lesson 32: Shopping Made Easy",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/32－Shopping Made Easy.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/32－Shopping Made Easy.json"
@@ -975,7 +975,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-033-out-of-the-darkness",
     "collection": "nce2",
     "title": "Lesson 33: Out of the Darkness",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:26",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/33－Out of the Darkness.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/33－Out of the Darkness.json"
@@ -984,7 +984,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-034-quick-work",
     "collection": "nce2",
     "title": "Lesson 34: Quick Work",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:30",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/34－Quick Work.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/34－Quick Work.json"
@@ -993,7 +993,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-035-stop-thief",
     "collection": "nce2",
     "title": "Lesson 35: Stop Thief",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:48",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/35－Stop Thief.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/35－Stop Thief.json"
@@ -1002,7 +1002,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-036-across-the-channel",
     "collection": "nce2",
     "title": "Lesson 36: Across the Channel",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:26",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/36－Across the Channel.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/36－Across the Channel.json"
@@ -1011,7 +1011,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-037-the-olympic-games",
     "collection": "nce2",
     "title": "Lesson 37: The Olympic Games",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:30",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/37－The Olympic Games.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/37－The Olympic Games.json"
@@ -1020,7 +1020,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-038-everything-except-the-weather",
     "collection": "nce2",
     "title": "Lesson 38: Everything Except the Weather",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:32",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/38－Everything Except the Weather.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/38－Everything Except the Weather.json"
@@ -1029,7 +1029,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-039-am-i-all-right",
     "collection": "nce2",
     "title": "Lesson 39: Am I All Right",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/39－Am I All Right.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/39－Am I All Right.json"
@@ -1038,7 +1038,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-040-food-and-talk",
     "collection": "nce2",
     "title": "Lesson 40: Food and Talk",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/40－Food and Talk.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/40－Food and Talk.json"
@@ -1047,7 +1047,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-041-do-you-call-that-a-hat",
     "collection": "nce2",
     "title": "Lesson 41: Do You Call That a Hat",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/41－Do You Call That a Hat.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/41－Do You Call That a Hat.json"
@@ -1056,7 +1056,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-042-not-very-musical",
     "collection": "nce2",
     "title": "Lesson 42: Not Very Musical",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:26",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/42－Not Very Musical.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/42－Not Very Musical.json"
@@ -1065,7 +1065,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-043-over-the-south-pole",
     "collection": "nce2",
     "title": "Lesson 43: Over the South Pole",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:34",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/43－Over the South Pole.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/43－Over the South Pole.json"
@@ -1074,7 +1074,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-044-through-the-forest",
     "collection": "nce2",
     "title": "Lesson 44: Through the Forest",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:27",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/44－Through the Forest.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/44－Through the Forest.json"
@@ -1083,7 +1083,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-045-a-clear-conscience",
     "collection": "nce2",
     "title": "Lesson 45: A Clear Conscience",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:33",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/45－A Clear Conscience.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/45－A Clear Conscience.json"
@@ -1092,7 +1092,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-046-expensive-and-uncomfortable",
     "collection": "nce2",
     "title": "Lesson 46: Expensive and Uncomfortable",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:40",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/46－Expensive and Uncomfortable.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/46－Expensive and Uncomfortable.json"
@@ -1101,7 +1101,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-047-a-thirsty-ghost",
     "collection": "nce2",
     "title": "Lesson 47: A Thirsty Ghost",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:28",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/47－A Thirsty Ghost.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/47－A Thirsty Ghost.json"
@@ -1110,7 +1110,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-048-did-you-want-to-tell-me-something",
     "collection": "nce2",
     "title": "Lesson 48: Did You Want to Tell Me Something",
-    "durationLabel": "1 分钟",
+    "durationLabel": "01:29",
     "sizeLabel": "1.5 MB",
     "audioUrl": "/新概念/新概念2-美音/48－Did You Want to Tell Me Something.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/48－Did You Want to Tell Me Something.json"
@@ -1119,7 +1119,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-049-the-end-of-a-dream",
     "collection": "nce2",
     "title": "Lesson 49: The End of a Dream",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/49－The End of a Dream.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/49－The End of a Dream.json"
@@ -1128,7 +1128,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-050-taken-for-a-ride",
     "collection": "nce2",
     "title": "Lesson 50: Taken for a Ride",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/50－Taken for a Ride.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/50－Taken for a Ride.json"
@@ -1137,7 +1137,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-051-reward-for-virtue",
     "collection": "nce2",
     "title": "Lesson 51: Reward for Virtue",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:41",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/51－Reward for Virtue.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/51－Reward for Virtue.json"
@@ -1146,7 +1146,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-052-a-pretty-carpet",
     "collection": "nce2",
     "title": "Lesson 52: A Pretty Carpet",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:37",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/52－A Pretty Carpet.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/52－A Pretty Carpet.json"
@@ -1155,7 +1155,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-053-hot-snake",
     "collection": "nce2",
     "title": "Lesson 53: Hot Snake",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/53－Hot Snake.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/53－Hot Snake.json"
@@ -1164,7 +1164,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-054-sticky-fingers",
     "collection": "nce2",
     "title": "Lesson 54: Sticky Fingers",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:47",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/54－Sticky Fingers.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/54－Sticky Fingers.json"
@@ -1173,7 +1173,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-055-not-a-gold-mine",
     "collection": "nce2",
     "title": "Lesson 55: Not a Gold Mine",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:47",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/55－Not a Gold Mine.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/55－Not a Gold Mine.json"
@@ -1182,7 +1182,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-056-faster-than-sound",
     "collection": "nce2",
     "title": "Lesson 56: Faster Than Sound",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:41",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/56－Faster Than Sound.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/56－Faster Than Sound.json"
@@ -1191,7 +1191,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-057-can-i-help-you-madam",
     "collection": "nce2",
     "title": "Lesson 57: Can I Help You, Madam",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:42",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/57－Can I Help You, Madam.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/57－Can I Help You, Madam.json"
@@ -1200,7 +1200,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-058-a-blessing-in-disguise",
     "collection": "nce2",
     "title": "Lesson 58: A Blessing in Disguise",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:40",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/58－A Blessing in Disguise.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/58－A Blessing in Disguise.json"
@@ -1209,7 +1209,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-059-in-or-out",
     "collection": "nce2",
     "title": "Lesson 59: In or Out",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:40",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/59－In or Out.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/59－In or Out.json"
@@ -1218,7 +1218,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-060-the-future",
     "collection": "nce2",
     "title": "Lesson 60: The Future",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:36",
     "sizeLabel": "1.6 MB",
     "audioUrl": "/新概念/新概念2-美音/60－The Future.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/60－The Future.json"
@@ -1227,7 +1227,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-061-trouble-with-the-hubble",
     "collection": "nce2",
     "title": "Lesson 61: Trouble with the Hubble",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:42",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/61－Trouble with the Hubble.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/61－Trouble with the Hubble.json"
@@ -1236,7 +1236,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-062-after-the-fire",
     "collection": "nce2",
     "title": "Lesson 62: After the Fire",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/62－After the Fire.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/62－After the Fire.json"
@@ -1245,7 +1245,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-063-she-was-not-amused",
     "collection": "nce2",
     "title": "Lesson 63: She Was Not Amused",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:38",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/63－She Was Not Amused.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/63－She Was Not Amused.json"
@@ -1254,7 +1254,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-064-the-channel-tunnel",
     "collection": "nce2",
     "title": "Lesson 64: The Channel Tunnel",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:43",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/64－The Channel Tunnel.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/64－The Channel Tunnel.json"
@@ -1263,7 +1263,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-065-jumbo-versus-the-police",
     "collection": "nce2",
     "title": "Lesson 65: Jumbo Versus the Police",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:42",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/65－Jumbo Versus the Police.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/65－Jumbo Versus the Police.json"
@@ -1272,7 +1272,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-066-sweet-as-honey",
     "collection": "nce2",
     "title": "Lesson 66: Sweet as Honey",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:47",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/66－Sweet as Honey.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/66－Sweet as Honey.json"
@@ -1281,7 +1281,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-067-volcanoes",
     "collection": "nce2",
     "title": "Lesson 67: Volcanoes",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:59",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念2-美音/67－Volcanoes.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/67－Volcanoes.json"
@@ -1290,7 +1290,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-068-persistent",
     "collection": "nce2",
     "title": "Lesson 68: Persistent",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:45",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/68－Persistent.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/68－Persistent.json"
@@ -1299,7 +1299,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-069-but-not-murder",
     "collection": "nce2",
     "title": "Lesson 69: But not Murder",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/69－But not Murder.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/69－But not Murder.json"
@@ -1308,7 +1308,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-070-red-for-danger",
     "collection": "nce2",
     "title": "Lesson 70: Red for Danger",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:39",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/70－Red for Danger.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/70－Red for Danger.json"
@@ -1317,7 +1317,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-071-a-famous-clock",
     "collection": "nce2",
     "title": "Lesson 71: A Famous Clock",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:40",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/71－A Famous Clock.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/71－A Famous Clock.json"
@@ -1326,7 +1326,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-072-a-car-called-bluebird",
     "collection": "nce2",
     "title": "Lesson 72: A Car Called Bluebird",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:56",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/72－A Car Called Bluebird.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/72－A Car Called Bluebird.json"
@@ -1335,7 +1335,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-073-the-record-holder",
     "collection": "nce2",
     "title": "Lesson 73: The Record-Holder",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:51",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/73－The Record-Holder.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/73－The Record-Holder.json"
@@ -1344,7 +1344,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-074-out-of-the-limelight",
     "collection": "nce2",
     "title": "Lesson 74: Out of the Limelight",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:16",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念2-美音/74－Out of the Limelight.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/74－Out of the Limelight.json"
@@ -1353,7 +1353,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-075-sos",
     "collection": "nce2",
     "title": "Lesson 75: SOS",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:55",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/75－SOS.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/75－SOS.json"
@@ -1362,7 +1362,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-076-april-fools-day",
     "collection": "nce2",
     "title": "Lesson 76: April Fools' Day",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:05",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念2-美音/76－April Fools' Day.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/76－April Fools' Day.json"
@@ -1371,7 +1371,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-077-a-successful-operation",
     "collection": "nce2",
     "title": "Lesson 77: A Successful Operation",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:47",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/77－A Successful Operation.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/77－A Successful Operation.json"
@@ -1380,7 +1380,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-078-the-last-one",
     "collection": "nce2",
     "title": "Lesson 78: The Last One",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:59",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念2-美音/78－The Last One.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/78－The Last One.json"
@@ -1389,7 +1389,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-079-by-air",
     "collection": "nce2",
     "title": "Lesson 79: By Air",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/79－By Air.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/79－By Air.json"
@@ -1398,7 +1398,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-080-the-crystal-palace",
     "collection": "nce2",
     "title": "Lesson 80: The Crystal Palace",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:59",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念2-美音/80－The Crystal Palace.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/80－The Crystal Palace.json"
@@ -1407,7 +1407,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-081-escape",
     "collection": "nce2",
     "title": "Lesson 81: Escape",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:52",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/81－Escape.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/81－Escape.json"
@@ -1416,7 +1416,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-082-monster-or-fish",
     "collection": "nce2",
     "title": "Lesson 82: Monster or Fish",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:55",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/82－Monster or Fish.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/82－Monster or Fish.json"
@@ -1425,7 +1425,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-083-after-the-elections",
     "collection": "nce2",
     "title": "Lesson 83: After the Elections",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:04",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念2-美音/83－After the Elections.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/83－After the Elections.json"
@@ -1434,7 +1434,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-084-on-strike",
     "collection": "nce2",
     "title": "Lesson 84: On Strike",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:49",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/84－On Strike.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/84－On Strike.json"
@@ -1443,7 +1443,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-085-never-too-old-to-learn",
     "collection": "nce2",
     "title": "Lesson 85: Never Too Old To Learn",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:44",
     "sizeLabel": "1.7 MB",
     "audioUrl": "/新概念/新概念2-美音/85－Never Too Old To Learn.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/85－Never Too Old To Learn.json"
@@ -1452,7 +1452,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-086-out-of-control",
     "collection": "nce2",
     "title": "Lesson 86: Out of Control",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:56",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/86－Out of Control.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/86－Out of Control.json"
@@ -1461,7 +1461,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-087-a-perfect-alibi",
     "collection": "nce2",
     "title": "Lesson 87: A Perfect Alibi",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:53",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/87－A Perfect Alibi.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/87－A Perfect Alibi.json"
@@ -1470,7 +1470,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-088-trapped-in-a-mine",
     "collection": "nce2",
     "title": "Lesson 88: Trapped in a Mine",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:48",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/88－Trapped in a Mine.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/88－Trapped in a Mine.json"
@@ -1479,7 +1479,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-089-a-slip-of-the-tongue",
     "collection": "nce2",
     "title": "Lesson 89: A Slip of the Tongue",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:48",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/89－A Slip of the Tongue.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/89－A Slip of the Tongue.json"
@@ -1488,7 +1488,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-090-what-s-for-supper",
     "collection": "nce2",
     "title": "Lesson 90: What's for Supper",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:57",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/90－What's for Supper.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/90－What's for Supper.json"
@@ -1497,7 +1497,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-091-three-men-in-a-basket",
     "collection": "nce2",
     "title": "Lesson 91: Three Men in a Basket",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:46",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/91－Three Men in a Basket.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/91－Three Men in a Basket.json"
@@ -1506,7 +1506,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-092-asking-for-trouble",
     "collection": "nce2",
     "title": "Lesson 92: Asking for Trouble",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:56",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/92－Asking for Trouble.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/92－Asking for Trouble.json"
@@ -1515,7 +1515,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-093-a-noble-gift",
     "collection": "nce2",
     "title": "Lesson 93: A Noble Gift",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:52",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/93－A Noble Gift.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/93－A Noble Gift.json"
@@ -1524,7 +1524,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-094-future-champions",
     "collection": "nce2",
     "title": "Lesson 94: Future Champions",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:49",
     "sizeLabel": "1.8 MB",
     "audioUrl": "/新概念/新概念2-美音/94－Future Champions.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/94－Future Champions.json"
@@ -1533,7 +1533,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-095-a-fantasy",
     "collection": "nce2",
     "title": "Lesson 95: A Fantasy",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:00",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念2-美音/95－A Fantasy.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/95－A Fantasy.json"
@@ -1542,7 +1542,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce2-096-the-dead-return",
     "collection": "nce2",
     "title": "Lesson 96: The Dead Return",
-    "durationLabel": "2 分钟",
+    "durationLabel": "01:55",
     "sizeLabel": "1.9 MB",
     "audioUrl": "/新概念/新概念2-美音/96－The Dead Return.mp3",
     "transcriptUrl": "/新概念/新概念2-美音/96－The Dead Return.json"
@@ -1551,7 +1551,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-001-a-puma-at-large",
     "collection": "nce3",
     "title": "Lesson 1: A Puma at Large",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:09",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念3-美音/01－A Puma at Large.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/01－A Puma at Large.json"
@@ -1560,7 +1560,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-002-thirteen-equals-one",
     "collection": "nce3",
     "title": "Lesson 2: Thirteen Equals One",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:02",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念3-美音/02－Thirteen Equals One.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/02－Thirteen Equals One.json"
@@ -1569,7 +1569,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-003-an-unknown-goddess",
     "collection": "nce3",
     "title": "Lesson 3: An Unknown Goddess",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:16",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/03－An Unknown Goddess.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/03－An Unknown Goddess.json"
@@ -1578,7 +1578,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-004-the-double-life-of-alfred-bloggs",
     "collection": "nce3",
     "title": "Lesson 4: The Double Life of Alfred Bloggs",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:12",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/04－The Double Life of Alfred Bloggs.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/04－The Double Life of Alfred Bloggs.json"
@@ -1587,7 +1587,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-005-the-facts",
     "collection": "nce3",
     "title": "Lesson 5: The Facts",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:11",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念3-美音/05－The Facts.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/05－The Facts.json"
@@ -1596,7 +1596,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-006-smash-and-grab",
     "collection": "nce3",
     "title": "Lesson 6: Smash-and-Grab",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:11",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/06－Smash-and-Grab.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/06－Smash-and-Grab.json"
@@ -1605,7 +1605,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-007-mutilated-ladies",
     "collection": "nce3",
     "title": "Lesson 7: Mutilated Ladies",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:09",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念3-美音/07－Mutilated Ladies.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/07－Mutilated Ladies.json"
@@ -1614,7 +1614,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-008-a-famous-monastery",
     "collection": "nce3",
     "title": "Lesson 8: A Famous Monastery",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:16",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/08－A Famous Monastery.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/08－A Famous Monastery.json"
@@ -1623,7 +1623,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-009-flying-cats",
     "collection": "nce3",
     "title": "Lesson 9: Flying Cats",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:26",
     "sizeLabel": "2.4 MB",
     "audioUrl": "/新概念/新概念3-美音/09－Flying Cats.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/09－Flying Cats.json"
@@ -1632,7 +1632,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-010-the-loss-of-the-titanic",
     "collection": "nce3",
     "title": "Lesson 10: The Loss of the Titanic",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:30",
     "sizeLabel": "2.4 MB",
     "audioUrl": "/新概念/新概念3-美音/10－The Loss of the Titanic.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/10－The Loss of the Titanic.json"
@@ -1641,7 +1641,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-011-not-guilty",
     "collection": "nce3",
     "title": "Lesson 11: Not Guilty",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:23",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念3-美音/11－Not Guilty.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/11－Not Guilty.json"
@@ -1650,7 +1650,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-012-life-on-a-desert-island",
     "collection": "nce3",
     "title": "Lesson 12: Life on a Desert Island",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:10",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念3-美音/12－Life on a Desert Island.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/12－Life on a Desert Island.json"
@@ -1659,7 +1659,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-013-it-s-only-me",
     "collection": "nce3",
     "title": "Lesson 13: It's Only Me",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:03",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念3-美音/13－It's Only Me.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/13－It's Only Me.json"
@@ -1668,7 +1668,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-014-a-noble-gangster",
     "collection": "nce3",
     "title": "Lesson 14: A Noble Gangster",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:12",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/14－A Noble Gangster.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/14－A Noble Gangster.json"
@@ -1677,7 +1677,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-015-fifty-pence-worth-of-trouble",
     "collection": "nce3",
     "title": "Lesson 15: Fifty Pence Worth of Trouble",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:19",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念3-美音/15－Fifty Pence Worth of Trouble.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/15－Fifty Pence Worth of Trouble.json"
@@ -1686,7 +1686,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-016-mary-had-a-little-lamb",
     "collection": "nce3",
     "title": "Lesson 16: Mary Had a Little Lamb",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:17",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念3-美音/16－Mary Had a Little Lamb.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/16－Mary Had a Little Lamb.json"
@@ -1695,7 +1695,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-017-the-longest-suspension-bridge-in-the-world",
     "collection": "nce3",
     "title": "Lesson 17: The Longest Suspension Bridge in the World",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:34",
     "sizeLabel": "2.5 MB",
     "audioUrl": "/新概念/新概念3-美音/17－The Longest Suspension Bridge in the World.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/17－The Longest Suspension Bridge in the World.json"
@@ -1704,7 +1704,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-018-electric-currents-in-modern-art",
     "collection": "nce3",
     "title": "Lesson 18: Electric Currents in Modern Art",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:20",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念3-美音/18－Electric Currents in Modern Art.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/18－Electric Currents in Modern Art.json"
@@ -1713,7 +1713,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-019-a-very-dear-cat",
     "collection": "nce3",
     "title": "Lesson 19: A Very Dear Cat",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:23",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念3-美音/19－A Very Dear Cat.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/19－A Very Dear Cat.json"
@@ -1722,7 +1722,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-020-pioneer-pilots",
     "collection": "nce3",
     "title": "Lesson 20: Pioneer Pilots",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:21",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念3-美音/20－Pioneer Pilots.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/20－Pioneer Pilots.json"
@@ -1731,7 +1731,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-021-daniel-mendoza",
     "collection": "nce3",
     "title": "Lesson 21: Daniel Mendoza",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:04",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/21－Daniel Mendoza.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/21－Daniel Mendoza.json"
@@ -1740,7 +1740,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-022-by-heart",
     "collection": "nce3",
     "title": "Lesson 22: By Heart",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:54",
     "sizeLabel": "2.8 MB",
     "audioUrl": "/新概念/新概念3-美音/22－By Heart.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/22－By Heart.json"
@@ -1749,7 +1749,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-023-one-man-s-meat-is-another-man-s-poison",
     "collection": "nce3",
     "title": "Lesson 23: One Man's Meat is Another Man's Poison",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:58",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/23－One Man's Meat is Another Man's Poison.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/23－One Man's Meat is Another Man's Poison.json"
@@ -1758,7 +1758,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-024-a-skeleton-in-the-cupboard",
     "collection": "nce3",
     "title": "Lesson 24: A Skeleton in the Cupboard",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:46",
     "sizeLabel": "2.7 MB",
     "audioUrl": "/新概念/新概念3-美音/24－A Skeleton in the Cupboard.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/24－A Skeleton in the Cupboard.json"
@@ -1767,7 +1767,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-025-the-cutty-sark",
     "collection": "nce3",
     "title": "Lesson 25: The Cutty Sark",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:00",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/25－The Cutty Sark.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/25－The Cutty Sark.json"
@@ -1776,7 +1776,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-026-wanted-a-large-biscuit-tin",
     "collection": "nce3",
     "title": "Lesson 26: Wanted a Large Biscuit Tin",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:10",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/26－Wanted a Large Biscuit Tin.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/26－Wanted a Large Biscuit Tin.json"
@@ -1785,7 +1785,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-027-nothing-to-sell-and-nothing-to-buy",
     "collection": "nce3",
     "title": "Lesson 27: Nothing to Sell and Nothing to Buy",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:51",
     "sizeLabel": "2.8 MB",
     "audioUrl": "/新概念/新概念3-美音/27－Nothing to Sell and Nothing to Buy.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/27－Nothing to Sell and Nothing to Buy.json"
@@ -1794,7 +1794,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-028-five-pounds-too-dear",
     "collection": "nce3",
     "title": "Lesson 28: Five Pounds Too Dear",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:04",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/28－Five Pounds Too Dear.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/28－Five Pounds Too Dear.json"
@@ -1803,7 +1803,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-029-funny-or-not",
     "collection": "nce3",
     "title": "Lesson 29: Funny or Not",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:01",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/29－Funny or Not.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/29－Funny or Not.json"
@@ -1812,7 +1812,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-030-the-death-of-a-ghost",
     "collection": "nce3",
     "title": "Lesson 30: The Death of a Ghost",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:51",
     "sizeLabel": "2.8 MB",
     "audioUrl": "/新概念/新概念3-美音/30－The Death of a Ghost.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/30－The Death of a Ghost.json"
@@ -1821,7 +1821,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-031-a-lovable-eccentric",
     "collection": "nce3",
     "title": "Lesson 31: A Lovable Eccentric",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:04",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/31－A Lovable Eccentric.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/31－A Lovable Eccentric.json"
@@ -1830,7 +1830,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-032-a-lost-ship",
     "collection": "nce3",
     "title": "Lesson 32: A Lost Ship",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:41",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念3-美音/32－A Lost Ship.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/32－A Lost Ship.json"
@@ -1839,7 +1839,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-033-a-day-to-remember",
     "collection": "nce3",
     "title": "Lesson 33: A Day to Remember",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:01",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/33－A Day to Remember.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/33－A Day to Remember.json"
@@ -1848,7 +1848,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-034-a-happy-discovery",
     "collection": "nce3",
     "title": "Lesson 34: A Happy Discovery",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:10",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/34－A Happy Discovery.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/34－A Happy Discovery.json"
@@ -1857,7 +1857,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-035-justice-was-done",
     "collection": "nce3",
     "title": "Lesson 35: Justice was Done",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:07",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/35－Justice was Done.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/35－Justice was Done.json"
@@ -1866,7 +1866,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-036-a-chance-in-a-million",
     "collection": "nce3",
     "title": "Lesson 36: A Chance in a Million",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:08",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/36－A Chance in a Million.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/36－A Chance in a Million.json"
@@ -1875,7 +1875,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-037-the-westhaven-express",
     "collection": "nce3",
     "title": "Lesson 37: The Westhaven Express",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:00",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/37－The Westhaven Express.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/37－The Westhaven Express.json"
@@ -1884,7 +1884,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-038-the-first-calendar",
     "collection": "nce3",
     "title": "Lesson 38: The First Calendar",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:07",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/38－The First Calendar.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/38－The First Calendar.json"
@@ -1893,7 +1893,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-039-nothing-to-worry-about",
     "collection": "nce3",
     "title": "Lesson 39: Nothing to Worry About",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:10",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念3-美音/39－Nothing to Worry About.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/39－Nothing to Worry About.json"
@@ -1902,7 +1902,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-040-who-s-who",
     "collection": "nce3",
     "title": "Lesson 40: Who's Who",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:59",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念3-美音/40－Who's Who.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/40－Who's Who.json"
@@ -1911,7 +1911,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-041-illusions-of-pastoral-peace",
     "collection": "nce3",
     "title": "Lesson 41: Illusions of Pastoral Peace",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:27",
     "sizeLabel": "4.2 MB",
     "audioUrl": "/新概念/新概念3-美音/41－Illusions of Pastoral Peace.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/41－Illusions of Pastoral Peace.json"
@@ -1920,7 +1920,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-042-modern-cavemen",
     "collection": "nce3",
     "title": "Lesson 42: Modern Cavemen",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:28",
     "sizeLabel": "4.2 MB",
     "audioUrl": "/新概念/新概念3-美音/42－Modern Cavemen.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/42－Modern Cavemen.json"
@@ -1929,7 +1929,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-043-fully-insured",
     "collection": "nce3",
     "title": "Lesson 43: Fully Insured",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:18",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/43－Fully Insured.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/43－Fully Insured.json"
@@ -1938,7 +1938,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-044-speed-and-comfort",
     "collection": "nce3",
     "title": "Lesson 44: Speed and Comfort",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:16",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/44－Speed and Comfort.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/44－Speed and Comfort.json"
@@ -1947,7 +1947,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-045-the-power-of-the-press",
     "collection": "nce3",
     "title": "Lesson 45: The Power of the Press",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:51",
     "sizeLabel": "3.7 MB",
     "audioUrl": "/新概念/新概念3-美音/45－The Power of the Press.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/45－The Power of the Press.json"
@@ -1956,7 +1956,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-046-do-it-yourself",
     "collection": "nce3",
     "title": "Lesson 46: Do It Yourself",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:23",
     "sizeLabel": "4.2 MB",
     "audioUrl": "/新概念/新概念3-美音/46－Do It Yourself.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/46－Do It Yourself.json"
@@ -1965,7 +1965,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-047-too-high-a-price",
     "collection": "nce3",
     "title": "Lesson 47: Too High a Price",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:25",
     "sizeLabel": "4.2 MB",
     "audioUrl": "/新概念/新概念3-美音/47－Too High a Price.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/47－Too High a Price.json"
@@ -1974,7 +1974,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-048-the-silent-village",
     "collection": "nce3",
     "title": "Lesson 48: The Silent Village",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:19",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/48－The Silent Village.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/48－The Silent Village.json"
@@ -1983,7 +1983,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-049-the-ideal-servant",
     "collection": "nce3",
     "title": "Lesson 49: The Ideal Servant",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:24",
     "sizeLabel": "4.2 MB",
     "audioUrl": "/新概念/新概念3-美音/49－The Ideal Servant.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/49－The Ideal Servant.json"
@@ -1992,7 +1992,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-050-new-year-resolutions",
     "collection": "nce3",
     "title": "Lesson 50: New Year Resolutions",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:18",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/50－New Year Resolutions.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/50－New Year Resolutions.json"
@@ -2001,7 +2001,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-051-predicting-the-future",
     "collection": "nce3",
     "title": "Lesson 51: Predicting the Future",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:18",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/51－Predicting the Future.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/51－Predicting the Future.json"
@@ -2010,7 +2010,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-052-mud-is-mud",
     "collection": "nce3",
     "title": "Lesson 52: Mud is Mud",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:09",
     "sizeLabel": "3.9 MB",
     "audioUrl": "/新概念/新概念3-美音/52－Mud is Mud.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/52－Mud is Mud.json"
@@ -2019,7 +2019,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-053-in-the-public-interest",
     "collection": "nce3",
     "title": "Lesson 53: In the Public Interest",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:05",
     "sizeLabel": "3.9 MB",
     "audioUrl": "/新概念/新概念3-美音/53－In the Public Interest.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/53－In the Public Interest.json"
@@ -2028,7 +2028,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-054-instinct-or-cleverness",
     "collection": "nce3",
     "title": "Lesson 54: Instinct or Cleverness",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:16",
     "sizeLabel": "4.1 MB",
     "audioUrl": "/新概念/新概念3-美音/54－Instinct or Cleverness.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/54－Instinct or Cleverness.json"
@@ -2037,7 +2037,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-055-from-the-earth-greetings",
     "collection": "nce3",
     "title": "Lesson 55: From the Earth Greetings",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:02",
     "sizeLabel": "3.8 MB",
     "audioUrl": "/新概念/新概念3-美音/55－From the Earth Greetings.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/55－From the Earth Greetings.json"
@@ -2046,7 +2046,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-056-our-neighbour-the-river",
     "collection": "nce3",
     "title": "Lesson 56: Our Neighbour, the River",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:42",
     "sizeLabel": "3.5 MB",
     "audioUrl": "/新概念/新概念3-美音/56－Our Neighbour, the River.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/56－Our Neighbour, the River.json"
@@ -2055,7 +2055,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-057-back-in-the-old-country",
     "collection": "nce3",
     "title": "Lesson 57: Back in the Old Country",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:48",
     "sizeLabel": "3.6 MB",
     "audioUrl": "/新概念/新概念3-美音/57－Back in the Old Country.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/57－Back in the Old Country.json"
@@ -2064,7 +2064,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-058-a-spot-of-bother",
     "collection": "nce3",
     "title": "Lesson 58: A Spot of Bother",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:52",
     "sizeLabel": "3.7 MB",
     "audioUrl": "/新概念/新概念3-美音/58－A Spot of Bother.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/58－A Spot of Bother.json"
@@ -2073,7 +2073,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-059-collecting",
     "collection": "nce3",
     "title": "Lesson 59: Collecting",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:07",
     "sizeLabel": "3.9 MB",
     "audioUrl": "/新概念/新概念3-美音/59－Collecting.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/59－Collecting.json"
@@ -2082,7 +2082,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce3-060-too-early-and-too-late",
     "collection": "nce3",
     "title": "Lesson 60: Too Early and Too Late",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:36",
     "sizeLabel": "4.4 MB",
     "audioUrl": "/新概念/新概念3-美音/60－Too Early and Too Late.mp3",
     "transcriptUrl": "/新概念/新概念3-美音/60－Too Early and Too Late.json"
@@ -2091,7 +2091,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-001-finding-fossil-man",
     "collection": "nce4",
     "title": "Lesson 1: Finding Fossil Man",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:13",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念4-美音/01－Finding Fossil Man.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/01－Finding Fossil Man.json"
@@ -2100,7 +2100,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-002-spare-that-spider",
     "collection": "nce4",
     "title": "Lesson 2: Spare That Spider",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:20",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念4-美音/02－Spare That Spider.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/02－Spare That Spider.json"
@@ -2109,7 +2109,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-003-matterhorn-man",
     "collection": "nce4",
     "title": "Lesson 3: Matterhorn Man",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:39",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念4-美音/03－Matterhorn Man.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/03－Matterhorn Man.json"
@@ -2118,7 +2118,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-004-seeing-hands",
     "collection": "nce4",
     "title": "Lesson 4: Seeing Hands",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:15",
     "sizeLabel": "2.2 MB",
     "audioUrl": "/新概念/新概念4-美音/04－Seeing Hands.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/04－Seeing Hands.json"
@@ -2127,7 +2127,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-005-youth",
     "collection": "nce4",
     "title": "Lesson 5: Youth",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:39",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念4-美音/05－Youth.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/05－Youth.json"
@@ -2136,7 +2136,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-006-the-sporting-spirit",
     "collection": "nce4",
     "title": "Lesson 6: The Sporting Spirit",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:00",
     "sizeLabel": "2.0 MB",
     "audioUrl": "/新概念/新概念4-美音/06－The Sporting Spirit.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/06－The Sporting Spirit.json"
@@ -2145,7 +2145,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-007-bats",
     "collection": "nce4",
     "title": "Lesson 7: Bats",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:35",
     "sizeLabel": "2.5 MB",
     "audioUrl": "/新概念/新概念4-美音/07－Bats.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/07－Bats.json"
@@ -2154,7 +2154,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-008-trading-standards",
     "collection": "nce4",
     "title": "Lesson 8: Trading Standards",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:21",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念4-美音/08－Trading Standards.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/08－Trading Standards.json"
@@ -2163,7 +2163,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-009-royal-espionage",
     "collection": "nce4",
     "title": "Lesson 9: Royal Espionage",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:42",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念4-美音/09－Royal Espionage.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/09－Royal Espionage.json"
@@ -2172,7 +2172,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-010-silicon-valley",
     "collection": "nce4",
     "title": "Lesson 10: Silicon Valley",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:35",
     "sizeLabel": "2.5 MB",
     "audioUrl": "/新概念/新概念4-美音/10－Silicon Valley.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/10－Silicon Valley.json"
@@ -2181,7 +2181,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-011-how-to-grow-old",
     "collection": "nce4",
     "title": "Lesson 11: How to Grow Old",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:39",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念4-美音/11－How to Grow Old.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/11－How to Grow Old.json"
@@ -2190,7 +2190,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-012-banks-and-their-customers",
     "collection": "nce4",
     "title": "Lesson 12: Banks and Their Customers",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:09",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念4-美音/12－Banks and Their Customers.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/12－Banks and Their Customers.json"
@@ -2199,7 +2199,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-013-the-search-for-oil",
     "collection": "nce4",
     "title": "Lesson 13: The Search for Oil",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:23",
     "sizeLabel": "2.3 MB",
     "audioUrl": "/新概念/新概念4-美音/13－The Search for Oil.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/13－The Search for Oil.json"
@@ -2208,7 +2208,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-014-the-butterfly-effect",
     "collection": "nce4",
     "title": "Lesson 14: The Butterfly Effect",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:28",
     "sizeLabel": "2.4 MB",
     "audioUrl": "/新概念/新概念4-美音/14－The Butterfly Effect.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/14－The Butterfly Effect.json"
@@ -2217,7 +2217,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-015-secrecy-in-industry",
     "collection": "nce4",
     "title": "Lesson 15: Secrecy in Industry",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:26",
     "sizeLabel": "2.4 MB",
     "audioUrl": "/新概念/新概念4-美音/15－Secrecy in Industry.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/15－Secrecy in Industry.json"
@@ -2226,7 +2226,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-016-the-modern-city",
     "collection": "nce4",
     "title": "Lesson 16: The Modern City",
-    "durationLabel": "2 分钟",
+    "durationLabel": "02:09",
     "sizeLabel": "2.1 MB",
     "audioUrl": "/新概念/新概念4-美音/16－The Modern City.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/16－The Modern City.json"
@@ -2235,7 +2235,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-017-a-man-made-disease",
     "collection": "nce4",
     "title": "Lesson 17: A Man-made Disease",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:01",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念4-美音/17－A Man-made Disease.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/17－A Man-made Disease.json"
@@ -2244,7 +2244,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-018-porpoises",
     "collection": "nce4",
     "title": "Lesson 18: Porpoises",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:57",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念4-美音/18－Porpoises.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/18－Porpoises.json"
@@ -2253,7 +2253,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-019-the-stuff-of-dreams",
     "collection": "nce4",
     "title": "Lesson 19: The Stuff of Dreams",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:17",
     "sizeLabel": "3.2 MB",
     "audioUrl": "/新概念/新概念4-美音/19－The Stuff of Dreams.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/19－The Stuff of Dreams.json"
@@ -2262,7 +2262,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-020-snake-poison",
     "collection": "nce4",
     "title": "Lesson 20: Snake Poison",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:01",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念4-美音/20－Snake Poison.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/20－Snake Poison.json"
@@ -2271,7 +2271,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-021-william-s-hart-and-the-early-western-film",
     "collection": "nce4",
     "title": "Lesson 21: William S. Hart and the Early Western Film",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:17",
     "sizeLabel": "3.2 MB",
     "audioUrl": "/新概念/新概念4-美音/21－William S. Hart and the Early Western Film.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/21－William S. Hart and the Early Western Film.json"
@@ -2280,7 +2280,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-022-knowledge-and-progress",
     "collection": "nce4",
     "title": "Lesson 22: Knowledge and Progress",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:46",
     "sizeLabel": "2.7 MB",
     "audioUrl": "/新概念/新概念4-美音/22－Knowledge and Progress.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/22－Knowledge and Progress.json"
@@ -2289,7 +2289,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-023-bird-flight",
     "collection": "nce4",
     "title": "Lesson 23: Bird Flight",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:55",
     "sizeLabel": "2.8 MB",
     "audioUrl": "/新概念/新概念4-美音/23－Bird Flight.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/23－Bird Flight.json"
@@ -2298,7 +2298,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-024-beauty",
     "collection": "nce4",
     "title": "Lesson 24: Beauty",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:40",
     "sizeLabel": "2.6 MB",
     "audioUrl": "/新概念/新概念4-美音/24－Beauty.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/24－Beauty.json"
@@ -2307,7 +2307,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-025-non-auditory-effects-of-noise",
     "collection": "nce4",
     "title": "Lesson 25: Non-Auditory Effects of Noise",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:53",
     "sizeLabel": "3.7 MB",
     "audioUrl": "/新概念/新概念4-美音/25－Non-Auditory Effects of Noise.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/25－Non-Auditory Effects of Noise.json"
@@ -2316,7 +2316,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-026-the-past-life-of-the-earth",
     "collection": "nce4",
     "title": "Lesson 26: The Past Life of the Earth",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:25",
     "sizeLabel": "3.3 MB",
     "audioUrl": "/新概念/新概念4-美音/26－The Past Life of the Earth.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/26－The Past Life of the Earth.json"
@@ -2325,7 +2325,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-027-the-vasa",
     "collection": "nce4",
     "title": "Lesson 27: The vasa",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:09",
     "sizeLabel": "3.9 MB",
     "audioUrl": "/新概念/新概念4-美音/27－The vasa.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/27－The vasa.json"
@@ -2334,7 +2334,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-028-patients-and-doctors",
     "collection": "nce4",
     "title": "Lesson 28: Patients and Doctors",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:06",
     "sizeLabel": "3.0 MB",
     "audioUrl": "/新概念/新概念4-美音/28－Patients and Doctors.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/28－Patients and Doctors.json"
@@ -2343,7 +2343,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-029-the-hovercraft",
     "collection": "nce4",
     "title": "Lesson 29: The Hovercraft",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:23",
     "sizeLabel": "3.3 MB",
     "audioUrl": "/新概念/新概念4-美音/29－The Hovercraft.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/29－The Hovercraft.json"
@@ -2352,7 +2352,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-030-exploring-the-sea-floor",
     "collection": "nce4",
     "title": "Lesson 30: Exploring the Sea-Floor",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:33",
     "sizeLabel": "3.4 MB",
     "audioUrl": "/新概念/新概念4-美音/30－Exploring the Sea-Floor.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/30－Exploring the Sea-Floor.json"
@@ -2361,7 +2361,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-031-the-sculptor-speaks",
     "collection": "nce4",
     "title": "Lesson 31: The Sculptor Speaks",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:29",
     "sizeLabel": "3.3 MB",
     "audioUrl": "/新概念/新概念4-美音/31－The Sculptor Speaks.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/31－The Sculptor Speaks.json"
@@ -2370,7 +2370,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-032-galileo-reborn",
     "collection": "nce4",
     "title": "Lesson 32: Galileo Reborn",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:33",
     "sizeLabel": "3.4 MB",
     "audioUrl": "/新概念/新概念4-美音/32－Galileo Reborn.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/32－Galileo Reborn.json"
@@ -2379,7 +2379,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-033-education",
     "collection": "nce4",
     "title": "Lesson 33: Education",
-    "durationLabel": "4 分钟",
+    "durationLabel": "04:03",
     "sizeLabel": "3.9 MB",
     "audioUrl": "/新概念/新概念4-美音/33－Education.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/33－Education.json"
@@ -2388,7 +2388,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-034-adolescence",
     "collection": "nce4",
     "title": "Lesson 34: Adolescence",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:16",
     "sizeLabel": "3.1 MB",
     "audioUrl": "/新概念/新概念4-美音/34－Adolescence.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/34－Adolescence.json"
@@ -2397,7 +2397,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-035-space-odyssey",
     "collection": "nce4",
     "title": "Lesson 35: Space Odyssey",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:30",
     "sizeLabel": "3.4 MB",
     "audioUrl": "/新概念/新概念4-美音/35－Space Odyssey.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/35－Space Odyssey.json"
@@ -2406,7 +2406,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-036-the-cost-of-government",
     "collection": "nce4",
     "title": "Lesson 36: The Cost of Government",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:27",
     "sizeLabel": "3.3 MB",
     "audioUrl": "/新概念/新概念4-美音/36－The Cost of Government.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/36－The Cost of Government.json"
@@ -2415,7 +2415,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-037-the-process-of-ageing",
     "collection": "nce4",
     "title": "Lesson 37: The Process of Ageing",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:35",
     "sizeLabel": "4.3 MB",
     "audioUrl": "/新概念/新概念4-美音/37－The Process of Ageing.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/37－The Process of Ageing.json"
@@ -2424,7 +2424,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-038-water-and-the-traveller",
     "collection": "nce4",
     "title": "Lesson 38: Water and the Traveller",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:03",
     "sizeLabel": "2.9 MB",
     "audioUrl": "/新概念/新概念4-美音/38－Water and the Traveller.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/38－Water and the Traveller.json"
@@ -2433,7 +2433,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-039-what-every-writer-wants",
     "collection": "nce4",
     "title": "Lesson 39: What Every Writer Wants",
-    "durationLabel": "4 分钟",
+    "durationLabel": "03:55",
     "sizeLabel": "3.7 MB",
     "audioUrl": "/新概念/新概念4-美音/39－What Every Writer Wants.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/39－What Every Writer Wants.json"
@@ -2442,7 +2442,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-040-waves",
     "collection": "nce4",
     "title": "Lesson 40: Waves",
-    "durationLabel": "3 分钟",
+    "durationLabel": "02:52",
     "sizeLabel": "2.8 MB",
     "audioUrl": "/新概念/新概念4-美音/40－Waves.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/40－Waves.json"
@@ -2451,7 +2451,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-041-training-elephants",
     "collection": "nce4",
     "title": "Lesson 41: Training Elephants",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:52",
     "sizeLabel": "4.6 MB",
     "audioUrl": "/新概念/新概念4-美音/41－Training Elephants.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/41－Training Elephants.json"
@@ -2460,7 +2460,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-042-recording-an-earthquake",
     "collection": "nce4",
     "title": "Lesson 42: Recording an Earthquake",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:51",
     "sizeLabel": "4.6 MB",
     "audioUrl": "/新概念/新概念4-美音/42－Recording an Earthquake.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/42－Recording an Earthquake.json"
@@ -2469,7 +2469,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-043-are-there-strangers-in-space",
     "collection": "nce4",
     "title": "Lesson 43: Are There Strangers in Space",
-    "durationLabel": "6 分钟",
+    "durationLabel": "05:40",
     "sizeLabel": "5.3 MB",
     "audioUrl": "/新概念/新概念4-美音/43－Are There Strangers in Space.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/43－Are There Strangers in Space.json"
@@ -2478,7 +2478,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-044-patterns-of-culture",
     "collection": "nce4",
     "title": "Lesson 44: Patterns of Culture",
-    "durationLabel": "5 分钟",
+    "durationLabel": "05:05",
     "sizeLabel": "4.8 MB",
     "audioUrl": "/新概念/新概念4-美音/44－Patterns of Culture.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/44－Patterns of Culture.json"
@@ -2487,7 +2487,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-045-of-men-and-galaxies",
     "collection": "nce4",
     "title": "Lesson 45: Of Men and Galaxies",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:56",
     "sizeLabel": "4.7 MB",
     "audioUrl": "/新概念/新概念4-美音/45－Of Men and Galaxies.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/45－Of Men and Galaxies.json"
@@ -2496,7 +2496,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-046-hobbies",
     "collection": "nce4",
     "title": "Lesson 46: Hobbies",
-    "durationLabel": "5 分钟",
+    "durationLabel": "04:44",
     "sizeLabel": "4.5 MB",
     "audioUrl": "/新概念/新概念4-美音/46－Hobbies.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/46－Hobbies.json"
@@ -2505,7 +2505,7 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-047-the-great-escape",
     "collection": "nce4",
     "title": "Lesson 47: The Great Escape",
-    "durationLabel": "6 分钟",
+    "durationLabel": "05:53",
     "sizeLabel": "5.5 MB",
     "audioUrl": "/新概念/新概念4-美音/47－The Great Escape.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/47－The Great Escape.json"
@@ -2514,24 +2514,16 @@ export const lessons: readonly Lesson[] = [
     "id": "nce4-048-planning-a-share-portfolio",
     "collection": "nce4",
     "title": "Lesson 48: Planning a Share Portfolio",
-    "durationLabel": "3 分钟",
+    "durationLabel": "03:17",
     "sizeLabel": "3.2 MB",
     "audioUrl": "/新概念/新概念4-美音/48－Planning a Share Portfolio.mp3",
     "transcriptUrl": "/新概念/新概念4-美音/48－Planning a Share Portfolio.json"
   },
   {
-    "id": "voa-no-brainer",
-    "collection": "other",
-    "title": "VOA English in a Minute: No Brainer",
-    "durationLabel": "1 分钟",
-    "audioUrl": "/samples/no-brainer.mp3",
-    "transcriptUrl": "/samples/no-brainer.json"
-  },
-  {
     "id": "context-engineering-with-dex-horthy",
     "collection": "other",
     "title": "Context engineering with Dex Horthy",
-    "durationLabel": "92 分钟",
+    "durationLabel": "92:23",
     "sizeLabel": "90 MB",
     "audioUrl": "/samples/context-engineering-with-dex-horthy.mp3",
     "transcriptUrl": "/samples/context-engineering-with-dex-horthy.json"
@@ -2540,7 +2532,7 @@ export const lessons: readonly Lesson[] = [
     "id": "lex-475-demis-hassabis-2",
     "collection": "other",
     "title": "Lex Fridman Podcast #475: Demis Hassabis 2",
-    "durationLabel": "155 分钟",
+    "durationLabel": "154:56",
     "sizeLabel": "106 MB",
     "audioUrl": "/samples/lex_ai_demis_hassabis_2.mp3",
     "transcriptUrl": "/samples/lex-475-demis-hassabis-2.json?v=3"

@@ -29,9 +29,19 @@ try {
         $env:Path = "$bundledNodeDirectory;$originalProcessPath"
     }
 
-    & $pnpm build
+    & $pnpm exec tsc -b
     if ($LASTEXITCODE -ne 0) {
-        throw "Build failed. Deployment stopped."
+        throw "TypeScript build failed. Deployment stopped."
+    }
+
+    & $pnpm exec vite build --mode deploy-light
+    if ($LASTEXITCODE -ne 0) {
+        throw "Vite build failed. Deployment stopped."
+    }
+
+    $unexpectedAudio = Get-ChildItem -LiteralPath "dist" -Recurse -File -Filter "*.mp3"
+    if ($unexpectedAudio) {
+        throw "Lightweight build unexpectedly contains MP3 files. Deployment stopped."
     }
 
     & $ssh -o BatchMode=yes $remote "install -d -m 755 $remoteDirectory"
@@ -44,7 +54,7 @@ try {
         throw "Upload failed."
     }
 
-    Write-Host "Deployment complete: https://learn.iceriver.cc" -ForegroundColor Green
+    Write-Host "Lightweight deployment complete (MP3 excluded): https://learn.iceriver.cc" -ForegroundColor Green
 } finally {
     $env:Path = $originalProcessPath
     Pop-Location

@@ -17,12 +17,14 @@ import {
   CheckIcon,
   ChevronDownIcon,
   DownloadIcon,
+  FullTextIcon,
   LoaderIcon,
   LocateIcon,
   PauseIcon,
   PlayIcon,
   SlidersExpandIcon,
   SlidersIcon,
+  SingleSentenceIcon,
   SkipBackIcon,
   SkipForwardIcon,
   TrashIcon
@@ -62,6 +64,7 @@ const repeatLimits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "infinite"] as const;
 type RepeatLimit = (typeof repeatLimits)[number];
 type OpenPlayerMenu = "speed" | "repeat" | "reading" | undefined;
 type PlayerView = "focus" | "transcript";
+type AppView = "library" | "player";
 
 function readRepeatLimit(): RepeatLimit {
   try {
@@ -163,11 +166,11 @@ function messageFromError(error: unknown): string {
 
 async function fetchTranscript(lesson: Lesson): Promise<TranscriptInput> {
   const response = await fetch(lesson.transcriptUrl);
-  if (!response.ok) throw new Error("课程字幕加载失败，请检查网络连接。");
+  if (!response.ok) throw new Error("字幕加载失败，请检查网络连接。");
   const input = transcriptSchema.parse(await response.json());
   const filename = lesson.audioUrl.split("/").at(-1) ?? "";
   validateTimeline(input, input.course.duration, filename);
-  if (input.course.id !== lesson.id) throw new Error("课程字幕与课程目录不匹配。");
+  if (input.course.id !== lesson.id) throw new Error("字幕内容与听力列表不匹配。");
   return input;
 }
 
@@ -193,8 +196,6 @@ export default function App() {
   const [downloaded, setDownloaded] = useState<Record<string, boolean>>({});
   const [downloading, setDownloading] = useState<string>();
   const [checkingDownloads, setCheckingDownloads] = useState(true);
-  const [audioFile, setAudioFile] = useState<File>();
-  const [transcriptFile, setTranscriptFile] = useState<File>();
   const [currentTime, setCurrentTime] = useState(0);
   const [currentSegment, setCurrentSegment] = useState(0);
   const [playing, setPlaying] = useState(false);
@@ -219,6 +220,8 @@ export default function App() {
   });
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
+  const [compactHeaderVisible, setCompactHeaderVisible] = useState(false);
+  const [appView, setAppView] = useState<AppView>("library");
 
   function replaceObjectUrl(blob?: Blob): string | undefined {
     if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
@@ -363,6 +366,66 @@ export default function App() {
     return () => cancelAnimationFrame(frame);
   }, [currentSegment, followingTranscript, playerView]);
 
+  useEffect(() => {
+    setCompactHeaderVisible(false);
+    if (!course || appView !== "player") return;
+
+    let lastScrollY = window.scrollY;
+    let direction = 0;
+    let distance = 0;
+    let userInputUntil = 0;
+    const markUserScroll = () => {
+      userInputUntil = performance.now() + 600;
+    };
+    const markKeyboardScroll = (event: KeyboardEvent) => {
+      if (["ArrowUp", "ArrowDown", "PageUp", "PageDown", "Home", "End", " "].includes(event.key)) {
+        markUserScroll();
+      }
+    };
+    const handleScroll = () => {
+      const nextScrollY = Math.max(0, window.scrollY);
+      const delta = nextScrollY - lastScrollY;
+      lastScrollY = nextScrollY;
+
+      if (nextScrollY <= 80) {
+        direction = 0;
+        distance = 0;
+        setCompactHeaderVisible(false);
+        return;
+      }
+      if (performance.now() > userInputUntil || delta === 0) {
+        direction = 0;
+        distance = 0;
+        return;
+      }
+
+      const nextDirection = Math.sign(delta);
+      if (nextDirection !== direction) {
+        direction = nextDirection;
+        distance = 0;
+      }
+      distance += Math.abs(delta);
+      if (direction < 0 && distance >= 12) {
+        setCompactHeaderVisible(true);
+        distance = 0;
+      } else if (direction > 0 && distance >= 16) {
+        setCompactHeaderVisible(false);
+        distance = 0;
+      }
+    };
+
+    window.addEventListener("wheel", markUserScroll, { passive: true });
+    window.addEventListener("touchmove", markUserScroll, { passive: true });
+    window.addEventListener("keydown", markKeyboardScroll);
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => {
+      window.removeEventListener("wheel", markUserScroll);
+      window.removeEventListener("touchmove", markUserScroll);
+      window.removeEventListener("keydown", markKeyboardScroll);
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [appView, course?.id]);
+
   async function showCourse(nextCourse: Course, source: string, isLocal: boolean) {
     const progress = await loadProgress(nextCourse.id);
     restoreTime.current = progress?.currentTime ?? 0;
@@ -378,10 +441,23 @@ export default function App() {
     setLocalPlayback(isLocal);
     setCourse(nextCourse);
     setAudioUrl(source);
+    setAppView("player");
+    window.scrollTo({ top: 0, behavior: "auto" });
   }
 
   async function openLesson(lesson: Lesson) {
     if (busy || downloading) return;
+    if (course?.id === lesson.id && audioUrl) {
+      setOpenPlayerMenu(undefined);
+      setAppView("player");
+      window.scrollTo({ top: 0, behavior: "auto" });
+      return;
+    }
+    const currentAudio = audioRef.current;
+    if (currentAudio && course) {
+      currentAudio.pause();
+      saveCurrentProgress(currentAudio.currentTime, currentAudio.playbackRate);
+    }
     setBusy(true);
     setError("");
     try {
@@ -419,7 +495,7 @@ export default function App() {
     setError("");
     try {
       const [audioResponse, input] = await Promise.all([fetch(lesson.audioUrl), fetchTranscript(lesson)]);
-      if (!audioResponse.ok) throw new Error("课程音频下载失败，请检查网络连接或存储空间。");
+      if (!audioResponse.ok) throw new Error("音频下载失败，请检查网络连接或存储空间。");
       const audio = await audioResponse.blob();
       const duration = await readAudioDuration(audio);
       validateTimeline(input, duration, lesson.audioUrl.split("/").at(-1) ?? "");
@@ -436,39 +512,6 @@ export default function App() {
     } finally {
       setDownloading(undefined);
     }
-  }
-
-  async function importFiles(audio: File, transcript: File) {
-    setBusy(true);
-    setError("");
-    try {
-      const input = transcriptSchema.parse(JSON.parse(await transcript.text()) as unknown);
-      const duration = await readAudioDuration(audio);
-      validateTimeline(input, duration, audio.name);
-      const saved = await saveCourse(courseFromTranscript(input, duration), audio);
-      await saveProgress(saved.id, { currentTime: 0, playbackRate: 1 });
-      await showCourse(saved, replaceObjectUrl(audio)!, true);
-      if (lessons.some((lesson) => lesson.id === saved.id)) {
-        setDownloaded((current) => ({ ...current, [saved.id]: true }));
-      }
-      try {
-        await navigator.storage?.persist?.();
-      } catch {
-        // Persistent storage is optional.
-      }
-    } catch (importError) {
-      setError(messageFromError(importError));
-    } finally {
-      setBusy(false);
-    }
-  }
-
-  async function importSelectedFiles() {
-    if (!audioFile || !transcriptFile) {
-      setError("请选择 MP3 和字幕 JSON 文件。");
-      return;
-    }
-    await importFiles(audioFile, transcriptFile);
   }
 
   function saveCurrentProgress(time: number, rate: number) {
@@ -627,9 +670,25 @@ export default function App() {
   function returnToCourses() {
     const audio = audioRef.current;
     if (audio) {
-      audio.pause();
       saveCurrentProgress(audio.currentTime, audio.playbackRate);
     }
+    setOpenPlayerMenu(undefined);
+    setCompactHeaderVisible(false);
+    setAppView("library");
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
+
+  function openCurrentCourse() {
+    setOpenPlayerMenu(undefined);
+    setAppView("player");
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
+
+  async function removeCurrentCourse() {
+    if (!course) return;
+    audioRef.current?.pause();
+    await deleteCourse(course.id);
+    setDownloaded((current) => ({ ...current, [course.id]: false }));
     replaceObjectUrl();
     resetRepeatTransition();
     updateLoopSegment(undefined);
@@ -641,14 +700,8 @@ export default function App() {
     setAudioUrl(undefined);
     setPlaying(false);
     setError("");
-  }
-
-  async function removeCurrentCourse() {
-    if (!course) return;
-    audioRef.current?.pause();
-    await deleteCourse(course.id);
-    setDownloaded((current) => ({ ...current, [course.id]: false }));
-    returnToCourses();
+    setAppView("library");
+    window.scrollTo({ top: 0, behavior: "auto" });
   }
 
   const transcriptContent = useMemo(() => {
@@ -669,20 +722,56 @@ export default function App() {
     ));
   }, [course, currentSegment, showTranslation]);
 
-  if (!course || !audioUrl) {
-    return (
-      <main className="center-card course-home">
-        <h1>选择一课，认真听懂。</h1>
-        <p className="intro">点击课程即可在线播放；下载后也能离线学习。</p>
+  const activeCourse = course;
+  const activeAudioUrl = audioUrl;
+  const sharedAudio = activeCourse && activeAudioUrl ? (
+    <audio ref={audioRef} src={activeAudioUrl} preload="metadata"
+      onLoadedMetadata={(event) => {
+        event.currentTarget.playbackRate = speed;
+        event.currentTarget.currentTime = Math.min(restoreTime.current, activeCourse.duration);
+        setCurrentTime(event.currentTarget.currentTime);
+        setCurrentSegment(findSegmentIndex(activeCourse.segments, event.currentTarget.currentTime));
+      }}
+      onPlay={(event) => handlePlay(event.currentTarget)}
+      onPause={(event) => {
+        setPlaying(false);
+        saveCurrentProgress(event.currentTarget.currentTime, event.currentTarget.playbackRate);
+      }}
+      onTimeUpdate={(event) => {
+        let time = event.currentTarget.currentTime;
+        const frameInactive = Date.now() - lastRepeatFrameAtRef.current > 500;
+        completeRepeatIteration(event.currentTarget, document.hidden || frameInactive);
+        time = event.currentTarget.currentTime;
+        setCurrentTime(time);
+        const index = loopSegmentRef.current ?? findSegmentIndex(activeCourse.segments, time);
+        setCurrentSegment((current) => current === index ? current : index);
+        if (Date.now() - lastSavedAt.current > 5000) {
+          lastSavedAt.current = Date.now();
+          saveCurrentProgress(time, event.currentTarget.playbackRate);
+        }
+      }}
+      onError={() => setError("浏览器无法播放音频；如果当前离线，请先下载。")}
+    />
+  ) : null;
 
-        <section className="course-list" aria-label="课程列表">
-          <h2>课程</h2>
+  if (appView === "library" || !course || !audioUrl) {
+    const miniSegment = course?.segments[currentSegment];
+    return (
+      <>
+      {sharedAudio}
+      <main className={course && audioUrl ? "center-card course-home has-mini-player" : "center-card course-home"}>
+        <header className="course-home-header">
+          <h1>英语精听</h1>
+          <p className="intro">选择一篇，开始逐句练习。</p>
+        </header>
+
+        <section className="course-list" aria-label="听力内容">
           {groupedLessons.map((group) => (
             <details className="course-group" key={group.id}>
               <summary>
                 <ChevronDownIcon className="course-group-icon" />
                 <strong>{group.title}</strong>
-                <span>{group.lessons.length} 课</span>
+                <span>{group.lessons.length} 篇</span>
               </summary>
               <div className="course-group-list">
                 {group.lessons.map((lesson) => {
@@ -716,23 +805,30 @@ export default function App() {
           ))}
         </section>
 
-        <div className="divider"><span>或者导入自己的课程</span></div>
-        <label className="file-field">
-          <span>MP3 音频</span>
-          <input type="file" accept="audio/mpeg,.mp3" onChange={(event) => setAudioFile(event.target.files?.[0])} />
-          <strong>{audioFile?.name ?? "选择文件"}</strong>
-        </label>
-        <label className="file-field">
-          <span>字幕 JSON</span>
-          <input type="file" accept="application/json,.json" onChange={(event) => setTranscriptFile(event.target.files?.[0])} />
-          <strong>{transcriptFile?.name ?? "选择文件"}</strong>
-        </label>
-        <button className="secondary" onClick={() => void importSelectedFiles()} disabled={busy}>
-          {busy ? "正在打开…" : "导入所选文件"}
-        </button>
         {error && <p className="error" role="alert">{error}</p>}
-        <p className="source-note">课程资料只在点击“下载”或手动导入后保存到浏览器。</p>
       </main>
+      {course && audioUrl && miniSegment && (
+        <section className="mini-player" aria-label="迷你播放器">
+          <div className="mini-player-progress" aria-hidden="true">
+            <span style={{ width: `${Math.min(100, Math.max(0, currentTime / course.duration * 100))}%` }} />
+          </div>
+          <div className="mini-player-inner">
+            <button className="mini-now-playing" onClick={openCurrentCourse}
+              aria-label={`打开正在播放：${course.title}`}>
+              <strong>{course.title}</strong>
+              <span>{miniSegment.text}</span>
+            </button>
+            <button className="mini-control mini-play" onClick={togglePlayback}
+              aria-label={playing ? "暂停" : "播放"}>
+              {playing ? <PauseIcon /> : <PlayIcon />}
+            </button>
+            <button className="mini-control" onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">
+              <SkipForwardIcon />
+            </button>
+          </div>
+        </section>
+      )}
+      </>
     );
   }
 
@@ -740,17 +836,41 @@ export default function App() {
   const availableTranslations = translationCount(course);
   const activeTranslation = activeSegment.translations?.[translationLanguage];
   return (
+    <>
+    {sharedAudio}
     <main className={playerSettingsExpanded ? "player-page" : "player-page settings-collapsed"}>
-      <header>
-        <button className="back" onClick={returnToCourses}><ArrowLeftIcon className="button-icon" />返回课程</button>
-        <div className="course-heading">
-          <h1>{course.title}</h1>
-          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}><TrashIcon className="button-icon" />删除本地课程</button>}
+      <div className={compactHeaderVisible ? "compact-player-header visible" : "compact-player-header"}
+        aria-hidden={!compactHeaderVisible}>
+        <div className="compact-player-header-inner">
+          <button className="back" aria-label="返回首页" title="返回首页" disabled={!compactHeaderVisible}
+            tabIndex={compactHeaderVisible ? 0 : -1}
+            onClick={returnToCourses}>
+            <ArrowLeftIcon />
+          </button>
+          <span className="compact-header-divider" aria-hidden="true" />
+          <div className="compact-view-switch" role="group" aria-label="阅读视图">
+            <button aria-label="单句视图" title="单句" aria-pressed={playerView === "focus"}
+              disabled={!compactHeaderVisible} tabIndex={compactHeaderVisible ? 0 : -1}
+              onClick={() => changePlayerView("focus")}><SingleSentenceIcon /></button>
+            <button aria-label="全文视图" title="全文" aria-pressed={playerView === "transcript"}
+              disabled={!compactHeaderVisible} tabIndex={compactHeaderVisible ? 0 : -1}
+              onClick={() => changePlayerView("transcript")}><FullTextIcon /></button>
+          </div>
+          <strong title={course.title}>{course.title}</strong>
         </div>
+      </div>
+      <header className="player-header">
+        <div className="player-topbar">
+          <button className="back" aria-label="返回首页" title="返回首页" onClick={returnToCourses}>
+            <ArrowLeftIcon />
+          </button>
+          {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}><TrashIcon className="button-icon" />删除下载</button>}
+        </div>
+        <h1>{course.title}</h1>
       </header>
 
-      <div className="player-view-switch" role="group" aria-label="正文视图">
-        <button aria-pressed={playerView === "focus"} onClick={() => changePlayerView("focus")}>当前句</button>
+      <div className="player-view-switch" role="group" aria-label="阅读视图">
+        <button aria-pressed={playerView === "focus"} onClick={() => changePlayerView("focus")}>单句</button>
         <button aria-pressed={playerView === "transcript"} onClick={() => changePlayerView("transcript")}>全文</button>
       </div>
 
@@ -764,9 +884,11 @@ export default function App() {
           }
         }}>
         {playerView === "focus" ? (
-          <section className="focus-sentence" aria-live="polite">
-            <span>当前句 · {currentSegment + 1}/{course.segments.length}</span>
-            {activeSegment.speaker && <span>{activeSegment.speaker}</span>}
+          <section className="focus-sentence" aria-live="polite" key={currentSegment}>
+            <div className="focus-meta">
+              <span className="focus-index">{currentSegment + 1} / {course.segments.length}</span>
+              {activeSegment.speaker && <><span className="focus-separator">·</span><span className="focus-speaker">{activeSegment.speaker}</span></>}
+            </div>
             <p className="focus-english">{activeSegment.text}</p>
             {showTranslation && activeTranslation && <p className="focus-translation">{activeTranslation}</p>}
           </section>
@@ -782,33 +904,6 @@ export default function App() {
       {error && <p className="error" role="alert">{error}</p>}
 
       <section className="controls" aria-label="播放器控制">
-        <audio ref={audioRef} src={audioUrl} preload="metadata"
-          onLoadedMetadata={(event) => {
-            event.currentTarget.playbackRate = speed;
-            event.currentTarget.currentTime = Math.min(restoreTime.current, course.duration);
-            setCurrentTime(event.currentTarget.currentTime);
-            setCurrentSegment(findSegmentIndex(course.segments, event.currentTarget.currentTime));
-          }}
-          onPlay={(event) => handlePlay(event.currentTarget)}
-          onPause={(event) => {
-            setPlaying(false);
-            saveCurrentProgress(event.currentTarget.currentTime, event.currentTarget.playbackRate);
-          }}
-          onTimeUpdate={(event) => {
-            let time = event.currentTarget.currentTime;
-            const frameInactive = Date.now() - lastRepeatFrameAtRef.current > 500;
-            completeRepeatIteration(event.currentTarget, document.hidden || frameInactive);
-            time = event.currentTarget.currentTime;
-            setCurrentTime(time);
-            const index = loopSegmentRef.current ?? findSegmentIndex(course.segments, time);
-            setCurrentSegment((current) => current === index ? current : index);
-            if (Date.now() - lastSavedAt.current > 5000) {
-              lastSavedAt.current = Date.now();
-              saveCurrentProgress(time, event.currentTarget.playbackRate);
-            }
-          }}
-          onError={() => setError("浏览器无法播放课程音频；如果当前离线，请先下载课程。")}
-        />
         <div className="player-settings" id="player-settings" ref={playerSettingsRef} hidden={!playerSettingsExpanded}>
           <div className="player-setting">
             <button className="setting-trigger" aria-expanded={openPlayerMenu === "speed"}
@@ -883,5 +978,6 @@ export default function App() {
         </div>
       </section>
     </main>
+    </>
   );
 }
