@@ -29,14 +29,12 @@ import {
   CheckIcon,
   ChevronDownIcon,
   DownloadIcon,
-  FullTextIcon,
   LoaderIcon,
   LocateIcon,
   PauseIcon,
   PlayIcon,
   SlidersExpandIcon,
   SlidersIcon,
-  SingleSentenceIcon,
   SkipBackIcon,
   SkipForwardIcon,
   TrashIcon
@@ -1149,10 +1147,10 @@ export default function App() {
           <div className="compact-view-switch" role="group" aria-label="阅读视图">
             <button aria-label="单句视图" title="单句" aria-pressed={playerView === "focus"}
               disabled={!compactHeaderVisible} tabIndex={compactHeaderVisible ? 0 : -1}
-              onClick={() => changePlayerView("focus")}><SingleSentenceIcon /></button>
+              onClick={() => changePlayerView("focus")}>单句</button>
             <button aria-label="全文视图" title="全文" aria-pressed={playerView === "transcript"}
               disabled={!compactHeaderVisible} tabIndex={compactHeaderVisible ? 0 : -1}
-              onClick={() => changePlayerView("transcript")}><FullTextIcon /></button>
+              onClick={() => changePlayerView("transcript")}>全文</button>
           </div>
           <strong title={course.title}>{course.title}</strong>
         </div>

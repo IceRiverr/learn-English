@@ -284,15 +284,16 @@ h1 {
   gap: 2px;
 }
 .compact-view-switch button {
-  width: 44px;
+  min-width: 52px;
   height: 44px;
   padding: 0;
   border: 0;
   border-radius: 10px;
   color: var(--color-text-secondary);
   background: transparent;
+  font-size: 14px;
+  font-weight: 700;
 }
-.compact-view-switch svg { width: 21px; height: 21px; display: block; margin: auto; }
 .compact-view-switch button:disabled { cursor: default; }
 .compact-view-switch button:hover { color: var(--color-text); background: var(--color-surface-muted); }
 .compact-view-switch button[aria-pressed="true"] { color: var(--color-accent); background: var(--color-accent-soft); }
@@ -444,7 +445,6 @@ h1 {
 .timed-word.current {
   color: var(--color-accent);
   background: var(--color-accent-soft);
-  box-shadow: inset 0 -2px var(--color-accent);
 }
 .segment.active .timed-word.future { color: var(--color-text-secondary); }
 .segment.active .timed-word.current { color: var(--color-accent); }
