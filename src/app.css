@@ -281,22 +281,34 @@ h1 {
 .compact-view-switch {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2px;
+  gap: 16px;
+  border-bottom: 1px solid var(--color-border);
 }
 .compact-view-switch button {
-  min-width: 52px;
+  position: relative;
+  min-width: 44px;
   height: 44px;
   padding: 0;
   border: 0;
-  border-radius: 10px;
+  border-radius: 0;
   color: var(--color-text-secondary);
   background: transparent;
   font-size: 14px;
   font-weight: 700;
 }
 .compact-view-switch button:disabled { cursor: default; }
-.compact-view-switch button:hover { color: var(--color-text); background: var(--color-surface-muted); }
-.compact-view-switch button[aria-pressed="true"] { color: var(--color-accent); background: var(--color-accent-soft); }
+.compact-view-switch button:hover { color: var(--color-text); }
+.compact-view-switch button[aria-pressed="true"] { color: var(--color-text); }
+.compact-view-switch button[aria-pressed="true"]::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--color-accent);
+}
 
 .time-row { display: flex; justify-content: space-between; font-variant-numeric: tabular-nums; font-size: 13px; }
 .timeline {
