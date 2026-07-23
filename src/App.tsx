@@ -1,14 +1,18 @@
 import { useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
 import { z } from "zod";
 import {
+  clearLastPlayed,
   deleteCourse,
   loadAudio,
   loadCourse,
+  loadLastPlayed,
   loadProgress,
   saveCourse,
   saveCourseMetadata,
+  saveLastPlayed,
   saveProgress,
   type Course,
+  type SavedProgress,
   type Segment
 } from "./db";
 import { lessonCollections, lessons, type Lesson } from "./lessons";
@@ -65,6 +69,17 @@ type RepeatLimit = (typeof repeatLimits)[number];
 type OpenPlayerMenu = "speed" | "repeat" | "reading" | undefined;
 type PlayerView = "focus" | "transcript";
 type AppView = "library" | "player";
+type LoadedLesson = {
+  course: Course;
+  audio?: Blob;
+  source?: string;
+  isLocal: boolean;
+};
+type ResumePreview = {
+  lesson: Lesson;
+  currentTime: number;
+  unavailable: boolean;
+};
 
 function readRepeatLimit(): RepeatLimit {
   try {
@@ -93,6 +108,16 @@ function findSegmentIndex(segments: readonly Segment[], time: number): number {
     }
   }
   return result;
+}
+
+function isCourseComplete(currentTime: number, duration: number): boolean {
+  return currentTime > 0 && (currentTime >= duration * 0.98 || duration - currentTime <= 10);
+}
+
+function parseDurationLabel(value: string): number | undefined {
+  const parts = value.split(":").map(Number);
+  if (parts.length !== 2 || parts.some((part) => !Number.isFinite(part) || part < 0)) return undefined;
+  return parts[0] * 60 + parts[1];
 }
 
 function validateTimeline(input: TranscriptInput, actualDuration: number, filename: string): void {
@@ -190,6 +215,7 @@ export default function App() {
   const playerMenuTriggerRef = useRef<HTMLButtonElement>(null);
   const activeSegmentRef = useRef<HTMLButtonElement>(null);
   const transcriptShouldCenterRef = useRef(false);
+  const sessionRequestRef = useRef(0);
   const [course, setCourse] = useState<Course>();
   const [audioUrl, setAudioUrl] = useState<string>();
   const [localPlayback, setLocalPlayback] = useState(false);
@@ -222,6 +248,8 @@ export default function App() {
   const [error, setError] = useState("");
   const [compactHeaderVisible, setCompactHeaderVisible] = useState(false);
   const [appView, setAppView] = useState<AppView>("library");
+  const [resumePreview, setResumePreview] = useState<ResumePreview>();
+  const [resumeFromCompleted, setResumeFromCompleted] = useState(false);
 
   function replaceObjectUrl(blob?: Blob): string | undefined {
     if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
@@ -236,6 +264,34 @@ export default function App() {
       return [lesson.id, Boolean(saved && audio)] as const;
     }));
     setDownloaded(Object.fromEntries(entries));
+  }
+
+  async function loadLessonResources(lesson: Lesson): Promise<LoadedLesson> {
+    const saved = await loadCourse(lesson.id);
+    const audio = saved ? await loadAudio(lesson.id) : undefined;
+    if (saved && audio) {
+      let localCourse = saved;
+      if (translationCount(saved) < saved.segments.length) {
+        try {
+          const input = await fetchTranscript(lesson);
+          const latestCourse = courseFromTranscript(input, saved.duration);
+          if (translationCount(latestCourse) > translationCount(saved)
+            || (latestCourse.revision ?? 0) > (saved.revision ?? 0)) {
+            localCourse = (await saveCourseMetadata(latestCourse)) ?? saved;
+          }
+        } catch {
+          // Old downloaded courses must remain playable when offline.
+        }
+      }
+      return { course: localCourse, audio, isLocal: true };
+    }
+
+    const input = await fetchTranscript(lesson);
+    return {
+      course: courseFromTranscript(input),
+      source: lesson.audioUrl,
+      isLocal: false
+    };
   }
 
   function clearRepeatTimer() {
@@ -308,6 +364,59 @@ export default function App() {
       cancelled = true;
       clearRepeatTimer();
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
+    };
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    const requestId = ++sessionRequestRef.current;
+
+    const restoreLastSession = async () => {
+      const lastPlayed = await loadLastPlayed();
+      if (!lastPlayed || cancelled || requestId !== sessionRequestRef.current) return;
+
+      const progress = await loadProgress(lastPlayed.courseId);
+      if (cancelled || requestId !== sessionRequestRef.current) return;
+      const lesson = lessons.find((item) => item.id === lastPlayed.courseId);
+      const previewTime = Number.isFinite(progress?.currentTime) ? Math.max(0, progress?.currentTime ?? 0) : 0;
+
+      try {
+        let loaded: LoadedLesson | undefined;
+        if (lesson) {
+          loaded = await loadLessonResources(lesson);
+        } else {
+          const [saved, audio] = await Promise.all([
+            loadCourse(lastPlayed.courseId),
+            loadAudio(lastPlayed.courseId)
+          ]);
+          if (saved && audio) loaded = { course: saved, audio, isLocal: true };
+        }
+
+        if (!loaded) {
+          if (!cancelled && requestId === sessionRequestRef.current) await clearLastPlayed();
+          return;
+        }
+        if (cancelled || requestId !== sessionRequestRef.current) return;
+
+        const source = loaded.audio ? replaceObjectUrl(loaded.audio)! : replaceObjectUrl() ?? loaded.source!;
+        const shown = await showCourse(loaded.course, source, loaded.isLocal, {
+          view: "library",
+          remember: false,
+          progress,
+          requestId
+        });
+        if (shown && lesson) {
+          setResumePreview({ lesson, currentTime: restoreTime.current, unavailable: false });
+        }
+      } catch {
+        if (cancelled || requestId !== sessionRequestRef.current || !lesson) return;
+        setResumePreview({ lesson, currentTime: previewTime, unavailable: true });
+      }
+    };
+
+    void restoreLastSession();
+    return () => {
+      cancelled = true;
     };
   }, []);
 
@@ -426,12 +535,29 @@ export default function App() {
     };
   }, [appView, course?.id]);
 
-  async function showCourse(nextCourse: Course, source: string, isLocal: boolean) {
-    const progress = await loadProgress(nextCourse.id);
-    restoreTime.current = progress?.currentTime ?? 0;
-    setSpeed(progress?.playbackRate ?? 1);
+  async function showCourse(
+    nextCourse: Course,
+    source: string,
+    isLocal: boolean,
+    options: {
+      view?: AppView;
+      remember?: boolean;
+      progress?: SavedProgress;
+      requestId?: number;
+    } = {}
+  ): Promise<boolean> {
+    const progress = options.progress ?? await loadProgress(nextCourse.id);
+    if (options.requestId !== undefined && options.requestId !== sessionRequestRef.current) return false;
+    const savedTime = Number.isFinite(progress?.currentTime) ? Math.max(0, progress?.currentTime ?? 0) : 0;
+    const savedRate = progress && speeds.some((value) => value === progress.playbackRate)
+      ? progress.playbackRate
+      : 1;
+    const completed = isCourseComplete(savedTime, nextCourse.duration);
+    restoreTime.current = completed ? 0 : Math.min(savedTime, nextCourse.duration);
+    setSpeed(savedRate);
     setCurrentTime(restoreTime.current);
     setCurrentSegment(findSegmentIndex(nextCourse.segments, restoreTime.current));
+    setResumeFromCompleted(completed);
     resetRepeatTransition();
     updateLoopSegment(undefined);
     updateRepeatIteration(1);
@@ -441,18 +567,23 @@ export default function App() {
     setLocalPlayback(isLocal);
     setCourse(nextCourse);
     setAudioUrl(source);
-    setAppView("player");
-    window.scrollTo({ top: 0, behavior: "auto" });
+    setPlaying(false);
+    setAppView(options.view ?? "player");
+    if (options.remember !== false) void saveLastPlayed(nextCourse.id);
+    if ((options.view ?? "player") === "player") window.scrollTo({ top: 0, behavior: "auto" });
+    return true;
   }
 
-  async function openLesson(lesson: Lesson) {
+  async function openLesson(lesson: Lesson, silentFailure = false) {
     if (busy || downloading) return;
     if (course?.id === lesson.id && audioUrl) {
+      void saveLastPlayed(lesson.id);
       setOpenPlayerMenu(undefined);
       setAppView("player");
       window.scrollTo({ top: 0, behavior: "auto" });
       return;
     }
+    const requestId = ++sessionRequestRef.current;
     const currentAudio = audioRef.current;
     if (currentAudio && course) {
       currentAudio.pause();
@@ -461,31 +592,26 @@ export default function App() {
     setBusy(true);
     setError("");
     try {
-      const saved = await loadCourse(lesson.id);
-      const audio = saved ? await loadAudio(lesson.id) : undefined;
-      if (saved && audio) {
-        let localCourse = saved;
-        if (translationCount(saved) < saved.segments.length) {
-          try {
-            const input = await fetchTranscript(lesson);
-            const latestCourse = courseFromTranscript(input, saved.duration);
-            if (translationCount(latestCourse) > translationCount(saved)
-              || (latestCourse.revision ?? 0) > (saved.revision ?? 0)) {
-              localCourse = (await saveCourseMetadata(latestCourse)) ?? saved;
-            }
-          } catch {
-            // Old downloaded courses must remain playable when offline.
-          }
-        }
-        await showCourse(localCourse, replaceObjectUrl(audio)!, true);
-      } else {
-        const input = await fetchTranscript(lesson);
-        await showCourse(courseFromTranscript(input), replaceObjectUrl() ?? lesson.audioUrl, false);
-      }
+      const loaded = await loadLessonResources(lesson);
+      if (requestId !== sessionRequestRef.current) return;
+      const source = loaded.audio ? replaceObjectUrl(loaded.audio)! : replaceObjectUrl() ?? loaded.source!;
+      const shown = await showCourse(loaded.course, source, loaded.isLocal, { requestId });
+      if (shown) setResumePreview({ lesson, currentTime: restoreTime.current, unavailable: false });
     } catch (openError) {
-      setError(messageFromError(openError));
+      if (requestId === sessionRequestRef.current) {
+        if (silentFailure) {
+          const progress = await loadProgress(lesson.id);
+          setResumePreview({
+            lesson,
+            currentTime: Number.isFinite(progress?.currentTime) ? Math.max(0, progress?.currentTime ?? 0) : 0,
+            unavailable: true
+          });
+        } else {
+          setError(messageFromError(openError));
+        }
+      }
     } finally {
-      setBusy(false);
+      if (requestId === sessionRequestRef.current) setBusy(false);
     }
   }
 
@@ -637,6 +763,7 @@ export default function App() {
   }
 
   function handlePlay(audio: HTMLAudioElement) {
+    setResumeFromCompleted(false);
     const target = loopSegmentRef.current;
     if (target !== undefined && repeatFinishedRef.current && course) {
       resetRepeatTransition();
@@ -679,15 +806,29 @@ export default function App() {
   }
 
   function openCurrentCourse() {
+    if (course) void saveLastPlayed(course.id);
     setOpenPlayerMenu(undefined);
     setAppView("player");
     window.scrollTo({ top: 0, behavior: "auto" });
   }
 
+  function openResumeCourse() {
+    if (course && audioUrl) {
+      openCurrentCourse();
+      return;
+    }
+    if (resumePreview) void openLesson(resumePreview.lesson, true);
+  }
+
   async function removeCurrentCourse() {
     if (!course) return;
-    audioRef.current?.pause();
-    await deleteCourse(course.id);
+    ++sessionRequestRef.current;
+    const audio = audioRef.current;
+    const savedTime = audio?.currentTime ?? currentTime;
+    audio?.pause();
+    const catalogLesson = lessons.find((lesson) => lesson.id === course.id);
+    await deleteCourse(course.id, Boolean(catalogLesson));
+    if (!catalogLesson) await clearLastPlayed();
     setDownloaded((current) => ({ ...current, [course.id]: false }));
     replaceObjectUrl();
     resetRepeatTransition();
@@ -700,6 +841,10 @@ export default function App() {
     setAudioUrl(undefined);
     setPlaying(false);
     setError("");
+    setResumeFromCompleted(false);
+    setResumePreview(catalogLesson
+      ? { lesson: catalogLesson, currentTime: savedTime, unavailable: !navigator.onLine }
+      : undefined);
     setAppView("library");
     window.scrollTo({ top: 0, behavior: "auto" });
   }
@@ -750,12 +895,33 @@ export default function App() {
           saveCurrentProgress(time, event.currentTarget.playbackRate);
         }
       }}
-      onError={() => setError("浏览器无法播放音频；如果当前离线，请先下载。")}
+      onError={() => {
+        const lesson = lessons.find((item) => item.id === activeCourse.id);
+        if (appView === "library" && !playing && lesson) {
+          setResumePreview({ lesson, currentTime, unavailable: true });
+          setCourse(undefined);
+          setAudioUrl(undefined);
+          replaceObjectUrl();
+          return;
+        }
+        setError("浏览器无法播放音频；如果当前离线，请先下载。");
+      }}
     />
   ) : null;
 
   if (appView === "library" || !course || !audioUrl) {
     const miniSegment = course?.segments[currentSegment];
+    const resumeLesson = course ? lessons.find((lesson) => lesson.id === course.id) : resumePreview?.lesson;
+    const resumeDuration = course?.duration ?? (resumeLesson ? parseDurationLabel(resumeLesson.durationLabel) : undefined);
+    const resumeTime = course ? currentTime : resumePreview?.currentTime ?? 0;
+    const resumeComplete = resumeFromCompleted
+      || (resumeDuration !== undefined && isCourseComplete(resumeTime, resumeDuration));
+    const resumeTitle = course?.title ?? resumeLesson?.title;
+    const resumeSentence = course?.segments[currentSegment]?.text;
+    const resumeUnavailable = !course || !audioUrl ? resumePreview?.unavailable ?? true : false;
+    const resumeProgress = resumeDuration
+      ? Math.min(100, Math.max(0, (resumeComplete ? 0 : resumeTime) / resumeDuration * 100))
+      : 0;
     return (
       <>
       {sharedAudio}
@@ -764,6 +930,27 @@ export default function App() {
           <h1>英语精听</h1>
           <p className="intro">选择一篇，开始逐句练习。</p>
         </header>
+
+        {resumeTitle && (
+          <section className="resume-listening" aria-labelledby="resume-listening-title">
+            <h2 id="resume-listening-title">继续收听</h2>
+            <button className="resume-card" onClick={openResumeCourse}
+              disabled={busy}
+              aria-label={`${resumeUnavailable ? "连接网络后继续" : resumeComplete ? "重新播放" : "继续播放"}：${resumeTitle}`}>
+              <span className="resume-card-copy">
+                <strong>{resumeTitle}</strong>
+                <span>{resumeSentence ?? (resumeUnavailable ? "连接网络后继续" : "点击恢复上次进度")}</span>
+              </span>
+              <span className="resume-card-status">
+                <span>{formatTime(resumeComplete ? 0 : resumeTime)} / {resumeDuration ? formatTime(resumeDuration) : resumeLesson?.durationLabel}</span>
+                <strong>{resumeUnavailable ? "连接网络后继续" : resumeComplete ? "重新播放" : "继续播放"}</strong>
+              </span>
+              <span className="resume-card-progress" aria-hidden="true">
+                <span style={{ width: `${resumeProgress}%` }} />
+              </span>
+            </button>
+          </section>
+        )}
 
         <section className="course-list" aria-label="听力内容">
           {groupedLessons.map((group) => (

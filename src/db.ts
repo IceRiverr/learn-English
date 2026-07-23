@@ -25,6 +25,11 @@ export interface SavedProgress {
   playbackRate: number;
 }
 
+export interface LastPlayed {
+  courseId: string;
+  updatedAt: number;
+}
+
 const database = openDB("english-listening", 1, {
   upgrade(db) {
     db.createObjectStore("app-data");
@@ -124,14 +129,35 @@ export async function loadProgress(courseId: string): Promise<SavedProgress | un
   return (await database).get("app-data", `progress:${courseId}`) as Promise<SavedProgress | undefined>;
 }
 
-export async function deleteCourse(courseId: string): Promise<void> {
+export async function saveLastPlayed(courseId: string): Promise<void> {
+  const value: LastPlayed = { courseId, updatedAt: Date.now() };
+  await (await database).put("app-data", value, "last-played");
+}
+
+export async function loadLastPlayed(): Promise<LastPlayed | undefined> {
+  const value = await (await database).get("app-data", "last-played") as unknown;
+  if (!value || typeof value !== "object") return undefined;
+  const candidate = value as Partial<LastPlayed>;
+  if (typeof candidate.courseId !== "string" || candidate.courseId.length === 0
+    || typeof candidate.updatedAt !== "number" || !Number.isFinite(candidate.updatedAt)) {
+    return undefined;
+  }
+  return { courseId: candidate.courseId, updatedAt: candidate.updatedAt };
+}
+
+export async function clearLastPlayed(): Promise<void> {
+  await (await database).delete("app-data", "last-played");
+}
+
+export async function deleteCourse(courseId: string, preserveProgress = false): Promise<void> {
   const db = await database;
   const transaction = db.transaction("app-data", "readwrite");
-  await Promise.all([
+  const deletions = [
     transaction.store.delete(`course:${courseId}`),
-    transaction.store.delete(`progress:${courseId}`),
     transaction.store.delete(`audio:${courseId}`)
-  ]);
+  ];
+  if (!preserveProgress) deletions.push(transaction.store.delete(`progress:${courseId}`));
+  await Promise.all(deletions);
   await transaction.done;
   await deleteOpfsAudio(courseId);
 }
