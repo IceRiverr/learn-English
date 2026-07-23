@@ -1055,32 +1055,11 @@ export default function App() {
     return (
       <>
       {sharedAudio}
-      <main className={course && audioUrl ? "center-card course-home has-mini-player" : "center-card course-home"}>
+      <main className={resumeTitle ? "center-card course-home has-mini-player" : "center-card course-home"}>
         <header className="course-home-header">
           <h1>英语精听</h1>
           <p className="intro">选择一篇，开始逐句练习。</p>
         </header>
-
-        {resumeTitle && (
-          <section className="resume-listening" aria-labelledby="resume-listening-title">
-            <h2 id="resume-listening-title">继续收听</h2>
-            <button className="resume-card" onClick={openResumeCourse}
-              disabled={busy}
-              aria-label={`${resumeUnavailable ? "连接网络后继续" : resumeComplete ? "重新播放" : "继续播放"}：${resumeTitle}`}>
-              <span className="resume-card-copy">
-                <strong>{resumeTitle}</strong>
-                <span>{resumeSentence ?? (resumeUnavailable ? "连接网络后继续" : "点击恢复上次进度")}</span>
-              </span>
-              <span className="resume-card-status">
-                <span>{formatTime(resumeComplete ? 0 : resumeTime)} / {resumeDuration ? formatTime(resumeDuration) : resumeLesson?.durationLabel}</span>
-                <strong>{resumeUnavailable ? "连接网络后继续" : resumeComplete ? "重新播放" : "继续播放"}</strong>
-              </span>
-              <span className="resume-card-progress" aria-hidden="true">
-                <span style={{ width: `${resumeProgress}%` }} />
-              </span>
-            </button>
-          </section>
-        )}
 
         <section className="course-list" aria-label="听力内容">
           {groupedLessons.map((group) => (
@@ -1124,22 +1103,24 @@ export default function App() {
 
         {error && <p className="error" role="alert">{error}</p>}
       </main>
-      {course && audioUrl && miniSegment && (
-        <section className="mini-player" aria-label="迷你播放器">
+      {resumeTitle && (
+        <section className={resumeUnavailable ? "mini-player unavailable" : "mini-player"} aria-label="迷你播放器">
           <div className="mini-player-progress" aria-hidden="true">
-            <span style={{ width: `${Math.min(100, Math.max(0, currentTime / course.duration * 100))}%` }} />
+            <span style={{ width: `${resumeProgress}%` }} />
           </div>
           <div className="mini-player-inner">
-            <button className="mini-now-playing" onClick={openCurrentCourse}
-              aria-label={`打开正在播放：${course.title}`}>
-              <strong>{course.title}</strong>
-              <span>{miniSegment.text}</span>
+            <button className="mini-now-playing" onClick={openResumeCourse} disabled={busy}
+              aria-label={`${resumeUnavailable ? "恢复上次播放" : "打开正在播放"}：${resumeTitle}`}>
+              <strong>{resumeTitle}</strong>
+              <span>{resumeUnavailable ? "连接网络后继续" : resumeSentence ?? miniSegment?.text}</span>
             </button>
             <button className="mini-control mini-play" onClick={togglePlayback}
-              aria-label={playing ? "暂停" : "播放"}>
+              disabled={!course || !audioUrl || busy}
+              aria-label={resumeUnavailable ? "连接网络后继续" : playing ? "暂停" : "播放"}>
               {playing ? <PauseIcon /> : <PlayIcon />}
             </button>
-            <button className="mini-control" onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">
+            <button className="mini-control" disabled={!course || !audioUrl || busy}
+              onClick={() => seekToSegment(currentSegment + 1)} aria-label="下一句">
               <SkipForwardIcon />
             </button>
           </div>
