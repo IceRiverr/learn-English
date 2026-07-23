@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-133-134-sensational-news",
+    "kind": "textbook",
+    "title": "Lesson 133: Sensational news!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 133—Sensational News.",
+      "translation": {
+        "text": "第133课——爆炸性新闻。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What reasons did Karen Marsh give for wanting to retire?",
+      "translation": {
+        "text": "卡伦·马什说她想退休的理由是什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Have you just made a new film, Miss Marsh?",
+      "translation": {
+        "text": "马什小姐，您刚拍完一部新电影吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Yes, I have.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Are you going to make another?",
+      "translation": {
+        "text": "您还准备再拍一部吗？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "No, I'm not.",
+      "translation": {
+        "text": "不，不准备了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I'm going to retire.",
+      "translation": {
+        "text": "我准备退休。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I feel very tired.",
+      "translation": {
+        "text": "我觉得很累。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I don't want to make another film for a long time.",
+      "translation": {
+        "text": "我很长一段时间都不想再拍电影了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Let's buy a newspaper, Liz.",
+      "translation": {
+        "text": "莉兹，我们买份报纸吧。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Listen to this.",
+      "translation": {
+        "text": "听听这篇报道。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Karen Marsh—Sensational News.",
+      "translation": {
+        "text": "卡伦·马什——爆炸性新闻。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "By Our Reporter, Alan Jones.",
+      "translation": {
+        "text": "本报记者艾伦·琼斯报道。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Karen Marsh arrived at London Airport today.",
+      "translation": {
+        "text": "卡伦·马什今天抵达伦敦机场。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "She was wearing a blue dress and a mink coat.",
+      "translation": {
+        "text": "她身穿蓝色连衣裙和一件貂皮大衣。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "She told me she had just made a new film.",
+      "translation": {
+        "text": "她告诉我，她刚拍完一部新电影。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "She said she was not going to make another.",
+      "translation": {
+        "text": "她说她不准备再拍一部。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "She said she was going to retire.",
+      "translation": {
+        "text": "她说她准备退休。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "She told reporters she felt very tired and didn't want to make another film for a long time.",
+      "translation": {
+        "text": "她告诉记者，她感到很累，很长一段时间内都不想再拍电影。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I wonder why.",
+      "translation": {
+        "text": "我想知道为什么。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-133-134-sensational-news-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1885614,
+        "sha256": "52c98ccd4132b99d75b4be3dacdb7a2726dfd90ade9952ba5b0f1187d9c66fbb"
+      },
+      "duration": 109.871,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.53,
+          "end": 5.43
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.13,
+          "end": 11.21
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.75,
+          "end": 18.09
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.94,
+          "end": 24.32
+        },
+        {
+          "segmentId": "s005",
+          "start": 25.22,
+          "end": 27.02
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.96,
+          "end": 30.12
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.12,
+          "end": 32.5
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.28,
+          "end": 35.2
+        },
+        {
+          "segmentId": "s009",
+          "start": 36.16,
+          "end": 38.36
+        },
+        {
+          "segmentId": "s010",
+          "start": 39.14,
+          "end": 44.68
+        },
+        {
+          "segmentId": "s011",
+          "start": 46.42,
+          "end": 48.98
+        },
+        {
+          "segmentId": "s012",
+          "start": 50.38,
+          "end": 51.78
+        },
+        {
+          "segmentId": "s013",
+          "start": 51.78,
+          "end": 56.6
+        },
+        {
+          "segmentId": "s014",
+          "start": 57.5,
+          "end": 60.64
+        },
+        {
+          "segmentId": "s015",
+          "start": 62.68,
+          "end": 66.72
+        },
+        {
+          "segmentId": "s016",
+          "start": 67.88,
+          "end": 72.82
+        },
+        {
+          "segmentId": "s017",
+          "start": 73.84,
+          "end": 78.5
+        },
+        {
+          "segmentId": "s018",
+          "start": 78.5,
+          "end": 84.1
+        },
+        {
+          "segmentId": "s019",
+          "start": 85.8,
+          "end": 89.28
+        },
+        {
+          "segmentId": "s020",
+          "start": 90.48,
+          "end": 100.6
+        },
+        {
+          "segmentId": "s021",
+          "start": 101.84,
+          "end": 103.56
+        }
+      ]
+    }
+  ]
+}

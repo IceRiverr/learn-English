@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-091-three-men-in-a-basket",
+    "kind": "textbook",
+    "title": "Lesson 91: Three Men in a Basket",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Where was the station's commanding officer?",
+      "translation": {
+        "text": "基地指挥官在哪里？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby.",
+      "translation": {
+        "text": "一名飞行员发现一只气球似乎正飞向附近的皇家空军基地。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "He informed the station at once, but no one there was able to explain the mystery.",
+      "translation": {
+        "text": "他立即通知基地，但那里没人能解释这个谜团。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The officer in the control tower was very angry when he heard the news because balloons can be a great danger to aircraft.",
+      "translation": {
+        "text": "控制塔里的军官听到消息后非常生气，因为气球可能给飞机带来巨大危险。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "translation": {
+        "text": "他说或许有人在侦察基地，飞行员随即奉命跟踪这个奇怪的物体。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The pilot managed to circle the balloon for some time.",
+      "translation": {
+        "text": "飞行员设法绕着气球飞了一段时间。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "translation": {
+        "text": "他能辨认出气球下面的篮子里有三个人，其中一人拿着一副望远镜。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "translation": {
+        "text": "气球飞越基地时，飞行员看见其中一人在拍照。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "translation": {
+        "text": "不久之后，气球开始下降，降落在一座机场附近。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The police were called in, but they could not arrest anyone, for the basket contained two members of Parliament and the commanding officer of the station.",
+      "translation": {
+        "text": "警察被叫来，却无法逮捕任何人，因为篮子里坐着两名议员和这座基地的指挥官。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "As the commanding officer explained later, one half of the station did not know what the other half was doing.",
+      "translation": {
+        "text": "正如指挥官后来解释的那样，基地的一半人不知道另一半人在做什么。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-091-three-men-in-a-basket-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1852091,
+        "sha256": "d96c67cfa1dbd21633808079b191d8babfb91b0a097f8af7c8a113dbfaa83f9d"
+      },
+      "duration": 106.449,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.64,
+          "end": 9.58
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.2,
+          "end": 14
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.24,
+          "end": 22.82
+        },
+        {
+          "segmentId": "s004",
+          "start": 23.94,
+          "end": 30.48
+        },
+        {
+          "segmentId": "s005",
+          "start": 31.28,
+          "end": 41.56
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.76,
+          "end": 50.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.82,
+          "end": 55.72
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.56,
+          "end": 63.82
+        },
+        {
+          "segmentId": "s009",
+          "start": 65.04,
+          "end": 70.92
+        },
+        {
+          "segmentId": "s010",
+          "start": 72.22,
+          "end": 78.1
+        },
+        {
+          "segmentId": "s011",
+          "start": 79.2,
+          "end": 90.18
+        },
+        {
+          "segmentId": "s012",
+          "start": 91.36,
+          "end": 99.68
+        }
+      ]
+    }
+  ]
+}

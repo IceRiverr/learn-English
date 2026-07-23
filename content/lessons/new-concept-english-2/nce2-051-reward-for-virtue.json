@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-051-reward-for-virtue",
+    "kind": "textbook",
+    "title": "Lesson 51: Reward for Virtue",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did Hugh's diet not work?",
+      "translation": {
+        "text": "休的节食计划为什么没有奏效？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "My friend Hugh has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "translation": {
+        "text": "我的朋友休一直很胖，最近情况变得很糟，于是他决定节食。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "He began his diet a week ago.",
+      "translation": {
+        "text": "他一星期前开始节食。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "translation": {
+        "text": "首先，他列出一张长长的清单，写明所有禁止吃的食物。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The list included most of the things Hugh loves—butter, potatoes, rice, beer, milk, chocolate, and sweets.",
+      "translation": {
+        "text": "清单包括休最喜欢的大多数东西——黄油、土豆、米饭、啤酒、牛奶、巧克力和糖果。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Yesterday I paid him a visit.",
+      "translation": {
+        "text": "昨天我去看望他。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "translation": {
+        "text": "我按响门铃，看到休仍和以前一样胖，并不觉得意外。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "translation": {
+        "text": "他把我领进房间，匆忙把一个大包裹藏在书桌下面。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It was obvious that he was very embarrassed.",
+      "translation": {
+        "text": "显然，他非常尴尬。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "translation": {
+        "text": "我问他在做什么，他心虚地笑了笑，然后把包裹放到书桌上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "translation": {
+        "text": "他解释说，节食规定太严格了，自己偶尔不得不奖励一下自己。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Then he showed me the contents of the parcel.",
+      "translation": {
+        "text": "接着，他让我看了包裹里的东西。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It contained five large bars of chocolate and three bags of sweets.",
+      "translation": {
+        "text": "里面装着五大块巧克力和三袋糖果。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-051-reward-for-virtue-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1776433,
+        "sha256": "7b68e563aa0101ce29eb3519c52248c2299d26b3a1100b4c5f3984ca76383511"
+      },
+      "duration": 101.721,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.04,
+          "end": 8.88
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.48,
+          "end": 12.84
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.33,
+          "end": 24.93
+        },
+        {
+          "segmentId": "s004",
+          "start": 25.77,
+          "end": 28.65
+        },
+        {
+          "segmentId": "s005",
+          "start": 29.67,
+          "end": 35.65
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.77,
+          "end": 47.31
+        },
+        {
+          "segmentId": "s007",
+          "start": 48.69,
+          "end": 50.75
+        },
+        {
+          "segmentId": "s008",
+          "start": 51.89,
+          "end": 58.05
+        },
+        {
+          "segmentId": "s009",
+          "start": 59.21,
+          "end": 65.01
+        },
+        {
+          "segmentId": "s010",
+          "start": 65.73,
+          "end": 68.79
+        },
+        {
+          "segmentId": "s011",
+          "start": 70.01,
+          "end": 76.65
+        },
+        {
+          "segmentId": "s012",
+          "start": 77.83,
+          "end": 84.03
+        },
+        {
+          "segmentId": "s013",
+          "start": 85.57,
+          "end": 88.53
+        },
+        {
+          "segmentId": "s014",
+          "start": 89.27,
+          "end": 95.21
+        }
+      ]
+    }
+  ]
+}

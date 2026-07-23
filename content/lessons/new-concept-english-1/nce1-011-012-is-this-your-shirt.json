@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-011-012-is-this-your-shirt",
+    "kind": "textbook",
+    "title": "Lesson 11: Is this your shirt?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 11.",
+      "translation": {
+        "text": "第11课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Is This Your Shirt?",
+      "translation": {
+        "text": "这是你的衬衫吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Whose shirt is white?",
+      "translation": {
+        "text": "谁的衬衫是白色的？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Whose shirt is that?",
+      "translation": {
+        "text": "那是谁的衬衫？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Is this your shirt, Dave?",
+      "translation": {
+        "text": "戴夫，这是你的衬衫吗？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "No, sir.",
+      "translation": {
+        "text": "不是，先生。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It's not my shirt.",
+      "translation": {
+        "text": "这不是我的衬衫。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "This is my shirt.",
+      "translation": {
+        "text": "这件才是我的衬衫。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "My shirt's blue.",
+      "translation": {
+        "text": "我的衬衫是蓝色的。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Is this shirt Tim's?",
+      "translation": {
+        "text": "这件衬衫是蒂姆的吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Perhaps it is, sir.",
+      "translation": {
+        "text": "也许是他的，先生。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Tim's shirt's white.",
+      "translation": {
+        "text": "蒂姆的衬衫是白色的。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Tim!",
+      "translation": {
+        "text": "蒂姆！"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Yes, sir?",
+      "translation": {
+        "text": "什么事，先生？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Is this your shirt?",
+      "translation": {
+        "text": "这是你的衬衫吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Yes, sir.",
+      "translation": {
+        "text": "是的，先生。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给你。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Catch!",
+      "translation": {
+        "text": "接着！"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Thank you, sir.",
+      "translation": {
+        "text": "谢谢您，先生。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-011-012-is-this-your-shirt-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1077470,
+        "sha256": "3d0565f6518cf9b7e10df2a32a4530810ac292a492a248100fe7817b28b7f6b2"
+      },
+      "duration": 59.246,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.53,
+          "end": 1.91
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.31,
+          "end": 4.87
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.23,
+          "end": 11.11
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.33,
+          "end": 14.93
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.18,
+          "end": 18.8
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.02,
+          "end": 22.02
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.12,
+          "end": 24
+        },
+        {
+          "segmentId": "s008",
+          "start": 24.54,
+          "end": 26.24
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.24,
+          "end": 29.58
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.38,
+          "end": 31.84
+        },
+        {
+          "segmentId": "s011",
+          "start": 33.22,
+          "end": 35.38
+        },
+        {
+          "segmentId": "s012",
+          "start": 36.58,
+          "end": 38.26
+        },
+        {
+          "segmentId": "s013",
+          "start": 39.58,
+          "end": 41.14
+        },
+        {
+          "segmentId": "s014",
+          "start": 42.2,
+          "end": 42.56
+        },
+        {
+          "segmentId": "s015",
+          "start": 43.54,
+          "end": 44.4
+        },
+        {
+          "segmentId": "s016",
+          "start": 45.26,
+          "end": 46.8
+        },
+        {
+          "segmentId": "s017",
+          "start": 47.32,
+          "end": 48.12
+        },
+        {
+          "segmentId": "s018",
+          "start": 48.76,
+          "end": 49.82
+        },
+        {
+          "segmentId": "s019",
+          "start": 50.42,
+          "end": 50.72
+        },
+        {
+          "segmentId": "s020",
+          "start": 51.68,
+          "end": 52.62
+        }
+      ]
+    }
+  ]
+}

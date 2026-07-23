@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-011-not-guilty",
+    "kind": "textbook",
+    "title": "Lesson 11: Not Guilty",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 11.",
+      "translation": {
+        "text": "第11课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Not Guilty.",
+      "translation": {
+        "text": "无罪。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was the customs officer looking for?",
+      "translation": {
+        "text": "海关官员在找什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "officers are quite tolerant these days, but they can still stop you when you are going through the green channel and have nothing to declare.",
+      "translation": {
+        "text": "如今海关官员相当宽容，但即使你走绿色通道、没有东西需要申报，他们仍可能拦住你。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Even really honest people are often made to feel guilty.",
+      "translation": {
+        "text": "即使真正诚实的人也常常会被弄得觉得自己有罪。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has 500 gold watches hidden in his suitcase.",
+      "translation": {
+        "text": "另一方面，老练的职业走私犯从不会受这种感觉困扰，即使他的手提箱里藏着500块金表。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "When I returned from abroad recently, a particularly officious young customs officer clearly regarded me as a smuggler.",
+      "translation": {
+        "text": "最近我从国外回来时，一名格外爱管闲事的年轻海关官员显然把我当成了走私犯。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Have you anything to declare?",
+      "translation": {
+        "text": "“你有什么要申报的吗？”"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He asked, looking me in the eye.",
+      "translation": {
+        "text": "他直视着我的眼睛问。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "No, I answered confidently.",
+      "translation": {
+        "text": "“没有。”我自信地回答。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Would you mind unlocking this suitcase, please?",
+      "translation": {
+        "text": "“请把这个箱子打开，好吗？”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Not at all, I answered.",
+      "translation": {
+        "text": "“当然不介意。”我答道。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The officer went through the case with great care.",
+      "translation": {
+        "text": "官员非常仔细地翻查了箱子。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "All the things I had packed so carefully were soon in a dreadful mess.",
+      "translation": {
+        "text": "我精心收拾好的所有东西很快便被翻得一团糟。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I felt sure I would never be able to close the case again.",
+      "translation": {
+        "text": "我确信自己再也无法把箱子合上了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I saw the officer's face light up.",
+      "translation": {
+        "text": "我看见官员脸上露出了喜色。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.",
+      "translation": {
+        "text": "他发现箱底有一个小瓶子，欣喜地扑了上去。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Perfume, eh?",
+      "translation": {
+        "text": "“香水，嗯？”"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "He asked sarcastically.",
+      "translation": {
+        "text": "他讥讽地问。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "You should have declared that perfume is not exempt from import duty.",
+      "translation": {
+        "text": "“你本该申报，香水可不免进口税。”"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "But it isn't perfume, I said.",
+      "translation": {
+        "text": "“可这不是香水，”我说。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "It's hair gel.",
+      "translation": {
+        "text": "“这是发胶。”"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Then I added with a smile.",
+      "translation": {
+        "text": "接着我微笑着补充道："
+      }
+    },
+    {
+      "id": "s025",
+      "text": "It's a strange mixture I make myself.",
+      "translation": {
+        "text": "“这是我自己调制的一种奇怪混合物。”"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "As I expected, he did not believe me.",
+      "translation": {
+        "text": "不出所料，他不相信我。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Try it, I said encouragingly.",
+      "translation": {
+        "text": "“你闻闻看。”我鼓励他说。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "The officer unscrewed the cap and put the bottle to his nostrils.",
+      "translation": {
+        "text": "官员拧开瓶盖，把瓶子凑到鼻孔前。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
+      "translation": {
+        "text": "一股难闻的气味扑鼻而来，使他相信我说的是实话。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "A few minutes later, I was able to hurry away with precious chalk marks on my baggage.",
+      "translation": {
+        "text": "几分钟后，我便带着行李上那几道可贵的粉笔放行标记匆匆离开了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-011-not-guilty-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2450997,
+        "sha256": "a42913bcfb6bb234af52ce622ba806df3b706fafd0c475c827ec8d7d666121c3"
+      },
+      "duration": 143.935,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.14,
+          "end": 1.48
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.14,
+          "end": 3.14
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.5,
+          "end": 7.74
+        },
+        {
+          "segmentId": "s004",
+          "start": 9,
+          "end": 11.68
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.64,
+          "end": 21.96
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.04,
+          "end": 26.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.66,
+          "end": 37.6
+        },
+        {
+          "segmentId": "s008",
+          "start": 38.98,
+          "end": 47
+        },
+        {
+          "segmentId": "s009",
+          "start": 47.94,
+          "end": 50.14
+        },
+        {
+          "segmentId": "s010",
+          "start": 51.02,
+          "end": 53.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 54.08,
+          "end": 56.54
+        },
+        {
+          "segmentId": "s012",
+          "start": 57.76,
+          "end": 60.24
+        },
+        {
+          "segmentId": "s013",
+          "start": 61.44,
+          "end": 63.28
+        },
+        {
+          "segmentId": "s014",
+          "start": 63.98,
+          "end": 66.86
+        },
+        {
+          "segmentId": "s015",
+          "start": 67.74,
+          "end": 72.52
+        },
+        {
+          "segmentId": "s016",
+          "start": 73.18,
+          "end": 77.36
+        },
+        {
+          "segmentId": "s017",
+          "start": 79.26,
+          "end": 81.62
+        },
+        {
+          "segmentId": "s018",
+          "start": 82.34,
+          "end": 88.16
+        },
+        {
+          "segmentId": "s019",
+          "start": 89.7,
+          "end": 90.84
+        },
+        {
+          "segmentId": "s020",
+          "start": 91.6,
+          "end": 93.44
+        },
+        {
+          "segmentId": "s021",
+          "start": 94.28,
+          "end": 99.86
+        },
+        {
+          "segmentId": "s022",
+          "start": 100.86,
+          "end": 104.54
+        },
+        {
+          "segmentId": "s023",
+          "start": 105.1,
+          "end": 106.06
+        },
+        {
+          "segmentId": "s024",
+          "start": 106.82,
+          "end": 108.7
+        },
+        {
+          "segmentId": "s025",
+          "start": 109.36,
+          "end": 112.1
+        },
+        {
+          "segmentId": "s026",
+          "start": 113.2,
+          "end": 116.26
+        },
+        {
+          "segmentId": "s027",
+          "start": 117.12,
+          "end": 120.1
+        },
+        {
+          "segmentId": "s028",
+          "start": 120.9,
+          "end": 124.76
+        },
+        {
+          "segmentId": "s029",
+          "start": 124.76,
+          "end": 130.96
+        },
+        {
+          "segmentId": "s030",
+          "start": 131.92,
+          "end": 137.84
+        }
+      ]
+    }
+  ]
+}

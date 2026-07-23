@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-024-it-could-be-worse",
+    "kind": "textbook",
+    "title": "Lesson 24: It Could be Worse",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 24.",
+      "translation": {
+        "text": "第24课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "It Could be Worse.",
+      "translation": {
+        "text": "还不算最糟。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Had the writer's money been stolen?",
+      "translation": {
+        "text": "作者的钱被偷了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I entered the hotel manager's office and sat down.",
+      "translation": {
+        "text": "我走进饭店经理的办公室，坐了下来。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I had just lost fifty pounds and I felt very upset.",
+      "translation": {
+        "text": "我刚丢了50英镑，感到非常沮丧。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I left the money in my room, I said, and it's not there now.",
+      "translation": {
+        "text": "“我把钱放在房间里，”我说，“可现在不见了。”"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The manager was sympathetic, but he could do nothing.",
+      "translation": {
+        "text": "经理很同情我，却无能为力。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Everyone's losing money these days, he said.",
+      "translation": {
+        "text": "“这些天人人都在丢钱，”他说。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "translation": {
+        "text": "他开始抱怨这个邪恶的世界，却被敲门声打断了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "A girl came in and put an envelope on his desk.",
+      "translation": {
+        "text": "一个姑娘走进来，把一个信封放在他的桌上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "It contained fifty pounds.",
+      "translation": {
+        "text": "里面装着50英镑。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I found this outside this gentleman's room, she said.",
+      "translation": {
+        "text": "“这是我在这位先生的房间外面发现的，”她说。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Well, I said to the manager, there is still some honesty in this world.",
+      "translation": {
+        "text": "“好吧，”我对经理说，“这个世界上还是有诚实可言的。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-024-it-could-be-worse-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1395254,
+        "sha256": "5abb589f6dd5a665beca3880dd31bb4de756d91c7efc4b96fa50f8a1fb5b6fed"
+      },
+      "duration": 77.897,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.9
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.64,
+          "end": 4.18
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.64,
+          "end": 8.84
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.52,
+          "end": 12.92
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.33,
+          "end": 19.35
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.07,
+          "end": 24.97
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.25,
+          "end": 32.41
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.27,
+          "end": 37.69
+        },
+        {
+          "segmentId": "s009",
+          "start": 39.03,
+          "end": 42.99
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.03,
+          "end": 51.35
+        },
+        {
+          "segmentId": "s011",
+          "start": 52.39,
+          "end": 56.35
+        },
+        {
+          "segmentId": "s012",
+          "start": 56.77,
+          "end": 58.77
+        },
+        {
+          "segmentId": "s013",
+          "start": 59.89,
+          "end": 64.15
+        },
+        {
+          "segmentId": "s014",
+          "start": 65.21,
+          "end": 71.83
+        }
+      ]
+    }
+  ]
+}

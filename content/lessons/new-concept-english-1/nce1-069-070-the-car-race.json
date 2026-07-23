@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-069-070-the-car-race",
+    "kind": "textbook",
+    "title": "Lesson 69: The car race",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 69.",
+      "translation": {
+        "text": "第69课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Car Race.",
+      "translation": {
+        "text": "汽车比赛。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Which car was the winner in 1995?",
+      "translation": {
+        "text": "1995年哪辆车获胜了？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "There is a car race near our town every year.",
+      "translation": {
+        "text": "我们镇附近每年都有一场汽车比赛。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In 1995 there was a very big race.",
+      "translation": {
+        "text": "1995年举行了一场规模很大的比赛。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "There were hundreds of people there.",
+      "translation": {
+        "text": "那里有数百人。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "My wife and I were at the race.",
+      "translation": {
+        "text": "我和妻子都在比赛现场。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Our friends Julie and Jack were there too.",
+      "translation": {
+        "text": "我们的朋友朱莉和杰克也在那里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "You can see us in the crowd.",
+      "translation": {
+        "text": "你可以在人群中看到我们。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "We are standing on the left.",
+      "translation": {
+        "text": "我们站在左边。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There were 20 cars in the race.",
+      "translation": {
+        "text": "参加比赛的有20辆车。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "There were English cars, French cars, German cars, Italian cars, American cars, and Japanese cars.",
+      "translation": {
+        "text": "有英国车、法国车、德国车、意大利车、美国车和日本车。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It was an exciting finish.",
+      "translation": {
+        "text": "比赛的结尾激动人心。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The winner was Billy Stewart.",
+      "translation": {
+        "text": "获胜者是比利·斯图尔特。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He was in car number 15.",
+      "translation": {
+        "text": "他开的是15号车。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Five other cars were just behind him.",
+      "translation": {
+        "text": "另外五辆车紧跟在他后面。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "On the way home, my wife said to me, Don't drive so quickly.",
+      "translation": {
+        "text": "回家的路上，妻子对我说：“别开得这么快。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "You're not Billy Stewart.",
+      "translation": {
+        "text": "你又不是比利·斯图尔特。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-069-070-the-car-race-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1822635,
+        "sha256": "3c0cffd2a27ccd56ad4f1fa2ce799b379ab2dfd0d8eb8a9f185c68ddfc2aeed3"
+      },
+      "duration": 105.927,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.69,
+          "end": 2.43
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.49,
+          "end": 4.83
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.47,
+          "end": 10.53
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.13,
+          "end": 16.17
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.17,
+          "end": 24.31
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.41,
+          "end": 31.03
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.03,
+          "end": 35.11
+        },
+        {
+          "segmentId": "s008",
+          "start": 36.11,
+          "end": 39.19
+        },
+        {
+          "segmentId": "s009",
+          "start": 40.33,
+          "end": 44.41
+        },
+        {
+          "segmentId": "s010",
+          "start": 45.55,
+          "end": 48.33
+        },
+        {
+          "segmentId": "s011",
+          "start": 49.37,
+          "end": 52.27
+        },
+        {
+          "segmentId": "s012",
+          "start": 53.95,
+          "end": 57.31
+        },
+        {
+          "segmentId": "s013",
+          "start": 57.31,
+          "end": 70.53
+        },
+        {
+          "segmentId": "s014",
+          "start": 71.95,
+          "end": 74.53
+        },
+        {
+          "segmentId": "s015",
+          "start": 75.85,
+          "end": 78.11
+        },
+        {
+          "segmentId": "s016",
+          "start": 79.43,
+          "end": 82.33
+        },
+        {
+          "segmentId": "s017",
+          "start": 82.33,
+          "end": 87.49
+        },
+        {
+          "segmentId": "s018",
+          "start": 89.01,
+          "end": 96.65
+        },
+        {
+          "segmentId": "s019",
+          "start": 97.43,
+          "end": 99.31
+        }
+      ]
+    }
+  ]
+}

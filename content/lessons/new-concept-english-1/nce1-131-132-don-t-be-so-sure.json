@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-131-132-don-t-be-so-sure",
+    "kind": "textbook",
+    "title": "Lesson 131: Don't be so sure!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 131.",
+      "translation": {
+        "text": "第131课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Don't Be So Sure.",
+      "translation": {
+        "text": "别那么肯定。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What's the problem about deciding on a holiday?",
+      "translation": {
+        "text": "在决定去哪里度假这件事上有什么难题？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where are you going to spend your holidays this year, Gary?",
+      "translation": {
+        "text": "加里，你们今年准备去哪里度假？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "We may go abroad.",
+      "translation": {
+        "text": "我们可能会出国。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I'm not sure.",
+      "translation": {
+        "text": "我还不确定。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "My wife wants to go to Egypt.",
+      "translation": {
+        "text": "我妻子想去埃及。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I'd like to go there too.",
+      "translation": {
+        "text": "我也想去那里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We can't make up our minds.",
+      "translation": {
+        "text": "我们拿不定主意。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Will you travel by sea or by air?",
+      "translation": {
+        "text": "你们坐船还是坐飞机？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "We may travel by sea.",
+      "translation": {
+        "text": "我们可能坐船。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It's cheaper, isn't it?",
+      "translation": {
+        "text": "那样便宜些，对吧？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It may be cheaper, but it takes a long time.",
+      "translation": {
+        "text": "也许便宜些，但要花很长时间。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I'm sure you'll enjoy yourselves.",
+      "translation": {
+        "text": "我相信你们会玩得很开心。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Don't Be So Sure.",
+      "translation": {
+        "text": "别那么肯定。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "We might not go anywhere.",
+      "translation": {
+        "text": "我们可能哪儿也不去。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "My wife always worries too much.",
+      "translation": {
+        "text": "我妻子总是担心得太多。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Who's going to look after the dog?",
+      "translation": {
+        "text": "谁来照看狗呢？"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Who's going to look after the house?",
+      "translation": {
+        "text": "谁来照看房子呢？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Who's going to look after the garden?",
+      "translation": {
+        "text": "谁来照看花园呢？"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "We have this problem every year.",
+      "translation": {
+        "text": "我们每年都有这个难题。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "In the end, we stay at home and look after everything.",
+      "translation": {
+        "text": "最后，我们总是待在家里照看一切。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-131-132-don-t-be-so-sure-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1637082,
+        "sha256": "50298e957bb561d0140f30a393a093c722d6a1dbb68bcf920c66088ba5a7ab4f"
+      },
+      "duration": 94.302,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.34
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.56,
+          "end": 5.5
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.32,
+          "end": 11.58
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.18,
+          "end": 16.96
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.75,
+          "end": 24.43
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.35,
+          "end": 27.53
+        },
+        {
+          "segmentId": "s007",
+          "start": 28.65,
+          "end": 29.81
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.97,
+          "end": 33.49
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.67,
+          "end": 36.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.81,
+          "end": 40.21
+        },
+        {
+          "segmentId": "s011",
+          "start": 41.73,
+          "end": 45.31
+        },
+        {
+          "segmentId": "s012",
+          "start": 46.09,
+          "end": 48.09
+        },
+        {
+          "segmentId": "s013",
+          "start": 48.95,
+          "end": 51.27
+        },
+        {
+          "segmentId": "s014",
+          "start": 51.27,
+          "end": 55.99
+        },
+        {
+          "segmentId": "s015",
+          "start": 57.01,
+          "end": 59.43
+        },
+        {
+          "segmentId": "s016",
+          "start": 60.41,
+          "end": 61.81
+        },
+        {
+          "segmentId": "s017",
+          "start": 62.41,
+          "end": 64.41
+        },
+        {
+          "segmentId": "s018",
+          "start": 65.21,
+          "end": 68.15
+        },
+        {
+          "segmentId": "s019",
+          "start": 69.13,
+          "end": 71.67
+        },
+        {
+          "segmentId": "s020",
+          "start": 72.57,
+          "end": 75.19
+        },
+        {
+          "segmentId": "s021",
+          "start": 76.13,
+          "end": 78.67
+        },
+        {
+          "segmentId": "s022",
+          "start": 78.67,
+          "end": 82.23
+        },
+        {
+          "segmentId": "s023",
+          "start": 83.03,
+          "end": 87.85
+        }
+      ]
+    }
+  ]
+}

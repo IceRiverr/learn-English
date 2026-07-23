@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-075-076-uncomfortable-shoes",
+    "kind": "textbook",
+    "title": "Lesson 75: Uncomfortable shoes",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 75–Uncomfortable Shoes.",
+      "translation": {
+        "text": "第75课——不舒适的鞋子。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What's wrong with the fashionable shoes?",
+      "translation": {
+        "text": "那些时髦的鞋有什么问题？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Do you have any shoes like these?",
+      "translation": {
+        "text": "你们有像这样的鞋吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What size?",
+      "translation": {
+        "text": "几号的？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Size five.",
+      "translation": {
+        "text": "5号。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What color?",
+      "translation": {
+        "text": "什么颜色？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Black.",
+      "translation": {
+        "text": "黑色。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I'm sorry.",
+      "translation": {
+        "text": "对不起。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We don't have any.",
+      "translation": {
+        "text": "我们没有。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "But my sister bought this pair last month.",
+      "translation": {
+        "text": "可我姐姐上个月买了这样一双。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Did she buy them here?",
+      "translation": {
+        "text": "她是在这里买的吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "No.",
+      "translation": {
+        "text": "不是。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She bought them in the U.S.",
+      "translation": {
+        "text": "她是在美国买的。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "We had some shoes like those a month ago, but we don't have any now.",
+      "translation": {
+        "text": "一个月前我们有一些那样的鞋，但现在没有了。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Can you get a pair for me, please?",
+      "translation": {
+        "text": "能请您给我找一双吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'm afraid that I can't.",
+      "translation": {
+        "text": "恐怕不行。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "They were in fashion last year, and the year before last, but they're not in fashion this year.",
+      "translation": {
+        "text": "这种鞋去年和前年很流行，但今年不流行了。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "These shoes are in fashion now.",
+      "translation": {
+        "text": "现在流行的是这种鞋。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "They look very uncomfortable.",
+      "translation": {
+        "text": "它们看起来很不舒服。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "They are very uncomfortable, but women always wear uncomfortable shoes.",
+      "translation": {
+        "text": "的确很不舒服，但女人们总是穿不舒服的鞋。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-075-076-uncomfortable-shoes-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1600805,
+        "sha256": "c43efddb41ad6a625498877c6f3621ca05c7897b43eda25bede1eefd497c5c8a"
+      },
+      "duration": 92.029,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.69,
+          "end": 5.45
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.21,
+          "end": 11.11
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.43,
+          "end": 15.51
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.93,
+          "end": 21.23
+        },
+        {
+          "segmentId": "s005",
+          "start": 22.05,
+          "end": 22.87
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.83,
+          "end": 24.89
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.73,
+          "end": 26.61
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.51,
+          "end": 27.81
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.81,
+          "end": 29.77
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.29,
+          "end": 31.85
+        },
+        {
+          "segmentId": "s011",
+          "start": 32.75,
+          "end": 36.45
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.43,
+          "end": 39.31
+        },
+        {
+          "segmentId": "s013",
+          "start": 40.01,
+          "end": 40.45
+        },
+        {
+          "segmentId": "s014",
+          "start": 40.81,
+          "end": 43.35
+        },
+        {
+          "segmentId": "s015",
+          "start": 43.69,
+          "end": 51.15
+        },
+        {
+          "segmentId": "s016",
+          "start": 51.85,
+          "end": 54.73
+        },
+        {
+          "segmentId": "s017",
+          "start": 54.73,
+          "end": 57.87
+        },
+        {
+          "segmentId": "s018",
+          "start": 58.53,
+          "end": 67.41
+        },
+        {
+          "segmentId": "s019",
+          "start": 69.01,
+          "end": 71.75
+        },
+        {
+          "segmentId": "s020",
+          "start": 72.79,
+          "end": 75.47
+        },
+        {
+          "segmentId": "s021",
+          "start": 76.45,
+          "end": 83.31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-095-096-tickets-please",
+    "kind": "textbook",
+    "title": "Lesson 95: Tickets, please.",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 95.",
+      "translation": {
+        "text": "第95课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Why did George and Ken miss the train?",
+      "translation": {
+        "text": "乔治和肯为什么误了火车？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Two return tickets to London, please.",
+      "translation": {
+        "text": "请给我两张去伦敦的往返票。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What time will the next train leave?",
+      "translation": {
+        "text": "下一班火车什么时候开？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "At nineteen minutes past eight.",
+      "translation": {
+        "text": "八点十九分。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Which platform?",
+      "translation": {
+        "text": "在哪个站台？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "two.",
+      "translation": {
+        "text": "2号站台。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Over the bridge.",
+      "translation": {
+        "text": "过天桥。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "What time will the next train leave?",
+      "translation": {
+        "text": "下一班火车什么时候开？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "At eight nineteen.",
+      "translation": {
+        "text": "八点十九分。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "We've got plenty of time.",
+      "translation": {
+        "text": "我们时间还很充裕。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It's only three minutes to eight.",
+      "translation": {
+        "text": "现在才差三分八点。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Let's go and have a drink.",
+      "translation": {
+        "text": "我们去喝一杯吧。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There's a bar next door to the station.",
+      "translation": {
+        "text": "车站旁边有一家酒吧。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "We had better go back to the station now, Ken.",
+      "translation": {
+        "text": "肯，我们现在最好回车站去。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Tickets, please.",
+      "translation": {
+        "text": "请出示车票。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "We want to catch the eight nineteen to London.",
+      "translation": {
+        "text": "我们想赶八点十九分去伦敦的火车。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "You've just missed it.",
+      "translation": {
+        "text": "你们刚刚错过了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "What?",
+      "translation": {
+        "text": "什么？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "It's only eight fifteen.",
+      "translation": {
+        "text": "现在才八点十五分。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I'm sorry, sir.",
+      "translation": {
+        "text": "对不起，先生。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "That clock's ten minutes slow.",
+      "translation": {
+        "text": "那座钟慢了十分钟。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "When's the next train?",
+      "translation": {
+        "text": "下一班火车是什么时候？"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "In five hours' time.",
+      "translation": {
+        "text": "五小时以后。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-095-096-tickets-please-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1685867,
+        "sha256": "3e00e43f9d72f96e3cf70d42a96509402d871f949f99549774c2ee8a321e9362"
+      },
+      "duration": 97.358,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.69,
+          "end": 2.53
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.65,
+          "end": 10.61
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.67,
+          "end": 16.21
+        },
+        {
+          "segmentId": "s004",
+          "start": 19.44,
+          "end": 22.26
+        },
+        {
+          "segmentId": "s005",
+          "start": 23.56,
+          "end": 26.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.26,
+          "end": 29.74
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.88,
+          "end": 32.34
+        },
+        {
+          "segmentId": "s008",
+          "start": 34.04,
+          "end": 34.54
+        },
+        {
+          "segmentId": "s009",
+          "start": 35.12,
+          "end": 36.22
+        },
+        {
+          "segmentId": "s010",
+          "start": 38.22,
+          "end": 40.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 42.22,
+          "end": 43.76
+        },
+        {
+          "segmentId": "s012",
+          "start": 44.82,
+          "end": 47.14
+        },
+        {
+          "segmentId": "s013",
+          "start": 48.52,
+          "end": 51.34
+        },
+        {
+          "segmentId": "s014",
+          "start": 52.44,
+          "end": 54.66
+        },
+        {
+          "segmentId": "s015",
+          "start": 54.66,
+          "end": 59.04
+        },
+        {
+          "segmentId": "s016",
+          "start": 60.36,
+          "end": 64.4
+        },
+        {
+          "segmentId": "s017",
+          "start": 66.56,
+          "end": 66.84
+        },
+        {
+          "segmentId": "s018",
+          "start": 68.26,
+          "end": 71.92
+        },
+        {
+          "segmentId": "s019",
+          "start": 72.86,
+          "end": 74.9
+        },
+        {
+          "segmentId": "s020",
+          "start": 75.6,
+          "end": 76.1
+        },
+        {
+          "segmentId": "s021",
+          "start": 76.94,
+          "end": 79.22
+        },
+        {
+          "segmentId": "s022",
+          "start": 79.22,
+          "end": 81.7
+        },
+        {
+          "segmentId": "s023",
+          "start": 82.36,
+          "end": 84.88
+        },
+        {
+          "segmentId": "s024",
+          "start": 86.28,
+          "end": 87.9
+        },
+        {
+          "segmentId": "s025",
+          "start": 88.84,
+          "end": 90.76
+        }
+      ]
+    }
+  ]
+}

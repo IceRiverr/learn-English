@@ -1,0 +1,1161 @@
+{
+  "schemaVersion": 1,
+  "id": "new-concept-english-book-2",
+  "kind": "course",
+  "title": "新概念英语第二册",
+  "subtitle": "Practice and Progress",
+  "lessons": [
+    {
+      "id": "nce2-001-a-private-conversation",
+      "kind": "textbook",
+      "title": "Lesson 1: A Private Conversation",
+      "duration": 78.55,
+      "byteLength": 1405712,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-001-a-private-conversation.json"
+    },
+    {
+      "id": "nce2-002-breakfast-or-lunch",
+      "kind": "textbook",
+      "title": "Lesson 2: Breakfast or Lunch",
+      "duration": 81.345,
+      "byteLength": 1450427,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-002-breakfast-or-lunch.json"
+    },
+    {
+      "id": "nce2-003-please-send-me-a-card",
+      "kind": "textbook",
+      "title": "Lesson 3: Please Send Me a Card",
+      "duration": 76.173,
+      "byteLength": 1367676,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-003-please-send-me-a-card.json"
+    },
+    {
+      "id": "nce2-004-an-exciting-trip",
+      "kind": "textbook",
+      "title": "Lesson 4: An Exciting Trip",
+      "duration": 66.22,
+      "byteLength": 1208423,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-004-an-exciting-trip.json"
+    },
+    {
+      "id": "nce2-005-no-wrong-numbers",
+      "kind": "textbook",
+      "title": "Lesson 5: No Wrong Numbers",
+      "duration": 74.736,
+      "byteLength": 1344678,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-005-no-wrong-numbers.json"
+    },
+    {
+      "id": "nce2-006-percy-buttons",
+      "kind": "textbook",
+      "title": "Lesson 6: Percy Buttons",
+      "duration": 65.175,
+      "byteLength": 1191699,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-006-percy-buttons.json"
+    },
+    {
+      "id": "nce2-007-too-late",
+      "kind": "textbook",
+      "title": "Lesson 7: Too Late",
+      "duration": 70.896,
+      "byteLength": 1283222,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-007-too-late.json"
+    },
+    {
+      "id": "nce2-008-the-best-and-the-worst",
+      "kind": "textbook",
+      "title": "Lesson 8: The Best and the Worst",
+      "duration": 74.109,
+      "byteLength": 1334659,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-008-the-best-and-the-worst.json"
+    },
+    {
+      "id": "nce2-009-a-cold-welcome",
+      "kind": "textbook",
+      "title": "Lesson 9: A Cold Welcome",
+      "duration": 70.87,
+      "byteLength": 1282816,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-009-a-cold-welcome.json"
+    },
+    {
+      "id": "nce2-010-not-for-jazz",
+      "kind": "textbook",
+      "title": "Lesson 10: Not for Jazz",
+      "duration": 63.06,
+      "byteLength": 1157843,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-010-not-for-jazz.json"
+    },
+    {
+      "id": "nce2-011-one-good-turn-deserves-another",
+      "kind": "textbook",
+      "title": "Lesson 11: One Good Turn Deserves Another",
+      "duration": 66.482,
+      "byteLength": 1212632,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-011-one-good-turn-deserves-another.json"
+    },
+    {
+      "id": "nce2-012-goodbye-and-good-luck",
+      "kind": "textbook",
+      "title": "Lesson 12: Goodbye and Good Luck",
+      "duration": 67.213,
+      "byteLength": 1224317,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-012-goodbye-and-good-luck.json"
+    },
+    {
+      "id": "nce2-013-the-greenwood-boys",
+      "kind": "textbook",
+      "title": "Lesson 13: The Greenwood Boys",
+      "duration": 66.273,
+      "byteLength": 1209264,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-013-the-greenwood-boys.json"
+    },
+    {
+      "id": "nce2-014-do-you-speak-english",
+      "kind": "textbook",
+      "title": "Lesson 14: Do You Speak English",
+      "duration": 74.24,
+      "byteLength": 1336748,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-014-do-you-speak-english.json"
+    },
+    {
+      "id": "nce2-015-good-news",
+      "kind": "textbook",
+      "title": "Lesson 15: Good News",
+      "duration": 68.493,
+      "byteLength": 1244773,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-015-good-news.json"
+    },
+    {
+      "id": "nce2-016-a-polite-request",
+      "kind": "textbook",
+      "title": "Lesson 16: A Polite Request",
+      "duration": 72.281,
+      "byteLength": 1305391,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-016-a-polite-request.json"
+    },
+    {
+      "id": "nce2-017-always-young",
+      "kind": "textbook",
+      "title": "Lesson 17: Always Young",
+      "duration": 75.703,
+      "byteLength": 1360135,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-017-always-young.json"
+    },
+    {
+      "id": "nce2-018-he-often-does-this",
+      "kind": "textbook",
+      "title": "Lesson 18: He Often does This",
+      "duration": 69.146,
+      "byteLength": 1255239,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-018-he-often-does-this.json"
+    },
+    {
+      "id": "nce2-019-sold-out",
+      "kind": "textbook",
+      "title": "Lesson 19: Sold Out",
+      "duration": 86.256,
+      "byteLength": 1528983,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-019-sold-out.json"
+    },
+    {
+      "id": "nce2-020-one-man-in-a-boat",
+      "kind": "textbook",
+      "title": "Lesson 20: One Man in a Boat",
+      "duration": 82.39,
+      "byteLength": 1467143,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-020-one-man-in-a-boat.json"
+    },
+    {
+      "id": "nce2-021-mad-or-not",
+      "kind": "textbook",
+      "title": "Lesson 21: Mad or Not",
+      "duration": 76.826,
+      "byteLength": 1378105,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-021-mad-or-not.json"
+    },
+    {
+      "id": "nce2-022-a-glass-envelope",
+      "kind": "textbook",
+      "title": "Lesson 22: A Glass Envelope",
+      "duration": 71.262,
+      "byteLength": 1289090,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-022-a-glass-envelope.json"
+    },
+    {
+      "id": "nce2-023-a-new-house",
+      "kind": "textbook",
+      "title": "Lesson 23: A New House",
+      "duration": 73.169,
+      "byteLength": 1319591,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-023-a-new-house.json"
+    },
+    {
+      "id": "nce2-024-it-could-be-worse",
+      "kind": "textbook",
+      "title": "Lesson 24: It Could be Worse",
+      "duration": 77.897,
+      "byteLength": 1395254,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-024-it-could-be-worse.json"
+    },
+    {
+      "id": "nce2-025-do-the-english-speak-english",
+      "kind": "textbook",
+      "title": "Lesson 25: Do the English Speak English",
+      "duration": 106.188,
+      "byteLength": 1847928,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-025-do-the-english-speak-english.json"
+    },
+    {
+      "id": "nce2-026-the-best-art-critics",
+      "kind": "textbook",
+      "title": "Lesson 26: The Best Art Critics",
+      "duration": 99.945,
+      "byteLength": 1748017,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-026-the-best-art-critics.json"
+    },
+    {
+      "id": "nce2-027-a-wet-night",
+      "kind": "textbook",
+      "title": "Lesson 27: A Wet Night",
+      "duration": 93.858,
+      "byteLength": 1650615,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-027-a-wet-night.json"
+    },
+    {
+      "id": "nce2-028-no-parking",
+      "kind": "textbook",
+      "title": "Lesson 28: No Parking",
+      "duration": 91.768,
+      "byteLength": 1617176,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-028-no-parking.json"
+    },
+    {
+      "id": "nce2-029-taxi",
+      "kind": "textbook",
+      "title": "Lesson 29: Taxi",
+      "duration": 99.736,
+      "byteLength": 1744642,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-029-taxi.json"
+    },
+    {
+      "id": "nce2-030-football-or-polo",
+      "kind": "textbook",
+      "title": "Lesson 30: Football or Polo",
+      "duration": 85.055,
+      "byteLength": 1509775,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-030-football-or-polo.json"
+    },
+    {
+      "id": "nce2-031-success-story",
+      "kind": "textbook",
+      "title": "Lesson 31: Success Story",
+      "duration": 93.153,
+      "byteLength": 1639334,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-031-success-story.json"
+    },
+    {
+      "id": "nce2-032-shopping-made-easy",
+      "kind": "textbook",
+      "title": "Lesson 32: Shopping Made Easy",
+      "duration": 93.649,
+      "byteLength": 1647285,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-032-shopping-made-easy.json"
+    },
+    {
+      "id": "nce2-033-out-of-the-darkness",
+      "kind": "textbook",
+      "title": "Lesson 33: Out of the Darkness",
+      "duration": 86.439,
+      "byteLength": 1531930,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-033-out-of-the-darkness.json"
+    },
+    {
+      "id": "nce2-034-quick-work",
+      "kind": "textbook",
+      "title": "Lesson 34: Quick Work",
+      "duration": 90.41,
+      "byteLength": 1595442,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-034-quick-work.json"
+    },
+    {
+      "id": "nce2-035-stop-thief",
+      "kind": "textbook",
+      "title": "Lesson 35: Stop Thief",
+      "duration": 108.565,
+      "byteLength": 1885926,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-035-stop-thief.json"
+    },
+    {
+      "id": "nce2-036-across-the-channel",
+      "kind": "textbook",
+      "title": "Lesson 36: Across the Channel",
+      "duration": 86.021,
+      "byteLength": 1525241,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-036-across-the-channel.json"
+    },
+    {
+      "id": "nce2-037-the-olympic-games",
+      "kind": "textbook",
+      "title": "Lesson 37: The Olympic Games",
+      "duration": 90.723,
+      "byteLength": 1600472,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-037-the-olympic-games.json"
+    },
+    {
+      "id": "nce2-038-everything-except-the-weather",
+      "kind": "textbook",
+      "title": "Lesson 38: Everything Except the Weather",
+      "duration": 92.447,
+      "byteLength": 1628081,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-038-everything-except-the-weather.json"
+    },
+    {
+      "id": "nce2-039-am-i-all-right",
+      "kind": "textbook",
+      "title": "Lesson 39: Am I All Right",
+      "duration": 94.981,
+      "byteLength": 1668595,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-039-am-i-all-right.json"
+    },
+    {
+      "id": "nce2-040-food-and-talk",
+      "kind": "textbook",
+      "title": "Lesson 40: Food and Talk",
+      "duration": 94.015,
+      "byteLength": 1653127,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-040-food-and-talk.json"
+    },
+    {
+      "id": "nce2-041-do-you-call-that-a-hat",
+      "kind": "textbook",
+      "title": "Lesson 41: Do You Call That a Hat",
+      "duration": 94.171,
+      "byteLength": 1655654,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-041-do-you-call-that-a-hat.json"
+    },
+    {
+      "id": "nce2-042-not-very-musical",
+      "kind": "textbook",
+      "title": "Lesson 42: Not Very Musical",
+      "duration": 86.047,
+      "byteLength": 1525655,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-042-not-very-musical.json"
+    },
+    {
+      "id": "nce2-043-over-the-south-pole",
+      "kind": "textbook",
+      "title": "Lesson 43: Over the South Pole",
+      "duration": 94.929,
+      "byteLength": 1667767,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-043-over-the-south-pole.json"
+    },
+    {
+      "id": "nce2-044-through-the-forest",
+      "kind": "textbook",
+      "title": "Lesson 44: Through the Forest",
+      "duration": 87.484,
+      "byteLength": 1548647,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-044-through-the-forest.json"
+    },
+    {
+      "id": "nce2-045-a-clear-conscience",
+      "kind": "textbook",
+      "title": "Lesson 45: A Clear Conscience",
+      "duration": 93.91,
+      "byteLength": 1651465,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-045-a-clear-conscience.json"
+    },
+    {
+      "id": "nce2-046-expensive-and-uncomfortable",
+      "kind": "textbook",
+      "title": "Lesson 46: Expensive and Uncomfortable",
+      "duration": 100.101,
+      "byteLength": 1750539,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-046-expensive-and-uncomfortable.json"
+    },
+    {
+      "id": "nce2-047-a-thirsty-ghost",
+      "kind": "textbook",
+      "title": "Lesson 47: A Thirsty Ghost",
+      "duration": 88.738,
+      "byteLength": 1568703,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-047-a-thirsty-ghost.json"
+    },
+    {
+      "id": "nce2-048-did-you-want-to-tell-me-something",
+      "kind": "textbook",
+      "title": "Lesson 48: Did You Want to Tell Me Something",
+      "duration": 89.104,
+      "byteLength": 1574592,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-048-did-you-want-to-tell-me-something.json"
+    },
+    {
+      "id": "nce2-049-the-end-of-a-dream",
+      "kind": "textbook",
+      "title": "Lesson 49: The End of a Dream",
+      "duration": 103.001,
+      "byteLength": 1796915,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-049-the-end-of-a-dream.json"
+    },
+    {
+      "id": "nce2-050-taken-for-a-ride",
+      "kind": "textbook",
+      "title": "Lesson 50: Taken for a Ride",
+      "duration": 104.307,
+      "byteLength": 1817809,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-050-taken-for-a-ride.json"
+    },
+    {
+      "id": "nce2-051-reward-for-virtue",
+      "kind": "textbook",
+      "title": "Lesson 51: Reward for Virtue",
+      "duration": 101.721,
+      "byteLength": 1776433,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-051-reward-for-virtue.json"
+    },
+    {
+      "id": "nce2-052-a-pretty-carpet",
+      "kind": "textbook",
+      "title": "Lesson 52: A Pretty Carpet",
+      "duration": 97.097,
+      "byteLength": 1702450,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-052-a-pretty-carpet.json"
+    },
+    {
+      "id": "nce2-053-hot-snake",
+      "kind": "textbook",
+      "title": "Lesson 53: Hot Snake",
+      "duration": 104.934,
+      "byteLength": 1827826,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-053-hot-snake.json"
+    },
+    {
+      "id": "nce2-054-sticky-fingers",
+      "kind": "textbook",
+      "title": "Lesson 54: Sticky Fingers",
+      "duration": 107.572,
+      "byteLength": 1870049,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-054-sticky-fingers.json"
+    },
+    {
+      "id": "nce2-055-not-a-gold-mine",
+      "kind": "textbook",
+      "title": "Lesson 55: Not a Gold Mine",
+      "duration": 107.233,
+      "byteLength": 1864618,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-055-not-a-gold-mine.json"
+    },
+    {
+      "id": "nce2-056-faster-than-sound",
+      "kind": "textbook",
+      "title": "Lesson 56: Faster Than Sound",
+      "duration": 101.46,
+      "byteLength": 1772255,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-056-faster-than-sound.json"
+    },
+    {
+      "id": "nce2-057-can-i-help-you-madam",
+      "kind": "textbook",
+      "title": "Lesson 57: Can I Help You, Madam",
+      "duration": 102.322,
+      "byteLength": 1786056,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-057-can-i-help-you-madam.json"
+    },
+    {
+      "id": "nce2-058-a-blessing-in-disguise",
+      "kind": "textbook",
+      "title": "Lesson 58: A Blessing in Disguise",
+      "duration": 100.702,
+      "byteLength": 1760144,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-058-a-blessing-in-disguise.json"
+    },
+    {
+      "id": "nce2-059-in-or-out",
+      "kind": "textbook",
+      "title": "Lesson 59: In or Out",
+      "duration": 100.441,
+      "byteLength": 1755939,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-059-in-or-out.json"
+    },
+    {
+      "id": "nce2-060-the-future",
+      "kind": "textbook",
+      "title": "Lesson 60: The Future",
+      "duration": 96.314,
+      "byteLength": 1689901,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-060-the-future.json"
+    },
+    {
+      "id": "nce2-061-trouble-with-the-hubble",
+      "kind": "textbook",
+      "title": "Lesson 61: Trouble with the Hubble",
+      "duration": 102.713,
+      "byteLength": 1792327,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-061-trouble-with-the-hubble.json"
+    },
+    {
+      "id": "nce2-062-after-the-fire",
+      "kind": "textbook",
+      "title": "Lesson 62: After the Fire",
+      "duration": 104.046,
+      "byteLength": 1813625,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-062-after-the-fire.json"
+    },
+    {
+      "id": "nce2-063-she-was-not-amused",
+      "kind": "textbook",
+      "title": "Lesson 63: She Was Not Amused",
+      "duration": 98.978,
+      "byteLength": 1732549,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-063-she-was-not-amused.json"
+    },
+    {
+      "id": "nce2-064-the-channel-tunnel",
+      "kind": "textbook",
+      "title": "Lesson 64: The Channel Tunnel",
+      "duration": 103.576,
+      "byteLength": 1806110,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-064-the-channel-tunnel.json"
+    },
+    {
+      "id": "nce2-065-jumbo-versus-the-police",
+      "kind": "textbook",
+      "title": "Lesson 65: Jumbo Versus the Police",
+      "duration": 102.243,
+      "byteLength": 1784804,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-065-jumbo-versus-the-police.json"
+    },
+    {
+      "id": "nce2-066-sweet-as-honey",
+      "kind": "textbook",
+      "title": "Lesson 66: Sweet as Honey",
+      "duration": 107.703,
+      "byteLength": 1872139,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-066-sweet-as-honey.json"
+    },
+    {
+      "id": "nce2-067-volcanoes",
+      "kind": "textbook",
+      "title": "Lesson 67: Volcanoes",
+      "duration": 119.458,
+      "byteLength": 2060211,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-067-volcanoes.json"
+    },
+    {
+      "id": "nce2-068-persistent",
+      "kind": "textbook",
+      "title": "Lesson 68: Persistent",
+      "duration": 105.509,
+      "byteLength": 1837023,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-068-persistent.json"
+    },
+    {
+      "id": "nce2-069-but-not-murder",
+      "kind": "textbook",
+      "title": "Lesson 69: But not Murder",
+      "duration": 104.281,
+      "byteLength": 1817389,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-069-but-not-murder.json"
+    },
+    {
+      "id": "nce2-070-red-for-danger",
+      "kind": "textbook",
+      "title": "Lesson 70: Red for Danger",
+      "duration": 99.082,
+      "byteLength": 1734213,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-070-red-for-danger.json"
+    },
+    {
+      "id": "nce2-071-a-famous-clock",
+      "kind": "textbook",
+      "title": "Lesson 71: A Famous Clock",
+      "duration": 100.284,
+      "byteLength": 1753439,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-071-a-famous-clock.json"
+    },
+    {
+      "id": "nce2-072-a-car-called-bluebird",
+      "kind": "textbook",
+      "title": "Lesson 72: A Car Called Bluebird",
+      "duration": 116.872,
+      "byteLength": 2018857,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-072-a-car-called-bluebird.json"
+    },
+    {
+      "id": "nce2-073-the-record-holder",
+      "kind": "textbook",
+      "title": "Lesson 73: The Record-Holder",
+      "duration": 111.438,
+      "byteLength": 1931913,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-073-the-record-holder.json"
+    },
+    {
+      "id": "nce2-074-out-of-the-limelight",
+      "kind": "textbook",
+      "title": "Lesson 74: Out of the Limelight",
+      "duration": 136.333,
+      "byteLength": 2330235,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-074-out-of-the-limelight.json"
+    },
+    {
+      "id": "nce2-075-sos",
+      "kind": "textbook",
+      "title": "Lesson 75: SOS",
+      "duration": 115.122,
+      "byteLength": 1990818,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-075-sos.json"
+    },
+    {
+      "id": "nce2-076-april-fools-day",
+      "kind": "textbook",
+      "title": "Lesson 76: April Fools' Day",
+      "duration": 125.466,
+      "byteLength": 2156355,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-076-april-fools-day.json"
+    },
+    {
+      "id": "nce2-077-a-successful-operation",
+      "kind": "textbook",
+      "title": "Lesson 77: A Successful Operation",
+      "duration": 107.729,
+      "byteLength": 1872573,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-077-a-successful-operation.json"
+    },
+    {
+      "id": "nce2-078-the-last-one",
+      "kind": "textbook",
+      "title": "Lesson 78: The Last One",
+      "duration": 119.876,
+      "byteLength": 2066906,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-078-the-last-one.json"
+    },
+    {
+      "id": "nce2-079-by-air",
+      "kind": "textbook",
+      "title": "Lesson 79: By Air",
+      "duration": 104.986,
+      "byteLength": 1828655,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-079-by-air.json"
+    },
+    {
+      "id": "nce2-080-the-crystal-palace",
+      "kind": "textbook",
+      "title": "Lesson 80: The Crystal Palace",
+      "duration": 119.589,
+      "byteLength": 2062319,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-080-the-crystal-palace.json"
+    },
+    {
+      "id": "nce2-081-escape",
+      "kind": "textbook",
+      "title": "Lesson 81: Escape",
+      "duration": 112.353,
+      "byteLength": 1946520,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-081-escape.json"
+    },
+    {
+      "id": "nce2-082-monster-or-fish",
+      "kind": "textbook",
+      "title": "Lesson 82: Monster or Fish",
+      "duration": 115.775,
+      "byteLength": 2001293,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-082-monster-or-fish.json"
+    },
+    {
+      "id": "nce2-083-after-the-elections",
+      "kind": "textbook",
+      "title": "Lesson 83: After the Elections",
+      "duration": 124.447,
+      "byteLength": 2140061,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-083-after-the-elections.json"
+    },
+    {
+      "id": "nce2-084-on-strike",
+      "kind": "textbook",
+      "title": "Lesson 84: On Strike",
+      "duration": 109.244,
+      "byteLength": 1896789,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-084-on-strike.json"
+    },
+    {
+      "id": "nce2-085-never-too-old-to-learn",
+      "kind": "textbook",
+      "title": "Lesson 85: Never Too Old To Learn",
+      "duration": 104.281,
+      "byteLength": 1817403,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-085-never-too-old-to-learn.json"
+    },
+    {
+      "id": "nce2-086-out-of-control",
+      "kind": "textbook",
+      "title": "Lesson 86: Out of Control",
+      "duration": 116.689,
+      "byteLength": 2015917,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-086-out-of-control.json"
+    },
+    {
+      "id": "nce2-087-a-perfect-alibi",
+      "kind": "textbook",
+      "title": "Lesson 87: A Perfect Alibi",
+      "duration": 113.763,
+      "byteLength": 1969108,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-087-a-perfect-alibi.json"
+    },
+    {
+      "id": "nce2-088-trapped-in-a-mine",
+      "kind": "textbook",
+      "title": "Lesson 88: Trapped in a Mine",
+      "duration": 108.356,
+      "byteLength": 1882594,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-088-trapped-in-a-mine.json"
+    },
+    {
+      "id": "nce2-089-a-slip-of-the-tongue",
+      "kind": "textbook",
+      "title": "Lesson 89: A Slip of the Tongue",
+      "duration": 108.617,
+      "byteLength": 1886780,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-089-a-slip-of-the-tongue.json"
+    },
+    {
+      "id": "nce2-090-what-s-for-supper",
+      "kind": "textbook",
+      "title": "Lesson 90: What's for Supper",
+      "duration": 117.917,
+      "byteLength": 2035569,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-090-what-s-for-supper.json"
+    },
+    {
+      "id": "nce2-091-three-men-in-a-basket",
+      "kind": "textbook",
+      "title": "Lesson 91: Three Men in a Basket",
+      "duration": 106.449,
+      "byteLength": 1852091,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-091-three-men-in-a-basket.json"
+    },
+    {
+      "id": "nce2-092-asking-for-trouble",
+      "kind": "textbook",
+      "title": "Lesson 92: Asking for Trouble",
+      "duration": 116.976,
+      "byteLength": 2020523,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-092-asking-for-trouble.json"
+    },
+    {
+      "id": "nce2-093-a-noble-gift",
+      "kind": "textbook",
+      "title": "Lesson 93: A Noble Gift",
+      "duration": 112.875,
+      "byteLength": 1954891,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-093-a-noble-gift.json"
+    },
+    {
+      "id": "nce2-094-future-champions",
+      "kind": "textbook",
+      "title": "Lesson 94: Future Champions",
+      "duration": 109.61,
+      "byteLength": 1902654,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-094-future-champions.json"
+    },
+    {
+      "id": "nce2-095-a-fantasy",
+      "kind": "textbook",
+      "title": "Lesson 95: A Fantasy",
+      "duration": 120.921,
+      "byteLength": 2083617,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-095-a-fantasy.json"
+    },
+    {
+      "id": "nce2-096-the-dead-return",
+      "kind": "textbook",
+      "title": "Lesson 96: The Dead Return",
+      "duration": 115.749,
+      "byteLength": 2000873,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-2/nce2-096-the-dead-return.json"
+    }
+  ]
+}

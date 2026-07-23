@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-029-the-hovercraft",
+    "kind": "textbook",
+    "title": "Lesson 29: The Hovercraft",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 29.",
+      "translation": {
+        "text": "第29课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Hovercraft.",
+      "translation": {
+        "text": "气垫船。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is a hovercraft riding on when it is in motion?",
+      "translation": {
+        "text": "气垫船行驶时承托在什么上面？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Many strange new means of transport have been developed in our century, the strangest of them being perhaps the hovercraft.",
+      "translation": {
+        "text": "本世纪发展出许多奇特的新型交通工具，其中最奇特的也许就是气垫船。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In 1953, a former electronics engineer in his fifties, Christopher Cockerrell, who had turned to boat building on the Norfolk Broads, suggested an idea on which he had been working for many",
+      "translation": {
+        "text": "1953年，年过五旬的前电子工程师克里斯托弗·科克雷尔已转而在诺福克湖区造船。他把自己研究多"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "years to the British government and industrial circles.",
+      "translation": {
+        "text": "年的一个构想提交给英国政府和工业界。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It was the idea of supporting a craft on a pad or cushion of low pressure air, ringed with a curtain of higher pressure air.",
+      "translation": {
+        "text": "这个构想是用低压空气垫承托船体，并在周围形成一道高压空气幕。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Ever since, people have had difficulty in deciding whether the craft should be ranged among ships, planes, or land vehicles, for it is something in between a boat and an aircraft.",
+      "translation": {
+        "text": "从那以后，人们一直难以决定应把它归入船舶、飞机还是陆地车辆，因为它介于船和飞机之间。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "As a shipbuilder, Cockerrell was trying to find a solution to the problem of the wave resistance which wastes a good deal of a surface ship's power and limits its speed.",
+      "translation": {
+        "text": "身为造船者，科克雷尔试图解决波浪阻力问题；这种阻力会浪费水面船只的大量动力，并限制其速度。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "His answer was to lift the vessel out of the water by making it ride on a cushion of air, no more than one or two feet thick.",
+      "translation": {
+        "text": "他的办法是让船体升离水面，行驶在仅一两英尺厚的气垫上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "This is done by a great number of ring-shaped air jets on the bottom of the craft.",
+      "translation": {
+        "text": "这是通过船底大量环形喷气口实现的。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It flies, therefore, but it cannot fly higher.",
+      "translation": {
+        "text": "因此它确实在“飞”，却不能飞得更高。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Its action depends on the surface, water or ground over which it rides.",
+      "translation": {
+        "text": "它的运行依赖其掠过的水面或地面。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The first tests on the Solent in 1959 caused a sensation.",
+      "translation": {
+        "text": "1959年在索伦特海峡进行的首次试验引起轰动。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The hovercraft traveled first over the water, then mounted the beach, climbed up the dunes, and set down on a road.",
+      "translation": {
+        "text": "气垫船先驶过水面，随后冲上海滩、爬上沙丘，最后停在公路上。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Later, it crossed the channel, riding smoothly over the waves, which presented no problem.",
+      "translation": {
+        "text": "后来它穿越英吉利海峡，平稳掠过毫不构成障碍的波浪。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Since that time, various types of hovercraft have appeared and taken up regular service.",
+      "translation": {
+        "text": "此后，各种类型的气垫船相继问世并投入定期运营。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The hovercraft is particularly useful in large areas with poor communications such as Africa or Australia.",
+      "translation": {
+        "text": "气垫船在非洲或澳大利亚等交通不便的广阔地区尤其有用。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It can become a flying fruit bowl, carrying bananas from the plantations to the ports.",
+      "translation": {
+        "text": "它可以变成一只“会飞的水果盘”，把香蕉从种植园运到港口。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Giant hovercraft liners could span the Atlantic, and the railway of the future may well be the hover train riding on its air cushion over a single rail, which it never touches, at speeds up to three hundred miles",
+      "translation": {
+        "text": "巨型气垫客轮可以横渡大西洋；未来的铁路很可能是气垫列车，以每小时300英里"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "per hour.",
+      "translation": {
+        "text": "的速度在一条从不接触的单轨上方靠气垫行驶。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The possibilities appear unlimited.",
+      "translation": {
+        "text": "其可能性似乎无穷无尽。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-029-the-hovercraft-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3411348,
+        "sha256": "f75c85d47c2056b92ec39663d754239988c2f8715eb6a588b336608706bdee05"
+      },
+      "duration": 203.912,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.72,
+          "end": 2.12
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.98,
+          "end": 3.84
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.28,
+          "end": 8.58
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.46,
+          "end": 14.06
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.7,
+          "end": 25.74
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.08,
+          "end": 42.98
+        },
+        {
+          "segmentId": "s007",
+          "start": 42.98,
+          "end": 46.52
+        },
+        {
+          "segmentId": "s008",
+          "start": 47.94,
+          "end": 58.86
+        },
+        {
+          "segmentId": "s009",
+          "start": 60.22,
+          "end": 75.92
+        },
+        {
+          "segmentId": "s010",
+          "start": 77.02,
+          "end": 90.52
+        },
+        {
+          "segmentId": "s011",
+          "start": 91.6,
+          "end": 101.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 102.24,
+          "end": 108.64
+        },
+        {
+          "segmentId": "s013",
+          "start": 109.44,
+          "end": 113.76
+        },
+        {
+          "segmentId": "s014",
+          "start": 114.88,
+          "end": 120.38
+        },
+        {
+          "segmentId": "s015",
+          "start": 122.06,
+          "end": 127.38
+        },
+        {
+          "segmentId": "s016",
+          "start": 128.32,
+          "end": 138
+        },
+        {
+          "segmentId": "s017",
+          "start": 139.6,
+          "end": 146.74
+        },
+        {
+          "segmentId": "s018",
+          "start": 148.93,
+          "end": 155.33
+        },
+        {
+          "segmentId": "s019",
+          "start": 156.31,
+          "end": 163.95
+        },
+        {
+          "segmentId": "s020",
+          "start": 164.89,
+          "end": 170.77
+        },
+        {
+          "segmentId": "s021",
+          "start": 172.09,
+          "end": 187.95
+        },
+        {
+          "segmentId": "s022",
+          "start": 187.95,
+          "end": 188.53
+        },
+        {
+          "segmentId": "s023",
+          "start": 189.41,
+          "end": 191.75
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-039-040-don-t-drop-it",
+    "kind": "textbook",
+    "title": "Lesson 39: Don't drop it!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 39.",
+      "translation": {
+        "text": "第39课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Don't Drop It.",
+      "translation": {
+        "text": "别摔了。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Where does Sam put the vase in the end?",
+      "translation": {
+        "text": "最后萨姆把花瓶放在哪里？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What are you going to do with that vase, Penny?",
+      "translation": {
+        "text": "彭妮，你打算怎么处理那个花瓶？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I'm going to put it on this table, Sam.",
+      "translation": {
+        "text": "我准备把它放在这张桌子上，萨姆。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Don't do that.",
+      "translation": {
+        "text": "别那么做。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Give it to me.",
+      "translation": {
+        "text": "把它给我。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "What are you going to do with it?",
+      "translation": {
+        "text": "你准备怎么处理它？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I'm going to put it here, in front of the window.",
+      "translation": {
+        "text": "我准备把它放在这里，窗户前面。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Be careful.",
+      "translation": {
+        "text": "小心。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Don't drop it.",
+      "translation": {
+        "text": "别把它摔了。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Don't put it there, Sam.",
+      "translation": {
+        "text": "别把它放在那里，萨姆。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Put it here, on this shelf.",
+      "translation": {
+        "text": "把它放在这里，这个架子上。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There we are.",
+      "translation": {
+        "text": "好了。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It's a lovely vase.",
+      "translation": {
+        "text": "这个花瓶真漂亮。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Those flowers are lovely, too.",
+      "translation": {
+        "text": "那些花也很漂亮。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-039-040-don-t-drop-it-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1242175,
+        "sha256": "e3b8996566519ff81a8997b69a71d9e7ce42fa12193bb1fead3f17f33716d5cf"
+      },
+      "duration": 69.564,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.16
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.36,
+          "end": 4.8
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.44,
+          "end": 10.42
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.6,
+          "end": 16.2
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.55,
+          "end": 22.65
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.97,
+          "end": 27.65
+        },
+        {
+          "segmentId": "s007",
+          "start": 28.87,
+          "end": 30.33
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.33,
+          "end": 32.75
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.77,
+          "end": 36.27
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.47,
+          "end": 42.17
+        },
+        {
+          "segmentId": "s011",
+          "start": 43.07,
+          "end": 43.85
+        },
+        {
+          "segmentId": "s012",
+          "start": 44.83,
+          "end": 46.09
+        },
+        {
+          "segmentId": "s013",
+          "start": 47.23,
+          "end": 49.47
+        },
+        {
+          "segmentId": "s014",
+          "start": 50.37,
+          "end": 52.97
+        },
+        {
+          "segmentId": "s015",
+          "start": 53.97,
+          "end": 55.93
+        },
+        {
+          "segmentId": "s016",
+          "start": 56.75,
+          "end": 58.45
+        },
+        {
+          "segmentId": "s017",
+          "start": 59.51,
+          "end": 62.31
+        }
+      ]
+    }
+  ]
+}

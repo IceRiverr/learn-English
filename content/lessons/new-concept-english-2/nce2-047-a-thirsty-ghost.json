@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-047-a-thirsty-ghost",
+    "kind": "textbook",
+    "title": "Lesson 47: A Thirsty Ghost",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What evidence is there of a ghost?",
+      "translation": {
+        "text": "有什么证据表明那里有鬼？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "A public house which was recently bought by Mr.",
+      "translation": {
+        "text": "汤普森先生最近买下的一家"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Thompson is up for sale.",
+      "translation": {
+        "text": "酒馆正在出售。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Mr.",
+      "translation": {
+        "text": "汤普森先生"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Thompson is going to sell it because it is haunted.",
+      "translation": {
+        "text": "准备卖掉它，因为那里闹鬼。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
+      "translation": {
+        "text": "他告诉我，有天夜里他无法入睡，因为听到酒吧间里传来一种奇怪的声音。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The next morning he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "translation": {
+        "text": "第二天早晨，他发现门被椅子堵住了，家具也被移动过。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Though Mr.",
+      "translation": {
+        "text": "虽然汤普森先生"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Thompson had turned the lights off before he went to bed, they were on in the morning.",
+      "translation": {
+        "text": "睡前关了灯，但早晨灯却亮着。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "He also said that he had found five empty whiskey bottles which the ghost must have drunk the night before.",
+      "translation": {
+        "text": "他还说自己发现了五只空威士忌酒瓶，想必是鬼前一晚喝空的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "When I suggested that some villagers must have come in for a free drink, Mr.",
+      "translation": {
+        "text": "我提出也许是几个村民进来白喝了一顿时，汤普森先生"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Thompson shook his head.",
+      "translation": {
+        "text": "摇了摇头。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The villagers have told him that they will not accept the pub even if he gives it away.",
+      "translation": {
+        "text": "村民们告诉他，即使他把酒馆白送给他们，他们也不会要。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-047-a-thirsty-ghost-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1568703,
+        "sha256": "419d166c0f9581dbc3d12c0bdfba130071bdc438fe4616a1e06081ec914e0236"
+      },
+      "duration": 88.738,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.88,
+          "end": 8.96
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.58,
+          "end": 13.34
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.77,
+          "end": 19.77
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.33,
+          "end": 22.65
+        },
+        {
+          "segmentId": "s005",
+          "start": 23.93,
+          "end": 24.25
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.81,
+          "end": 28.31
+        },
+        {
+          "segmentId": "s007",
+          "start": 29.41,
+          "end": 37.57
+        },
+        {
+          "segmentId": "s008",
+          "start": 38.65,
+          "end": 46.15
+        },
+        {
+          "segmentId": "s009",
+          "start": 47.51,
+          "end": 48.41
+        },
+        {
+          "segmentId": "s010",
+          "start": 48.91,
+          "end": 55.19
+        },
+        {
+          "segmentId": "s011",
+          "start": 56.39,
+          "end": 65.11
+        },
+        {
+          "segmentId": "s012",
+          "start": 66.61,
+          "end": 73.79
+        },
+        {
+          "segmentId": "s013",
+          "start": 74.41,
+          "end": 75.47
+        },
+        {
+          "segmentId": "s014",
+          "start": 76.51,
+          "end": 82.75
+        }
+      ]
+    }
+  ]
+}

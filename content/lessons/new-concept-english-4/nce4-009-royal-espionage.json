@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-009-royal-espionage",
+    "kind": "textbook",
+    "title": "Lesson 9: Royal Espionage",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 9.",
+      "translation": {
+        "text": "第9课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Espionage.",
+      "translation": {
+        "text": "王室谍报活动。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What important thing did King Alfred learn when he penetrated the Danish camp of Guthrum?",
+      "translation": {
+        "text": "阿尔弗雷德国王潜入古特鲁姆的丹麦军营时，得知了什么重要情况？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel.",
+      "translation": {
+        "text": "阿尔弗雷德大帝亲自充当间谍，装扮成吟游诗人造访丹麦人的军营。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In those days wandering minstrels were welcome everywhere.",
+      "translation": {
+        "text": "在那个年代，流浪的吟游诗人处处受到欢迎。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "They were not fighting men, and their harp was their passport.",
+      "translation": {
+        "text": "他们不是战士，竖琴就是他们的通行证。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Alfred had learned many of their ballads in his youth, and could vary his program with acrobatic tricks and simple conjuring.",
+      "translation": {
+        "text": "阿尔弗雷德年轻时学过他们的许多歌谣，还能穿插杂技和简单的魔术来变换节目。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "While Alfred's little army slowly began to gather at Althony, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders.",
+      "translation": {
+        "text": "阿尔弗雷德的小部队在阿瑟尔尼缓慢集结时，国王本人出发潜入丹麦入侵军统帅古特鲁姆的营地。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "These had settled down for the winter at Chippenham.",
+      "translation": {
+        "text": "丹麦人已在奇彭纳姆扎营过冬。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Thither Alfred went.",
+      "translation": {
+        "text": "阿尔弗雷德便去了那里。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He noticed at once that discipline was slack.",
+      "translation": {
+        "text": "他立刻注意到军纪松弛。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The Danes had the self-confidence of conquerors, and their security precautions were casual.",
+      "translation": {
+        "text": "丹麦人有征服者的自信，安全防范十分随意。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "They lived well, on the proceeds of raids on neighboring regions.",
+      "translation": {
+        "text": "他们靠劫掠邻近地区的所得过着优裕生活。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There they collected women as well as food and drink, and a life of ease had made them soft.",
+      "translation": {
+        "text": "在那里，他们不仅掠夺食物和酒，还掳走妇女；安逸生活使他们变得软弱。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Alfred stayed in the camp a week before he returned to Althony.",
+      "translation": {
+        "text": "阿尔弗雷德在营中待了一周，才返回阿瑟尔尼。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The force there assembled was trivial compared with the Danish horde, but Alfred had deduced that the Danes were no longer fit for prolonged battle, and that their commissariat had no organization, but depended",
+      "translation": {
+        "text": "那里集结的兵力同丹麦大军相比微不足道，但阿尔弗雷德推断丹麦人已不适合持久作战，而且他们的军需供应毫无组织，只依赖"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "on irregular raids.",
+      "translation": {
+        "text": "不定期的劫掠。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "So, faced with the Danish advance, Alfred did not risk open battle, but harried the enemy.",
+      "translation": {
+        "text": "因此面对丹麦人的推进，阿尔弗雷德没有冒险正面交战，而是不断袭扰敌军。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "He was constantly on the move, drawing the Danes after him.",
+      "translation": {
+        "text": "他不停转移，引诱丹麦人追赶。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "His patrols halted the raiding parties.",
+      "translation": {
+        "text": "他的巡逻队拦截了外出劫掠的队伍。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "assailed the Danish army.",
+      "translation": {
+        "text": "饥饿困扰着丹麦军队。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Now Alfred began a long series of skirmishes, and within a month the Danes had surrendered.",
+      "translation": {
+        "text": "随后阿尔弗雷德展开一连串长期的小规模战斗，不到一个月，丹麦人便投降了。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "The episode could reasonably serve as a unique epic of royal espionage.",
+      "translation": {
+        "text": "这段故事完全可以成为一部独特的王室谍报史诗。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-009-royal-espionage-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2745540,
+        "sha256": "dfcbf344ca4a048a1eb7c1c24eab2a2070c240fe5ea7ff67f52a3cb49058bfc6"
+      },
+      "duration": 162.299,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.14,
+          "end": 1.34
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.94,
+          "end": 4.02
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.26,
+          "end": 9.34
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.4,
+          "end": 18.48
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.68,
+          "end": 28.1
+        },
+        {
+          "segmentId": "s006",
+          "start": 28.94,
+          "end": 33.34
+        },
+        {
+          "segmentId": "s007",
+          "start": 34.48,
+          "end": 38.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 39.34,
+          "end": 47.8
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.64,
+          "end": 61.16
+        },
+        {
+          "segmentId": "s010",
+          "start": 62.24,
+          "end": 65.68
+        },
+        {
+          "segmentId": "s011",
+          "start": 66.8,
+          "end": 67.9
+        },
+        {
+          "segmentId": "s012",
+          "start": 68.72,
+          "end": 72.5
+        },
+        {
+          "segmentId": "s013",
+          "start": 73.16,
+          "end": 79.88
+        },
+        {
+          "segmentId": "s014",
+          "start": 80.94,
+          "end": 85.64
+        },
+        {
+          "segmentId": "s015",
+          "start": 86.82,
+          "end": 93.42
+        },
+        {
+          "segmentId": "s016",
+          "start": 94.52,
+          "end": 99.04
+        },
+        {
+          "segmentId": "s017",
+          "start": 99.94,
+          "end": 115.78
+        },
+        {
+          "segmentId": "s018",
+          "start": 115.78,
+          "end": 117.3
+        },
+        {
+          "segmentId": "s019",
+          "start": 118.14,
+          "end": 125.84
+        },
+        {
+          "segmentId": "s020",
+          "start": 126.62,
+          "end": 130.8
+        },
+        {
+          "segmentId": "s021",
+          "start": 131.62,
+          "end": 133.98
+        },
+        {
+          "segmentId": "s022",
+          "start": 135.26,
+          "end": 136.84
+        },
+        {
+          "segmentId": "s023",
+          "start": 138.08,
+          "end": 144.28
+        },
+        {
+          "segmentId": "s024",
+          "start": 144.28,
+          "end": 151.06
+        }
+      ]
+    }
+  ]
+}

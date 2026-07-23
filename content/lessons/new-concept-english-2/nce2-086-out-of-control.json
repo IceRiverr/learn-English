@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-086-out-of-control",
+    "kind": "textbook",
+    "title": "Lesson 86: Out of Control",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What was the danger?",
+      "translation": {
+        "text": "危险是什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "As the man tried to swing the speed boat round, the steering wheel came away in his hands.",
+      "translation": {
+        "text": "那名男子试图让快艇转向时，方向盘竟掉在了他的手中。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "He waved desperately to his companion, who had been water skiing for the last 15 minutes.",
+      "translation": {
+        "text": "他拼命向同伴挥手；同伴已经滑水15分钟了。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "translation": {
+        "text": "两人还来不及弄清发生了什么，就被猛地抛进海里。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The speed boat had struck a buoy, but it continued to move very quickly across the water.",
+      "translation": {
+        "text": "快艇撞上了一只浮标，却仍在水面上高速行驶。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Both men had just begun to swim towards the shore when they noticed with dismay that the speed boat was moving in a circle.",
+      "translation": {
+        "text": "两人刚开始向岸边游去，就惊恐地发现快艇正在绕圈。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It now came straight towards them at tremendous speed.",
+      "translation": {
+        "text": "它此刻以惊人的速度径直朝他们冲来。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "In less than a minute, it roared past them only a few feet away.",
+      "translation": {
+        "text": "不到一分钟，它就在离他们仅几英尺的地方轰鸣着掠过。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "translation": {
+        "text": "快艇驶过后，他们拼命继续游，因为知道它很快还会回来。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+      "translation": {
+        "text": "他们刚好有足够时间游出危险区域，快艇便又绕完了一圈。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "On this occasion, however, it had slowed down considerably.",
+      "translation": {
+        "text": "不过这一次，它的速度已经大幅降低。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The petrol had nearly all been used up.",
+      "translation": {
+        "text": "汽油几乎耗尽了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Before long, the noise dropped completely, and the boat began to drift gently across the water.",
+      "translation": {
+        "text": "不久，发动机声完全消失，快艇开始在水面上缓缓漂流。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-086-out-of-control-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2015917,
+        "sha256": "686af6236d7ef3e5668ace4083f139a9cab8576e049e7b17aa7b7037bce558f8"
+      },
+      "duration": 116.689,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.04,
+          "end": 9.04
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.8,
+          "end": 12.3
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.4,
+          "end": 21.72
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.5,
+          "end": 29.88
+        },
+        {
+          "segmentId": "s005",
+          "start": 30.94,
+          "end": 39.6
+        },
+        {
+          "segmentId": "s006",
+          "start": 40.82,
+          "end": 47.9
+        },
+        {
+          "segmentId": "s007",
+          "start": 49.1,
+          "end": 59.06
+        },
+        {
+          "segmentId": "s008",
+          "start": 60,
+          "end": 64.2
+        },
+        {
+          "segmentId": "s009",
+          "start": 65.46,
+          "end": 71.76
+        },
+        {
+          "segmentId": "s010",
+          "start": 73.08,
+          "end": 82.18
+        },
+        {
+          "segmentId": "s011",
+          "start": 83.52,
+          "end": 90.9
+        },
+        {
+          "segmentId": "s012",
+          "start": 92,
+          "end": 97.12
+        },
+        {
+          "segmentId": "s013",
+          "start": 98.24,
+          "end": 101.56
+        },
+        {
+          "segmentId": "s014",
+          "start": 102.68,
+          "end": 110.12
+        }
+      ]
+    }
+  ]
+}

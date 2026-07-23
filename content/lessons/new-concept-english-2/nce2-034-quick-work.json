@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-034-quick-work",
+    "kind": "textbook",
+    "title": "Lesson 34: Quick Work",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 34.",
+      "translation": {
+        "text": "第34课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Quick Work.",
+      "translation": {
+        "text": "破案神速。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How long had the police taken to find his bicycle?",
+      "translation": {
+        "text": "警方花了多长时间才找到他的自行车？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Dan Robinson has been worried all week.",
+      "translation": {
+        "text": "丹·鲁宾逊整个星期都忧心忡忡。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Last Tuesday he received a letter from the local police.",
+      "translation": {
+        "text": "上星期二，他收到当地警察局的一封信。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "In the letter, he was asked to call at the station.",
+      "translation": {
+        "text": "信中让他到警察局去一趟。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Dan wondered why he was wanted by the police.",
+      "translation": {
+        "text": "丹不明白警方为什么要找他。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "But he went to the station yesterday and now he is not worried anymore.",
+      "translation": {
+        "text": "但他昨天去了警察局，现在再也不担心了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "translation": {
+        "text": "在警察局里，一位面带笑容的警察告诉他，他的自行车找到了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village 400 miles away.",
+      "translation": {
+        "text": "警察告诉他，五天前有人在400英里外的一个小村庄发现了那辆自行车。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "It is now being sent to his home by train.",
+      "translation": {
+        "text": "现在正用火车把它运到他家。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Dan was most surprised when he heard the news.",
+      "translation": {
+        "text": "丹听到这个消息时非常惊讶。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "He was amused too, because he never expected the bicycle to be found.",
+      "translation": {
+        "text": "他也觉得好笑，因为他从没指望这辆自行车还能找回来。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It was stolen 20 years ago when Dan was a boy of 15.",
+      "translation": {
+        "text": "这辆车是20年前丹还是个15岁少年时被偷的。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-034-quick-work-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1595442,
+        "sha256": "59adf223832045cadabe128bdfda6a45b29111e0118af7f68ff7fa2efb606886"
+      },
+      "duration": 90.41,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.78,
+          "end": 2.5
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.58,
+          "end": 4.46
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.06,
+          "end": 8.86
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.44,
+          "end": 14.34
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.8,
+          "end": 19.86
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.08,
+          "end": 25.14
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.1,
+          "end": 29.88
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.88,
+          "end": 34.4
+        },
+        {
+          "segmentId": "s009",
+          "start": 35.62,
+          "end": 41.14
+        },
+        {
+          "segmentId": "s010",
+          "start": 42.04,
+          "end": 49.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 50.7,
+          "end": 60.26
+        },
+        {
+          "segmentId": "s012",
+          "start": 61.32,
+          "end": 64.64
+        },
+        {
+          "segmentId": "s013",
+          "start": 66.04,
+          "end": 69.5
+        },
+        {
+          "segmentId": "s014",
+          "start": 70.26,
+          "end": 77.14
+        },
+        {
+          "segmentId": "s015",
+          "start": 77.14,
+          "end": 83.86
+        }
+      ]
+    }
+  ]
+}

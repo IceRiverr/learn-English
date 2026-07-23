@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-073-the-record-holder",
+    "kind": "textbook",
+    "title": "Lesson 73: The Record-Holder",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Did the boy go where he wanted to?",
+      "translation": {
+        "text": "这个男孩到达了自己想去的地方吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Children who play truant from school are unimaginative.",
+      "translation": {
+        "text": "逃学的孩子通常都缺乏想象力。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
+      "translation": {
+        "text": "安安静静地钓一天鱼，或是在电影院里把同一部电影反复看上八小时，通常就是他们所能想到的全部花样。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "They have all been put to shame by a boy who, while playing truant, traveled 1,600 miles.",
+      "translation": {
+        "text": "然而，一个逃学期间旅行了1,600英里的男孩，却让他们全都相形见绌。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He hitchhiked to Dover and, towards evening, went into a boat to find somewhere to sleep.",
+      "translation": {
+        "text": "他搭便车到了多佛，傍晚时钻进一条船，想找个地方睡觉。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "When he woke up next morning, he discovered that the boat had, in the meantime, traveled to Calais.",
+      "translation": {
+        "text": "第二天早晨醒来时，他发现那条船已经在这段时间里开到了加来。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "No one noticed the boy as he crept off.",
+      "translation": {
+        "text": "男孩悄悄溜下船时，没有人注意到他。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "From there, he hitchhiked to Paris in a lorry.",
+      "translation": {
+        "text": "他从那里搭上一辆卡车，前往巴黎。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
+      "translation": {
+        "text": "司机给了他几块饼干和一杯咖啡，把他留在了城外不远处。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The next car the boy stopped did not take him into the center of Paris, as he hoped it would, but to Perpignan, on the French-Spanish border.",
+      "translation": {
+        "text": "男孩拦下的下一辆车并没有如他所愿把他带进巴黎市中心，而是把他带到了法西边境的佩皮尼昂。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There he was picked up by a policeman and sent back to England by the local authorities.",
+      "translation": {
+        "text": "他在那里被一名警察发现，当地政府随后把他遣送回英国。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He has surely set up a record for the thousands of children who dream of evading school.",
+      "translation": {
+        "text": "对于成千上万梦想逃学的孩子来说，他无疑创下了一项纪录。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-073-the-record-holder-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1931913,
+        "sha256": "e9cf7d49edcd43a3c86043b25dff63e2b46336efba521b4c0001e80651108f34"
+      },
+      "duration": 111.438,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.37,
+          "end": 9.43
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.85,
+          "end": 13.23
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.57,
+          "end": 19.51
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.71,
+          "end": 31.61
+        },
+        {
+          "segmentId": "s005",
+          "start": 32.43,
+          "end": 41.25
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.83,
+          "end": 50.21
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.33,
+          "end": 59.57
+        },
+        {
+          "segmentId": "s008",
+          "start": 60.77,
+          "end": 63.85
+        },
+        {
+          "segmentId": "s009",
+          "start": 64.93,
+          "end": 68.77
+        },
+        {
+          "segmentId": "s010",
+          "start": 69.47,
+          "end": 76.51
+        },
+        {
+          "segmentId": "s011",
+          "start": 77.67,
+          "end": 90.19
+        },
+        {
+          "segmentId": "s012",
+          "start": 91.59,
+          "end": 97.89
+        },
+        {
+          "segmentId": "s013",
+          "start": 99.15,
+          "end": 105.17
+        }
+      ]
+    }
+  ]
+}

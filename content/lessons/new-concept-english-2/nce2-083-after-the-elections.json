@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-083-after-the-elections",
+    "kind": "textbook",
+    "title": "Lesson 83: After the Elections",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First, listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did Patrick keep on asking the same question?",
+      "translation": {
+        "text": "帕特里克为什么一再问同一个问题？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The former Prime Minister, Mr.",
+      "translation": {
+        "text": "前首相温特沃思·莱恩先生。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Wentworth Lane, was defeated in the recent elections.",
+      "translation": {
+        "text": "在最近的选举中落败了。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Patrick has always been a fanatical opponent of Mr.",
+      "translation": {
+        "text": "帕特里克一向是莱恩先生所领导的"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Lane's radical progressive party.",
+      "translation": {
+        "text": "激进进步党的狂热反对者。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "After the elections, Patrick went to the former Prime Minister's house.",
+      "translation": {
+        "text": "选举结束后，帕特里克来到前首相的住所。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "When he asked if Mr.",
+      "translation": {
+        "text": "他询问莱恩先生是否住在那里。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
+      "translation": {
+        "text": "值勤警察告诉他，自从落选后，这位前首相已经出国了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "On the following day, Patrick went to the house again.",
+      "translation": {
+        "text": "第二天，帕特里克又来到那所房子。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The same policeman was just walking slowly past the entrance when Patrick asked the same question.",
+      "translation": {
+        "text": "同一名警察正在门口缓缓巡逻，帕特里克又问了同样的问题。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Though a little suspicious this time, the policeman gave him the same answer.",
+      "translation": {
+        "text": "警察这次虽然有些疑心，还是给了他同样的回答。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The day after, Patrick went to the house once more and asked exactly the same question.",
+      "translation": {
+        "text": "又过了一天，帕特里克再次来到那所房子，问了完全相同的问题。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This time, the policeman lost his temper.",
+      "translation": {
+        "text": "这一次，警察发火了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I told you yesterday and the day before yesterday, he shouted.",
+      "translation": {
+        "text": "“我昨天和前天都告诉过你了，”他喊道。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Mr.",
+      "translation": {
+        "text": "莱恩先生。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Lane was defeated in the elections.",
+      "translation": {
+        "text": "“莱恩先生在选举中落败了。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "He has retired from political life and gone to live abroad.",
+      "translation": {
+        "text": "“他已经退出政坛，搬到国外生活去了。”"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I know, answered Patrick, but I love to hear you say it.",
+      "translation": {
+        "text": "“我知道，”帕特里克回答，“但我就是喜欢听你这么说。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-083-after-the-elections-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2140061,
+        "sha256": "7839ae0f447d0cb70a8a6da850b8fa3dca64f1dbd796e158622b75dc1c941cef"
+      },
+      "duration": 124.447,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 3.52,
+          "end": 9.24
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.8,
+          "end": 14.8
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.88,
+          "end": 19.58
+        },
+        {
+          "segmentId": "s004",
+          "start": 19.88,
+          "end": 23.56
+        },
+        {
+          "segmentId": "s005",
+          "start": 30.86,
+          "end": 36.16
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.46,
+          "end": 38.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 39.84,
+          "end": 45.1
+        },
+        {
+          "segmentId": "s008",
+          "start": 46.42,
+          "end": 47.88
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.2,
+          "end": 57.52
+        },
+        {
+          "segmentId": "s010",
+          "start": 58.16,
+          "end": 62.62
+        },
+        {
+          "segmentId": "s011",
+          "start": 63.78,
+          "end": 71.36
+        },
+        {
+          "segmentId": "s012",
+          "start": 72.52,
+          "end": 78.82
+        },
+        {
+          "segmentId": "s013",
+          "start": 79.98,
+          "end": 88.42
+        },
+        {
+          "segmentId": "s014",
+          "start": 89.52,
+          "end": 93.16
+        },
+        {
+          "segmentId": "s015",
+          "start": 94.08,
+          "end": 100.62
+        },
+        {
+          "segmentId": "s016",
+          "start": 101.82,
+          "end": 102.2
+        },
+        {
+          "segmentId": "s017",
+          "start": 102.52,
+          "end": 104.82
+        },
+        {
+          "segmentId": "s018",
+          "start": 105.66,
+          "end": 110.42
+        },
+        {
+          "segmentId": "s019",
+          "start": 111.6,
+          "end": 117.76
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-014-the-butterfly-effect",
+    "kind": "textbook",
+    "title": "Lesson 14: The Butterfly Effect",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 14.",
+      "translation": {
+        "text": "第14课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Butterfly Effect.",
+      "translation": {
+        "text": "蝴蝶效应。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why do small errors make it impossible to predict the weather system with a high degree of accuracy?",
+      "translation": {
+        "text": "为什么微小误差会使我们无法高度准确地预测天气系统？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Beyond two or three days, the world's best weather forecasts are speculative, and beyond six or seven, they are worthless.",
+      "translation": {
+        "text": "超过两三天，世界上最好的天气预报也只能是推测；超过六七天，便毫无价值。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The Butterfly Effect is the reason.",
+      "translation": {
+        "text": "原因就是蝴蝶效应。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "For small pieces of weather, and to a global forecaster, small can mean thunderstorms and blizzards, any prediction deteriorates rapidly.",
+      "translation": {
+        "text": "对小规模天气现象而言——而对全球预报员来说，雷暴和暴风雪也算‘小’——任何预测都会迅速失准。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "and uncertainties multiply, cascading upward through a chain of turbulent features, from dust devils and squalls up to continent-size eddies that only satellites can see.",
+      "translation": {
+        "text": "不确定性不断增大，沿着一连串湍流现象层层向上扩展，从尘旋风和飑，一直到只有卫星才能看见的大陆尺度涡旋。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The modern weather models work with a grid of points of the order of 60 miles apart.",
+      "translation": {
+        "text": "现代天气模型使用的网格点大约相距六十英里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "And even so, some starting data has to be guessed, since ground stations and satellites cannot see everywhere.",
+      "translation": {
+        "text": "即使如此，有些初始数据仍须猜测，因为地面观测站和卫星无法看到每个地方。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "But suppose the Earth could be covered with sensors spaced one foot apart, rising at one-foot intervals all the way to the top of the atmosphere.",
+      "translation": {
+        "text": "但假设地球表面每隔一英尺都布置传感器，并以一英尺的间隔一直向上延伸到大气层顶端。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Suppose every sensor gives perfectly accurate readings of temperature, humidity, and any other quantity a meteorologist would want.",
+      "translation": {
+        "text": "再假设每个传感器都能极其准确地读出温度、湿度及气象学家所需的任何其他数值。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Precisely at noon, an infinitely powerful computer takes all the data and calculates what will happen at each point at 1201, then 1202, then 1203.",
+      "translation": {
+        "text": "正午时分，一台能力无限强的计算机接收全部数据，计算每一点在12点01分、12点02分、12点03分会发生什么。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The computer will still be unable to predict whether Princeton, New Jersey will have sun or rain on a day one month away.",
+      "translation": {
+        "text": "即便如此，计算机仍无法预测一个月后的某天，新泽西州普林斯顿是晴是雨。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "At noon, the spaces between the sensors will hide fluctuations that the computer will not know about, tiny deviations from the average.",
+      "translation": {
+        "text": "正午时，传感器之间的空隙会隐藏计算机不知道的波动，也就是偏离平均值的细微差异。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "By 1201, those fluctuations will already have created small errors one foot away.",
+      "translation": {
+        "text": "到12点01分，这些波动已经在一英尺外造成微小误差。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Soon the errors will have multiplied to the ten-foot scale, and so on up to the size of the globe.",
+      "translation": {
+        "text": "很快，误差会扩大到十英尺的尺度，并以此类推，最终扩展到全球尺度。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-014-the-butterfly-effect-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2518599,
+        "sha256": "a9f5aa7a194669e6ee659c140764158b4e98e849e2812790ecaa6b4726b40d1f"
+      },
+      "duration": 148.114,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.08,
+          "end": 1.38
+        },
+        {
+          "segmentId": "s002",
+          "start": 1.9,
+          "end": 2.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 3.9,
+          "end": 7.02
+        },
+        {
+          "segmentId": "s004",
+          "start": 8.38,
+          "end": 14.58
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.48,
+          "end": 25.72
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.59,
+          "end": 28.94
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.14,
+          "end": 39.62
+        },
+        {
+          "segmentId": "s008",
+          "start": 40.76,
+          "end": 52.82
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.72,
+          "end": 59.38
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.08,
+          "end": 67.68
+        },
+        {
+          "segmentId": "s011",
+          "start": 68.76,
+          "end": 78.16
+        },
+        {
+          "segmentId": "s012",
+          "start": 78.94,
+          "end": 89.72
+        },
+        {
+          "segmentId": "s013",
+          "start": 90.6,
+          "end": 104.4
+        },
+        {
+          "segmentId": "s014",
+          "start": 105.18,
+          "end": 113.46
+        },
+        {
+          "segmentId": "s015",
+          "start": 114.5,
+          "end": 123.62
+        },
+        {
+          "segmentId": "s016",
+          "start": 124.4,
+          "end": 131
+        },
+        {
+          "segmentId": "s017",
+          "start": 131.94,
+          "end": 138.9
+        }
+      ]
+    }
+  ]
+}

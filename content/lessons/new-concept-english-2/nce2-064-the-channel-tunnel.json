@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-064-the-channel-tunnel",
+    "kind": "textbook",
+    "title": "Lesson 64: The Channel Tunnel",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 64.",
+      "translation": {
+        "text": "第64课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Channel Tunnel.",
+      "translation": {
+        "text": "海峡隧道。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why was the first tunnel not completed?",
+      "translation": {
+        "text": "第一条隧道为什么没有建成？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "In 1858, a French engineer, Aimé Thomé de Gamond, arrived in England with a plan for a 21-mile tunnel under the English Channel.",
+      "translation": {
+        "text": "1858年，法国工程师艾梅·托梅·德·加蒙带着一项在英吉利海峡下修建21英里隧道的计划来到英国。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He said that it would be possible to build a platform in the center of the channel.",
+      "translation": {
+        "text": "他说，可以在海峡中央修建一个平台。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "This platform would serve as a port and a railway station.",
+      "translation": {
+        "text": "这个平台可兼作港口和火车站。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The tunnel would be well ventilated if tall chimneys were built above sea level.",
+      "translation": {
+        "text": "如果在海平面以上建造高烟囱，隧道就能保持良好通风。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In 1860, a better plan was put forward by an Englishman, William Lowe.",
+      "translation": {
+        "text": "1860年，英国人威廉·洛提出了一项更好的计划。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He suggested that a double railway tunnel should be built.",
+      "translation": {
+        "text": "他建议修建一条双轨铁路隧道。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it.",
+      "translation": {
+        "text": "这样可以解决通风问题，因为火车进入这条隧道时，会把新鲜空气吸到后方。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "42 years later a tunnel was actually begun.",
+      "translation": {
+        "text": "42年后，一条隧道真正开始动工。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "If, at the time, the British had not feared invasion, it would have been completed.",
+      "translation": {
+        "text": "如果当时英国人不害怕入侵，隧道本来会建成。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The world had to wait almost another 100 years for the Channel Tunnel.",
+      "translation": {
+        "text": "世界又等了将近100年，才迎来英吉利海峡隧道。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
+      "translation": {
+        "text": "隧道于1994年3月7日正式开通，终于把英国和欧洲大陆连接起来。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-064-the-channel-tunnel-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1806110,
+        "sha256": "8801f1ec98924414f42cd36fae840ee451fff5eaf4d9eb57d8cfe59c8d5c77ee"
+      },
+      "duration": 103.576,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.82,
+          "end": 2.38
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.42,
+          "end": 4.28
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.46,
+          "end": 8.4
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.1,
+          "end": 12.5
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.71,
+          "end": 26.77
+        },
+        {
+          "segmentId": "s009",
+          "start": 26.77,
+          "end": 33.11
+        },
+        {
+          "segmentId": "s010",
+          "start": 34.31,
+          "end": 38.57
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.55,
+          "end": 45.17
+        },
+        {
+          "segmentId": "s012",
+          "start": 45.17,
+          "end": 53.03
+        },
+        {
+          "segmentId": "s013",
+          "start": 54.01,
+          "end": 57.75
+        },
+        {
+          "segmentId": "s014",
+          "start": 58.67,
+          "end": 68.03
+        },
+        {
+          "segmentId": "s015",
+          "start": 68.03,
+          "end": 72.85
+        },
+        {
+          "segmentId": "s016",
+          "start": 73.89,
+          "end": 80.95
+        },
+        {
+          "segmentId": "s017",
+          "start": 82.03,
+          "end": 87.49
+        },
+        {
+          "segmentId": "s018",
+          "start": 88.59,
+          "end": 97.37
+        }
+      ]
+    }
+  ]
+}

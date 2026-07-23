@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-048-did-you-want-to-tell-me-something",
+    "kind": "textbook",
+    "title": "Lesson 48: Did You Want to Tell Me Something",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did the writer become very worried?",
+      "translation": {
+        "text": "作者为什么变得非常担心？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Dentists always ask questions when it is impossible for you to answer.",
+      "translation": {
+        "text": "牙医总是在你无法回答时问问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "translation": {
+        "text": "我的牙医刚拔掉我的一颗牙，并让我休息一会儿。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I tried to say something, but my mouth was full of cotton wool.",
+      "translation": {
+        "text": "我想说点什么，可嘴里塞满了药棉。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He knew I collected match boxes and asked me whether my collection was growing.",
+      "translation": {
+        "text": "他知道我收集火柴盒，便问我的收藏是否在增加。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He then asked me how my brother was and whether I liked my new job in London.",
+      "translation": {
+        "text": "接着，他又问我哥哥身体如何，以及我是否喜欢在伦敦的新工作。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "In answer to these questions, I either nodded or made strange noises.",
+      "translation": {
+        "text": "回答这些问题时，我不是点头，就是发出奇怪的声音。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "translation": {
+        "text": "与此同时，我的舌头正忙着寻找原来牙齿所在的那个洞。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I suddenly felt very worried, but could not say anything.",
+      "translation": {
+        "text": "我突然非常担心，却什么也说不出来。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.",
+      "translation": {
+        "text": "牙医终于从我嘴里取出药棉后，我才得以告诉他，他拔错了牙。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-048-did-you-want-to-tell-me-something-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1574592,
+        "sha256": "99318f3e63c096acddc35d5477c3b65c27940b7afa75e7da803ff96d0550a1a8"
+      },
+      "duration": 89.104,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 6.38,
+          "end": 10.64
+        },
+        {
+          "segmentId": "s002",
+          "start": 12.16,
+          "end": 15.24
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.68,
+          "end": 23.32
+        },
+        {
+          "segmentId": "s004",
+          "start": 24.9,
+          "end": 31.3
+        },
+        {
+          "segmentId": "s005",
+          "start": 32.14,
+          "end": 37.02
+        },
+        {
+          "segmentId": "s006",
+          "start": 38.32,
+          "end": 43.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 44.84,
+          "end": 51.3
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.9,
+          "end": 58.76
+        },
+        {
+          "segmentId": "s009",
+          "start": 60.1,
+          "end": 65.76
+        },
+        {
+          "segmentId": "s010",
+          "start": 66.86,
+          "end": 71.78
+        },
+        {
+          "segmentId": "s011",
+          "start": 73.38,
+          "end": 83.04
+        }
+      ]
+    }
+  ]
+}

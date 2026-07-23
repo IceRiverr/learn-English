@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-143-144-a-walk-through-the-woods",
+    "kind": "textbook",
+    "title": "Lesson 143: A walk through the woods",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 143.",
+      "translation": {
+        "text": "第143课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Walk Through the Woods.",
+      "translation": {
+        "text": "林中漫步。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was so funny about the words on the sign?",
+      "translation": {
+        "text": "告示牌上的话有什么可笑之处？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I live in a very old town which is surrounded by beautiful woods.",
+      "translation": {
+        "text": "我住在一座非常古老的小镇，四周环绕着美丽的树林。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It is a famous beauty spot.",
+      "translation": {
+        "text": "这里是著名的风景胜地。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "On Sundays, hundreds of people come from the city to see our town and to walk through the woods.",
+      "translation": {
+        "text": "每逢星期天，数百人从城里来到我们镇上观光，并在树林里散步。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Visitors have been asked to keep the woods clean and tidy.",
+      "translation": {
+        "text": "游客们被要求保持树林干净整洁。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Litter baskets have been placed under the trees, but people still throw their rubbish everywhere.",
+      "translation": {
+        "text": "树下设置了垃圾筐，可人们仍把垃圾扔得到处都是。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Last Wednesday, I went for a walk in the woods.",
+      "translation": {
+        "text": "上周三，我到树林里散步。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "What I saw made me very sad.",
+      "translation": {
+        "text": "眼前的景象让我非常难过。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I counted seven old cars and three old refrigerators.",
+      "translation": {
+        "text": "我数了数，有七辆旧汽车和三台旧冰箱。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tires, empty bottles, and rusty tins.",
+      "translation": {
+        "text": "垃圾筐空空如也，地面上却铺满了纸屑、烟头、旧轮胎、空瓶子和生锈的罐头盒。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Among the rubbish, I found a sign which said, Anyone who leaves litter in these woods will be prosecuted.",
+      "translation": {
+        "text": "在垃圾中，我发现一块告示牌，上面写着：“凡在本树林乱扔垃圾者，将被起诉。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-143-144-a-walk-through-the-woods-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2063270,
+        "sha256": "ebd2c51418512a8dccc0afb57c7d3c42aff5fbb6297485474c15e2d0eb6bf53f"
+      },
+      "duration": 120.999,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.69,
+          "end": 2.77
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.77,
+          "end": 5.83
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.53,
+          "end": 11.39
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.93,
+          "end": 17.13
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.88,
+          "end": 26.56
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.9,
+          "end": 30.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.4,
+          "end": 41.24
+        },
+        {
+          "segmentId": "s008",
+          "start": 43.1,
+          "end": 48.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 49.66,
+          "end": 57.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 58.72,
+          "end": 64.28
+        },
+        {
+          "segmentId": "s011",
+          "start": 65.24,
+          "end": 69.32
+        },
+        {
+          "segmentId": "s012",
+          "start": 70.54,
+          "end": 76.96
+        },
+        {
+          "segmentId": "s013",
+          "start": 78.12,
+          "end": 93.26
+        },
+        {
+          "segmentId": "s014",
+          "start": 94.54,
+          "end": 106.52
+        }
+      ]
+    }
+  ]
+}

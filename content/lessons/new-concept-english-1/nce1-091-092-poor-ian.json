@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-091-092-poor-ian",
+    "kind": "textbook",
+    "title": "Lesson 91: Poor Ian",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 91–Poor Ian.",
+      "translation": {
+        "text": "第91课——可怜的伊恩。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Who wanted to sell the house?",
+      "translation": {
+        "text": "谁想卖掉这所房子？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Has Ian sold his house yet?",
+      "translation": {
+        "text": "伊恩已经卖掉房子了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Yes, he has.",
+      "translation": {
+        "text": "是的，已经卖了。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He sold it last week.",
+      "translation": {
+        "text": "他上星期卖掉的。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Has he moved to his new house yet?",
+      "translation": {
+        "text": "他已经搬进新房子了吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "No, not yet.",
+      "translation": {
+        "text": "还没有。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He's still here.",
+      "translation": {
+        "text": "他还在这里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He's going to move tomorrow.",
+      "translation": {
+        "text": "他准备明天搬家。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "When?",
+      "translation": {
+        "text": "什么时候？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "morning?",
+      "translation": {
+        "text": "上午吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "No, afternoon.",
+      "translation": {
+        "text": "不，下午。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I'll miss him.",
+      "translation": {
+        "text": "我会想念他的。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He has always been a good neighbor.",
+      "translation": {
+        "text": "他一直是个好邻居。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He's a very nice person.",
+      "translation": {
+        "text": "他人很好。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "We'll all miss him.",
+      "translation": {
+        "text": "我们大家都会想念他的。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "When will the new people move into this house?",
+      "translation": {
+        "text": "新住户什么时候搬进这所房子？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I think that they'll move in the day after tomorrow.",
+      "translation": {
+        "text": "我想他们后天会搬进来。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Will you see Ian today, Jenny?",
+      "translation": {
+        "text": "珍妮，你今天会见到伊恩吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Yes, I will.",
+      "translation": {
+        "text": "会的。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Please give him my regards.",
+      "translation": {
+        "text": "请代我向他问好。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Poor Ian.",
+      "translation": {
+        "text": "可怜的伊恩。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "He didn't want to leave this house.",
+      "translation": {
+        "text": "他并不想离开这所房子。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "No, he didn't want to leave, but his wife did.",
+      "translation": {
+        "text": "是的，他不想离开，但他妻子想。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-091-092-poor-ian-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1830552,
+        "sha256": "dea5d459d4fe0e98008fd175513c69398495c6f6011c6bc588e6c13c3b5c0e2c"
+      },
+      "duration": 106.423,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.62,
+          "end": 4.7
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.24,
+          "end": 10.5
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.24,
+          "end": 14.7
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.68,
+          "end": 20.06
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.2,
+          "end": 22.72
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.24,
+          "end": 25.34
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.94,
+          "end": 30.24
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.24,
+          "end": 33.08
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.74,
+          "end": 35.18
+        },
+        {
+          "segmentId": "s010",
+          "start": 36.08,
+          "end": 38.2
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.9,
+          "end": 40.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.76,
+          "end": 42.46
+        },
+        {
+          "segmentId": "s013",
+          "start": 44.06,
+          "end": 46.66
+        },
+        {
+          "segmentId": "s014",
+          "start": 47.68,
+          "end": 49.04
+        },
+        {
+          "segmentId": "s015",
+          "start": 49.86,
+          "end": 53.22
+        },
+        {
+          "segmentId": "s016",
+          "start": 54.22,
+          "end": 57.2
+        },
+        {
+          "segmentId": "s017",
+          "start": 58.26,
+          "end": 60.64
+        },
+        {
+          "segmentId": "s018",
+          "start": 62.48,
+          "end": 66.1
+        },
+        {
+          "segmentId": "s019",
+          "start": 67.44,
+          "end": 72.24
+        },
+        {
+          "segmentId": "s020",
+          "start": 74.22,
+          "end": 77.52
+        },
+        {
+          "segmentId": "s021",
+          "start": 79.18,
+          "end": 81.28
+        },
+        {
+          "segmentId": "s022",
+          "start": 82.56,
+          "end": 86.38
+        },
+        {
+          "segmentId": "s023",
+          "start": 87.94,
+          "end": 89
+        },
+        {
+          "segmentId": "s024",
+          "start": 89.82,
+          "end": 92.92
+        },
+        {
+          "segmentId": "s025",
+          "start": 94.46,
+          "end": 100.04
+        }
+      ]
+    }
+  ]
+}

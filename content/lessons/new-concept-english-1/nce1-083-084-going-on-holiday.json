@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-083-084-going-on-holiday",
+    "kind": "textbook",
+    "title": "Lesson 83: Going on holiday",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 83–Going on Holiday.",
+      "translation": {
+        "text": "第83课——度假。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Where did Sam go for his holiday this year?",
+      "translation": {
+        "text": "萨姆今年去哪里度假了？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Hello, Sam.",
+      "translation": {
+        "text": "你好，萨姆。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Come in.",
+      "translation": {
+        "text": "进来吧。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Hi, Sam.",
+      "translation": {
+        "text": "你好，萨姆。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "We're having lunch.",
+      "translation": {
+        "text": "我们正在吃午饭。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Do you want to have lunch with us?",
+      "translation": {
+        "text": "你想和我们一起吃午饭吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "No, thank you, Tom.",
+      "translation": {
+        "text": "不了，谢谢，汤姆。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I've already had lunch.",
+      "translation": {
+        "text": "我已经吃过午饭了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I had lunch at half past twelve.",
+      "translation": {
+        "text": "我十二点半吃的午饭。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Have a cup of coffee, then?",
+      "translation": {
+        "text": "那喝杯咖啡吧？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I've just had a cup, thank you.",
+      "translation": {
+        "text": "我刚喝过一杯，谢谢。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I had one after my lunch.",
+      "translation": {
+        "text": "午饭后喝的。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Let's go into the living room, Carol.",
+      "translation": {
+        "text": "我们去客厅吧，卡罗尔。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "We can have our coffee there.",
+      "translation": {
+        "text": "我们可以在那里喝咖啡。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Excuse the mess. This room's very untidy.",
+      "translation": {
+        "text": "屋里很乱，请别介意。这房间太不整洁了。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "We're packing our suitcases.",
+      "translation": {
+        "text": "我们正在收拾行李箱。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "We're going to leave tomorrow.",
+      "translation": {
+        "text": "我们明天就要出发。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Tom and I are going to have a holiday.",
+      "translation": {
+        "text": "汤姆和我要去度假。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Aren't you lucky?",
+      "translation": {
+        "text": "你们真幸运，不是吗？"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "When are you going to have a holiday, Sam?",
+      "translation": {
+        "text": "萨姆，你准备什么时候去度假？"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "I don't know.",
+      "translation": {
+        "text": "我不知道。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "I've already had my holiday this year.",
+      "translation": {
+        "text": "我今年已经度过假了。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Where did you go?",
+      "translation": {
+        "text": "你去了哪里？"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "I stayed at home.",
+      "translation": {
+        "text": "我待在家里。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-083-084-going-on-holiday-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1712138,
+        "sha256": "e861008b9a5f4a1672ac0206c9b0c5923669678bdd30277b333dfd9bffb700b7"
+      },
+      "duration": 99.004,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.59,
+          "end": 4.99
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.81,
+          "end": 10.69
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.37,
+          "end": 16.25
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.98,
+          "end": 19.94
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.64,
+          "end": 21.28
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.12,
+          "end": 23.98
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.68,
+          "end": 25.9
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.9,
+          "end": 29.72
+        },
+        {
+          "segmentId": "s009",
+          "start": 30.64,
+          "end": 32.64
+        },
+        {
+          "segmentId": "s010",
+          "start": 33.26,
+          "end": 35.1
+        },
+        {
+          "segmentId": "s011",
+          "start": 35.96,
+          "end": 38.94
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.02,
+          "end": 42.14
+        },
+        {
+          "segmentId": "s013",
+          "start": 42.86,
+          "end": 45.68
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.2,
+          "end": 48.54
+        },
+        {
+          "segmentId": "s015",
+          "start": 49.92,
+          "end": 52.74
+        },
+        {
+          "segmentId": "s016",
+          "start": 53.64,
+          "end": 55.98
+        },
+        {
+          "segmentId": "s017",
+          "start": 57.12,
+          "end": 62.62
+        },
+        {
+          "segmentId": "s018",
+          "start": 63.48,
+          "end": 65.52
+        },
+        {
+          "segmentId": "s019",
+          "start": 66.6,
+          "end": 68.72
+        },
+        {
+          "segmentId": "s020",
+          "start": 69.96,
+          "end": 73.14
+        },
+        {
+          "segmentId": "s021",
+          "start": 74.38,
+          "end": 75.64
+        },
+        {
+          "segmentId": "s022",
+          "start": 77.48,
+          "end": 80.78
+        },
+        {
+          "segmentId": "s023",
+          "start": 80.78,
+          "end": 82.8
+        },
+        {
+          "segmentId": "s024",
+          "start": 83.44,
+          "end": 86.82
+        },
+        {
+          "segmentId": "s025",
+          "start": 88.06,
+          "end": 89.46
+        },
+        {
+          "segmentId": "s026",
+          "start": 90.18,
+          "end": 91.68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-095-a-fantasy",
+    "kind": "textbook",
+    "title": "Lesson 95: A Fantasy",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First, listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why was the ambassador particularly lucky?",
+      "translation": {
+        "text": "这位大使为什么格外幸运？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "When the ambassador of Escalopia returned home for lunch, his wife got a shock.",
+      "translation": {
+        "text": "埃斯卡洛皮亚大使回家吃午饭时，他的妻子吓了一跳。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "He looked pale, and his clothes were in a frightful state.",
+      "translation": {
+        "text": "他脸色苍白，衣服也狼狈不堪。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What has happened?",
+      "translation": {
+        "text": "“发生什么事了？”"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "she asked.",
+      "translation": {
+        "text": "她问道。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "How did your clothes get into such a mess?",
+      "translation": {
+        "text": "“你的衣服怎么弄得这么乱？”"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A fire extinguisher, my dear, answered the ambassador dryly.",
+      "translation": {
+        "text": "“灭火器，亲爱的。”大使冷冷地回答。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "University students set the embassy on fire this morning.",
+      "translation": {
+        "text": "“大学生今天上午放火烧了大使馆。”"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Good heavens!",
+      "translation": {
+        "text": "“天哪！”"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "exclaimed his wife.",
+      "translation": {
+        "text": "妻子惊呼道。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "And where were you at the time?",
+      "translation": {
+        "text": "“当时你在哪里？”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I was in my office as usual, answered the ambassador.",
+      "translation": {
+        "text": "“我像往常一样在办公室里。”大使回答。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The fire broke out in the basement.",
+      "translation": {
+        "text": "“火是从地下室烧起来的。”"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me.",
+      "translation": {
+        "text": "“我当然立刻下楼，那个叫霍斯特的傻瓜却拿灭火器对准了我。”"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He thought I was on fire.",
+      "translation": {
+        "text": "“他以为我身上着火了。”"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I must definitely get that fellow posted.",
+      "translation": {
+        "text": "“我一定得把那家伙调走。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The ambassador's wife went on asking questions when she suddenly noticed a big hole in her husband's hat.",
+      "translation": {
+        "text": "大使夫人继续追问，突然发现丈夫的帽子上有一个大洞。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "And how can you explain that?",
+      "translation": {
+        "text": "“那这个你又怎么解释？”"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "she asked.",
+      "translation": {
+        "text": "她问道。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Oh, that, said the ambassador.",
+      "translation": {
+        "text": "“哦，那个啊，”大使说。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Someone fired a shot through my office window.",
+      "translation": {
+        "text": "“有人朝我的办公室窗户开了一枪。”"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Accurate, don't you think?",
+      "translation": {
+        "text": "“枪法很准，你不觉得吗？”"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Fortunately, I wasn't wearing it at the time.",
+      "translation": {
+        "text": "“幸运的是，当时我没戴这顶帽子。”"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "If I had been, I would not have been able to get home for lunch.",
+      "translation": {
+        "text": "“如果戴着，我就没法回家吃午饭了。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-095-a-fantasy-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2083617,
+        "sha256": "772b53d4471412cdbee65fe2ee7fa9cc8ea6a7a9357b2c24063085a439e4862f"
+      },
+      "duration": 120.921,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 2.43,
+          "end": 8.13
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.71,
+          "end": 12.77
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.92,
+          "end": 21.76
+        },
+        {
+          "segmentId": "s004",
+          "start": 23.06,
+          "end": 27.48
+        },
+        {
+          "segmentId": "s005",
+          "start": 28.5,
+          "end": 30.34
+        },
+        {
+          "segmentId": "s006",
+          "start": 30.94,
+          "end": 31.78
+        },
+        {
+          "segmentId": "s007",
+          "start": 32.7,
+          "end": 36
+        },
+        {
+          "segmentId": "s008",
+          "start": 37.66,
+          "end": 42.88
+        },
+        {
+          "segmentId": "s009",
+          "start": 43.9,
+          "end": 47.4
+        },
+        {
+          "segmentId": "s010",
+          "start": 48.56,
+          "end": 49.92
+        },
+        {
+          "segmentId": "s011",
+          "start": 50.8,
+          "end": 51.86
+        },
+        {
+          "segmentId": "s012",
+          "start": 52.94,
+          "end": 55.22
+        },
+        {
+          "segmentId": "s013",
+          "start": 56.46,
+          "end": 60.54
+        },
+        {
+          "segmentId": "s014",
+          "start": 61.4,
+          "end": 63.44
+        },
+        {
+          "segmentId": "s015",
+          "start": 64.38,
+          "end": 72.12
+        },
+        {
+          "segmentId": "s016",
+          "start": 72.72,
+          "end": 74.58
+        },
+        {
+          "segmentId": "s017",
+          "start": 75.52,
+          "end": 78.74
+        },
+        {
+          "segmentId": "s018",
+          "start": 79.7,
+          "end": 88.82
+        },
+        {
+          "segmentId": "s019",
+          "start": 90.16,
+          "end": 92.66
+        },
+        {
+          "segmentId": "s020",
+          "start": 93.42,
+          "end": 94.12
+        },
+        {
+          "segmentId": "s021",
+          "start": 94.86,
+          "end": 97.54
+        },
+        {
+          "segmentId": "s022",
+          "start": 98.7,
+          "end": 101.58
+        },
+        {
+          "segmentId": "s023",
+          "start": 102.76,
+          "end": 103.96
+        },
+        {
+          "segmentId": "s024",
+          "start": 104.98,
+          "end": 108.64
+        },
+        {
+          "segmentId": "s025",
+          "start": 109.34,
+          "end": 114.38
+        }
+      ]
+    }
+  ]
+}

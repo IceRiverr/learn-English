@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-026-the-best-art-critics",
+    "kind": "textbook",
+    "title": "Lesson 26: The Best Art Critics",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 26.",
+      "translation": {
+        "text": "第26课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Best Art Critics.",
+      "translation": {
+        "text": "最佳艺术评论家。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who is the student's best critic?",
+      "translation": {
+        "text": "谁是这位学生最好的评论家？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I am an art student, and I paint a lot of pictures.",
+      "translation": {
+        "text": "我是一名学艺术的学生，画了许多画。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Many people pretend that they understand modern art.",
+      "translation": {
+        "text": "许多人装成很懂现代艺术的样子。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "They always tell you what a picture is about.",
+      "translation": {
+        "text": "他们总要告诉你一幅画表现的是什么。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Of course, many pictures are not about anything.",
+      "translation": {
+        "text": "当然，许多画其实什么也不表现。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "They are just pretty patterns.",
+      "translation": {
+        "text": "它们只是一些好看的图案。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We like them in the same way that we like pretty curtain material.",
+      "translation": {
+        "text": "我们喜欢它们，就像喜欢漂亮的窗帘布一样。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I think that young children often appreciate modern pictures better than anyone else.",
+      "translation": {
+        "text": "我认为小孩子往往比任何人都更能欣赏现代绘画。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "They notice more.",
+      "translation": {
+        "text": "他们观察到的东西更多。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "translation": {
+        "text": "我妹妹只有7岁，但她总能说出我的画是好还是不好。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She came into my room yesterday.",
+      "translation": {
+        "text": "昨天她走进我的房间。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "What are you doing?",
+      "translation": {
+        "text": "“你在做什么？”"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "She asked.",
+      "translation": {
+        "text": "她问。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'm hanging this picture on the wall.",
+      "translation": {
+        "text": "“我正把这幅画挂到墙上。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I answered, it's a new one.",
+      "translation": {
+        "text": "我回答，“这是幅新画。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Do you like it?",
+      "translation": {
+        "text": "你喜欢吗？”"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "She looked at it critically for a moment.",
+      "translation": {
+        "text": "她挑剔地看了一会儿。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "It's all right, she said, but isn't it upside down?",
+      "translation": {
+        "text": "“还可以，”她说，“不过它不是挂倒了吗？”"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I looked at it again.",
+      "translation": {
+        "text": "我又看了看。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "She was right.",
+      "translation": {
+        "text": "她说得对。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "It was.",
+      "translation": {
+        "text": "它的确挂倒了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-026-the-best-art-critics-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1748017,
+        "sha256": "4f4b30da7cc9f7f5469d8bb8550994475e9590074acd02fbac948bcf06fc2b1e"
+      },
+      "duration": 99.945,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 2
+        },
+        {
+          "segmentId": "s002",
+          "start": 3,
+          "end": 4.82
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.5,
+          "end": 9.78
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.06,
+          "end": 13.76
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.98,
+          "end": 20.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.6,
+          "end": 25.52
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.24,
+          "end": 29.6
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.36,
+          "end": 34.7
+        },
+        {
+          "segmentId": "s009",
+          "start": 35.26,
+          "end": 37.04
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.92,
+          "end": 42.7
+        },
+        {
+          "segmentId": "s011",
+          "start": 44.18,
+          "end": 51.2
+        },
+        {
+          "segmentId": "s012",
+          "start": 51.98,
+          "end": 53.14
+        },
+        {
+          "segmentId": "s013",
+          "start": 54.06,
+          "end": 61.44
+        },
+        {
+          "segmentId": "s014",
+          "start": 62.68,
+          "end": 64.72
+        },
+        {
+          "segmentId": "s015",
+          "start": 65.72,
+          "end": 67
+        },
+        {
+          "segmentId": "s016",
+          "start": 67.66,
+          "end": 68.36
+        },
+        {
+          "segmentId": "s017",
+          "start": 69.3,
+          "end": 71.92
+        },
+        {
+          "segmentId": "s018",
+          "start": 72.58,
+          "end": 74.9
+        },
+        {
+          "segmentId": "s019",
+          "start": 75.5,
+          "end": 76.46
+        },
+        {
+          "segmentId": "s020",
+          "start": 77.42,
+          "end": 80.1
+        },
+        {
+          "segmentId": "s021",
+          "start": 81.02,
+          "end": 85.74
+        },
+        {
+          "segmentId": "s022",
+          "start": 86.72,
+          "end": 88.34
+        },
+        {
+          "segmentId": "s023",
+          "start": 89.04,
+          "end": 89.98
+        },
+        {
+          "segmentId": "s024",
+          "start": 90.68,
+          "end": 91.48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "schemaVersion": 1,
+  "id": "new-concept-english-book-3",
+  "kind": "course",
+  "title": "新概念英语第三册",
+  "subtitle": "Developing Skills",
+  "lessons": [
+    {
+      "id": "nce3-001-a-puma-at-large",
+      "kind": "textbook",
+      "title": "Lesson 1: A Puma at Large",
+      "duration": 129.933,
+      "byteLength": 2226984,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-001-a-puma-at-large.json"
+    },
+    {
+      "id": "nce3-002-thirteen-equals-one",
+      "kind": "textbook",
+      "title": "Lesson 2: Thirteen Equals One",
+      "duration": 122.384,
+      "byteLength": 2106205,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-002-thirteen-equals-one.json"
+    },
+    {
+      "id": "nce3-003-an-unknown-goddess",
+      "kind": "textbook",
+      "title": "Lesson 3: An Unknown Goddess",
+      "duration": 136.542,
+      "byteLength": 2332736,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-003-an-unknown-goddess.json"
+    },
+    {
+      "id": "nce3-004-the-double-life-of-alfred-bloggs",
+      "kind": "textbook",
+      "title": "Lesson 4: The Double Life of Alfred Bloggs",
+      "duration": 132.049,
+      "byteLength": 2260885,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-004-the-double-life-of-alfred-bloggs.json"
+    },
+    {
+      "id": "nce3-005-the-facts",
+      "kind": "textbook",
+      "title": "Lesson 5: The Facts",
+      "duration": 131.004,
+      "byteLength": 2244102,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-005-the-facts.json"
+    },
+    {
+      "id": "nce3-006-smash-and-grab",
+      "kind": "textbook",
+      "title": "Lesson 6: Smash-and-Grab",
+      "duration": 131.866,
+      "byteLength": 2257909,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-006-smash-and-grab.json"
+    },
+    {
+      "id": "nce3-007-mutilated-ladies",
+      "kind": "textbook",
+      "title": "Lesson 7: Mutilated Ladies",
+      "duration": 129.829,
+      "byteLength": 2225315,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-007-mutilated-ladies.json"
+    },
+    {
+      "id": "nce3-008-a-famous-monastery",
+      "kind": "textbook",
+      "title": "Lesson 8: A Famous Monastery",
+      "duration": 136.699,
+      "byteLength": 2335244,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-008-a-famous-monastery.json"
+    },
+    {
+      "id": "nce3-009-flying-cats",
+      "kind": "textbook",
+      "title": "Lesson 9: Flying Cats",
+      "duration": 146.129,
+      "byteLength": 2486106,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-009-flying-cats.json"
+    },
+    {
+      "id": "nce3-010-the-loss-of-the-titanic",
+      "kind": "textbook",
+      "title": "Lesson 10: The Loss of the Titanic",
+      "duration": 150.1,
+      "byteLength": 2549674,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-010-the-loss-of-the-titanic.json"
+    },
+    {
+      "id": "nce3-011-not-guilty",
+      "kind": "textbook",
+      "title": "Lesson 11: Not Guilty",
+      "duration": 143.935,
+      "byteLength": 2450997,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-011-not-guilty.json"
+    },
+    {
+      "id": "nce3-012-life-on-a-desert-island",
+      "kind": "textbook",
+      "title": "Lesson 12: Life on a Desert Island",
+      "duration": 130.665,
+      "byteLength": 2238712,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-012-life-on-a-desert-island.json"
+    },
+    {
+      "id": "nce3-013-it-s-only-me",
+      "kind": "textbook",
+      "title": "Lesson 13: It's Only Me",
+      "duration": 123.899,
+      "byteLength": 2130428,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-013-it-s-only-me.json"
+    },
+    {
+      "id": "nce3-014-a-noble-gangster",
+      "kind": "textbook",
+      "title": "Lesson 14: A Noble Gangster",
+      "duration": 132.624,
+      "byteLength": 2270038,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-014-a-noble-gangster.json"
+    },
+    {
+      "id": "nce3-015-fifty-pence-worth-of-trouble",
+      "kind": "textbook",
+      "title": "Lesson 15: Fifty Pence Worth of Trouble",
+      "duration": 139.102,
+      "byteLength": 2373728,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-015-fifty-pence-worth-of-trouble.json"
+    },
+    {
+      "id": "nce3-016-mary-had-a-little-lamb",
+      "kind": "textbook",
+      "title": "Lesson 16: Mary Had a Little Lamb",
+      "duration": 137.482,
+      "byteLength": 2347797,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-016-mary-had-a-little-lamb.json"
+    },
+    {
+      "id": "nce3-017-the-longest-suspension-bridge-in-the-world",
+      "kind": "textbook",
+      "title": "Lesson 17: The Longest Suspension Bridge in the World",
+      "duration": 154.802,
+      "byteLength": 2624938,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-017-the-longest-suspension-bridge-in-the-world.json"
+    },
+    {
+      "id": "nce3-018-electric-currents-in-modern-art",
+      "kind": "textbook",
+      "title": "Lesson 18: Electric Currents in Modern Art",
+      "duration": 140.173,
+      "byteLength": 2390872,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-018-electric-currents-in-modern-art.json"
+    },
+    {
+      "id": "nce3-019-a-very-dear-cat",
+      "kind": "textbook",
+      "title": "Lesson 19: A Very Dear Cat",
+      "duration": 143.882,
+      "byteLength": 2450176,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-019-a-very-dear-cat.json"
+    },
+    {
+      "id": "nce3-020-pioneer-pilots",
+      "kind": "textbook",
+      "title": "Lesson 20: Pioneer Pilots",
+      "duration": 141.636,
+      "byteLength": 2414228,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-020-pioneer-pilots.json"
+    },
+    {
+      "id": "nce3-021-daniel-mendoza",
+      "kind": "textbook",
+      "title": "Lesson 21: Daniel Mendoza",
+      "duration": 184.242,
+      "byteLength": 3095920,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-021-daniel-mendoza.json"
+    },
+    {
+      "id": "nce3-022-by-heart",
+      "kind": "textbook",
+      "title": "Lesson 22: By Heart",
+      "duration": 174.602,
+      "byteLength": 2941675,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-022-by-heart.json"
+    },
+    {
+      "id": "nce3-023-one-man-s-meat-is-another-man-s-poison",
+      "kind": "textbook",
+      "title": "Lesson 23: One Man's Meat is Another Man's Poison",
+      "duration": 178.26,
+      "byteLength": 3000263,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-023-one-man-s-meat-is-another-man-s-poison.json"
+    },
+    {
+      "id": "nce3-024-a-skeleton-in-the-cupboard",
+      "kind": "textbook",
+      "title": "Lesson 24: A Skeleton in the Cupboard",
+      "duration": 166.505,
+      "byteLength": 2812161,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-024-a-skeleton-in-the-cupboard.json"
+    },
+    {
+      "id": "nce3-025-the-cutty-sark",
+      "kind": "textbook",
+      "title": "Lesson 25: The Cutty Sark",
+      "duration": 180.689,
+      "byteLength": 3039077,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-025-the-cutty-sark.json"
+    },
+    {
+      "id": "nce3-026-wanted-a-large-biscuit-tin",
+      "kind": "textbook",
+      "title": "Lesson 26: Wanted a Large Biscuit Tin",
+      "duration": 190.171,
+      "byteLength": 3190835,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-026-wanted-a-large-biscuit-tin.json"
+    },
+    {
+      "id": "nce3-027-nothing-to-sell-and-nothing-to-buy",
+      "kind": "textbook",
+      "title": "Lesson 27: Nothing to Sell and Nothing to Buy",
+      "duration": 171.442,
+      "byteLength": 2891172,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-027-nothing-to-sell-and-nothing-to-buy.json"
+    },
+    {
+      "id": "nce3-028-five-pounds-too-dear",
+      "kind": "textbook",
+      "title": "Lesson 28: Five Pounds Too Dear",
+      "duration": 184.816,
+      "byteLength": 3105133,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-028-five-pounds-too-dear.json"
+    },
+    {
+      "id": "nce3-029-funny-or-not",
+      "kind": "textbook",
+      "title": "Lesson 29: Funny or Not",
+      "duration": 181.786,
+      "byteLength": 3056628,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-029-funny-or-not.json"
+    },
+    {
+      "id": "nce3-030-the-death-of-a-ghost",
+      "kind": "textbook",
+      "title": "Lesson 30: The Death of a Ghost",
+      "duration": 171.677,
+      "byteLength": 2894899,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-030-the-death-of-a-ghost.json"
+    },
+    {
+      "id": "nce3-031-a-lovable-eccentric",
+      "kind": "textbook",
+      "title": "Lesson 31: A Lovable Eccentric",
+      "duration": 184.895,
+      "byteLength": 3106384,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-031-a-lovable-eccentric.json"
+    },
+    {
+      "id": "nce3-032-a-lost-ship",
+      "kind": "textbook",
+      "title": "Lesson 32: A Lost Ship",
+      "duration": 161.646,
+      "byteLength": 2734376,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-032-a-lost-ship.json"
+    },
+    {
+      "id": "nce3-033-a-day-to-remember",
+      "kind": "textbook",
+      "title": "Lesson 33: A Day to Remember",
+      "duration": 181.708,
+      "byteLength": 3055387,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-033-a-day-to-remember.json"
+    },
+    {
+      "id": "nce3-034-a-happy-discovery",
+      "kind": "textbook",
+      "title": "Lesson 34: A Happy Discovery",
+      "duration": 190.093,
+      "byteLength": 3189552,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-034-a-happy-discovery.json"
+    },
+    {
+      "id": "nce3-035-justice-was-done",
+      "kind": "textbook",
+      "title": "Lesson 35: Justice was Done",
+      "duration": 187.481,
+      "byteLength": 3147753,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-035-justice-was-done.json"
+    },
+    {
+      "id": "nce3-036-a-chance-in-a-million",
+      "kind": "textbook",
+      "title": "Lesson 36: A Chance in a Million",
+      "duration": 188.003,
+      "byteLength": 3156127,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-036-a-chance-in-a-million.json"
+    },
+    {
+      "id": "nce3-037-the-westhaven-express",
+      "kind": "textbook",
+      "title": "Lesson 37: The Westhaven Express",
+      "duration": 180.01,
+      "byteLength": 3028231,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-037-the-westhaven-express.json"
+    },
+    {
+      "id": "nce3-038-the-first-calendar",
+      "kind": "textbook",
+      "title": "Lesson 38: The First Calendar",
+      "duration": 187.925,
+      "byteLength": 3154864,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-038-the-first-calendar.json"
+    },
+    {
+      "id": "nce3-039-nothing-to-worry-about",
+      "kind": "textbook",
+      "title": "Lesson 39: Nothing to Worry About",
+      "duration": 190.067,
+      "byteLength": 3189149,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-039-nothing-to-worry-about.json"
+    },
+    {
+      "id": "nce3-040-who-s-who",
+      "kind": "textbook",
+      "title": "Lesson 40: Who's Who",
+      "duration": 179.644,
+      "byteLength": 3022344,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-040-who-s-who.json"
+    },
+    {
+      "id": "nce3-041-illusions-of-pastoral-peace",
+      "kind": "textbook",
+      "title": "Lesson 41: Illusions of Pastoral Peace",
+      "duration": 267.99,
+      "byteLength": 4435936,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-041-illusions-of-pastoral-peace.json"
+    },
+    {
+      "id": "nce3-042-modern-cavemen",
+      "kind": "textbook",
+      "title": "Lesson 42: Modern Cavemen",
+      "duration": 268.669,
+      "byteLength": 4446764,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-042-modern-cavemen.json"
+    },
+    {
+      "id": "nce3-043-fully-insured",
+      "kind": "textbook",
+      "title": "Lesson 43: Fully Insured",
+      "duration": 258.194,
+      "byteLength": 4279159,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-043-fully-insured.json"
+    },
+    {
+      "id": "nce3-044-speed-and-comfort",
+      "kind": "textbook",
+      "title": "Lesson 44: Speed and Comfort",
+      "duration": 256.94,
+      "byteLength": 4259109,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-044-speed-and-comfort.json"
+    },
+    {
+      "id": "nce3-045-the-power-of-the-press",
+      "kind": "textbook",
+      "title": "Lesson 45: The Power of the Press",
+      "duration": 231.967,
+      "byteLength": 3859555,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-045-the-power-of-the-press.json"
+    },
+    {
+      "id": "nce3-046-do-it-yourself",
+      "kind": "textbook",
+      "title": "Lesson 46: Do It Yourself",
+      "duration": 263.497,
+      "byteLength": 4364008,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-046-do-it-yourself.json"
+    },
+    {
+      "id": "nce3-047-too-high-a-price",
+      "kind": "textbook",
+      "title": "Lesson 47: Too High a Price",
+      "duration": 265.561,
+      "byteLength": 4397036,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-047-too-high-a-price.json"
+    },
+    {
+      "id": "nce3-048-the-silent-village",
+      "kind": "textbook",
+      "title": "Lesson 48: The Silent Village",
+      "duration": 259.239,
+      "byteLength": 4295892,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-048-the-silent-village.json"
+    },
+    {
+      "id": "nce3-049-the-ideal-servant",
+      "kind": "textbook",
+      "title": "Lesson 49: The Ideal Servant",
+      "duration": 264.385,
+      "byteLength": 4378227,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-049-the-ideal-servant.json"
+    },
+    {
+      "id": "nce3-050-new-year-resolutions",
+      "kind": "textbook",
+      "title": "Lesson 50: New Year Resolutions",
+      "duration": 258.978,
+      "byteLength": 4291719,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-050-new-year-resolutions.json"
+    },
+    {
+      "id": "nce3-051-predicting-the-future",
+      "kind": "textbook",
+      "title": "Lesson 51: Predicting the Future",
+      "duration": 258.482,
+      "byteLength": 4283781,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-051-predicting-the-future.json"
+    },
+    {
+      "id": "nce3-052-mud-is-mud",
+      "kind": "textbook",
+      "title": "Lesson 52: Mud is Mud",
+      "duration": 249.6,
+      "byteLength": 4141642,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-052-mud-is-mud.json"
+    },
+    {
+      "id": "nce3-053-in-the-public-interest",
+      "kind": "textbook",
+      "title": "Lesson 53: In the Public Interest",
+      "duration": 245.211,
+      "byteLength": 4071460,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-053-in-the-public-interest.json"
+    },
+    {
+      "id": "nce3-054-instinct-or-cleverness",
+      "kind": "textbook",
+      "title": "Lesson 54: Instinct or Cleverness",
+      "duration": 256.81,
+      "byteLength": 4257037,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-054-instinct-or-cleverness.json"
+    },
+    {
+      "id": "nce3-055-from-the-earth-greetings",
+      "kind": "textbook",
+      "title": "Lesson 55: From the Earth Greetings",
+      "duration": 242.599,
+      "byteLength": 4029673,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-055-from-the-earth-greetings.json"
+    },
+    {
+      "id": "nce3-056-our-neighbour-the-river",
+      "kind": "textbook",
+      "title": "Lesson 56: Our Neighbour, the River",
+      "duration": 222.433,
+      "byteLength": 3707006,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-056-our-neighbour-the-river.json"
+    },
+    {
+      "id": "nce3-057-back-in-the-old-country",
+      "kind": "textbook",
+      "title": "Lesson 57: Back in the Old Country",
+      "duration": 228.206,
+      "byteLength": 3799372,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-057-back-in-the-old-country.json"
+    },
+    {
+      "id": "nce3-058-a-spot-of-bother",
+      "kind": "textbook",
+      "title": "Lesson 58: A Spot of Bother",
+      "duration": 232.568,
+      "byteLength": 3869150,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-058-a-spot-of-bother.json"
+    },
+    {
+      "id": "nce3-059-collecting",
+      "kind": "textbook",
+      "title": "Lesson 59: Collecting",
+      "duration": 247.902,
+      "byteLength": 4114474,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-059-collecting.json"
+    },
+    {
+      "id": "nce3-060-too-early-and-too-late",
+      "kind": "textbook",
+      "title": "Lesson 60: Too Early and Too Late",
+      "duration": 276.689,
+      "byteLength": 4575101,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-3/nce3-060-too-early-and-too-late.json"
+    }
+  ]
+}

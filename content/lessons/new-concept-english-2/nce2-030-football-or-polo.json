@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-030-football-or-polo",
+    "kind": "textbook",
+    "title": "Lesson 30: Football or Polo",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 30.",
+      "translation": {
+        "text": "第30课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Football or Polo.",
+      "translation": {
+        "text": "足球还是水球？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What happened to the man in the boat?",
+      "translation": {
+        "text": "船上的人发生了什么事？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The River Wey is a small river that cuts across the park near my home.",
+      "translation": {
+        "text": "威尔河是一条横穿我家附近公园的小河。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I like sitting by the River Wey on fine afternoons.",
+      "translation": {
+        "text": "天气晴朗的下午，我喜欢坐在威尔河边。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It was warm last Sunday, so I went and sat on the riverbank as usual.",
+      "translation": {
+        "text": "上星期日天气很暖和，所以我像往常一样到河岸边坐下。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Some children were playing games on the bank, and there were some people rowing on the river.",
+      "translation": {
+        "text": "一些孩子在岸上玩耍，还有一些人在河上划船。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Suddenly, one of the children kicked a ball very hard, and it went towards a passing boat.",
+      "translation": {
+        "text": "突然，一个孩子用力踢出一只球，球朝一艘驶过的小船飞去。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Some people on the bank called out to the man in the boat, but he did not hear them.",
+      "translation": {
+        "text": "岸上的一些人向船上的人高喊，但他没有听见。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The ball struck him so hard that he nearly fell into the water.",
+      "translation": {
+        "text": "球重重地打在他身上，他差点掉进水里。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I turned to look at the children, but there weren't any in sight.",
+      "translation": {
+        "text": "我转身去看那些孩子，却一个也看不见了。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "They had all run away.",
+      "translation": {
+        "text": "他们全都跑掉了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The man laughed when he realized what had happened.",
+      "translation": {
+        "text": "那人明白发生了什么事后笑了起来。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He called out to the children and threw the ball back to the bank.",
+      "translation": {
+        "text": "他向孩子们高喊，并把球扔回岸上。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-030-football-or-polo-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1509775,
+        "sha256": "b878e8eaad5c715ca68fb0b9371a0f0f7b3cc7d976e0f89420d12562da251f1d"
+      },
+      "duration": 85.055,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.47
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.99,
+          "end": 4.17
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.61,
+          "end": 8.67
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.09,
+          "end": 12.55
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.85,
+          "end": 18.93
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.07,
+          "end": 23.69
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.69,
+          "end": 31.09
+        },
+        {
+          "segmentId": "s008",
+          "start": 32.29,
+          "end": 38.51
+        },
+        {
+          "segmentId": "s009",
+          "start": 39.53,
+          "end": 46.87
+        },
+        {
+          "segmentId": "s010",
+          "start": 47.63,
+          "end": 54.75
+        },
+        {
+          "segmentId": "s011",
+          "start": 55.51,
+          "end": 61.07
+        },
+        {
+          "segmentId": "s012",
+          "start": 62.31,
+          "end": 66.93
+        },
+        {
+          "segmentId": "s013",
+          "start": 67.43,
+          "end": 69.33
+        },
+        {
+          "segmentId": "s014",
+          "start": 70.19,
+          "end": 73.85
+        },
+        {
+          "segmentId": "s015",
+          "start": 73.85,
+          "end": 79.11
+        }
+      ]
+    }
+  ]
+}

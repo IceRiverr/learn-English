@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-049-050-at-the-butcher-s",
+    "kind": "textbook",
+    "title": "Lesson 49: At the butcher's",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 49.",
+      "translation": {
+        "text": "第49课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "At the Butcher's.",
+      "translation": {
+        "text": "在肉店。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What does Mr. Bird",
+      "translation": {
+        "text": "伯德先生"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "like?",
+      "translation": {
+        "text": "喜欢什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Do you want any meat today, Mrs.",
+      "translation": {
+        "text": "今天要买肉吗，伯德"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Bird?",
+      "translation": {
+        "text": "太太？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "要的，谢谢。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Do you want beef or lamb?",
+      "translation": {
+        "text": "您要牛肉还是羊肉？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Beef, please.",
+      "translation": {
+        "text": "请给我牛肉。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "This lamb's very good.",
+      "translation": {
+        "text": "这羊肉很好。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I like lamb, but my husband doesn't.",
+      "translation": {
+        "text": "我喜欢羊肉，但我丈夫不喜欢。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "What about some steak?",
+      "translation": {
+        "text": "来点牛排怎么样？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This is a nice piece.",
+      "translation": {
+        "text": "这块很好。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Give me that piece, please.",
+      "translation": {
+        "text": "请把那块给我。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "And a pound of mince, too.",
+      "translation": {
+        "text": "再来一磅肉馅。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Do you want a chicken, Mrs. Bird?",
+      "translation": {
+        "text": "伯德太太，您要只鸡吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "They're very nice.",
+      "translation": {
+        "text": "这些鸡都很好。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "No, thank you.",
+      "translation": {
+        "text": "不了，谢谢。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "My husband likes steak, but he doesn't like chicken.",
+      "translation": {
+        "text": "我丈夫喜欢牛排，但他不喜欢鸡肉。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "To tell you the truth, Mrs.",
+      "translation": {
+        "text": "说实话，伯德太太，"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I don't like chicken either.",
+      "translation": {
+        "text": "我也不喜欢鸡肉。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-049-050-at-the-butcher-s-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1445675,
+        "sha256": "6d51d5edeef655e69bea2cef2dc72b3d8b087d0df56721f8b1871ad9ca7ab026"
+      },
+      "duration": 82.312,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 2.02
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.94,
+          "end": 5.6
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.6,
+          "end": 9.82
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.58,
+          "end": 12.8
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.2,
+          "end": 13.74
+        },
+        {
+          "segmentId": "s006",
+          "start": 15.72,
+          "end": 18.82
+        },
+        {
+          "segmentId": "s007",
+          "start": 19.2,
+          "end": 19.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 20.56,
+          "end": 21.56
+        },
+        {
+          "segmentId": "s009",
+          "start": 23.22,
+          "end": 26.06
+        },
+        {
+          "segmentId": "s010",
+          "start": 27.12,
+          "end": 28.04
+        },
+        {
+          "segmentId": "s011",
+          "start": 29.2,
+          "end": 31.9
+        },
+        {
+          "segmentId": "s012",
+          "start": 33.6,
+          "end": 37.44
+        },
+        {
+          "segmentId": "s013",
+          "start": 38.6,
+          "end": 40.42
+        },
+        {
+          "segmentId": "s014",
+          "start": 41.56,
+          "end": 43.66
+        },
+        {
+          "segmentId": "s015",
+          "start": 44.9,
+          "end": 47.2
+        },
+        {
+          "segmentId": "s016",
+          "start": 48.38,
+          "end": 51.08
+        },
+        {
+          "segmentId": "s017",
+          "start": 52.9,
+          "end": 55.8
+        },
+        {
+          "segmentId": "s018",
+          "start": 57.28,
+          "end": 59
+        },
+        {
+          "segmentId": "s019",
+          "start": 59.86,
+          "end": 61.08
+        },
+        {
+          "segmentId": "s020",
+          "start": 62.26,
+          "end": 66.96
+        },
+        {
+          "segmentId": "s021",
+          "start": 68.68,
+          "end": 71.38
+        },
+        {
+          "segmentId": "s022",
+          "start": 72.74,
+          "end": 75.5
+        }
+      ]
+    }
+  ]
+}

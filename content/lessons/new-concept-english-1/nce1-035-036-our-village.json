@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-035-036-our-village",
+    "kind": "textbook",
+    "title": "Lesson 35: Our village",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 35.",
+      "translation": {
+        "text": "第35课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Our Village.",
+      "translation": {
+        "text": "我们的村庄。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Are the children coming out of the park or going into it?",
+      "translation": {
+        "text": "孩子们是在走出公园，还是走进公园？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "This is a photograph of our village.",
+      "translation": {
+        "text": "这是我们村庄的一张照片。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Our village is in a valley.",
+      "translation": {
+        "text": "我们的村庄坐落在一个山谷中。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It is between two hills.",
+      "translation": {
+        "text": "它位于两座小山之间。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The village is on a river.",
+      "translation": {
+        "text": "村庄坐落在一条河边。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Here is another photograph of the village.",
+      "translation": {
+        "text": "这是村庄的另一张照片。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "My wife and I are walking along the banks of the river.",
+      "translation": {
+        "text": "我和妻子正沿着河岸散步。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "We are on the left.",
+      "translation": {
+        "text": "我们在左边。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There is a boy in the water.",
+      "translation": {
+        "text": "水里有个男孩。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He is swimming across the river.",
+      "translation": {
+        "text": "他正游过这条河。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Here is another photograph.",
+      "translation": {
+        "text": "这是另一张照片。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "This is the school building.",
+      "translation": {
+        "text": "这是学校大楼。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It is beside a park.",
+      "translation": {
+        "text": "它在一座公园旁边。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The park is on the right.",
+      "translation": {
+        "text": "公园在右边。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Some children are coming out of the building.",
+      "translation": {
+        "text": "一些孩子正从大楼里出来。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Some of them are going into the park.",
+      "translation": {
+        "text": "他们中的一些人正走进公园。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-035-036-our-village-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1502794,
+        "sha256": "88df9725f0b8fb0dbd49488eed0ad1803ad8e46148e73fd6c89f464bba56f17d"
+      },
+      "duration": 85.891,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 2.07
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.17,
+          "end": 4.23
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.31,
+          "end": 10.15
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.81,
+          "end": 16.99
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.81,
+          "end": 22.39
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.55,
+          "end": 25.91
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.85,
+          "end": 29.19
+        },
+        {
+          "segmentId": "s008",
+          "start": 29.19,
+          "end": 32.55
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.75,
+          "end": 38.59
+        },
+        {
+          "segmentId": "s010",
+          "start": 39.65,
+          "end": 45.19
+        },
+        {
+          "segmentId": "s011",
+          "start": 46.25,
+          "end": 48.27
+        },
+        {
+          "segmentId": "s012",
+          "start": 49.51,
+          "end": 51.91
+        },
+        {
+          "segmentId": "s013",
+          "start": 52.89,
+          "end": 55.73
+        },
+        {
+          "segmentId": "s014",
+          "start": 58.21,
+          "end": 60.39
+        },
+        {
+          "segmentId": "s015",
+          "start": 61.39,
+          "end": 63.75
+        },
+        {
+          "segmentId": "s016",
+          "start": 64.65,
+          "end": 66.91
+        },
+        {
+          "segmentId": "s017",
+          "start": 68.03,
+          "end": 70.33
+        },
+        {
+          "segmentId": "s018",
+          "start": 71.57,
+          "end": 74.99
+        },
+        {
+          "segmentId": "s019",
+          "start": 75.99,
+          "end": 79.25
+        }
+      ]
+    }
+  ]
+}

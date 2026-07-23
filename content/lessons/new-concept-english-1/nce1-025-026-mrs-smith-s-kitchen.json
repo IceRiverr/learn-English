@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-025-026-mrs-smith-s-kitchen",
+    "kind": "textbook",
+    "title": "Lesson 25: Mrs. Smith's kitchen",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 25.",
+      "translation": {
+        "text": "第25课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Mrs.",
+      "translation": {
+        "text": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Smith's Kitchen.",
+      "translation": {
+        "text": "厨房。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What color is the electric cooker?",
+      "translation": {
+        "text": "电灶是什么颜色的？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Mrs.",
+      "translation": {
+        "text": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Smith's is small.",
+      "translation": {
+        "text": "厨房很小。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "There is a refrigerator in the kitchen.",
+      "translation": {
+        "text": "厨房里有一台冰箱。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The refrigerator is white.",
+      "translation": {
+        "text": "冰箱是白色的。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It is on the right.",
+      "translation": {
+        "text": "它在右边。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "There is an electric cooker in the kitchen.",
+      "translation": {
+        "text": "厨房里有一个电灶。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The cooker is blue.",
+      "translation": {
+        "text": "电灶是蓝色的。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It is on the left.",
+      "translation": {
+        "text": "它在左边。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "There is a table in the middle of the room.",
+      "translation": {
+        "text": "房间中央有一张桌子。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There is a bottle on the table.",
+      "translation": {
+        "text": "桌子上有一个瓶子。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The bottle is empty.",
+      "translation": {
+        "text": "瓶子是空的。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "There is a cup on the table too.",
+      "translation": {
+        "text": "桌子上还有一只杯子。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The cup is clean.",
+      "translation": {
+        "text": "杯子很干净。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-025-026-mrs-smith-s-kitchen-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1285972,
+        "sha256": "ce66bfb2ec1d4cdd489d2d22dea445c2055f7e970aea35d87f712d0053274aff"
+      },
+      "duration": 72.307,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.11,
+          "end": 2.09
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.35,
+          "end": 3.65
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.21,
+          "end": 5.13
+        },
+        {
+          "segmentId": "s004",
+          "start": 6.61,
+          "end": 10.89
+        },
+        {
+          "segmentId": "s005",
+          "start": 12.69,
+          "end": 16.05
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.44,
+          "end": 18.78
+        },
+        {
+          "segmentId": "s007",
+          "start": 19.24,
+          "end": 21.52
+        },
+        {
+          "segmentId": "s008",
+          "start": 23.06,
+          "end": 26.68
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.7,
+          "end": 30.02
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.98,
+          "end": 33.46
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.92,
+          "end": 38.58
+        },
+        {
+          "segmentId": "s012",
+          "start": 39.78,
+          "end": 41.5
+        },
+        {
+          "segmentId": "s013",
+          "start": 42.86,
+          "end": 44.7
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.22,
+          "end": 50.08
+        },
+        {
+          "segmentId": "s015",
+          "start": 51.48,
+          "end": 54.2
+        },
+        {
+          "segmentId": "s016",
+          "start": 55.22,
+          "end": 57.44
+        },
+        {
+          "segmentId": "s017",
+          "start": 58.44,
+          "end": 62.44
+        },
+        {
+          "segmentId": "s018",
+          "start": 63.7,
+          "end": 65.74
+        }
+      ]
+    }
+  ]
+}

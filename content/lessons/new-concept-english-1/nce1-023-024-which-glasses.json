@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-023-024-which-glasses",
+    "kind": "textbook",
+    "title": "Lesson 23: Which glasses?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 23.",
+      "translation": {
+        "text": "第23课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Which Glasses.",
+      "translation": {
+        "text": "哪几只杯子？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Which glasses does the man want?",
+      "translation": {
+        "text": "这位男士想要哪几只杯子？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Give me some glasses, please, Jane.",
+      "translation": {
+        "text": "简，请给我几只杯子。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Which glasses?",
+      "translation": {
+        "text": "哪几只？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "These glasses?",
+      "translation": {
+        "text": "这几只吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "No, not those.",
+      "translation": {
+        "text": "不，不是那些。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The ones on the shelf.",
+      "translation": {
+        "text": "架子上的那些。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "These?",
+      "translation": {
+        "text": "这些吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "是的，请给我。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给你。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Thanks.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-023-024-which-glasses-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 838936,
+        "sha256": "9981d5b3505e7deac8a2a066a999e8d5d19bb6740c1b26eb307c057ee16dbacd"
+      },
+      "duration": 44.304,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.08,
+          "end": 1.78
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.08,
+          "end": 4.84
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.76,
+          "end": 10.16
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.9,
+          "end": 14.94
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.9,
+          "end": 20.14
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.2,
+          "end": 22.2
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.44,
+          "end": 24.32
+        },
+        {
+          "segmentId": "s008",
+          "start": 24.32,
+          "end": 27.62
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.54,
+          "end": 30.44
+        },
+        {
+          "segmentId": "s010",
+          "start": 31.68,
+          "end": 31.98
+        },
+        {
+          "segmentId": "s011",
+          "start": 32.84,
+          "end": 34.04
+        },
+        {
+          "segmentId": "s012",
+          "start": 34.96,
+          "end": 36.08
+        },
+        {
+          "segmentId": "s013",
+          "start": 37.02,
+          "end": 37.48
+        }
+      ]
+    }
+  ]
+}

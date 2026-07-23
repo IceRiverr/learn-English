@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-044-patterns-of-culture",
+    "kind": "textbook",
+    "title": "Lesson 44: Patterns of Culture",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 44.",
+      "translation": {
+        "text": "第44课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Patterns of Culture.",
+      "translation": {
+        "text": "文化模式。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What influences us from the moment of birth?",
+      "translation": {
+        "text": "我们从出生那一刻起受到什么影响？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "has not commonly been regarded as a subject of any great moment.",
+      "translation": {
+        "text": "习俗通常不被视为非常重要的研究对象。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The inner workings of our own brains we feel to be uniquely worthy of investigation, but custom, we have a way of thinking, is behavior at its most commonplace.",
+      "translation": {
+        "text": "我们认为自己大脑的内部运作独一无二地值得研究，而习俗在我们的思维方式中只是最寻常的行为。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "As a matter of fact, it is the other way around.",
+      "translation": {
+        "text": "事实恰恰相反。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Traditional custom, taken the world over, is a mass of detailed behavior more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant.",
+      "translation": {
+        "text": "纵观世界，传统习俗汇成大量细致行为，比任何个人无论多么反常所能独自创造的行为都更令人惊奇。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Yet that is a rather trivial aspect of the matter.",
+      "translation": {
+        "text": "但这只是问题较次要的一面。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The fact of first-rate importance is the predominant role that custom plays in experience and in belief, and the very great varieties it may manifest.",
+      "translation": {
+        "text": "最重要的事实，是习俗在经验和信念中占据主导地位，以及它可能呈现的巨大多样性。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "No man ever looks at the world with pristine eyes.",
+      "translation": {
+        "text": "没有人能用完全未经影响的眼睛观察世界。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He sees it edited by a definite set of customs and institutions and ways of thinking.",
+      "translation": {
+        "text": "他看到的世界已经由特定的一套习俗、制度和思维方式编辑过。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Even in his philosophical probings, he cannot go behind these stereotypes.",
+      "translation": {
+        "text": "即使进行哲学探索，他也无法越过这些定型观念。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "His very concepts of the true and the false will still have reference to his particular traditional customs.",
+      "translation": {
+        "text": "他关于真与假的概念仍会参照自己的特定传统习俗。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "John Dewey has said in all seriousness that the part played by custom in shaping the behavior of the individual, as against any way in which he can affect traditional custom, is as the proportion of the total vocabulary of his",
+      "translation": {
+        "text": "约翰·杜威曾郑重指出：习俗塑造个人行为所起的作用，与个人影响传统习俗的作用相比，就像他"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "mother tongue against those words of his own baby talk that are taken up into the vernacular of his family.",
+      "translation": {
+        "text": "母语的全部词汇量，与他咿呀学语中被家庭吸收进日常用语的几个词相比。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "When one seriously studies the social orders that have had the opportunity to develop autonomously, the figure becomes no more than an exact and matter-of-fact observation.",
+      "translation": {
+        "text": "认真研究那些有机会自主发展的社会秩序时，这个比喻只不过是精确而实事求是的观察。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The life history of the individual is first and foremost an accommodation to the patterns and standards traditionally handed down in his community.",
+      "translation": {
+        "text": "个人的一生首先是对其社会传统传下来的模式和标准的适应。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "From the moment of his birth, the customs into which he is born shape his experience and behavior.",
+      "translation": {
+        "text": "从出生那一刻起，他降生其中的习俗便塑造他的经验和行为。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "By the time he can talk, he is the little creature of his culture, and by the time he is grown and able to take part in its activities, its habits are his habits, its beliefs his beliefs, its impossibilities,",
+      "translation": {
+        "text": "会说话时，他已是所属文化造就的小生灵；成年并能参与文化活动时，文化的习惯就是他的习惯，文化的信仰就是他的信仰，文化认为不可能的事，"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "his impossibilities.",
+      "translation": {
+        "text": "也成为他认为不可能的事。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Every child that is born into his group will share them with him.",
+      "translation": {
+        "text": "同一群体中出生的每个孩子都会与他共享这些。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "And no child born into one on the opposite side of the globe can ever achieve the thousandth part.",
+      "translation": {
+        "text": "而出生在地球另一端群体中的孩子，连其中千分之一也无法获得。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "There is no social problem it is more incumbent upon us to understand than this of the role of custom.",
+      "translation": {
+        "text": "没有哪个社会问题比理解习俗的作用更需要我们重视。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Until we are intelligent as to its laws and varieties, the main, complicating facts of human life must remain unintelligible.",
+      "translation": {
+        "text": "在明白习俗的规律和变化以前，人类生活中主要而复杂的事实必然仍不可理解。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "The study of custom can be profitable only after certain preliminary propositions have been accepted, and some of these propositions have been violently opposed.",
+      "translation": {
+        "text": "只有接受一些先决命题后，习俗研究才可能有成果，而其中一些命题一直遭到激烈反对。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "In the first place, any scientific study requires that there be no preferential weighting of one or another of the items in the series it selects for its consideration.",
+      "translation": {
+        "text": "首先，任何科学研究都要求对所选系列中的各项不偏不倚。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "In all the less controversial fields, like the study of cacti or termites or the nature of nebulae, the necessary method of study is to group the relevant material and to take note of all possible variant forms and conditions.",
+      "translation": {
+        "text": "在仙人掌、白蚁或星云性质等争议较少的领域，必要的研究方法是把相关材料分类，并注意所有可能的变异形态和条件。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "In this way, we have learned all that we know of the laws of astronomy, or of the habits of the social insects, let us say.",
+      "translation": {
+        "text": "我们正是以这种方式获得了有关天文学规律或社会性昆虫习性的全部知识。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "It is only in the study of man himself that the major social sciences have substituted the study of one local variation, that of western civilization.",
+      "translation": {
+        "text": "唯独在研究人类自身时，主要社会科学却用一种局部变体——西方文明——取代了全面研究。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "Anthropology was by definition impossible as long as these distinctions between ourselves and the primitive, ourselves and the barbarian, ourselves and the pagan, held sway over people's minds.",
+      "translation": {
+        "text": "只要“我们与原始人、我们与野蛮人、我们与异教徒”的区分仍支配人心，人类学按定义就不可能存在。"
+      }
+    },
+    {
+      "id": "s032",
+      "text": "It was necessary first to arrive at that degree of sophistication where we no longer set our own belief against our neighbor's superstition.",
+      "translation": {
+        "text": "我们必须先成熟到不再把自己的信仰与邻人的迷信对立起来。"
+      }
+    },
+    {
+      "id": "s033",
+      "text": "It was necessary to recognize that these institutions, which are based on the same premises, let us say the supernatural, must be considered together, our own among the rest.",
+      "translation": {
+        "text": "我们必须认识到，建立在相同前提——例如超自然——上的制度必须放在一起考察，我们自己的制度也包括在内。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-044-patterns-of-culture-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 5039727,
+        "sha256": "c63b0d27fbad5145eece08233ec1f31f2bc4da54396b65034fdc282e2bba8de2"
+      },
+      "duration": 305.685,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 1.92
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.84,
+          "end": 3.76
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.1,
+          "end": 7.92
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.06,
+          "end": 12.98
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.88,
+          "end": 19.94
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.74,
+          "end": 32.26
+        },
+        {
+          "segmentId": "s007",
+          "start": 33.28,
+          "end": 36.18
+        },
+        {
+          "segmentId": "s008",
+          "start": 36.86,
+          "end": 49.98
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.66,
+          "end": 54.02
+        },
+        {
+          "segmentId": "s010",
+          "start": 54.58,
+          "end": 65.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.18,
+          "end": 70.64
+        },
+        {
+          "segmentId": "s012",
+          "start": 71.44,
+          "end": 76.98
+        },
+        {
+          "segmentId": "s013",
+          "start": 78.12,
+          "end": 83.02
+        },
+        {
+          "segmentId": "s014",
+          "start": 83.64,
+          "end": 90.42
+        },
+        {
+          "segmentId": "s015",
+          "start": 91.44,
+          "end": 107.28
+        },
+        {
+          "segmentId": "s016",
+          "start": 107.28,
+          "end": 114.44
+        },
+        {
+          "segmentId": "s017",
+          "start": 116.28,
+          "end": 127.9
+        },
+        {
+          "segmentId": "s018",
+          "start": 128.72,
+          "end": 139.08
+        },
+        {
+          "segmentId": "s019",
+          "start": 140.22,
+          "end": 146.66
+        },
+        {
+          "segmentId": "s020",
+          "start": 147.48,
+          "end": 162.86
+        },
+        {
+          "segmentId": "s021",
+          "start": 163.5,
+          "end": 164.56
+        },
+        {
+          "segmentId": "s022",
+          "start": 165.68,
+          "end": 169.72
+        },
+        {
+          "segmentId": "s023",
+          "start": 170.58,
+          "end": 176.88
+        },
+        {
+          "segmentId": "s024",
+          "start": 177.7,
+          "end": 184.82
+        },
+        {
+          "segmentId": "s025",
+          "start": 185.76,
+          "end": 195.02
+        },
+        {
+          "segmentId": "s026",
+          "start": 196.06,
+          "end": 207.2
+        },
+        {
+          "segmentId": "s027",
+          "start": 208.42,
+          "end": 219.52
+        },
+        {
+          "segmentId": "s028",
+          "start": 220.92,
+          "end": 236.24
+        },
+        {
+          "segmentId": "s029",
+          "start": 236.92,
+          "end": 245.14
+        },
+        {
+          "segmentId": "s030",
+          "start": 246.02,
+          "end": 256.72
+        },
+        {
+          "segmentId": "s031",
+          "start": 258.24,
+          "end": 271.68
+        },
+        {
+          "segmentId": "s032",
+          "start": 272.22,
+          "end": 281.64
+        },
+        {
+          "segmentId": "s033",
+          "start": 282.46,
+          "end": 295.6
+        }
+      ]
+    }
+  ]
+}

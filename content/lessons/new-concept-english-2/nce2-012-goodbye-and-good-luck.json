@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-012-goodbye-and-good-luck",
+    "kind": "textbook",
+    "title": "Lesson 12: Goodbye and Good Luck",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 12.",
+      "translation": {
+        "text": "第12课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Goodbye and Good Luck.",
+      "translation": {
+        "text": "再见，一路顺风。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Where is Captain Allison going, and how?",
+      "translation": {
+        "text": "艾利森船长要去哪里？他将怎样去？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Our neighbor, Charles Allison, will sail from Portsmouth tomorrow.",
+      "translation": {
+        "text": "我们的邻居查尔斯·艾利森明天将从朴次茅斯启航。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "We'll meet him at the harbor early in the morning.",
+      "translation": {
+        "text": "我们一早会到港口为他送行。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He will be in his small boat, Topsail.",
+      "translation": {
+        "text": "他将乘坐自己的小船“涛波赛尔号”。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Topsail is a famous little boat.",
+      "translation": {
+        "text": "“涛波赛尔号”是一艘著名的小船。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It has sailed across the Atlantic many times.",
+      "translation": {
+        "text": "它已经多次横渡大西洋。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Allison will set out at eight o'clock, so we'll have plenty of time.",
+      "translation": {
+        "text": "艾利森将在8点钟出发，因此我们有充足的时间。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "We'll see his boat, and then we'll say goodbye to him.",
+      "translation": {
+        "text": "我们会参观他的船，然后向他告别。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He will be away for two months.",
+      "translation": {
+        "text": "他将离开两个月。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "We are very proud of him.",
+      "translation": {
+        "text": "我们为他感到非常自豪。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "He will take part in an important race across the Atlantic.",
+      "translation": {
+        "text": "他将参加一场重要的横渡大西洋比赛。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-012-goodbye-and-good-luck-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1224317,
+        "sha256": "a1b4987617a2785b7a5a8963c5267942d5e08120c8a4e6ceac890db421debdd6"
+      },
+      "duration": 67.213,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.56
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.4,
+          "end": 4.46
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.12,
+          "end": 9.18
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.82,
+          "end": 13.96
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.14,
+          "end": 22.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.64,
+          "end": 26.52
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.52,
+          "end": 30.4
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.58,
+          "end": 33.96
+        },
+        {
+          "segmentId": "s009",
+          "start": 35.02,
+          "end": 38.52
+        },
+        {
+          "segmentId": "s010",
+          "start": 39.94,
+          "end": 44.82
+        },
+        {
+          "segmentId": "s011",
+          "start": 45.94,
+          "end": 49.42
+        },
+        {
+          "segmentId": "s012",
+          "start": 50.16,
+          "end": 52.28
+        },
+        {
+          "segmentId": "s013",
+          "start": 53.02,
+          "end": 54.94
+        },
+        {
+          "segmentId": "s014",
+          "start": 54.94,
+          "end": 60.26
+        }
+      ]
+    }
+  ]
+}

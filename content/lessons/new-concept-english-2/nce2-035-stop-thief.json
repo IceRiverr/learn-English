@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-035-stop-thief",
+    "kind": "textbook",
+    "title": "Lesson 35: Stop Thief",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First,",
+      "translation": {
+        "text": "首先，"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "listen, and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "How did Roy stop the thieves?",
+      "translation": {
+        "text": "罗伊是怎样拦住小偷的？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Roy Trenton used to drive a taxi.",
+      "translation": {
+        "text": "罗伊·特伦顿过去开出租车。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "translation": {
+        "text": "然而不久前，他改当了公共汽车司机，而且并不后悔。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He is finding his new work far more exciting.",
+      "translation": {
+        "text": "他发现新工作刺激得多。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+      "translation": {
+        "text": "最近一次开车经过卡特福德街时，他看到两个小偷冲出一家商店，跑向一辆等候着的汽车。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "One of them was carrying a bag full of money.",
+      "translation": {
+        "text": "其中一人提着一个装满钱的袋子。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Roy acted quickly and drove the bus straight at the thieves.",
+      "translation": {
+        "text": "罗伊反应迅速，径直把公共汽车朝小偷开去。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The one with the money got such a fright that he dropped the bag.",
+      "translation": {
+        "text": "拿钱的那个人吓得把袋子掉在了地上。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "translation": {
+        "text": "小偷正企图驾车逃跑时，罗伊开着公共汽车撞上了他们汽车的尾部。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "translation": {
+        "text": "那辆撞坏的汽车开走时，罗伊停下公共汽车，给警察打了电话。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The thieves' car was badly damaged and easy to recognize.",
+      "translation": {
+        "text": "小偷的汽车损坏严重，很容易辨认。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "translation": {
+        "text": "不久以后，警察截住那辆车，逮捕了两名男子。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-035-stop-thief-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1885926,
+        "sha256": "21a8d635de74ee5114cc9b5dd2299f93789ac6a4b298fadf2038d1fdef21b621"
+      },
+      "duration": 108.565,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 3.17,
+          "end": 3.97
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.23,
+          "end": 10.09
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.89,
+          "end": 14.15
+        },
+        {
+          "segmentId": "s004",
+          "start": 16.63,
+          "end": 19.51
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.71,
+          "end": 28.13
+        },
+        {
+          "segmentId": "s006",
+          "start": 28.13,
+          "end": 32.95
+        },
+        {
+          "segmentId": "s007",
+          "start": 34.63,
+          "end": 45.27
+        },
+        {
+          "segmentId": "s008",
+          "start": 46.45,
+          "end": 50.13
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.89,
+          "end": 55.95
+        },
+        {
+          "segmentId": "s010",
+          "start": 57.33,
+          "end": 62.05
+        },
+        {
+          "segmentId": "s011",
+          "start": 63.15,
+          "end": 70.73
+        },
+        {
+          "segmentId": "s012",
+          "start": 70.73,
+          "end": 78.51
+        },
+        {
+          "segmentId": "s013",
+          "start": 79.39,
+          "end": 83.91
+        },
+        {
+          "segmentId": "s014",
+          "start": 85.23,
+          "end": 91.01
+        }
+      ]
+    }
+  ]
+}

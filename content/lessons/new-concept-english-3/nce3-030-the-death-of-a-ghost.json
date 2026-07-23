@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-030-the-death-of-a-ghost",
+    "kind": "textbook",
+    "title": "Lesson 30: The Death of a Ghost",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did the two brothers keep the secret?",
+      "translation": {
+        "text": "兄弟二人为什么保守这个秘密？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "For years, villagers believed that Endley Farm was haunted.",
+      "translation": {
+        "text": "多年来，村民们一直认为恩德利农场闹鬼。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The farm was owned by two brothers, Joe and Bob Cox.",
+      "translation": {
+        "text": "农场归乔·考克斯和鲍勃·考克斯兄弟所有。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "They employed a few farm hands, but no one was willing to work there long.",
+      "translation": {
+        "text": "他们雇了几个农场工人，但没有人愿意在那里长期干下去。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Every time a worker gave up his job, he told the same story.",
+      "translation": {
+        "text": "每当工人辞职时，讲的都是同一个故事。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Farm laborers said that they always woke up to find that work had been done overnight.",
+      "translation": {
+        "text": "农场工人说，他们每天醒来都会发现有人在夜间把活干完了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Hay had been cut and cow sheds had been cleaned.",
+      "translation": {
+        "text": "干草割好了，牛棚也打扫干净了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "A farm worker, who stayed up all night, claimed to have seen a figure cutting corn in the moonlight.",
+      "translation": {
+        "text": "一名彻夜未眠的农场工人声称，曾看见一个人影在月光下割庄稼。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "In time, it became an accepted fact that the Cox brothers employed a conscientious ghost that did most of their work for them.",
+      "translation": {
+        "text": "久而久之，人们公认考克斯兄弟雇了一个勤劳的鬼，替他们干了大部分农活。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "No one suspected that there might be someone else on the farm who had never been seen.",
+      "translation": {
+        "text": "没有人怀疑农场里可能还住着一个从未露面的人。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "This was indeed the case.",
+      "translation": {
+        "text": "事实的确如此。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "A short time ago, villagers were astonished to learn that the ghost of Endley had died.",
+      "translation": {
+        "text": "不久前，村民们惊讶地得知，恩德利农场的“鬼”死了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Everyone went to the funeral, for the ghost was none other than Eric Cox, a third brother who was supposed to have died as a young man.",
+      "translation": {
+        "text": "所有人都去参加葬礼，因为这个鬼不是别人，正是他们的三弟埃里克·考克斯；人们一直以为他年轻时就死了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.",
+      "translation": {
+        "text": "葬礼后，乔和鲍勃揭开了一个保守50多年的秘密。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Eric had been the eldest son of the family, very much older than his two brothers.",
+      "translation": {
+        "text": "埃里克是家中长子，比两个弟弟年长许多。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He had been obliged to join the army during the Second World War.",
+      "translation": {
+        "text": "第二次世界大战期间，他被迫参军。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "As he hated army life, he decided to desert his regiment.",
+      "translation": {
+        "text": "由于厌恶军旅生活，他决定逃离部队。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "When he learnt that he would be sent abroad, he returned to the farm and his father hid him until the end of the war.",
+      "translation": {
+        "text": "得知自己将被派往国外后，他回到农场，父亲把他藏到战争结束。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Fearing the authorities, remained in hiding after the war as well.",
+      "translation": {
+        "text": "由于害怕当局追究，他在战后仍继续躲藏。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "His father told everybody that Eric had been killed in action.",
+      "translation": {
+        "text": "父亲告诉所有人，埃里克已经战死。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The only other people who knew the secret were Joe and Bob.",
+      "translation": {
+        "text": "除父亲外，只有乔和鲍勃知道这个秘密。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "They did not even tell their wives.",
+      "translation": {
+        "text": "他们甚至没有告诉各自的妻子。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "When their father died, they thought it their duty to keep Eric in hiding.",
+      "translation": {
+        "text": "父亲去世后，他们认为自己有责任继续把埃里克藏起来。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "All these years, Eric had lived as a recluse.",
+      "translation": {
+        "text": "这些年来，埃里克一直过着隐居生活。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley.",
+      "translation": {
+        "text": "他白天睡觉、夜间干活，完全不知道自己已经成了“恩德利农场的鬼”。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "When he died, however, his brothers found it impossible to keep the secret any longer.",
+      "translation": {
+        "text": "然而他去世后，兄弟二人再也无法继续保守秘密。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-030-the-death-of-a-ghost-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2894899,
+        "sha256": "c602c48633523ed66aca8c13c2ba78fdc639a6b75645b20ab237f19475a3f742"
+      },
+      "duration": 171.677,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.32,
+          "end": 8.22
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.66,
+          "end": 12.44
+        },
+        {
+          "segmentId": "s003",
+          "start": 13.82,
+          "end": 17.9
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.9,
+          "end": 22.7
+        },
+        {
+          "segmentId": "s005",
+          "start": 23.74,
+          "end": 28.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 29.04,
+          "end": 33.58
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.18,
+          "end": 40.46
+        },
+        {
+          "segmentId": "s008",
+          "start": 41.94,
+          "end": 44.94
+        },
+        {
+          "segmentId": "s009",
+          "start": 46.04,
+          "end": 52.62
+        },
+        {
+          "segmentId": "s010",
+          "start": 52.62,
+          "end": 62.18
+        },
+        {
+          "segmentId": "s011",
+          "start": 63.72,
+          "end": 69.2
+        },
+        {
+          "segmentId": "s012",
+          "start": 69.96,
+          "end": 71.78
+        },
+        {
+          "segmentId": "s013",
+          "start": 72.74,
+          "end": 78.84
+        },
+        {
+          "segmentId": "s014",
+          "start": 79.78,
+          "end": 90.44
+        },
+        {
+          "segmentId": "s015",
+          "start": 91.42,
+          "end": 98.24
+        },
+        {
+          "segmentId": "s016",
+          "start": 99.44,
+          "end": 104.52
+        },
+        {
+          "segmentId": "s017",
+          "start": 105.36,
+          "end": 109.38
+        },
+        {
+          "segmentId": "s018",
+          "start": 110.3,
+          "end": 114.46
+        },
+        {
+          "segmentId": "s019",
+          "start": 116,
+          "end": 123.28
+        },
+        {
+          "segmentId": "s020",
+          "start": 124.52,
+          "end": 129.42
+        },
+        {
+          "segmentId": "s021",
+          "start": 130.4,
+          "end": 133.68
+        },
+        {
+          "segmentId": "s022",
+          "start": 134.64,
+          "end": 138.52
+        },
+        {
+          "segmentId": "s023",
+          "start": 139.62,
+          "end": 141.62
+        },
+        {
+          "segmentId": "s024",
+          "start": 142.8,
+          "end": 146.82
+        },
+        {
+          "segmentId": "s025",
+          "start": 147.62,
+          "end": 151.56
+        },
+        {
+          "segmentId": "s026",
+          "start": 152.68,
+          "end": 159.7
+        },
+        {
+          "segmentId": "s027",
+          "start": 159.7,
+          "end": 166.12
+        }
+      ]
+    }
+  ]
+}

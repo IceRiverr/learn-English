@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-046-do-it-yourself",
+    "kind": "textbook",
+    "title": "Lesson 46: Do It Yourself",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Did the writer repair his lawn mower in the end?",
+      "translation": {
+        "text": "作者最后修好割草机了吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why not?",
+      "translation": {
+        "text": "为什么没有？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "So great is our passion for doing things for ourselves that we are becoming increasingly less dependent on specialized labor.",
+      "translation": {
+        "text": "我们自己动手做事的热情如此高涨，以至于越来越不依赖专业工人。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "No one can plead ignorance of a subject any longer, for there are countless Do It Yourself publications.",
+      "translation": {
+        "text": "谁也不能再以不懂某个领域为借口，因为介绍自己动手的出版物数不胜数。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Armed with the right tools and materials, newlyweds gaily embark on the task of decorating their own homes.",
+      "translation": {
+        "text": "新婚夫妇备齐合适的工具和材料后，兴高采烈地开始自己装修住宅。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Men, particularly, spend hours of their leisure time installing their own fireplaces, laying out their own gardens, building garages and making furniture.",
+      "translation": {
+        "text": "尤其是男人，会用大把闲暇时间自己安装壁炉、设计花园、建车库和制作家具。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Some really keen enthusiasts go so far as to build their own computers.",
+      "translation": {
+        "text": "有些特别热心的人甚至自己组装电脑。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Shops cater for the Do It Yourself craze, not only by running special advisory services for novices, but by offering consumers bits and pieces which they can assemble at home.",
+      "translation": {
+        "text": "商店迎合自己动手的热潮，不仅为新手开设专门咨询服务，还向消费者出售可在家组装的零部件。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Such things provide an excellent outlet for pent-up creative energy, but, unfortunately, not all of us are born handymen.",
+      "translation": {
+        "text": "这些活动为积蓄的创造力提供了极好出口，但遗憾的是，并非人人天生心灵手巧。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Some wives tend to believe that their husbands are infinitely resourceful and can fix anything.",
+      "translation": {
+        "text": "有些妻子往往认为丈夫无所不能，什么都能修。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Even men who can hardly drive a nail in straight are supposed to be born electricians, carpenters, plumbers and mechanics.",
+      "translation": {
+        "text": "甚至连钉子都钉不直的男人，也被认为天生就是电工、木匠、水管工和机械师。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some women assume that their husbands will somehow put things right.",
+      "translation": {
+        "text": "电灯保险丝烧断、家具摇晃、水管堵塞或吸尘器罢工时，一些女人会认定丈夫总有办法修好。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The worst thing about the Do It Yourself game is that sometimes even men live under the delusion that they can do anything, even when they have repeatedly been proved wrong.",
+      "translation": {
+        "text": "自己动手这场游戏最糟糕之处在于，有时连男人自己也幻想无所不能，即使事实已一再证明他们错了。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It is a question of pride as much as anything else.",
+      "translation": {
+        "text": "归根结底，这也是个自尊心问题。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Last spring my wife suggested that I call in a man to look at our lawnmower.",
+      "translation": {
+        "text": "去年春天，妻子建议我请个人来看看割草机。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It had broken down the previous summer, and though I promised to repair it, I had never got round to it.",
+      "translation": {
+        "text": "它前一年夏天就坏了，虽然我答应修理，却一直没有抽出时间。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I would not hear of the suggestion and said that I would fix it myself.",
+      "translation": {
+        "text": "我坚决不接受这个建议，说要自己修。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "One Saturday afternoon I hauled the sheen into the garden and had a close look at it.",
+      "translation": {
+        "text": "一个星期六下午，我把机器拖到花园里，仔细检查了一番。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "As far as I could see, it needed only a minor adjustment, a turn of a screw here, a little tightening up there, a drop of oil, and it would be as good as new.",
+      "translation": {
+        "text": "在我看来，它只需稍作调整：这里拧一下螺丝，那里紧一紧，再滴一滴油，就会完好如新。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Inevitably, the repair job was not quite so simple.",
+      "translation": {
+        "text": "不可避免地，修理并没有那么简单。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The mower firmly refused to mow, so I decided to dismantle it.",
+      "translation": {
+        "text": "割草机坚决不肯割草，于是我决定把它拆开。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "The garden was soon littered with chunks of metal which had once made up a lawnmower, but I was extremely pleased with myself.",
+      "translation": {
+        "text": "花园很快散落着原本组成割草机的一块块金属，可我对自己满意极了。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "I had traced the cause of the trouble.",
+      "translation": {
+        "text": "我已经找到了故障原因。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "One of the links in the chain that drives the wheels had snapped.",
+      "translation": {
+        "text": "驱动车轮的链条有一个链节断了。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "After buying a new chain, I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again.",
+      "translation": {
+        "text": "买来新链条后，我面临着一个无法克服的任务：把这副令人迷惑的拼图重新装好。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "I was not surprised to find that the machine still refused to work after I had reassembled it, for the simple reason that I was left with several curiously shaped bits of metal which did not seem to",
+      "translation": {
+        "text": "机器重新组装后仍然拒绝工作，我一点也不惊讶，原因很简单：还剩下几块形状奇特、似乎"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "fit anywhere.",
+      "translation": {
+        "text": "装不到任何地方的金属。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "I gave up in despair.",
+      "translation": {
+        "text": "我绝望地放弃了。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "The weeks passed and the grass grew.",
+      "translation": {
+        "text": "几个星期过去，草越长越高。"
+      }
+    },
+    {
+      "id": "s032",
+      "text": "When my wife nagged me to do something about it, I told her that either I would have to buy a new mower or let the grass grow.",
+      "translation": {
+        "text": "妻子唠叨着要我处理时，我告诉她，要么买台新割草机，要么就让草继续长。"
+      }
+    },
+    {
+      "id": "s033",
+      "text": "Needless to say, our house is now surrounded by a jungle.",
+      "translation": {
+        "text": "不用说，我们的房子如今被一片“丛林”包围。"
+      }
+    },
+    {
+      "id": "s034",
+      "text": "Buried somewhere in deep grass there is a rusting lawnmower which I have promised to repair one day.",
+      "translation": {
+        "text": "在深草丛的某个地方埋着一台生锈的割草机，我答应总有一天会修好它。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-046-do-it-yourself-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4364008,
+        "sha256": "31cfa8b50de9c7beba81365faeb8333cb49f81455185f5bf4114294d5b6327b9"
+      },
+      "duration": 263.497,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 3.96,
+          "end": 8.2
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.4,
+          "end": 12.22
+        },
+        {
+          "segmentId": "s003",
+          "start": 13.06,
+          "end": 13.42
+        },
+        {
+          "segmentId": "s004",
+          "start": 14.16,
+          "end": 14.66
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.93,
+          "end": 26.01
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.15,
+          "end": 34.19
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.27,
+          "end": 42.85
+        },
+        {
+          "segmentId": "s008",
+          "start": 43.83,
+          "end": 55.11
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.25,
+          "end": 61.33
+        },
+        {
+          "segmentId": "s010",
+          "start": 62.77,
+          "end": 74.63
+        },
+        {
+          "segmentId": "s011",
+          "start": 75.89,
+          "end": 84.97
+        },
+        {
+          "segmentId": "s012",
+          "start": 86.35,
+          "end": 92.79
+        },
+        {
+          "segmentId": "s013",
+          "start": 94.01,
+          "end": 102.53
+        },
+        {
+          "segmentId": "s014",
+          "start": 103.69,
+          "end": 115.67
+        },
+        {
+          "segmentId": "s015",
+          "start": 116.49,
+          "end": 128.27
+        },
+        {
+          "segmentId": "s016",
+          "start": 128.27,
+          "end": 132.03
+        },
+        {
+          "segmentId": "s017",
+          "start": 133.27,
+          "end": 138.07
+        },
+        {
+          "segmentId": "s018",
+          "start": 139.19,
+          "end": 146.77
+        },
+        {
+          "segmentId": "s019",
+          "start": 147.55,
+          "end": 152.33
+        },
+        {
+          "segmentId": "s020",
+          "start": 153.67,
+          "end": 159.89
+        },
+        {
+          "segmentId": "s021",
+          "start": 160.37,
+          "end": 173.25
+        },
+        {
+          "segmentId": "s022",
+          "start": 173.95,
+          "end": 178.05
+        },
+        {
+          "segmentId": "s023",
+          "start": 178.69,
+          "end": 184.61
+        },
+        {
+          "segmentId": "s024",
+          "start": 185.17,
+          "end": 194.47
+        },
+        {
+          "segmentId": "s025",
+          "start": 195.39,
+          "end": 197.63
+        },
+        {
+          "segmentId": "s026",
+          "start": 198.61,
+          "end": 202.59
+        },
+        {
+          "segmentId": "s027",
+          "start": 203.63,
+          "end": 213.33
+        },
+        {
+          "segmentId": "s028",
+          "start": 214.53,
+          "end": 230.35
+        },
+        {
+          "segmentId": "s029",
+          "start": 230.35,
+          "end": 231.29
+        },
+        {
+          "segmentId": "s030",
+          "start": 232.31,
+          "end": 233.97
+        },
+        {
+          "segmentId": "s031",
+          "start": 234.91,
+          "end": 237.25
+        },
+        {
+          "segmentId": "s032",
+          "start": 238.09,
+          "end": 245.95
+        },
+        {
+          "segmentId": "s033",
+          "start": 247.01,
+          "end": 250.81
+        },
+        {
+          "segmentId": "s034",
+          "start": 251.95,
+          "end": 257.99
+        }
+      ]
+    }
+  ]
+}

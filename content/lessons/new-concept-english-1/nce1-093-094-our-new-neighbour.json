@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-093-094-our-new-neighbour",
+    "kind": "textbook",
+    "title": "Lesson 93: Our new neighbour",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 93–Our New Neighbour.",
+      "translation": {
+        "text": "第93课——我们的新邻居。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Why is Nigel a lucky man?",
+      "translation": {
+        "text": "奈杰尔为什么是个幸运的人？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Nigel is our new next-door neighbour.",
+      "translation": {
+        "text": "奈杰尔是我们新搬来的隔壁邻居。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "He's a pilot.",
+      "translation": {
+        "text": "他是一名飞行员。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He was in the RAF.",
+      "translation": {
+        "text": "他曾在英国皇家空军服役。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He will fly to New York next month.",
+      "translation": {
+        "text": "下个月他将飞往纽约。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The month after next, he'll fly to Tokyo.",
+      "translation": {
+        "text": "再下个月，他将飞往东京。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "At the moment, he's in Madrid.",
+      "translation": {
+        "text": "此刻他在马德里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He flew to Spain a week ago.",
+      "translation": {
+        "text": "他一星期前飞去了西班牙。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "He'll return to London the week after next.",
+      "translation": {
+        "text": "他将在下下个星期返回伦敦。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He's only 41 years old, and he has already been to nearly every country in the world.",
+      "translation": {
+        "text": "他只有41岁，却已经去过世界上几乎每一个国家。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Nigel is a very lucky man, but his wife isn't very lucky.",
+      "translation": {
+        "text": "奈杰尔是个非常幸运的人，但他的妻子并不幸运。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She usually stays at home.",
+      "translation": {
+        "text": "她通常待在家里。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-093-094-our-new-neighbour-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1401860,
+        "sha256": "0de8b67860efe47ff47f01946d2e096f8a1ee4700b72601cca6f07a331f8888b"
+      },
+      "duration": 79.569,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 4.45
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.07,
+          "end": 10.57
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.05,
+          "end": 14.77
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.66,
+          "end": 20.56
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.62,
+          "end": 22.86
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.1,
+          "end": 26.06
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.64,
+          "end": 31.34
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.18,
+          "end": 36.94
+        },
+        {
+          "segmentId": "s009",
+          "start": 38.46,
+          "end": 41.24
+        },
+        {
+          "segmentId": "s010",
+          "start": 42.28,
+          "end": 45
+        },
+        {
+          "segmentId": "s011",
+          "start": 46.58,
+          "end": 50.54
+        },
+        {
+          "segmentId": "s012",
+          "start": 51.54,
+          "end": 61.86
+        },
+        {
+          "segmentId": "s013",
+          "start": 63.76,
+          "end": 69.74
+        },
+        {
+          "segmentId": "s014",
+          "start": 70.54,
+          "end": 73.02
+        }
+      ]
+    }
+  ]
+}

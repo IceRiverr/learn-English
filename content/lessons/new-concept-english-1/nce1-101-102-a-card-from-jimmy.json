@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-101-102-a-card-from-jimmy",
+    "kind": "textbook",
+    "title": "Lesson 101: A card from Jimmy",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 101.",
+      "translation": {
+        "text": "第101课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Card From Jimmy.",
+      "translation": {
+        "text": "吉米寄来的明信片。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Does grandmother seem pleased to get a card from Jimmy?",
+      "translation": {
+        "text": "祖母收到吉米的明信片后似乎高兴吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Why not?",
+      "translation": {
+        "text": "为什么不高兴？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Read Jimmy's card to me, please. I have just arrived in Scotland, and I'm staying at a youth hostel.",
+      "translation": {
+        "text": "请把吉米的明信片读给我听。“我刚到苏格兰，现在住在一家青年旅舍。”"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Eh?",
+      "translation": {
+        "text": "什么？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He says he's just arrived in Scotland.",
+      "translation": {
+        "text": "他说他刚到苏格兰。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He says he's staying at a youth hostel.",
+      "translation": {
+        "text": "他说他正住在一家青年旅舍。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "You know, he's a member of the YHA.",
+      "translation": {
+        "text": "你知道，他是青年旅舍协会的会员。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The what?",
+      "translation": {
+        "text": "什么协会？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The YHA, Mum.",
+      "translation": {
+        "text": "青年旅舍协会，妈妈。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The Youth Hostels Association.",
+      "translation": {
+        "text": "青年旅舍协会。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "What else does he say?",
+      "translation": {
+        "text": "他还说了什么？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I'll write a letter soon.",
+      "translation": {
+        "text": "“我很快会写信。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I hope you are all well.",
+      "translation": {
+        "text": "希望你们都好。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "What?",
+      "translation": {
+        "text": "什么？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Speak up, Penny.",
+      "translation": {
+        "text": "大声点，彭妮。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "I'm afraid I can't hear you.",
+      "translation": {
+        "text": "恐怕我听不见。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "He says he'll write a letter soon.",
+      "translation": {
+        "text": "他说他很快会写信。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "He hopes we are all well.",
+      "translation": {
+        "text": "他希望我们都好。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Love, Jimmy.",
+      "translation": {
+        "text": "爱你们的吉米。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Is that all?",
+      "translation": {
+        "text": "就这些吗？"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "He doesn't say very much, does he?",
+      "translation": {
+        "text": "他说得不多，是吧？"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "He can't write very much on a card, Mum.",
+      "translation": {
+        "text": "明信片上写不了太多，妈妈。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-101-102-a-card-from-jimmy-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1946079,
+        "sha256": "a71dfecad971f14ff8d5e7f310e5addc6b1cf70fffc3c9315bcaab2964a016b2"
+      },
+      "duration": 113.659,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.59,
+          "end": 2.51
+        },
+        {
+          "segmentId": "s002",
+          "start": 4.47,
+          "end": 5.97
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.67,
+          "end": 11.61
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.07,
+          "end": 18.07
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.05,
+          "end": 19.67
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.43,
+          "end": 21.03
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.56,
+          "end": 36.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 37.2,
+          "end": 37.6
+        },
+        {
+          "segmentId": "s009",
+          "start": 38.54,
+          "end": 43.1
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.06,
+          "end": 48.6
+        },
+        {
+          "segmentId": "s011",
+          "start": 48.6,
+          "end": 54.56
+        },
+        {
+          "segmentId": "s012",
+          "start": 56.06,
+          "end": 57
+        },
+        {
+          "segmentId": "s013",
+          "start": 58.12,
+          "end": 60.36
+        },
+        {
+          "segmentId": "s014",
+          "start": 61.42,
+          "end": 63.94
+        },
+        {
+          "segmentId": "s015",
+          "start": 65.84,
+          "end": 67.84
+        },
+        {
+          "segmentId": "s016",
+          "start": 69.28,
+          "end": 71.54
+        },
+        {
+          "segmentId": "s017",
+          "start": 72.4,
+          "end": 75.08
+        },
+        {
+          "segmentId": "s018",
+          "start": 76.16,
+          "end": 77.16
+        },
+        {
+          "segmentId": "s019",
+          "start": 78.12,
+          "end": 79.38
+        },
+        {
+          "segmentId": "s020",
+          "start": 80.18,
+          "end": 83.1
+        },
+        {
+          "segmentId": "s021",
+          "start": 83.94,
+          "end": 87.62
+        },
+        {
+          "segmentId": "s022",
+          "start": 88.42,
+          "end": 91.36
+        },
+        {
+          "segmentId": "s023",
+          "start": 92.46,
+          "end": 94.06
+        },
+        {
+          "segmentId": "s024",
+          "start": 95.76,
+          "end": 96.86
+        },
+        {
+          "segmentId": "s025",
+          "start": 97.8,
+          "end": 101.24
+        },
+        {
+          "segmentId": "s026",
+          "start": 101.24,
+          "end": 106.6
+        }
+      ]
+    }
+  ]
+}

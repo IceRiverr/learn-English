@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-061-062-a-bad-cold",
+    "kind": "textbook",
+    "title": "Lesson 61: A bad cold",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 61.",
+      "translation": {
+        "text": "第61课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Bad Cold.",
+      "translation": {
+        "text": "重感冒。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is good news for Jimmy?",
+      "translation": {
+        "text": "对吉米来说，什么是好消息？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where's Jimmy?",
+      "translation": {
+        "text": "吉米在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He's in bed.",
+      "translation": {
+        "text": "他躺在床上。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What's the matter with him?",
+      "translation": {
+        "text": "他怎么了？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He feels ill.",
+      "translation": {
+        "text": "他觉得不舒服。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He looks ill.",
+      "translation": {
+        "text": "他看起来病了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We must call the doctor.",
+      "translation": {
+        "text": "我们必须叫医生。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Yes, we must.",
+      "translation": {
+        "text": "是的，必须叫。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Can you remember the doctor's telephone number?",
+      "translation": {
+        "text": "你记得医生的电话号码吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Yes.",
+      "translation": {
+        "text": "记得。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It's 0-9-7-5-4.",
+      "translation": {
+        "text": "是0-9-7-5-4。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Open your mouth, Jimmy.",
+      "translation": {
+        "text": "张开嘴，吉米。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Show me your tongue.",
+      "translation": {
+        "text": "让我看看你的舌头。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Say, ah.",
+      "translation": {
+        "text": "说“啊”。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "What's the matter with him, doctor?",
+      "translation": {
+        "text": "医生，他怎么了？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "He has a bad cold, Mr. Williams,",
+      "translation": {
+        "text": "威廉斯先生，他得了重感冒，"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "so he must stay in bed for a week.",
+      "translation": {
+        "text": "所以他必须卧床一周。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That's good news for Jimmy.",
+      "translation": {
+        "text": "这对吉米来说是个好消息。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Good news?",
+      "translation": {
+        "text": "好消息？"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Because he doesn't like school.",
+      "translation": {
+        "text": "因为他不喜欢上学。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-061-062-a-bad-cold-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1437323,
+        "sha256": "f3beae1a645d541099c3edb7c05cdab304c4394aaa18d3a11eee20328d1633ac"
+      },
+      "duration": 81.789,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 1.93
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.07,
+          "end": 4.31
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.17,
+          "end": 9.69
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.29,
+          "end": 13.83
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.6,
+          "end": 17.5
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.06,
+          "end": 19.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 20.68,
+          "end": 22.52
+        },
+        {
+          "segmentId": "s008",
+          "start": 22.94,
+          "end": 24.5
+        },
+        {
+          "segmentId": "s009",
+          "start": 25.84,
+          "end": 27.3
+        },
+        {
+          "segmentId": "s010",
+          "start": 27.84,
+          "end": 29.72
+        },
+        {
+          "segmentId": "s011",
+          "start": 29.72,
+          "end": 32.4
+        },
+        {
+          "segmentId": "s012",
+          "start": 34.28,
+          "end": 38.12
+        },
+        {
+          "segmentId": "s013",
+          "start": 38.88,
+          "end": 39.18
+        },
+        {
+          "segmentId": "s014",
+          "start": 40.22,
+          "end": 44.38
+        },
+        {
+          "segmentId": "s015",
+          "start": 45.86,
+          "end": 47.44
+        },
+        {
+          "segmentId": "s016",
+          "start": 48.44,
+          "end": 49.84
+        },
+        {
+          "segmentId": "s017",
+          "start": 50.6,
+          "end": 51.52
+        },
+        {
+          "segmentId": "s018",
+          "start": 53.4,
+          "end": 56.02
+        },
+        {
+          "segmentId": "s019",
+          "start": 57.02,
+          "end": 59.6
+        },
+        {
+          "segmentId": "s020",
+          "start": 60.54,
+          "end": 64.36
+        },
+        {
+          "segmentId": "s021",
+          "start": 65.8,
+          "end": 68.3
+        },
+        {
+          "segmentId": "s022",
+          "start": 69.4,
+          "end": 70.18
+        },
+        {
+          "segmentId": "s023",
+          "start": 70.68,
+          "end": 71.08
+        },
+        {
+          "segmentId": "s024",
+          "start": 72.28,
+          "end": 75.08
+        }
+      ]
+    }
+  ]
+}

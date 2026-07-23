@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-001-finding-fossil-man",
+    "kind": "textbook",
+    "title": "Lesson 1: Finding Fossil Man",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 1.",
+      "translation": {
+        "text": "第1课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Finding Fossil Man.",
+      "translation": {
+        "text": "寻找化石人。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen and then answer the following question.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why are legends handed down by storytellers useful?",
+      "translation": {
+        "text": "故事讲述者代代相传的传说为什么有用？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "We can read of things that happened 5,000 years ago in the Near East, where people first learn to write.",
+      "translation": {
+        "text": "我们可以读到五千年前近东发生的事情，那里的人最早学会了书写。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "But there are some parts of the world where even now people cannot write.",
+      "translation": {
+        "text": "但世界上有些地方，即使现在人们仍不会书写。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The only way that they can preserve their history is to recount it as sagas.",
+      "translation": {
+        "text": "他们保存历史的唯一方式，是把它作为英雄传说讲述下来。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Legends handed down from one generation of storytellers to another.",
+      "translation": {
+        "text": "这些传说由一代代故事讲述者口耳相传。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "These legends are useful because they can tell us something about migrations of people who lived long ago.",
+      "translation": {
+        "text": "这些传说很有用，因为它们能告诉我们一些远古民族迁徙的情况。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "But none could write down what they did.",
+      "translation": {
+        "text": "但当时没有人能把自己的所作所为记录下来。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from.",
+      "translation": {
+        "text": "人类学家曾想知道，如今生活在太平洋岛屿上的波利尼西亚人的远祖来自哪里。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The sagas of these people explained that some of them came from Indonesia about two thousand years ago.",
+      "translation": {
+        "text": "这些民族的传说说明，其中一些人约在两千年前来自印度尼西亚。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.",
+      "translation": {
+        "text": "然而，最早与我们相似的人生活的年代太过久远，以至他们的传说——如果曾有的话——也早已被遗忘。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "So archaeologists have neither history nor legends to help them to find out where the first modern men came from.",
+      "translation": {
+        "text": "因此，考古学家既无历史记载也无传说可借助，来查明最早的现代人来自哪里。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds.",
+      "translation": {
+        "text": "不过幸运的是，古人用石头，特别是比其他石材更容易加工的燧石制作工具。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "They may also have used wood and skins, but these have rotted away.",
+      "translation": {
+        "text": "他们或许也使用过木头和兽皮，但这些早已腐烂。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.",
+      "translation": {
+        "text": "石头不会腐朽，所以远古的工具保存至今，而制造它们的人的骨骼甚至都已消失得无影无踪。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-001-finding-fossil-man-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2291224,
+        "sha256": "50893829cc3a08b3ef9b171aad2d590af22199f22e41969ad6ca26cd54f0bb8f"
+      },
+      "duration": 133.904,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.55
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.69,
+          "end": 4.01
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.11,
+          "end": 9.21
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.11,
+          "end": 15.09
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.44,
+          "end": 25.5
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.3,
+          "end": 32.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 33.24,
+          "end": 39.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 40.34,
+          "end": 44.86
+        },
+        {
+          "segmentId": "s009",
+          "start": 46.16,
+          "end": 52.98
+        },
+        {
+          "segmentId": "s010",
+          "start": 53.98,
+          "end": 56.44
+        },
+        {
+          "segmentId": "s011",
+          "start": 58.1,
+          "end": 66.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 66.88,
+          "end": 73.96
+        },
+        {
+          "segmentId": "s013",
+          "start": 75.02,
+          "end": 84.56
+        },
+        {
+          "segmentId": "s014",
+          "start": 85.64,
+          "end": 94
+        },
+        {
+          "segmentId": "s015",
+          "start": 94.9,
+          "end": 104.8
+        },
+        {
+          "segmentId": "s016",
+          "start": 105.66,
+          "end": 111.02
+        },
+        {
+          "segmentId": "s017",
+          "start": 111.32,
+          "end": 123.1
+        }
+      ]
+    }
+  ]
+}

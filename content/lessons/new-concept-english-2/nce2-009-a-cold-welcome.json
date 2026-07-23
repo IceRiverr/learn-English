@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-009-a-cold-welcome",
+    "kind": "textbook",
+    "title": "Lesson 9: A Cold Welcome",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 9.",
+      "translation": {
+        "text": "第9课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Cold Welcome.",
+      "translation": {
+        "text": "冷遇。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What does a cold welcome refer to?",
+      "translation": {
+        "text": "“冷遇”指的是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "On Wednesday evening we went to the town hall.",
+      "translation": {
+        "text": "星期三晚上，我们去了市政厅。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It was the last day of the year and a large crowd of people had gathered under the town hall clock.",
+      "translation": {
+        "text": "那是一年的最后一天，一大群人聚集在市政厅的大钟下面。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It would strike twelve in twenty minutes' time.",
+      "translation": {
+        "text": "再过20分钟，大钟将敲响12点。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Fifteen minutes passed and then, at five to twelve, the clock stopped.",
+      "translation": {
+        "text": "15分钟过去了，就在11点55分时，大钟停了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The big minute hand did not move.",
+      "translation": {
+        "text": "巨大的分针一动不动。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We waited and waited, but nothing happened.",
+      "translation": {
+        "text": "我们等了又等，却什么也没有发生。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Suddenly someone shouted, It's two minutes past twelve.",
+      "translation": {
+        "text": "突然有人喊道：“已经过12点两分钟了！”"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The clock has stopped.",
+      "translation": {
+        "text": "大钟停了。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I looked at my watch.",
+      "translation": {
+        "text": "我看了看手表。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It was true.",
+      "translation": {
+        "text": "果真如此。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The big clock refused to welcome the new year.",
+      "translation": {
+        "text": "这座大钟拒绝迎接新年。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "At that moment, everybody began to laugh and sing.",
+      "translation": {
+        "text": "就在那一刻，大家开始又笑又唱。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-009-a-cold-welcome-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1282816,
+        "sha256": "6c5a9c3fff20f707a68c3cea4220e981ade81429cf56416169a1df0b4f1db120"
+      },
+      "duration": 70.87,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.56
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.24,
+          "end": 3.84
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.06,
+          "end": 8.14
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.54,
+          "end": 12.96
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.27,
+          "end": 18.61
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.21,
+          "end": 26.23
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.11,
+          "end": 30.21
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.65,
+          "end": 36.95
+        },
+        {
+          "segmentId": "s009",
+          "start": 37.67,
+          "end": 40.11
+        },
+        {
+          "segmentId": "s010",
+          "start": 40.77,
+          "end": 44.13
+        },
+        {
+          "segmentId": "s011",
+          "start": 45.21,
+          "end": 49.85
+        },
+        {
+          "segmentId": "s012",
+          "start": 50.41,
+          "end": 51.89
+        },
+        {
+          "segmentId": "s013",
+          "start": 52.85,
+          "end": 54.25
+        },
+        {
+          "segmentId": "s014",
+          "start": 54.81,
+          "end": 55.55
+        },
+        {
+          "segmentId": "s015",
+          "start": 56.49,
+          "end": 59.87
+        },
+        {
+          "segmentId": "s016",
+          "start": 60.69,
+          "end": 64.89
+        }
+      ]
+    }
+  ]
+}

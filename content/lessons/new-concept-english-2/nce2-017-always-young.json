@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-017-always-young",
+    "kind": "textbook",
+    "title": "Lesson 17: Always Young",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 17.",
+      "translation": {
+        "text": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Always Young.",
+      "translation": {
+        "text": "永远年轻。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question, Why doesn't Aunt Jennifer tell anyone how old she is?",
+      "translation": {
+        "text": "先听录音，然后回答问题：为什么詹妮弗姑妈从不告诉别人她的年龄？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "My Aunt Jennifer is an actress.",
+      "translation": {
+        "text": "我的姑妈詹妮弗是一名演员。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "She must be at least 35 years old.",
+      "translation": {
+        "text": "她至少也有35岁了。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In spite of this, she often appears on the stage as a young girl.",
+      "translation": {
+        "text": "尽管如此，她却常在舞台上扮演年轻姑娘。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Jennifer will have to take part in a new play soon.",
+      "translation": {
+        "text": "詹妮弗很快又要参加一出新剧的演出。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This time, she will be a girl of 17.",
+      "translation": {
+        "text": "这一次，她将扮演一个17岁的少女。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "In the play, she must appear in a bright red dress and long black stockings.",
+      "translation": {
+        "text": "剧中她必须穿一条鲜红色连衣裙和黑色长筒袜。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Last year, in another play, she had to wear short socks and a bright orange colored dress.",
+      "translation": {
+        "text": "去年，在另一出戏里，她得穿短袜和一条鲜橙色的连衣裙。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "If anyone ever asks her how old she is, she always answers, Darling, it must be terrible to be grown up.",
+      "translation": {
+        "text": "要是有人问她多大年纪，她总是回答：“亲爱的，长大成人一定很可怕吧！”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-017-always-young-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1360135,
+        "sha256": "8ed9bc5c26849f3926883364fabafe57d53330b233d993bd4e338500821c3caa"
+      },
+      "duration": 75.703,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 2.19
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.17,
+          "end": 4.23
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.75,
+          "end": 15.51
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.31,
+          "end": 19.65
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.07,
+          "end": 24.35
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.35,
+          "end": 30.29
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.95,
+          "end": 35.19
+        },
+        {
+          "segmentId": "s008",
+          "start": 36.17,
+          "end": 39.29
+        },
+        {
+          "segmentId": "s009",
+          "start": 40.97,
+          "end": 48.15
+        },
+        {
+          "segmentId": "s010",
+          "start": 49.15,
+          "end": 56.97
+        },
+        {
+          "segmentId": "s011",
+          "start": 58.43,
+          "end": 69.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-135-136-the-latest-report",
+    "kind": "textbook",
+    "title": "Lesson 135: The latest report",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 135.",
+      "translation": {
+        "text": "第135课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Latest Report.",
+      "translation": {
+        "text": "最新消息。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Is Karen Marsh going to retire, do you think?",
+      "translation": {
+        "text": "你认为卡伦·马什会退休吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Are you really going to retire, Miss Marsh?",
+      "translation": {
+        "text": "马什小姐，您真的准备退休吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I may.",
+      "translation": {
+        "text": "有可能。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I can't make up my mind.",
+      "translation": {
+        "text": "我还拿不定主意。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I will have to ask my future husband.",
+      "translation": {
+        "text": "我得问问我未来的丈夫。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He won't let me make another film.",
+      "translation": {
+        "text": "他不会让我再拍电影了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Your future husband, Miss Marsh?",
+      "translation": {
+        "text": "您未来的丈夫，马什小姐？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Yes.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Let me introduce him to you.",
+      "translation": {
+        "text": "让我把他介绍给你们。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "His name is Carlos.",
+      "translation": {
+        "text": "他叫卡洛斯。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "We're going to get married next week.",
+      "translation": {
+        "text": "我们下周就要结婚了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Look, Liz.",
+      "translation": {
+        "text": "看，莉兹。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Here's another report about Karen Marsh.",
+      "translation": {
+        "text": "这里又有一篇关于卡伦·马什的报道。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Listen.",
+      "translation": {
+        "text": "听着。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Karen Marsh.",
+      "translation": {
+        "text": "卡伦·马什。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The Latest.",
+      "translation": {
+        "text": "最新消息。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "At her London hotel today, Miss Marsh told reporters she might retire.",
+      "translation": {
+        "text": "今天，马什小姐在她下榻的伦敦酒店告诉记者，她可能会退休。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "She said she couldn't make up her mind.",
+      "translation": {
+        "text": "她说她还拿不定主意。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "She said she would have to ask her future husband.",
+      "translation": {
+        "text": "她说她得问问她未来的丈夫。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "She said her future husband would not let her make another film.",
+      "translation": {
+        "text": "她说她未来的丈夫不会让她再拍电影。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Then she introduced us to Carlos and told us they would get married next week.",
+      "translation": {
+        "text": "随后她把卡洛斯介绍给我们，并告诉我们他们将在下周结婚。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "That sensational news, isn't it, Kate?",
+      "translation": {
+        "text": "这可是条轰动性的新闻，对吧，凯特？"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "It certainly is.",
+      "translation": {
+        "text": "的确是。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "He'll be her sixth husband.",
+      "translation": {
+        "text": "他将是她的第六任丈夫。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-135-136-the-latest-report-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2051580,
+        "sha256": "6ada809c8527576301c3ba63fedddb89c6feb0e05df12a3318bd473b64778bf4"
+      },
+      "duration": 120.268,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.62,
+          "end": 2.64
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.88,
+          "end": 5.26
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.08,
+          "end": 10.9
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.32,
+          "end": 16.52
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.77,
+          "end": 22.15
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.01,
+          "end": 23.85
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.57,
+          "end": 27.01
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.89,
+          "end": 31.35
+        },
+        {
+          "segmentId": "s009",
+          "start": 32.03,
+          "end": 35.47
+        },
+        {
+          "segmentId": "s010",
+          "start": 36.77,
+          "end": 39.13
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.99,
+          "end": 40.47
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.25,
+          "end": 43.63
+        },
+        {
+          "segmentId": "s013",
+          "start": 44.29,
+          "end": 46.45
+        },
+        {
+          "segmentId": "s014",
+          "start": 47.59,
+          "end": 51.33
+        },
+        {
+          "segmentId": "s015",
+          "start": 53.13,
+          "end": 53.83
+        },
+        {
+          "segmentId": "s016",
+          "start": 54.71,
+          "end": 58.33
+        },
+        {
+          "segmentId": "s017",
+          "start": 58.33,
+          "end": 59.87
+        },
+        {
+          "segmentId": "s018",
+          "start": 61.53,
+          "end": 62.09
+        },
+        {
+          "segmentId": "s019",
+          "start": 62.89,
+          "end": 63.49
+        },
+        {
+          "segmentId": "s020",
+          "start": 64.75,
+          "end": 72.71
+        },
+        {
+          "segmentId": "s021",
+          "start": 73.95,
+          "end": 77.31
+        },
+        {
+          "segmentId": "s022",
+          "start": 78.15,
+          "end": 83.09
+        },
+        {
+          "segmentId": "s023",
+          "start": 83.09,
+          "end": 90.95
+        },
+        {
+          "segmentId": "s024",
+          "start": 92.05,
+          "end": 100.85
+        },
+        {
+          "segmentId": "s025",
+          "start": 101.79,
+          "end": 106.11
+        },
+        {
+          "segmentId": "s026",
+          "start": 106.11,
+          "end": 109.13
+        },
+        {
+          "segmentId": "s027",
+          "start": 109.91,
+          "end": 112.75
+        }
+      ]
+    }
+  ]
+}

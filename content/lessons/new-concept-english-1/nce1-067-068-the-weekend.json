@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-067-068-the-weekend",
+    "kind": "textbook",
+    "title": "Lesson 67: The weekend",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 67.",
+      "translation": {
+        "text": "第67课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Weekend.",
+      "translation": {
+        "text": "周末。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What are the Johnsons going to do at the weekend?",
+      "translation": {
+        "text": "约翰逊一家周末准备做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Hello.",
+      "translation": {
+        "text": "你好。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Were you at the butcher's?",
+      "translation": {
+        "text": "你刚才在肉店吗？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Yes, I was.",
+      "translation": {
+        "text": "是的，我在。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Were you at the butcher's, too?",
+      "translation": {
+        "text": "你也在肉店吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "No, I wasn't.",
+      "translation": {
+        "text": "不，我不在。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I was at the green grocer's.",
+      "translation": {
+        "text": "我在蔬菜水果店。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "How's Jimmy today?",
+      "translation": {
+        "text": "吉米今天怎么样？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He's very well.",
+      "translation": {
+        "text": "他很好。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Was he absent from school last week?",
+      "translation": {
+        "text": "他上周没去上学吗？"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Yes, he was.",
+      "translation": {
+        "text": "是的，他没去。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He was absent on Monday, Tuesday, Wednesday, and Thursday.",
+      "translation": {
+        "text": "他星期一、星期二、星期三和星期四都没去上学。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "How are you all keeping?",
+      "translation": {
+        "text": "你们大家近来好吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Very well.",
+      "translation": {
+        "text": "都很好。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "We're going to spend three days in the country.",
+      "translation": {
+        "text": "我们准备去乡下住三天。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "We're going to stay at my mother's for the weekend.",
+      "translation": {
+        "text": "周末我们准备住在我母亲家。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Friday, Saturday, and Sunday in the country.",
+      "translation": {
+        "text": "星期五、星期六和星期日在乡下度过。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Aren't you lucky?",
+      "translation": {
+        "text": "你们真幸运，不是吗？"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-067-068-the-weekend-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1526980,
+        "sha256": "88d0c764a17b5e48e5cb2e79f802f8ca86b950377f9219d96b8ae7b37598ab22"
+      },
+      "duration": 87.406,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.26
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.38,
+          "end": 4.16
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.64,
+          "end": 9.56
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.94,
+          "end": 14.8
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.76,
+          "end": 18.34
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.28,
+          "end": 21.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.74,
+          "end": 23.16
+        },
+        {
+          "segmentId": "s008",
+          "start": 23.98,
+          "end": 26.38
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.38,
+          "end": 29.52
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.24,
+          "end": 33.92
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.38,
+          "end": 35.84
+        },
+        {
+          "segmentId": "s012",
+          "start": 36.8,
+          "end": 38.62
+        },
+        {
+          "segmentId": "s013",
+          "start": 39.12,
+          "end": 39.9
+        },
+        {
+          "segmentId": "s014",
+          "start": 41.28,
+          "end": 44.66
+        },
+        {
+          "segmentId": "s015",
+          "start": 45.82,
+          "end": 47.26
+        },
+        {
+          "segmentId": "s016",
+          "start": 48.14,
+          "end": 54.44
+        },
+        {
+          "segmentId": "s017",
+          "start": 55.72,
+          "end": 57.74
+        },
+        {
+          "segmentId": "s018",
+          "start": 58.84,
+          "end": 60.38
+        },
+        {
+          "segmentId": "s019",
+          "start": 60.8,
+          "end": 61.5
+        },
+        {
+          "segmentId": "s020",
+          "start": 62.44,
+          "end": 66.4
+        },
+        {
+          "segmentId": "s021",
+          "start": 67.66,
+          "end": 71.72
+        },
+        {
+          "segmentId": "s022",
+          "start": 73.66,
+          "end": 78.14
+        },
+        {
+          "segmentId": "s023",
+          "start": 79.16,
+          "end": 80.76
+        }
+      ]
+    }
+  ]
+}

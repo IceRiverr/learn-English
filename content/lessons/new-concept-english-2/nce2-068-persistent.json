@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-068-persistent",
+    "kind": "textbook",
+    "title": "Lesson 68: Persistent",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did Elizabeth tell Nigel that she was going to the dentist?",
+      "translation": {
+        "text": "伊丽莎白为什么告诉奈杰尔她要去看牙医？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "I crossed the street to avoid meeting him, but he saw me and came running towards me.",
+      "translation": {
+        "text": "我穿过马路想避开他，可他看见了我，朝我跑了过来。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "It was no use pretending that I had not seen him, so I waved to him.",
+      "translation": {
+        "text": "假装没看见他已经没有用了，于是我向他挥了挥手。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I never enjoy meeting Nigel Dykes.",
+      "translation": {
+        "text": "我从来都不喜欢遇见奈杰尔·戴克斯。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He never has anything to do.",
+      "translation": {
+        "text": "他总是无所事事。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "No matter how busy you are, he always insists on coming with you.",
+      "translation": {
+        "text": "不管你多忙，他总是坚持要跟着你。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I had to think of a way of preventing him from following me around all morning.",
+      "translation": {
+        "text": "我只得想个办法，不让他整个上午都跟着我到处走。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Hello, Nigel, I said.",
+      "translation": {
+        "text": "“你好，奈杰尔。”我说道。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Fancy meeting you here.",
+      "translation": {
+        "text": "真巧在这里遇见你。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Hi, Elizabeth, Nigel answered.",
+      "translation": {
+        "text": "“你好，伊丽莎白。”奈杰尔回答道。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I was just wondering how to spend the morning.",
+      "translation": {
+        "text": "“我刚才还在琢磨上午怎么打发呢。”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Until I saw you.",
+      "translation": {
+        "text": "“直到我看见了你。”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "You're not busy doing anything, are you?",
+      "translation": {
+        "text": "“你现在没忙什么吧？”"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "No, not at all, I answered.",
+      "translation": {
+        "text": "“一点也不忙。”我回答。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I'm going to.",
+      "translation": {
+        "text": "“我正要去……”"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Would you mind my coming with you?",
+      "translation": {
+        "text": "“你不介意我跟你一起去吧？”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "He asked before I had finished speaking.",
+      "translation": {
+        "text": "我还没说完，他就问道。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Not at all, I lied.",
+      "translation": {
+        "text": "“一点也不介意。”我撒谎说。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "But I'm going to the dentist.",
+      "translation": {
+        "text": "“不过我是去看牙医。”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Then I'll come with you, he answered.",
+      "translation": {
+        "text": "“那我就跟你一起去。”他回答。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "There's always plenty to read in the waiting room.",
+      "translation": {
+        "text": "“候诊室里总有很多东西可以看。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-068-persistent-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1837023,
+        "sha256": "2f1f1be1cbc181aab2e6241cfc9f04feadd8e227c6280892addf1b041f8b45e0"
+      },
+      "duration": 105.509,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.69,
+          "end": 8.55
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.11,
+          "end": 15.31
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.55,
+          "end": 24.23
+        },
+        {
+          "segmentId": "s004",
+          "start": 25.19,
+          "end": 31.47
+        },
+        {
+          "segmentId": "s005",
+          "start": 32.17,
+          "end": 36.05
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.75,
+          "end": 39.47
+        },
+        {
+          "segmentId": "s007",
+          "start": 40.23,
+          "end": 46.57
+        },
+        {
+          "segmentId": "s008",
+          "start": 47.55,
+          "end": 53.35
+        },
+        {
+          "segmentId": "s009",
+          "start": 54.71,
+          "end": 57.05
+        },
+        {
+          "segmentId": "s010",
+          "start": 58.31,
+          "end": 59.47
+        },
+        {
+          "segmentId": "s011",
+          "start": 60.65,
+          "end": 63.27
+        },
+        {
+          "segmentId": "s012",
+          "start": 64.11,
+          "end": 67.25
+        },
+        {
+          "segmentId": "s013",
+          "start": 68.23,
+          "end": 69.81
+        },
+        {
+          "segmentId": "s014",
+          "start": 70.81,
+          "end": 73.55
+        },
+        {
+          "segmentId": "s015",
+          "start": 74.51,
+          "end": 77.01
+        },
+        {
+          "segmentId": "s016",
+          "start": 78.01,
+          "end": 79.03
+        },
+        {
+          "segmentId": "s017",
+          "start": 79.81,
+          "end": 82.25
+        },
+        {
+          "segmentId": "s018",
+          "start": 82.61,
+          "end": 85.61
+        },
+        {
+          "segmentId": "s019",
+          "start": 86.55,
+          "end": 88.63
+        },
+        {
+          "segmentId": "s020",
+          "start": 89.57,
+          "end": 91.25
+        },
+        {
+          "segmentId": "s021",
+          "start": 92.55,
+          "end": 95.09
+        },
+        {
+          "segmentId": "s022",
+          "start": 96.21,
+          "end": 99.45
+        }
+      ]
+    }
+  ]
+}

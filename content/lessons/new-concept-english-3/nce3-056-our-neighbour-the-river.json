@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-056-our-neighbour-the-river",
+    "kind": "textbook",
+    "title": "Lesson 56: Our Neighbour, the River",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why had the neighbours left their farm?",
+      "translation": {
+        "text": "邻居们为什么离开了他们的农场？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The river, which forms the eastern boundary of our farm, has always played an important part in our lives.",
+      "translation": {
+        "text": "构成我们农场东部边界的那条河，一直在我们的生活中发挥着重要作用。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Without it, we could not make a living.",
+      "translation": {
+        "text": "没有它，我们就无法谋生。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "There is only enough spring water to supply the needs of the house, so we have to pump from the river for farm use.",
+      "translation": {
+        "text": "泉水只够家庭生活使用，因此农场用水必须从河里抽取。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "We tell the river all our secrets.",
+      "translation": {
+        "text": "我们把所有秘密都告诉这条河。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.",
+      "translation": {
+        "text": "我们凭本能知道，就像养蜂人对蜜蜂那样，如果不把生活中的大事告诉它，厄运也许就会降临。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "We have special river birthday parties in the summer.",
+      "translation": {
+        "text": "夏天，我们会举行特别的河畔生日聚会。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.",
+      "translation": {
+        "text": "有时我们去上游一处喜爱的回水湾；有时在船屋里聚会，那是农场的一位前主人建在草地上的，紧挨着最深、最适合游泳和跳水的水潭。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "In a heatwave, we choose a midnight birthday party, and that is the most exciting of all.",
+      "translation": {
+        "text": "遇上热浪，我们就选择在午夜举行生日聚会，那是最令人兴奋的。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the",
+      "translation": {
+        "text": "我们在河边迎接四季：春天给最小的女孩戴上花冠；仲夏夜举行夏季庆典；秋天感恩丰收；冬天则把冬青花环抛入"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "current in the winter.",
+      "translation": {
+        "text": "水流之中。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "After a long period of rain, the river may overflow its banks.",
+      "translation": {
+        "text": "长时间下雨后，河水可能漫过两岸。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This is a rare occurrence, as our climate seldom goes to extremes.",
+      "translation": {
+        "text": "这种情况很少发生，因为这里的气候很少走向极端。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sighted, and flooding can sometimes spell disaster for their owners.",
+      "translation": {
+        "text": "幸运的是，受洪水影响的只有低洼田地，只占农场很小一部分；但其他农场的地势没这么有利，洪水有时会给农场主带来灾难。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "One bad winter we watched the river creep up the lower meadows.",
+      "translation": {
+        "text": "有一年严冬，我们眼看着河水慢慢漫上低洼的草地。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "All the cattle had been moved into stalls, and we stood to lose little.",
+      "translation": {
+        "text": "所有牛都已经赶进牛棚，我们不会蒙受多大损失。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "We were, however, worried about our nearest neighbours, whose farm was low-lying, and who were newcomers to the district.",
+      "translation": {
+        "text": "不过，我们担心最近的邻居；他们的农场地势低洼，而且才搬到这个地区不久。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "As the floods had put the telephone out of order, we could not find out how they were managing.",
+      "translation": {
+        "text": "洪水弄坏了电话，我们无法知道他们应付得怎么样。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "From an attic window, we could get a sweeping view of the river where their land joined ours, and at the most critical juncture, we took turns in watching that point.",
+      "translation": {
+        "text": "从阁楼窗口，我们能一览河流经过两家土地交界处的景象；在最危急的时刻，我们轮流监视那里。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The first sign of disaster was a dead sheep floating down.",
+      "translation": {
+        "text": "灾难的第一个迹象是一只顺流漂下来的死羊。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.",
+      "translation": {
+        "text": "接着出现的是一匹奋力游泳的马，但我们担心水流太急，它还没找到上岸之处便会力竭。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "a raft appeared, looking rather like Noah's Ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.",
+      "translation": {
+        "text": "随后出现了一只木筏，看起来很像诺亚方舟，上面载着全家人、几只母鸡、几条狗、一只猫和一只关在笼中的鸟。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "We realised that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly, even if it had been almost submerged.",
+      "translation": {
+        "text": "我们明白，他们一定是被不断上涨的洪水吓得过了头，因为他们的房子地基牢固，即使几乎被淹没，也能稳稳屹立。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "The men of our family waded down through our flooded meadows with boat-hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank.",
+      "translation": {
+        "text": "我家的男人们拿着船钩，涉水穿过被淹的草地，希望能钩住木筏一角，把它从水流中拖到我们这边的岸上。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "We still think it a miracle that they were able to do so.",
+      "translation": {
+        "text": "直到今天，我们仍认为他们能够成功简直是个奇迹。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-056-our-neighbour-the-river-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3707006,
+        "sha256": "c435f90ed4bb09fa9108fbf6694472e53b8efebd34229e8c7c94732166bb7c5e"
+      },
+      "duration": 222.433,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.05,
+          "end": 8.77
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.61,
+          "end": 11.61
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.02,
+          "end": 20.66
+        },
+        {
+          "segmentId": "s004",
+          "start": 21.38,
+          "end": 23.4
+        },
+        {
+          "segmentId": "s005",
+          "start": 24.3,
+          "end": 31.66
+        },
+        {
+          "segmentId": "s006",
+          "start": 32.54,
+          "end": 34.54
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.4,
+          "end": 47.02
+        },
+        {
+          "segmentId": "s008",
+          "start": 48.58,
+          "end": 51.78
+        },
+        {
+          "segmentId": "s009",
+          "start": 52.6,
+          "end": 66.64
+        },
+        {
+          "segmentId": "s010",
+          "start": 67.68,
+          "end": 73.64
+        },
+        {
+          "segmentId": "s011",
+          "start": 74.52,
+          "end": 90.26
+        },
+        {
+          "segmentId": "s012",
+          "start": 90.26,
+          "end": 91.5
+        },
+        {
+          "segmentId": "s013",
+          "start": 92.7,
+          "end": 97
+        },
+        {
+          "segmentId": "s014",
+          "start": 97.98,
+          "end": 102.12
+        },
+        {
+          "segmentId": "s015",
+          "start": 103.12,
+          "end": 118.68
+        },
+        {
+          "segmentId": "s016",
+          "start": 120.36,
+          "end": 124.76
+        },
+        {
+          "segmentId": "s017",
+          "start": 125.98,
+          "end": 130.26
+        },
+        {
+          "segmentId": "s018",
+          "start": 131.08,
+          "end": 138.74
+        },
+        {
+          "segmentId": "s019",
+          "start": 140.14,
+          "end": 145.54
+        },
+        {
+          "segmentId": "s020",
+          "start": 146.36,
+          "end": 157.14
+        },
+        {
+          "segmentId": "s021",
+          "start": 157.72,
+          "end": 162.3
+        },
+        {
+          "segmentId": "s022",
+          "start": 162.3,
+          "end": 172.76
+        },
+        {
+          "segmentId": "s023",
+          "start": 174.96,
+          "end": 184.94
+        },
+        {
+          "segmentId": "s024",
+          "start": 185.92,
+          "end": 199.24
+        },
+        {
+          "segmentId": "s025",
+          "start": 200.28,
+          "end": 212.74
+        },
+        {
+          "segmentId": "s026",
+          "start": 213.48,
+          "end": 217.26
+        }
+      ]
+    }
+  ]
+}

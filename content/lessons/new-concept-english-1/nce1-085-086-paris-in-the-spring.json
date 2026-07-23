@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-085-086-paris-in-the-spring",
+    "kind": "textbook",
+    "title": "Lesson 85: Paris in the spring",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 85—Paris in the Spring.",
+      "translation": {
+        "text": "第85课——巴黎之春。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "At what time of year did Ken visit Paris?",
+      "translation": {
+        "text": "肯是在一年中的什么时候游览巴黎的？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Hello, Ken.",
+      "translation": {
+        "text": "你好，肯。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Hi, George.",
+      "translation": {
+        "text": "你好，乔治。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Have you just been to the cinema?",
+      "translation": {
+        "text": "你刚去过电影院吗？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Yes, I have.",
+      "translation": {
+        "text": "是的，刚去过。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "What's on?",
+      "translation": {
+        "text": "放映什么片子？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Paris in the Spring.",
+      "translation": {
+        "text": "《巴黎之春》。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Oh, I've already seen it.",
+      "translation": {
+        "text": "哦，我已经看过了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I saw it on television last year.",
+      "translation": {
+        "text": "我去年在电视上看的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "It's an old film, but it's very good.",
+      "translation": {
+        "text": "这是一部老电影，但很好看。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Paris is a beautiful city.",
+      "translation": {
+        "text": "巴黎是一座美丽的城市。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I've never been there.",
+      "translation": {
+        "text": "我从未去过那里。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Have you ever been there? Yes, I have.",
+      "translation": {
+        "text": "你去过那里吗？是的，去过。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I was there in April.",
+      "translation": {
+        "text": "我是四月份去的。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Paris in the Spring, eh?",
+      "translation": {
+        "text": "巴黎之春，是吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It was spring, but the weather was awful.",
+      "translation": {
+        "text": "当时是春天，但天气糟透了。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It rained all the time.",
+      "translation": {
+        "text": "一直在下雨。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Just like London.",
+      "translation": {
+        "text": "就像伦敦一样。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-085-086-paris-in-the-spring-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1355198,
+        "sha256": "7e41f20e1b9c4357009000820eb167bdbdce02a20d43abab15841b124aac767b"
+      },
+      "duration": 76.643,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 4.9
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.58,
+          "end": 10.16
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.82,
+          "end": 15.92
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.67,
+          "end": 19.47
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.25,
+          "end": 21.15
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.29,
+          "end": 24.47
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.21,
+          "end": 26.61
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.55,
+          "end": 28.31
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.05,
+          "end": 30.91
+        },
+        {
+          "segmentId": "s010",
+          "start": 31.63,
+          "end": 34.17
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.79,
+          "end": 37.93
+        },
+        {
+          "segmentId": "s012",
+          "start": 38.83,
+          "end": 42.43
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.63,
+          "end": 45.87
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.75,
+          "end": 48.37
+        },
+        {
+          "segmentId": "s015",
+          "start": 49.03,
+          "end": 53.39
+        },
+        {
+          "segmentId": "s016",
+          "start": 53.89,
+          "end": 55.77
+        },
+        {
+          "segmentId": "s017",
+          "start": 57.33,
+          "end": 59.61
+        },
+        {
+          "segmentId": "s018",
+          "start": 60.19,
+          "end": 64.15
+        },
+        {
+          "segmentId": "s019",
+          "start": 64.83,
+          "end": 66.89
+        },
+        {
+          "segmentId": "s020",
+          "start": 67.91,
+          "end": 69.63
+        }
+      ]
+    }
+  ]
+}

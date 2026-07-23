@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-041-training-elephants",
+    "kind": "textbook",
+    "title": "Lesson 41: Training Elephants",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 41.",
+      "translation": {
+        "text": "第41课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Training Elephants.",
+      "translation": {
+        "text": "训练大象。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "At what point does the training of a captive wild elephant begin?",
+      "translation": {
+        "text": "被捕获的野象在什么时候开始接受训练？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Two main techniques have been used for training elephants, which we may call respectively the tough and the gentle.",
+      "translation": {
+        "text": "训练大象主要有两种方法，可分别称为强硬法和温和法。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The former method simply consists of setting an elephant to work, and beating him until he does what is expected of him.",
+      "translation": {
+        "text": "前一种方法只是让大象干活，并不断鞭打，直到它按要求去做。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Apart from any moral considerations, this is a stupid method of training.",
+      "translation": {
+        "text": "撇开道德问题不谈，这也是一种愚蠢的训练方法。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "For it produces a resentful animal who at a later stage may well turn man-killer.",
+      "translation": {
+        "text": "因为它会造就一头心怀怨恨的动物，日后很可能变成杀人象。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The gentle method requires more patience in the early stages, but produces a cheerful, good-tempered elephant who will give many years of loyal service.",
+      "translation": {
+        "text": "温和法在初期需要更多耐心，却能培养出快乐温顺、忠诚服务多年的大象。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The first essential in elephant training is to assign to the animal a single mahout who will be entirely responsible for the job.",
+      "translation": {
+        "text": "训练大象的第一个要点，是给它指定一名象夫，由此人全权负责。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Elephants like to have one master just as dogs do, and are capable of a considerable degree of personal affection.",
+      "translation": {
+        "text": "大象像狗一样喜欢只有一个主人，也能产生相当深的个人感情。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There are even stories of half-trained elephant calves who have refused to feed and pined to death when by some unavoidable circumstance they have been deprived of their own trainer.",
+      "translation": {
+        "text": "甚至有故事说，一些训练到一半的幼象因不可避免的原因失去自己的驯象人后，会拒绝进食、憔悴而死。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between elephant and mahout is the key to successful training.",
+      "translation": {
+        "text": "这种极端事例也许不可全信，但确实强调了一条普遍原则：大象与象夫的关系是成功训练的关键。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The most economical age to capture an elephant for training is between fifteen and twenty years, for it is then almost ready to undertake heavy work and can begin to earn its keep straight away.",
+      "translation": {
+        "text": "捕获大象用于训练最经济的年龄是15至20岁，因为此时它几乎已能承担重活，可以立即自食其力。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "But animals of this age do not easily become subservient to man, and a very firm hand must be employed in the early stages.",
+      "translation": {
+        "text": "但这个年龄的动物不容易服从人，初期必须采取非常坚定的手段。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The captive elephant, still roped to a tree, plunges and screams every time a man approaches, and for several days will probably refuse all food through anger and fear.",
+      "translation": {
+        "text": "被捕的大象仍拴在树上，每当有人走近便猛冲尖叫，常因愤怒和恐惧连续数日拒绝进食。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Sometimes a tame elephant is tethered nearby to give the wild one confidence, and in most cases the captive gradually quietens down and begins to accept its food.",
+      "translation": {
+        "text": "有时会在附近拴一头驯象给野象信心；大多数情况下，它会逐渐安静下来并开始进食。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The next stage is to get the elephant to the training establishment, a ticklish business which is achieved with the aid of two tame elephants roped to the captive on either side.",
+      "translation": {
+        "text": "下一步是把它送到训练场；这件棘手的工作靠两头驯象完成，它们分别拴在被捕大象两侧。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "When several elephants are being trained at one time, it is customary for the new arrival to be placed between the stalls of two captives, whose training is already well advanced.",
+      "translation": {
+        "text": "同时训练几头大象时，通常把新来的大象安置在两头训练已很深入的大象栏舍之间。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It is then left completely undisturbed with plenty of food and water, so that it can absorb the atmosphere of its new home and see that nothing particularly alarming is happening to its companions.",
+      "translation": {
+        "text": "随后完全不去打扰它，只供给充足食物和水，让它适应新家的气氛，并看到同伴身上没有发生特别可怕的事。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "When it is eating normally, its own training begins.",
+      "translation": {
+        "text": "等它正常进食后，正式训练便开始。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The trainer stands in front of the elephant holding a long stick with a sharp metal point.",
+      "translation": {
+        "text": "驯象人站在大象面前，手持一根带尖锐金属头的长棍。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Two assistants, mounted on tame elephants, control the captive from either side, while others rub their hands over his skin to the accompaniment of a monotonous and soothing chant.",
+      "translation": {
+        "text": "两名骑着驯象的助手从两侧控制被捕大象，其他人一边单调舒缓地吟唱，一边用手抚摸它的皮肤。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "This is supposed to induce pleasurable sensations in the elephant, and its effects are reinforced by the use of endearing epithets, such as Ho, my son, or Ho, my father, or My mother,",
+      "translation": {
+        "text": "据说这会使大象产生愉悦感；人们还用“哦，我的儿子”“哦，我的父亲”或“我的母亲”等亲昵称呼加强效果，"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "according to the age and sex of the captive.",
+      "translation": {
+        "text": "具体称呼取决于被捕大象的年龄和性别。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "The elephant is not immediately susceptible to such blandnessments, however, and usually lashes fiercely with its trunk in all directions.",
+      "translation": {
+        "text": "不过，大象不会立刻被这些甜言蜜语打动，通常会用鼻子向四面八方猛烈抽打。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "These movements are controlled by the trainer with the metal-pointed stick, and the trunk eventually becomes so sore that the elephant curls it up and seldom afterwards uses it for offensive purposes.",
+      "translation": {
+        "text": "驯象人用金属尖棍控制这些动作，最终象鼻会疼痛难忍而卷起来，此后很少再用于攻击。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-041-training-elephants-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4826148,
+        "sha256": "0ef5593b130e27da5a9ad96498b5007b0f41c0166810ecc8942b7ba8f72408d8"
+      },
+      "duration": 292.336,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 1.76
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.82,
+          "end": 4.14
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.1,
+          "end": 8.94
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.62,
+          "end": 15.24
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.81,
+          "end": 25.95
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.95,
+          "end": 35.89
+        },
+        {
+          "segmentId": "s007",
+          "start": 36.69,
+          "end": 41.29
+        },
+        {
+          "segmentId": "s008",
+          "start": 41.95,
+          "end": 48.53
+        },
+        {
+          "segmentId": "s009",
+          "start": 49.19,
+          "end": 60.11
+        },
+        {
+          "segmentId": "s010",
+          "start": 61.87,
+          "end": 71.09
+        },
+        {
+          "segmentId": "s011",
+          "start": 72.25,
+          "end": 80.39
+        },
+        {
+          "segmentId": "s012",
+          "start": 81.71,
+          "end": 96.49
+        },
+        {
+          "segmentId": "s013",
+          "start": 98.43,
+          "end": 112.69
+        },
+        {
+          "segmentId": "s014",
+          "start": 113.69,
+          "end": 128.33
+        },
+        {
+          "segmentId": "s015",
+          "start": 128.95,
+          "end": 138.29
+        },
+        {
+          "segmentId": "s016",
+          "start": 139.13,
+          "end": 152.81
+        },
+        {
+          "segmentId": "s017",
+          "start": 154.25,
+          "end": 166.85
+        },
+        {
+          "segmentId": "s018",
+          "start": 167.61,
+          "end": 178.95
+        },
+        {
+          "segmentId": "s019",
+          "start": 179.85,
+          "end": 192.61
+        },
+        {
+          "segmentId": "s020",
+          "start": 193.63,
+          "end": 206.91
+        },
+        {
+          "segmentId": "s021",
+          "start": 208.43,
+          "end": 211.91
+        },
+        {
+          "segmentId": "s022",
+          "start": 213.15,
+          "end": 218.49
+        },
+        {
+          "segmentId": "s023",
+          "start": 219.55,
+          "end": 233.77
+        },
+        {
+          "segmentId": "s024",
+          "start": 234.95,
+          "end": 250.35
+        },
+        {
+          "segmentId": "s025",
+          "start": 252.09,
+          "end": 254.41
+        },
+        {
+          "segmentId": "s026",
+          "start": 255.53,
+          "end": 264.27
+        },
+        {
+          "segmentId": "s027",
+          "start": 265.39,
+          "end": 279.49
+        }
+      ]
+    }
+  ]
+}

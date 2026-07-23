@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-043-044-hurry-up",
+    "kind": "textbook",
+    "title": "Lesson 43: Hurry up!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 43.",
+      "translation": {
+        "text": "第43课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Hurry Up.",
+      "translation": {
+        "text": "快点！"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How do you know Sam doesn't make the tea very often?",
+      "translation": {
+        "text": "你怎么知道萨姆不常沏茶？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Can you make the tea, Sam?",
+      "translation": {
+        "text": "萨姆，你会沏茶吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Yes, of course I can, Penny.",
+      "translation": {
+        "text": "会，我当然会，彭妮。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Is there any water in this kettle?",
+      "translation": {
+        "text": "这个水壶里有水吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Yes, there is.",
+      "translation": {
+        "text": "有。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Where's the tea?",
+      "translation": {
+        "text": "茶叶在哪里？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It's over there, behind the teapot.",
+      "translation": {
+        "text": "在那边，茶壶后面。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Can you see it?",
+      "translation": {
+        "text": "你看得见吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I can see the teapot, but I can't see the tea.",
+      "translation": {
+        "text": "我看得见茶壶，可看不见茶叶。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "There it is.",
+      "translation": {
+        "text": "就在那里。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It's in front of you.",
+      "translation": {
+        "text": "就在你面前。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Ah, yes.",
+      "translation": {
+        "text": "啊，是的。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I can see it now.",
+      "translation": {
+        "text": "我现在看见了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Where are the cups?",
+      "translation": {
+        "text": "茶杯在哪里？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "There are some in the cupboard.",
+      "translation": {
+        "text": "碗橱里有几只。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Can you find them?",
+      "translation": {
+        "text": "你能找到吗？"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Yes, here they are.",
+      "translation": {
+        "text": "能，在这里。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Hurry up, Sam.",
+      "translation": {
+        "text": "快点，萨姆。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The kettle's boiling.",
+      "translation": {
+        "text": "水开了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-043-044-hurry-up-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1390617,
+        "sha256": "e499a63e5914000f5c96b4b4f228a4422dd6c456e8d8d9589a1ac06e66ee5b7f"
+      },
+      "duration": 78.864,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.1
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.32,
+          "end": 4.16
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.94,
+          "end": 9.78
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.44,
+          "end": 16.1
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.28,
+          "end": 20.62
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.12,
+          "end": 25.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.94,
+          "end": 29.74
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.66,
+          "end": 32.48
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.58,
+          "end": 34.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.3,
+          "end": 38.82
+        },
+        {
+          "segmentId": "s011",
+          "start": 40.86,
+          "end": 42.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 43.46,
+          "end": 49.02
+        },
+        {
+          "segmentId": "s013",
+          "start": 49.74,
+          "end": 50.9
+        },
+        {
+          "segmentId": "s014",
+          "start": 51.4,
+          "end": 52.92
+        },
+        {
+          "segmentId": "s015",
+          "start": 53.64,
+          "end": 54.74
+        },
+        {
+          "segmentId": "s016",
+          "start": 55.54,
+          "end": 57.36
+        },
+        {
+          "segmentId": "s017",
+          "start": 58.24,
+          "end": 60.14
+        },
+        {
+          "segmentId": "s018",
+          "start": 61.18,
+          "end": 63.36
+        },
+        {
+          "segmentId": "s019",
+          "start": 64.18,
+          "end": 65.5
+        },
+        {
+          "segmentId": "s020",
+          "start": 66.3,
+          "end": 68.34
+        },
+        {
+          "segmentId": "s021",
+          "start": 69.36,
+          "end": 70.32
+        },
+        {
+          "segmentId": "s022",
+          "start": 71.14,
+          "end": 72.4
+        }
+      ]
+    }
+  ]
+}

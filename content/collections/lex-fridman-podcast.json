@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "lex-fridman-podcast",
+  "kind": "podcast",
+  "title": "Lex Fridman Podcast",
+  "lessons": [
+    {
+      "id": "lex-475-demis-hassabis-2",
+      "kind": "podcast",
+      "title": "Lex Fridman Podcast #475: Demis Hassabis 2",
+      "duration": 9296,
+      "byteLength": 111552619,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/lex-fridman-podcast/lex-475-demis-hassabis-2.json"
+    }
+  ]
+}

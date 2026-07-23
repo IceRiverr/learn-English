@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-057-can-i-help-you-madam",
+    "kind": "textbook",
+    "title": "Lesson 57: Can I Help You, Madam",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Can I Help You, Madam.",
+      "translation": {
+        "text": "要我帮您吗，女士？"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Did the woman get what she wanted?",
+      "translation": {
+        "text": "那位女士买到她想要的东西了吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "A woman in jeans stood at the window of an expensive shop.",
+      "translation": {
+        "text": "一个穿牛仔裤的女人站在一家高档商店的橱窗前。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "translation": {
+        "text": "她犹豫片刻，最终走进商店，要求看一看橱窗里的那件连衣裙。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The assistant who served her did not like the way she was dressed.",
+      "translation": {
+        "text": "接待她的店员不喜欢她的穿着。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Glancing at her scornfully, he told her that the dress was sold.",
+      "translation": {
+        "text": "店员轻蔑地瞥了她一眼，告诉她那件连衣裙已经卖掉了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "translation": {
+        "text": "女人气愤地走出商店，决定第二天惩罚一下那个店员。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "She returned to the shop the following morning, dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "translation": {
+        "text": "第二天上午，她又来到商店，身穿毛皮大衣，一只手提着手提包，另一只手拿着一把长雨伞。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "After seeking out the rude assistant, she asked for the same dress.",
+      "translation": {
+        "text": "找到那个无礼的店员后，她要求看同一件连衣裙。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Not realizing who she was, the assistant was eager to serve her this time.",
+      "translation": {
+        "text": "店员没有认出她，这次却急于为她服务。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "With great difficulty, he climbed into the shop window to get the dress.",
+      "translation": {
+        "text": "他费了很大劲爬进橱窗去拿那件连衣裙。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "As soon as she saw it, the woman said she did not like it.",
+      "translation": {
+        "text": "女人一看到它就说自己不喜欢。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+      "translation": {
+        "text": "她让店员几乎把橱窗里的所有东西都拿来，尽情捉弄了他一番，最后才买下最初要求看的那件连衣裙。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-057-can-i-help-you-madam-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1786056,
+        "sha256": "28e6d6870b02cbaafd1891c2925e28140f6c939e95b599fb6fc1e4d83db64830"
+      },
+      "duration": 102.322,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 2.37,
+          "end": 4.91
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.37,
+          "end": 9.35
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.81,
+          "end": 12.83
+        },
+        {
+          "segmentId": "s004",
+          "start": 14.99,
+          "end": 19.49
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.57,
+          "end": 28.85
+        },
+        {
+          "segmentId": "s006",
+          "start": 29.97,
+          "end": 34.81
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.91,
+          "end": 40.73
+        },
+        {
+          "segmentId": "s008",
+          "start": 41.79,
+          "end": 47.91
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.85,
+          "end": 58.59
+        },
+        {
+          "segmentId": "s010",
+          "start": 59.97,
+          "end": 65.07
+        },
+        {
+          "segmentId": "s011",
+          "start": 66.09,
+          "end": 72.57
+        },
+        {
+          "segmentId": "s012",
+          "start": 73.69,
+          "end": 78.85
+        },
+        {
+          "segmentId": "s013",
+          "start": 80.31,
+          "end": 85.13
+        },
+        {
+          "segmentId": "s014",
+          "start": 86.17,
+          "end": 96.25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-011-how-to-grow-old",
+    "kind": "textbook",
+    "title": "Lesson 11: How to Grow Old",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 11.",
+      "translation": {
+        "text": "第11课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How to Grow Old.",
+      "translation": {
+        "text": "怎样安度晚年。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen, and then answer the following question.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What, according to the author, is the best way to overcome the fear of death as you get older?",
+      "translation": {
+        "text": "作者认为，随着年事渐高，克服死亡恐惧的最佳方法是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Some old people are oppressed by the fear of death.",
+      "translation": {
+        "text": "有些老人深受死亡恐惧的折磨。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In the young there is a justification for this feeling.",
+      "translation": {
+        "text": "年轻人有这种感觉是情有可原的。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought that they have been cheated of the best things that life has to offer.",
+      "translation": {
+        "text": "有理由担心自己会战死的年轻人，一想到生活中最美好的东西被剥夺，完全有理由感到愤懑。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "But in an old man, who has known human joys and sorrows, and has achieved whatever work it was in him to do, the fear of death is somewhat abject and ignoble.",
+      "translation": {
+        "text": "但一位饱尝人生悲欢、已完成自己力所能及事业的老人若仍惧怕死亡，就显得有些卑怯而不高尚。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The best way to overcome it, so at least it seems to me, is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego",
+      "translation": {
+        "text": "至少在我看来，克服这种恐惧的最好办法，是让兴趣逐渐变得更广泛、更少以个人为中心，直到自我的围墙一点点"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "recede, and your life becomes increasingly merged in the universal life.",
+      "translation": {
+        "text": "退去，个人生命日益融入普遍的生命之中。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "An individual human existence should be like a river, small at first, narrowly contained within its banks, and rushing passionately past boulders and over waterfalls.",
+      "translation": {
+        "text": "人的一生应当像一条河：起初很小，被狭窄地束缚在两岸之间，满怀激情地冲过巨石、越过瀑布。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea.",
+      "translation": {
+        "text": "渐渐地，河面变宽，河岸后退，水流趋于平缓，最终不露痕迹地汇入大海。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "And painlessly lose their individual being.",
+      "translation": {
+        "text": "并且毫无痛苦地失去个体的存在。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The man who, in old age, can see his life in this way, will not suffer from the fear of death, since the things he cares for will continue.",
+      "translation": {
+        "text": "晚年能这样看待自己一生的人，不会受到死亡恐惧的折磨，因为他所关心的事物将继续存在。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "And if, with the decay of vitality, weariness increases, the thought of rest will be not unwelcome.",
+      "translation": {
+        "text": "而且，随着活力衰退、疲惫加深，休息的念头也不会令人排斥。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I should wish to die while still at work, knowing that others will carry on what I can no longer do, and content in the thought that what was possible has been done.",
+      "translation": {
+        "text": "我希望自己仍在工作时死去，知道别人会把我再也无力完成的工作继续下去，并满足于一切力所能及的事都已经做了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-011-how-to-grow-old-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2699983,
+        "sha256": "71d81581d388e721a201f1a844ac8d27c71cf7214bbbe00dd9a2a6233f438df8"
+      },
+      "duration": 159.451,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.14,
+          "end": 1.46
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.52,
+          "end": 3.96
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.04,
+          "end": 9.04
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.62,
+          "end": 18.3
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.32,
+          "end": 24.06
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.1,
+          "end": 28.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 28.32,
+          "end": 41.36
+        },
+        {
+          "segmentId": "s008",
+          "start": 42.18,
+          "end": 56.02
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.02,
+          "end": 71.7
+        },
+        {
+          "segmentId": "s010",
+          "start": 71.7,
+          "end": 77.42
+        },
+        {
+          "segmentId": "s011",
+          "start": 78.42,
+          "end": 92.46
+        },
+        {
+          "segmentId": "s012",
+          "start": 93.84,
+          "end": 106.74
+        },
+        {
+          "segmentId": "s013",
+          "start": 107.42,
+          "end": 110.5
+        },
+        {
+          "segmentId": "s014",
+          "start": 111.18,
+          "end": 122.28
+        },
+        {
+          "segmentId": "s015",
+          "start": 122.28,
+          "end": 133.38
+        },
+        {
+          "segmentId": "s016",
+          "start": 134.16,
+          "end": 146.34
+        }
+      ]
+    }
+  ]
+}

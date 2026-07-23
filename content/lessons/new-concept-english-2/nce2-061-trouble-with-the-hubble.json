@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-061-trouble-with-the-hubble",
+    "kind": "textbook",
+    "title": "Lesson 61: Trouble with the Hubble",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What is the special importance of a telescope in space?",
+      "translation": {
+        "text": "太空望远镜有什么特殊意义？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.",
+      "translation": {
+        "text": "1990年4月20日，美国国家航空航天局耗资十多亿美元，把哈勃望远镜发射到太空。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Right from the start, there was trouble with the Hubble.",
+      "translation": {
+        "text": "哈勃从一开始就出了问题。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The pictures it sent us were very disappointing because its main mirror was faulty.",
+      "translation": {
+        "text": "它传回的照片令人非常失望，因为主镜有缺陷。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "translation": {
+        "text": "美国国家航空航天局现在准备修好望远镜，因此很快会把四名宇航员送上太空进行维修。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The shuttle Endeavor will be taking the astronauts to the Hubble.",
+      "translation": {
+        "text": "“奋进号”航天飞机将把宇航员送到哈勃望远镜旁。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A robot arm from the Endeavor will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "translation": {
+        "text": "“奋进号”上的机械臂将抓住望远镜并固定住，供宇航员完成必要的维修。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Of course, the Hubble is above the Earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "translation": {
+        "text": "当然，哈勃位于地球大气层之外，因此很快会向我们传回有史以来最清晰的恒星和遥远星系照片。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "translation": {
+        "text": "哈勃将告诉我们许多有关宇宙年龄和大小的信息。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "translation": {
+        "text": "等你读到本文时，哈勃锐利的“鹰眼”将已经向我们传回成千上万张精彩照片。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-061-trouble-with-the-hubble-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1792327,
+        "sha256": "68666a35a296d86bce0c34788cac16466fd1c869176d36739c35752931cb4a7e"
+      },
+      "duration": 102.713,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.46,
+          "end": 9.5
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.74,
+          "end": 14.56
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.05,
+          "end": 27.57
+        },
+        {
+          "segmentId": "s004",
+          "start": 28.61,
+          "end": 32.51
+        },
+        {
+          "segmentId": "s005",
+          "start": 33.77,
+          "end": 40.01
+        },
+        {
+          "segmentId": "s006",
+          "start": 41.55,
+          "end": 50.07
+        },
+        {
+          "segmentId": "s007",
+          "start": 50.75,
+          "end": 55.07
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.13,
+          "end": 65.05
+        },
+        {
+          "segmentId": "s009",
+          "start": 66.41,
+          "end": 79.55
+        },
+        {
+          "segmentId": "s010",
+          "start": 80.73,
+          "end": 86.37
+        },
+        {
+          "segmentId": "s011",
+          "start": 87.75,
+          "end": 96.69
+        }
+      ]
+    }
+  ]
+}

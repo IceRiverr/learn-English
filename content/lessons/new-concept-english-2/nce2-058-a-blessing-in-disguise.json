@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-058-a-blessing-in-disguise",
+    "kind": "textbook",
+    "title": "Lesson 58: A Blessing in Disguise",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why does the vicar refuse to cut down the tree?",
+      "translation": {
+        "text": "牧师为什么拒绝砍掉那棵树？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The tiny village of Frinley is said to possess a cursed tree.",
+      "translation": {
+        "text": "据说，弗林利这个小村庄里有一棵被诅咒的树。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.",
+      "translation": {
+        "text": "因为这棵树被报纸报道过，现在到弗林利的游客越来越多。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.",
+      "translation": {
+        "text": "这棵树50年前栽在教堂附近，但直到近几年才有了恶名。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It is said that if anyone touches the tree, he will have bad luck.",
+      "translation": {
+        "text": "据说任何人只要碰到这棵树，就会遭遇厄运。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "If he picks a leaf, he will die.",
+      "translation": {
+        "text": "谁要是摘下一片叶子，谁就会死。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Many villagers believe that the tree has already claimed a number of victims.",
+      "translation": {
+        "text": "许多村民相信，这棵树已经夺去了好几个人的生命。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The vicar has been asked to have the tree cut down, but so far he has refused.",
+      "translation": {
+        "text": "有人请求牧师让人砍掉这棵树，但迄今他一直拒绝。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.",
+      "translation": {
+        "text": "他指出，这棵树是一个有用的收入来源，因为游客一直从全国各地赶来观看。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree trunk.",
+      "translation": {
+        "text": "尽管有种种传言，游客们仍一直在摘树叶，还把自己的名字刻在树干上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "So far, not one of them has been struck down by sudden death.",
+      "translation": {
+        "text": "到目前为止，他们中没有一个突然死亡。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-058-a-blessing-in-disguise-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1760144,
+        "sha256": "76a09fe7f92b2088fb177520e5be23e13f0d134f6cbbfb271ed142dec1891b22"
+      },
+      "duration": 100.702,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.55,
+          "end": 9.57
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.11,
+          "end": 14.79
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.82,
+          "end": 22
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.86,
+          "end": 30.22
+        },
+        {
+          "segmentId": "s005",
+          "start": 31.64,
+          "end": 41.42
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.9,
+          "end": 48
+        },
+        {
+          "segmentId": "s007",
+          "start": 48.74,
+          "end": 51.42
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.92,
+          "end": 58.38
+        },
+        {
+          "segmentId": "s009",
+          "start": 59.82,
+          "end": 66.64
+        },
+        {
+          "segmentId": "s010",
+          "start": 68.32,
+          "end": 79.08
+        },
+        {
+          "segmentId": "s011",
+          "start": 80.04,
+          "end": 88.08
+        },
+        {
+          "segmentId": "s012",
+          "start": 89.16,
+          "end": 94.6
+        }
+      ]
+    }
+  ]
+}

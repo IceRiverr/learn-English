@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-023-a-new-house",
+    "kind": "textbook",
+    "title": "Lesson 23: A New House",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 23.",
+      "translation": {
+        "text": "第23课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A New House.",
+      "translation": {
+        "text": "新居。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why is the new house special?",
+      "translation": {
+        "text": "这座新房子有什么特别之处？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I had a letter from my sister yesterday.",
+      "translation": {
+        "text": "昨天我收到了姐姐的一封信。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She lives in Nigeria.",
+      "translation": {
+        "text": "她住在尼日利亚。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "In her letter, she said that she would come to England next year.",
+      "translation": {
+        "text": "她在信中说，明年会到英国来。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "If she comes, she will get a surprise.",
+      "translation": {
+        "text": "她来了以后，会大吃一惊。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "We are now living in a beautiful new house in the country.",
+      "translation": {
+        "text": "我们现在住在乡间一栋漂亮的新房子里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Work on it had begun before my sister left.",
+      "translation": {
+        "text": "姐姐离开前，这座房子就已经动工了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The house was completed five months ago.",
+      "translation": {
+        "text": "房子在5个月前竣工。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In my letter, I told her that she could stay with us.",
+      "translation": {
+        "text": "我在信中告诉她，她可以和我们住在一起。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The house has many large rooms, and there is a lovely garden.",
+      "translation": {
+        "text": "这座房子有许多宽敞的房间，还有一个可爱的花园。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It is a very modern house, so it looks strange to some people.",
+      "translation": {
+        "text": "这是一座非常现代化的房子，因此在有些人看来很奇怪。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It must be the only modern house in the district.",
+      "translation": {
+        "text": "它一定是这个地区唯一的现代化住宅。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-023-a-new-house-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1319591,
+        "sha256": "d0e9685e98a64b20c7c3f8b73b39b3380085f06b0993eee403c22575f8a6f1c3"
+      },
+      "duration": 73.169,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.4,
+          "end": 2.18
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.04,
+          "end": 4.26
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.7,
+          "end": 9.06
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.56,
+          "end": 12.9
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.21,
+          "end": 18.15
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.33,
+          "end": 20.83
+        },
+        {
+          "segmentId": "s007",
+          "start": 22.19,
+          "end": 27.03
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.89,
+          "end": 31.37
+        },
+        {
+          "segmentId": "s009",
+          "start": 32.57,
+          "end": 36.73
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.91,
+          "end": 41.49
+        },
+        {
+          "segmentId": "s011",
+          "start": 42.55,
+          "end": 45.41
+        },
+        {
+          "segmentId": "s012",
+          "start": 46.41,
+          "end": 50.67
+        },
+        {
+          "segmentId": "s013",
+          "start": 51.47,
+          "end": 56.13
+        },
+        {
+          "segmentId": "s014",
+          "start": 56.69,
+          "end": 62.63
+        },
+        {
+          "segmentId": "s015",
+          "start": 63.75,
+          "end": 67.47
+        }
+      ]
+    }
+  ]
+}

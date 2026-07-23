@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-025-the-cutty-sark",
+    "kind": "textbook",
+    "title": "Lesson 25: The Cutty Sark",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 25.",
+      "translation": {
+        "text": "第25课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Cutty Sark.",
+      "translation": {
+        "text": "“卡蒂萨克号”帆船。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What piece of bad luck prevented the Cutty Sark from winning the race?",
+      "translation": {
+        "text": "哪次厄运使“卡蒂萨克号”未能赢得比赛？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "One of the most famous sailing ships of the 19th century, the Cutty Sark, can still be seen at Greenwich.",
+      "translation": {
+        "text": "19世纪最著名的帆船之一“卡蒂萨克号”，如今仍可在格林尼治看到。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She stands on dry land and is visited by thousands of people each year.",
+      "translation": {
+        "text": "它停放在陆地上，每年有成千上万人前来参观。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "She serves as an impressive reminder of the great ships of the past.",
+      "translation": {
+        "text": "它令人印象深刻地唤起人们对昔日巨轮的记忆。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Before they were replaced by steamships, sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.",
+      "translation": {
+        "text": "在被轮船取代以前，像“卡蒂萨克号”这样的帆船曾用于从中国运茶叶、从澳大利亚运羊毛。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The Cutty Sark was one of the fastest sailing ships that has ever been built.",
+      "translation": {
+        "text": "“卡蒂萨克号”是有史以来建造的最快帆船之一。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The only other ship to match her was the Thermopylae.",
+      "translation": {
+        "text": "唯一能与它匹敌的是“塞莫皮莱号”。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Both these ships set out from Shanghai on June 18, 1872, on an exciting race to England.",
+      "translation": {
+        "text": "1872年6月18日，两艘船同时从上海启航，展开了一场驶往英国的激动人心的比赛。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "This race, which went on for exactly four months, was the last of its kind.",
+      "translation": {
+        "text": "比赛整整持续了四个月，也是同类比赛中的最后一场。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It marked the end of the great tradition of ships with sails and the beginning of a new era.",
+      "translation": {
+        "text": "它标志着大型帆船传统的终结和新时代的开始。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The first of the two ships to reach Java after the race had begun was the Thermopylae, but on the Indian Ocean the Cutty Sark took the lead.",
+      "translation": {
+        "text": "比赛开始后，两船中首先抵达爪哇的是“塞莫皮莱号”，但进入印度洋后，“卡蒂萨克号”取得领先。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It seemed certain that she would be the first ship home, but during the race she had a lot of bad luck.",
+      "translation": {
+        "text": "看来它肯定会最先回到英国，但比赛中它遭遇了连番厄运。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "In August she was struck by a very heavy storm during which her rudder was torn away.",
+      "translation": {
+        "text": "8月，它遇上一场猛烈风暴，船舵被卷走。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The Cutty Sark rolled from side to side, and it became impossible to steer her.",
+      "translation": {
+        "text": "“卡蒂萨克号”左右摇摆，完全无法操纵。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "A temporary rudder was made on board from spare planks, and it was fitted with great difficulty.",
+      "translation": {
+        "text": "船员用备用木板在船上制成一个临时船舵，并费尽周折将它装好。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "This greatly reduced the speed of the ship, for there was a danger that if she traveled too quickly, this rudder would be torn away as well.",
+      "translation": {
+        "text": "这大大降低了航速，因为如果开得太快，临时船舵也有被卷走的危险。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Because of this, the Cutty Sark lost her lead.",
+      "translation": {
+        "text": "因此，“卡蒂萨克号”失去了领先地位。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "After crossing the equator, captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead.",
+      "translation": {
+        "text": "越过赤道后，船长驶入一个港口安装新舵，但此时“塞莫皮莱号”已领先500多英里。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win.",
+      "translation": {
+        "text": "尽管新舵以惊人的速度装好，“卡蒂萨克号”仍不可能获胜。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "She arrived in England a week after the Thermopylae.",
+      "translation": {
+        "text": "它比“塞莫皮莱号”晚一周抵达英国。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Even this was remarkable, considering that she had had so many delays.",
+      "translation": {
+        "text": "考虑到途中耽搁如此之多，这个成绩仍十分了不起。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "There is no doubt that if she had not lost her rudder, she would have won the race easily.",
+      "translation": {
+        "text": "毫无疑问，如果没有失去船舵，它本可以轻松赢得比赛。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-025-the-cutty-sark-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3039077,
+        "sha256": "c95ba1a58c8f88451048436a544e63720d015bd340b1112b6dcb9cc61b64437a"
+      },
+      "duration": 180.689,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.02,
+          "end": 1.58
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.58,
+          "end": 3.46
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.98,
+          "end": 8.42
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.66,
+          "end": 14.36
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.24,
+          "end": 23.4
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.4,
+          "end": 29.52
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.46,
+          "end": 35.24
+        },
+        {
+          "segmentId": "s008",
+          "start": 36.18,
+          "end": 46.28
+        },
+        {
+          "segmentId": "s009",
+          "start": 47.32,
+          "end": 52.46
+        },
+        {
+          "segmentId": "s010",
+          "start": 52.46,
+          "end": 57.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 58.18,
+          "end": 66.78
+        },
+        {
+          "segmentId": "s012",
+          "start": 67.88,
+          "end": 73.92
+        },
+        {
+          "segmentId": "s013",
+          "start": 74.48,
+          "end": 81.5
+        },
+        {
+          "segmentId": "s014",
+          "start": 82.58,
+          "end": 93.12
+        },
+        {
+          "segmentId": "s015",
+          "start": 93.92,
+          "end": 100.92
+        },
+        {
+          "segmentId": "s016",
+          "start": 101.66,
+          "end": 108.5
+        },
+        {
+          "segmentId": "s017",
+          "start": 109.34,
+          "end": 114.92
+        },
+        {
+          "segmentId": "s018",
+          "start": 115.88,
+          "end": 122.82
+        },
+        {
+          "segmentId": "s019",
+          "start": 123.58,
+          "end": 133.42
+        },
+        {
+          "segmentId": "s020",
+          "start": 134.42,
+          "end": 137.8
+        },
+        {
+          "segmentId": "s021",
+          "start": 138.84,
+          "end": 150.16
+        },
+        {
+          "segmentId": "s022",
+          "start": 151.02,
+          "end": 158
+        },
+        {
+          "segmentId": "s023",
+          "start": 159.18,
+          "end": 162.58
+        },
+        {
+          "segmentId": "s024",
+          "start": 162.58,
+          "end": 168.22
+        },
+        {
+          "segmentId": "s025",
+          "start": 169.34,
+          "end": 175.32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-012-life-on-a-desert-island",
+    "kind": "textbook",
+    "title": "Lesson 12: Life on a Desert Island",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 12.",
+      "translation": {
+        "text": "第12课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Life on a Desert Island.",
+      "translation": {
+        "text": "荒岛生活。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was exceptional about the two men's stay on the desert island?",
+      "translation": {
+        "text": "这两个人在荒岛上的经历有什么不同寻常之处？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Most of us have formed an unrealistic picture of life on a desert island.",
+      "translation": {
+        "text": "我们大多数人对荒岛生活都有一种不切实际的想象。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines.",
+      "translation": {
+        "text": "我们有时把荒岛想成阳光永远灿烂的天堂。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Life there is simple and good.",
+      "translation": {
+        "text": "那里的生活简单而美好。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Ripe fruit falls from the trees, and you never have to work.",
+      "translation": {
+        "text": "成熟的水果从树上掉下来，人们永远不必劳动。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The other side of the picture is quite the opposite.",
+      "translation": {
+        "text": "另一幅图景却完全相反。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Life on a desert island is wretched.",
+      "translation": {
+        "text": "荒岛生活悲惨不堪。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes.",
+      "translation": {
+        "text": "你不是饿死，就是像鲁滨孙·克鲁索一样生活，等待一艘永远不会来的船。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.",
+      "translation": {
+        "text": "也许这两幅图景都含有几分真实，但我们很少有人有机会亲自验证。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Two men, who recently spent five days on a coral island, wished they had stayed there longer.",
+      "translation": {
+        "text": "最近有两个人在一座珊瑚岛上度过了五天，他们倒希望在那里待得更久些。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
+      "translation": {
+        "text": "他们正把一艘严重受损的船从维尔京群岛驶往迈阿密修理。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "During the journey, their boat began to sink.",
+      "translation": {
+        "text": "途中，他们的船开始下沉。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer, and rode for a few miles across the Caribbean until they arrived at a tiny coral island.",
+      "translation": {
+        "text": "他们迅速把食物、火柴和罐装啤酒装进一艘小橡皮艇，在加勒比海上划了几英里，最终抵达一座小珊瑚岛。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "There were hardly any trees on the island, and there was no water, but this did not prove to be a problem.",
+      "translation": {
+        "text": "岛上几乎没有树，也没有淡水，但这并没有成为问题。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The men collected rainwater in the rubber dinghy.",
+      "translation": {
+        "text": "他们用橡皮艇收集雨水。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "As they had brought a spear gun with them, they had plenty to eat.",
+      "translation": {
+        "text": "由于带着一支捕鱼枪，他们有充足的食物。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "They caught lobster and fish every day, and, as one of them put it, ate like kings.",
+      "translation": {
+        "text": "他们每天捕捉龙虾和鱼，用其中一人的话说，吃得像国王一样。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.",
+      "translation": {
+        "text": "五天后，一艘路过的油轮救起他们时，两人都真心为不得不离开而感到遗憾。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-012-life-on-a-desert-island-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2238712,
+        "sha256": "7e72ed92172f26c3492fb2b5d6b708420c2cd09005c5f5eb74c6fc0013d33acc"
+      },
+      "duration": 130.665,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.51
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.51,
+          "end": 4.05
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.15,
+          "end": 8.37
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.75,
+          "end": 13.97
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.34,
+          "end": 21.1
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.22,
+          "end": 29.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 29.16,
+          "end": 31.74
+        },
+        {
+          "segmentId": "s008",
+          "start": 32.72,
+          "end": 36.74
+        },
+        {
+          "segmentId": "s009",
+          "start": 37.54,
+          "end": 40.36
+        },
+        {
+          "segmentId": "s010",
+          "start": 41.3,
+          "end": 43.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 43.96,
+          "end": 51.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 52.5,
+          "end": 59.68
+        },
+        {
+          "segmentId": "s013",
+          "start": 60.98,
+          "end": 67.78
+        },
+        {
+          "segmentId": "s014",
+          "start": 69.2,
+          "end": 75.02
+        },
+        {
+          "segmentId": "s015",
+          "start": 75.9,
+          "end": 78.58
+        },
+        {
+          "segmentId": "s016",
+          "start": 79.72,
+          "end": 92.58
+        },
+        {
+          "segmentId": "s017",
+          "start": 93.68,
+          "end": 100.44
+        },
+        {
+          "segmentId": "s018",
+          "start": 101.58,
+          "end": 104.44
+        },
+        {
+          "segmentId": "s019",
+          "start": 104.44,
+          "end": 109.02
+        },
+        {
+          "segmentId": "s020",
+          "start": 109.6,
+          "end": 116.22
+        },
+        {
+          "segmentId": "s021",
+          "start": 117.28,
+          "end": 124.68
+        }
+      ]
+    }
+  ]
+}

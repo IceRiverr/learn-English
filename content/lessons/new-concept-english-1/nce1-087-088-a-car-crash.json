@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-087-088-a-car-crash",
+    "kind": "textbook",
+    "title": "Lesson 87: A car crash",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 87–A Car Crash.",
+      "translation": {
+        "text": "第87课——车祸。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Can the mechanics repair Mr.",
+      "translation": {
+        "text": "修理工能修好伍德先生的"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Wood's car?",
+      "translation": {
+        "text": "汽车吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Is my car ready yet?",
+      "translation": {
+        "text": "我的车修好了吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I don't know, sir.",
+      "translation": {
+        "text": "我不知道，先生。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What's the number of your car?",
+      "translation": {
+        "text": "您的车牌号是多少？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It's L-F-Z-3-1-2-G.",
+      "translation": {
+        "text": "是L-F-Z-3-1-2-G。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "When did you bring it to us?",
+      "translation": {
+        "text": "您什么时候把车送来的？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I brought it here three days ago.",
+      "translation": {
+        "text": "三天前送来的。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Ah, yes, I remember now.",
+      "translation": {
+        "text": "啊，对了，我现在想起来了。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Have your mechanics finished yet?",
+      "translation": {
+        "text": "你们的修理工修完了吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "No, they're still working on it.",
+      "translation": {
+        "text": "还没有，他们还在修。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Let's go into the garage and have a look at it.",
+      "translation": {
+        "text": "我们去车库看看吧。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Isn't that your car?",
+      "translation": {
+        "text": "那不是您的车吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Well, it was my car.",
+      "translation": {
+        "text": "嗯，它以前是我的车。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Didn't you have a crash?",
+      "translation": {
+        "text": "您不是出了车祸吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "That's right.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I drove it into a lamppost.",
+      "translation": {
+        "text": "我把车撞到路灯杆上了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Can your mechanics repair it?",
+      "translation": {
+        "text": "你们的修理工能修好吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Well, they're trying to repair it, sir.",
+      "translation": {
+        "text": "他们正在设法修，先生。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "But to tell you the truth, you need a new car.",
+      "translation": {
+        "text": "不过说实话，您需要一辆新车了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-087-088-a-car-crash-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1534486,
+        "sha256": "82326bf8570f823040948378efe7f20bac2bb735bcce1e336b1efbd223b13815"
+      },
+      "duration": 87.876,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 4.29
+        },
+        {
+          "segmentId": "s002",
+          "start": 5.81,
+          "end": 9.75
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.39,
+          "end": 13.93
+        },
+        {
+          "segmentId": "s004",
+          "start": 14.27,
+          "end": 14.91
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.27,
+          "end": 19.11
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.79,
+          "end": 21.59
+        },
+        {
+          "segmentId": "s007",
+          "start": 22.27,
+          "end": 24.47
+        },
+        {
+          "segmentId": "s008",
+          "start": 25.19,
+          "end": 31.03
+        },
+        {
+          "segmentId": "s009",
+          "start": 32.21,
+          "end": 34.37
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.17,
+          "end": 38.31
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.17,
+          "end": 41.79
+        },
+        {
+          "segmentId": "s012",
+          "start": 42.81,
+          "end": 45.43
+        },
+        {
+          "segmentId": "s013",
+          "start": 46.23,
+          "end": 48.89
+        },
+        {
+          "segmentId": "s014",
+          "start": 49.61,
+          "end": 53.87
+        },
+        {
+          "segmentId": "s015",
+          "start": 55.33,
+          "end": 57.49
+        },
+        {
+          "segmentId": "s016",
+          "start": 58.77,
+          "end": 61.69
+        },
+        {
+          "segmentId": "s017",
+          "start": 62.67,
+          "end": 64.31
+        },
+        {
+          "segmentId": "s018",
+          "start": 65.25,
+          "end": 66.09
+        },
+        {
+          "segmentId": "s019",
+          "start": 66.69,
+          "end": 69.51
+        },
+        {
+          "segmentId": "s020",
+          "start": 70.43,
+          "end": 72.83
+        },
+        {
+          "segmentId": "s021",
+          "start": 73.55,
+          "end": 76.37
+        },
+        {
+          "segmentId": "s022",
+          "start": 76.97,
+          "end": 81.15
+        }
+      ]
+    }
+  ]
+}

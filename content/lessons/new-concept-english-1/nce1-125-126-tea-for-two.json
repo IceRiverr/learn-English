@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-125-126-tea-for-two",
+    "kind": "textbook",
+    "title": "Lesson 125: Tea for two",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 125–Tea for Two.",
+      "translation": {
+        "text": "第125课——两个人一起喝茶。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Does Susan have tea by herself?",
+      "translation": {
+        "text": "苏珊是独自喝茶吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Can't you come in and have tea now, Peter?",
+      "translation": {
+        "text": "彼得，你现在不能进来喝茶吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Not yet.",
+      "translation": {
+        "text": "还不行。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I must water the garden first.",
+      "translation": {
+        "text": "我得先给花园浇水。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Do you have to water it now?",
+      "translation": {
+        "text": "你非得现在浇吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I'm afraid I must.",
+      "translation": {
+        "text": "恐怕是的。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Look at it.",
+      "translation": {
+        "text": "你看看。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It's terribly dry.",
+      "translation": {
+        "text": "干得厉害。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "What a nuisance!",
+      "translation": {
+        "text": "真讨厌！"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Last summer it was very dry, too.",
+      "translation": {
+        "text": "去年夏天也很干。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Don't you remember?",
+      "translation": {
+        "text": "你不记得了吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I had to water it every day.",
+      "translation": {
+        "text": "我那时每天都得浇水。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Well, I'll have tea by myself.",
+      "translation": {
+        "text": "那好吧，我自己喝茶。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "That was quick.",
+      "translation": {
+        "text": "这么快就好了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Have you finished already?",
+      "translation": {
+        "text": "你已经浇完了吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Yes.",
+      "translation": {
+        "text": "是啊。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Look out of the window.",
+      "translation": {
+        "text": "看看窗外。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It's raining.",
+      "translation": {
+        "text": "下雨了。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That means you don't need to water the garden.",
+      "translation": {
+        "text": "这就意味着你不用给花园浇水了。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "That was a surprise.",
+      "translation": {
+        "text": "真没想到。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "It means I can have tea instead.",
+      "translation": {
+        "text": "这意味着我可以改喝茶了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-125-126-tea-for-two-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1438995,
+        "sha256": "3d439a2c0a5e1def43c45b53f37ea2cb0a0b1806bae86a659f9e6f5c96f82d29"
+      },
+      "duration": 81.894,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.3,
+          "end": 4.96
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.48,
+          "end": 10.16
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.42,
+          "end": 14.02
+        },
+        {
+          "segmentId": "s004",
+          "start": 16.63,
+          "end": 20.13
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.05,
+          "end": 21.71
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.41,
+          "end": 24.85
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.79,
+          "end": 28.35
+        },
+        {
+          "segmentId": "s008",
+          "start": 29.15,
+          "end": 30.87
+        },
+        {
+          "segmentId": "s009",
+          "start": 31.81,
+          "end": 32.53
+        },
+        {
+          "segmentId": "s010",
+          "start": 32.97,
+          "end": 34.71
+        },
+        {
+          "segmentId": "s011",
+          "start": 35.43,
+          "end": 36.77
+        },
+        {
+          "segmentId": "s012",
+          "start": 38.05,
+          "end": 41.09
+        },
+        {
+          "segmentId": "s013",
+          "start": 42.09,
+          "end": 43.07
+        },
+        {
+          "segmentId": "s014",
+          "start": 43.95,
+          "end": 46.75
+        },
+        {
+          "segmentId": "s015",
+          "start": 47.61,
+          "end": 50.95
+        },
+        {
+          "segmentId": "s016",
+          "start": 52.39,
+          "end": 53.89
+        },
+        {
+          "segmentId": "s017",
+          "start": 54.79,
+          "end": 56.53
+        },
+        {
+          "segmentId": "s018",
+          "start": 56.53,
+          "end": 57.79
+        },
+        {
+          "segmentId": "s019",
+          "start": 58.95,
+          "end": 60.19
+        },
+        {
+          "segmentId": "s020",
+          "start": 61.43,
+          "end": 62.29
+        },
+        {
+          "segmentId": "s021",
+          "start": 63.45,
+          "end": 67.41
+        },
+        {
+          "segmentId": "s022",
+          "start": 68.81,
+          "end": 70.91
+        },
+        {
+          "segmentId": "s023",
+          "start": 72.23,
+          "end": 74.97
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-074-out-of-the-limelight",
+    "kind": "textbook",
+    "title": "Lesson 74: Out of the Limelight",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why was their disguise too perfect?",
+      "translation": {
+        "text": "他们的伪装为什么过于完美？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "An ancient bus stopped by a dry riverbed, and a party of famous actors and actresses got off.",
+      "translation": {
+        "text": "一辆老式公共汽车停在干涸的河床旁，一群著名男女演员下了车。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "translation": {
+        "text": "他们戴着墨镜，穿着旧衣服，采取了特别的防范措施，以免被人认出。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "translation": {
+        "text": "不过，他们很快就发现，伪装有时也会过于完美。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "This is a wonderful place for a picnic, said Gloria Gleam.",
+      "translation": {
+        "text": "“这里真是野餐的好地方。”格洛丽亚·格利姆说。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It couldn't be better, Gloria.",
+      "translation": {
+        "text": "“再好不过了，格洛丽亚。”"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Brinksley Meers agreed.",
+      "translation": {
+        "text": "布林克斯利·米尔斯表示赞同。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "No newspapermen, no film fans.",
+      "translation": {
+        "text": "“没有记者，也没有影迷。”"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Why don't we come more often?",
+      "translation": {
+        "text": "“我们为什么不常来呢？”"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "translation": {
+        "text": "与此同时，另外两名演员罗克沃尔·斯林格和默林·格里夫斯把两个大食物篮搬到树下的一片阴凉处。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "When they had all made themselves comfortable, a stranger appeared.",
+      "translation": {
+        "text": "大家都安顿舒适后，一个陌生人出现了。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He looked very angry.",
+      "translation": {
+        "text": "他看起来非常生气。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Now you get out of here, all of you, he shouted.",
+      "translation": {
+        "text": "“你们所有人，现在就离开这里！”他喊道。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I'm Sheriff here.",
+      "translation": {
+        "text": "“我是这里的治安官。”"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Do you see that notice?",
+      "translation": {
+        "text": "“你们看见那块告示了吗？”"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "It says no camping, in case you can't read.",
+      "translation": {
+        "text": "“上面写着禁止露营——如果你们还识字的话。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Look, Sheriff, said Rockwall, don't be too hard on us.",
+      "translation": {
+        "text": "“听着，治安官，”罗克沃尔说，“别对我们太苛刻。”"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I'm Rockwall Slinger, and this is Merlin Greeves.",
+      "translation": {
+        "text": "“我是罗克沃尔·斯林格，这位是默林·格里夫斯。”"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Oh, is it?",
+      "translation": {
+        "text": "“哦，是吗？”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "said the Sheriff with a sneer.",
+      "translation": {
+        "text": "治安官冷笑着说。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Well, I'm Brinksley Meers, and my other name is Gloria Gleam.",
+      "translation": {
+        "text": "“那我就是布林克斯利·米尔斯，我的另一个名字还叫格洛丽亚·格利姆呢。”"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Now you get out of here fast.",
+      "translation": {
+        "text": "“现在赶快离开这里。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-074-out-of-the-limelight-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2330235,
+        "sha256": "1d368484ed3cac99a7b8e9c7b16a0289b554a87f988ff4e32411e717ecccbe07"
+      },
+      "duration": 136.333,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.62,
+          "end": 9.68
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.36,
+          "end": 14.46
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.7,
+          "end": 24.6
+        },
+        {
+          "segmentId": "s004",
+          "start": 25.88,
+          "end": 34.52
+        },
+        {
+          "segmentId": "s005",
+          "start": 35.74,
+          "end": 41.92
+        },
+        {
+          "segmentId": "s006",
+          "start": 43.24,
+          "end": 48.78
+        },
+        {
+          "segmentId": "s007",
+          "start": 49.62,
+          "end": 51.74
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.68,
+          "end": 54.2
+        },
+        {
+          "segmentId": "s009",
+          "start": 55.08,
+          "end": 58.18
+        },
+        {
+          "segmentId": "s010",
+          "start": 59.34,
+          "end": 61.32
+        },
+        {
+          "segmentId": "s011",
+          "start": 61.32,
+          "end": 75.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 76.74,
+          "end": 81.64
+        },
+        {
+          "segmentId": "s013",
+          "start": 82.56,
+          "end": 84.58
+        },
+        {
+          "segmentId": "s014",
+          "start": 85.46,
+          "end": 90.54
+        },
+        {
+          "segmentId": "s015",
+          "start": 91.66,
+          "end": 93.06
+        },
+        {
+          "segmentId": "s016",
+          "start": 94.04,
+          "end": 95.88
+        },
+        {
+          "segmentId": "s017",
+          "start": 96.74,
+          "end": 102
+        },
+        {
+          "segmentId": "s018",
+          "start": 103,
+          "end": 108.76
+        },
+        {
+          "segmentId": "s019",
+          "start": 109.74,
+          "end": 114.44
+        },
+        {
+          "segmentId": "s020",
+          "start": 115.62,
+          "end": 116.92
+        },
+        {
+          "segmentId": "s021",
+          "start": 117.44,
+          "end": 119.24
+        },
+        {
+          "segmentId": "s022",
+          "start": 120.26,
+          "end": 126
+        },
+        {
+          "segmentId": "s023",
+          "start": 126.84,
+          "end": 129.52
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-025-do-the-english-speak-english",
+    "kind": "textbook",
+    "title": "Lesson 25: Do the English Speak English",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why does the writer not understand the porter?",
+      "translation": {
+        "text": "为什么作者听不懂搬运工的话？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "I arrived in London at last.",
+      "translation": {
+        "text": "我终于到了伦敦。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The railway station was big, and dark.",
+      "translation": {
+        "text": "火车站又大又昏暗。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I did not know the way to my hotel, so I asked a porter.",
+      "translation": {
+        "text": "我不知道去饭店的路，于是向一名搬运工打听。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I not only spoke English very carefully, but very clearly as well.",
+      "translation": {
+        "text": "我不但非常认真地讲英语，而且咬字也很清楚。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The porter, however, could not understand me.",
+      "translation": {
+        "text": "然而，那搬运工却听不懂我的话。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I repeated my question several times and at last he understood.",
+      "translation": {
+        "text": "我把问题重复了好几遍，他终于听懂了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He answered me, but he spoke neither slowly nor clearly.",
+      "translation": {
+        "text": "他回答了我，但既说得不慢，也说得不清楚。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I am a foreigner, I said.",
+      "translation": {
+        "text": "“我是外国人，”我说。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Then he spoke slowly, but I could not understand him.",
+      "translation": {
+        "text": "于是他说得慢了，可我还是听不懂。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "My teacher never spoke English like that.",
+      "translation": {
+        "text": "我的老师从来不那样讲英语。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The porter and I looked at each other and smiled.",
+      "translation": {
+        "text": "搬运工和我互相看了看，都笑了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Then he said something and I understood it.",
+      "translation": {
+        "text": "后来他说了一句话，我听懂了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "You'll soon learn English, he said.",
+      "translation": {
+        "text": "“你很快就会学会英语的，”他说。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I wonder.",
+      "translation": {
+        "text": "我很怀疑。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "In England, each person speaks a different language.",
+      "translation": {
+        "text": "在英国，每个人说的似乎都是一种不同的语言。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The English understand each other, but I don't understand them.",
+      "translation": {
+        "text": "英国人彼此能听懂，可我听不懂他们。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Do they speak English?",
+      "translation": {
+        "text": "他们说的真是英语吗？"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-025-do-the-english-speak-english-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1847928,
+        "sha256": "9c64cbd1c2996a1e7e337d6ca79d0e068c6ec62f947e06705d77ae3910ac502d"
+      },
+      "duration": 106.188,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 6.64,
+          "end": 10.88
+        },
+        {
+          "segmentId": "s002",
+          "start": 12.46,
+          "end": 15.9
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.8,
+          "end": 20.16
+        },
+        {
+          "segmentId": "s004",
+          "start": 21.08,
+          "end": 25.22
+        },
+        {
+          "segmentId": "s005",
+          "start": 26.24,
+          "end": 31.44
+        },
+        {
+          "segmentId": "s006",
+          "start": 32.52,
+          "end": 38.94
+        },
+        {
+          "segmentId": "s007",
+          "start": 40.16,
+          "end": 43.46
+        },
+        {
+          "segmentId": "s008",
+          "start": 44.34,
+          "end": 50.24
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.24,
+          "end": 56.04
+        },
+        {
+          "segmentId": "s010",
+          "start": 57.08,
+          "end": 60.16
+        },
+        {
+          "segmentId": "s011",
+          "start": 61.2,
+          "end": 65.92
+        },
+        {
+          "segmentId": "s012",
+          "start": 67.1,
+          "end": 70.48
+        },
+        {
+          "segmentId": "s013",
+          "start": 71.66,
+          "end": 74.9
+        },
+        {
+          "segmentId": "s014",
+          "start": 74.9,
+          "end": 79.12
+        },
+        {
+          "segmentId": "s015",
+          "start": 80.1,
+          "end": 83.18
+        },
+        {
+          "segmentId": "s016",
+          "start": 84.38,
+          "end": 85.1
+        },
+        {
+          "segmentId": "s017",
+          "start": 86.52,
+          "end": 90.4
+        },
+        {
+          "segmentId": "s018",
+          "start": 91.34,
+          "end": 96.76
+        },
+        {
+          "segmentId": "s019",
+          "start": 98,
+          "end": 99.94
+        }
+      ]
+    }
+  ]
+}

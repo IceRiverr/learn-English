@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-089-a-slip-of-the-tongue",
+    "kind": "textbook",
+    "title": "Lesson 89: A Slip of the Tongue",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 89.",
+      "translation": {
+        "text": "第89课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Slip of the Tongue.",
+      "translation": {
+        "text": "口误。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who made the only funny joke that evening and why?",
+      "translation": {
+        "text": "那天晚上是谁说了唯一一个好笑的笑话？为什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "People will do anything to see a free show, even if it is a bad one.",
+      "translation": {
+        "text": "为了看免费演出，人们什么都愿意做，哪怕演出很糟糕。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it.",
+      "translation": {
+        "text": "听说P&U鸟食公司要在本地电影院举办一场喜剧演出后，我们全都赶去观看。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "We had to queue for hours to get in, and there must have been several hundred people present just before the show began.",
+      "translation": {
+        "text": "为了入场，我们不得不排队数小时；演出开始前，在场的一定有好几百人。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "translation": {
+        "text": "不幸的是，这是我们看过的最乏味的演出之一。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Those who failed to get in need not have felt disappointed, as many of the artists who should have appeared did not come.",
+      "translation": {
+        "text": "那些没能入场的人其实不必失望，因为许多本应登台的演员都没有来。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The only funny things we heard that evening came from the advertiser at the beginning of the program.",
+      "translation": {
+        "text": "那天晚上，我们听到的唯一笑料来自节目开始时的报幕员。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "He was obviously very nervous, and for some minutes stood awkwardly before the microphone.",
+      "translation": {
+        "text": "他显然非常紧张，在麦克风前局促地站了好几分钟。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "As soon as he opened his mouth, everyone burst out laughing.",
+      "translation": {
+        "text": "他一开口，所有人便哄堂大笑。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "We all know what the poor man should have said, but what he actually said was, This is the Poo and Ee.",
+      "translation": {
+        "text": "我们都知道这个可怜的人本来应该说什么，但他实际说的却是：“这里是Poo and Ee”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Seed Bird Company.",
+      "translation": {
+        "text": "鸟籽公司。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Good Ladies, Evening, and Gentlemen.",
+      "translation": {
+        "text": "“女士们好，晚上，先生们。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-089-a-slip-of-the-tongue-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1886780,
+        "sha256": "d5f4beac56d392492268907708b0907832e858670f936f55cbbb7430e6ce6b0a"
+      },
+      "duration": 108.617,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 2.03
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.83,
+          "end": 4.71
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.05,
+          "end": 9.07
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.49,
+          "end": 14.33
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.64,
+          "end": 23.1
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.1,
+          "end": 36.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 36.96,
+          "end": 45.74
+        },
+        {
+          "segmentId": "s008",
+          "start": 47.08,
+          "end": 52.1
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.1,
+          "end": 63.44
+        },
+        {
+          "segmentId": "s010",
+          "start": 64.34,
+          "end": 71.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 72.7,
+          "end": 79.76
+        },
+        {
+          "segmentId": "s012",
+          "start": 80.66,
+          "end": 86.26
+        },
+        {
+          "segmentId": "s013",
+          "start": 87.74,
+          "end": 97.88
+        },
+        {
+          "segmentId": "s014",
+          "start": 98.44,
+          "end": 99.34
+        },
+        {
+          "segmentId": "s015",
+          "start": 100.24,
+          "end": 102.32
+        }
+      ]
+    }
+  ]
+}

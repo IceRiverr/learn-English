@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-040-who-s-who",
+    "kind": "textbook",
+    "title": "Lesson 40: Who's Who",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 40.",
+      "translation": {
+        "text": "第40课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Who's Who.",
+      "translation": {
+        "text": "真假难辨。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How did the policeman discover that the whole thing was a joke?",
+      "translation": {
+        "text": "警察是怎样发现整件事是一场恶作剧的？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "It has never been explained why university students seem to enjoy practical jokes more than anyone else.",
+      "translation": {
+        "text": "为什么大学生似乎比任何人都更喜欢恶作剧，这一点从未得到解释。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Students specialize in a particular type of practical joke, the hoax, inviting the fire brigade to put out a non-existent fire is a crude form of deception which no self-respecting student would ever indulge",
+      "translation": {
+        "text": "学生们尤其擅长一种叫作骗局的恶作剧；叫消防队去扑灭一场并不存在的火，是一种粗劣的欺骗，任何自重的学生都不屑于"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "in.",
+      "translation": {
+        "text": "这么做。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Students often create amusing situations which are funny to everyone except the victims.",
+      "translation": {
+        "text": "学生们常制造一些除了受害者外人人都觉得好笑的场面。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a",
+      "translation": {
+        "text": "最近，一名学生看到两名工人在大学外使用风钻，立即打电话报警，说有两名学生装扮成工人，正用"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "pneumatic drill.",
+      "translation": {
+        "text": "风钻挖坏路面。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously.",
+      "translation": {
+        "text": "挂断电话后，他马上走到工人身边，告诉他们如果有警察命令他们离开，千万不要当真。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He added that a student had dressed up as a policeman and was playing all sorts of jokes on people.",
+      "translation": {
+        "text": "他又说，有个学生装扮成警察，正在到处捉弄人。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Both the police and the workmen were grateful to the student for this piece of advance information.",
+      "translation": {
+        "text": "警察和工人都很感激这名学生事先通报消息。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The student hid in an archway nearby where he could watch and hear everything that went on.",
+      "translation": {
+        "text": "学生躲进附近的一道拱门里，从那里可以看见并听清发生的一切。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.",
+      "translation": {
+        "text": "果然，一名警察赶到现场，礼貌地请工人离开。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "When he received a very rude reply from one of the workmen, he threatened to remove them by force.",
+      "translation": {
+        "text": "其中一名工人十分粗鲁地回绝后，警察威胁要强行赶走他们。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The workmen told him to do as he pleased and the policeman telephoned for help.",
+      "translation": {
+        "text": "工人叫他悉听尊便，警察便打电话请求增援。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Shortly afterwards, four more policemen arrived and remonstrated with the workmen.",
+      "translation": {
+        "text": "不久又来了四名警察，劝诫工人停止施工。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "As the men refused to stop working, the police attempted to seize the pneumatic drill.",
+      "translation": {
+        "text": "工人拒绝停工，警察便试图夺下风钻。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "The workmen struggled fiercely and one of them lost his temper.",
+      "translation": {
+        "text": "工人们奋力反抗，其中一人发了火。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "He threatened to call the police.",
+      "translation": {
+        "text": "他威胁说要报警。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.",
+      "translation": {
+        "text": "警察讽刺地指出，既然他们已经被捕，恐怕没必要再报警了。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station.",
+      "translation": {
+        "text": "一名工人装出严肃的样子，问被带到警察局之前能否打个电话。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Permission was granted and a policeman accompanied him to a payphone.",
+      "translation": {
+        "text": "警察同意了，一名警察陪他走到公用电话旁。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+      "translation": {
+        "text": "直到看到那人真的在给警察打电话，他才意识到他们全都成了一场骗局的受害者。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-040-who-s-who-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3022344,
+        "sha256": "2498f69fe2d9f13b82ad6ec11b9579494b6b604d65fcda9f2163ecfdb035b23e"
+      },
+      "duration": 179.644,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0,
+          "end": 1.34
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.04,
+          "end": 2.74
+        },
+        {
+          "segmentId": "s003",
+          "start": 3.62,
+          "end": 6.98
+        },
+        {
+          "segmentId": "s004",
+          "start": 8.18,
+          "end": 11.92
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.28,
+          "end": 22.02
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.96,
+          "end": 38.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 38.28,
+          "end": 39.04
+        },
+        {
+          "segmentId": "s008",
+          "start": 39.8,
+          "end": 45.96
+        },
+        {
+          "segmentId": "s009",
+          "start": 46.98,
+          "end": 62.98
+        },
+        {
+          "segmentId": "s010",
+          "start": 62.98,
+          "end": 63.84
+        },
+        {
+          "segmentId": "s011",
+          "start": 64.7,
+          "end": 74.34
+        },
+        {
+          "segmentId": "s012",
+          "start": 75,
+          "end": 82.74
+        },
+        {
+          "segmentId": "s013",
+          "start": 83.94,
+          "end": 90.36
+        },
+        {
+          "segmentId": "s014",
+          "start": 91.6,
+          "end": 97.98
+        },
+        {
+          "segmentId": "s015",
+          "start": 97.98,
+          "end": 104.9
+        },
+        {
+          "segmentId": "s016",
+          "start": 105.88,
+          "end": 112.54
+        },
+        {
+          "segmentId": "s017",
+          "start": 113.44,
+          "end": 118.28
+        },
+        {
+          "segmentId": "s018",
+          "start": 119.32,
+          "end": 124.94
+        },
+        {
+          "segmentId": "s019",
+          "start": 124.94,
+          "end": 131.56
+        },
+        {
+          "segmentId": "s020",
+          "start": 132.88,
+          "end": 137.22
+        },
+        {
+          "segmentId": "s021",
+          "start": 138.02,
+          "end": 139.68
+        },
+        {
+          "segmentId": "s022",
+          "start": 140.68,
+          "end": 149.2
+        },
+        {
+          "segmentId": "s023",
+          "start": 150.34,
+          "end": 158.28
+        },
+        {
+          "segmentId": "s024",
+          "start": 159.64,
+          "end": 164
+        },
+        {
+          "segmentId": "s025",
+          "start": 165.1,
+          "end": 174.06
+        }
+      ]
+    }
+  ]
+}

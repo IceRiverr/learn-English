@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-039-what-every-writer-wants",
+    "kind": "textbook",
+    "title": "Lesson 39: What Every Writer Wants",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "What Every Writer Wants.",
+      "translation": {
+        "text": "每个作家想要什么。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "How do professional writers ignore what they were taught at school about writing?",
+      "translation": {
+        "text": "职业作家怎样无视在学校学到的写作方法？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "I have known very few writers, but those I have known, and whom I respect.",
+      "translation": {
+        "text": "我认识的作家很少，但那些我认识并尊敬的作家，"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Confess at once that they have little idea where they are going, when they first set pen to paper.",
+      "translation": {
+        "text": "一落笔就坦率承认，自己几乎不知道要走向哪里。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "They have a character, perhaps two.",
+      "translation": {
+        "text": "他们心中有一个人物，也许两个。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "They are in that condition of eager discomfort which passes for inspiration.",
+      "translation": {
+        "text": "他们处在一种急切而不安的状态中，这便被当作灵感。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "All admit radical changes of destination once the journey has begun.",
+      "translation": {
+        "text": "所有人都承认，一旦旅程开始，目的地会发生根本改变。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "One, to my certain knowledge, spent nine months on a novel about cashmere, then reset the whole thing in the Scottish Highlands.",
+      "translation": {
+        "text": "据我确知，有位作家花九个月写一部关于克什米尔的小说，后来却把整个故事改到苏格兰高地。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I never heard of anyone making a skeleton as we were taught at school.",
+      "translation": {
+        "text": "我从未听说谁像我们在学校学的那样先列提纲。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In the breaking and remaking, in the timing interweaving, beginning afresh, the writer comes to discern things in his material which were not consciously in his mind when he began.",
+      "translation": {
+        "text": "在拆散重组、安排节奏、交织线索和重新开始的过程中，作家会从素材里看见开篇时意识中并不存在的东西。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "This organic process, often leading to moments of extraordinary self-discovery, is of an indescribable fascination.",
+      "translation": {
+        "text": "这种有机过程常带来非凡的自我发现时刻，有着难以形容的魅力。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "A blurred image appears, he adds a brushstroke and another, and it is gone.",
+      "translation": {
+        "text": "一个模糊形象出现了；他添上一笔又一笔，它却消失了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "But something was there, and he will not rest till he has captured it.",
+      "translation": {
+        "text": "但那里曾有什么东西，他不把它捕捉下来便不会罢休。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Sometimes the yeast within a writer outlives a book he has written.",
+      "translation": {
+        "text": "有时，作家内心的酵母在一本书写完后仍继续发酵。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I have heard of writers who read nothing but their own books, like adolescents they stand before the mirror, and still cannot fathom the exact outline of the vision before them.",
+      "translation": {
+        "text": "我听说有些作家只读自己的书；他们像青少年一样站在镜前，仍无法看清眼前形象的确切轮廓。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "For the same reason, writers talk interminably about their own books, winkling out hidden meanings, superimposing new ones, begging response from those around them.",
+      "translation": {
+        "text": "出于同样原因，作家会没完没了地谈论自己的书，挖掘隐藏意义、叠加新的意义，并向周围人索求回应。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Of course a writer doing this is misunderstood.",
+      "translation": {
+        "text": "作家这样做当然会遭到误解。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "He might as well try to explain a crime or a love affair.",
+      "translation": {
+        "text": "他简直就像试图解释一桩罪行或一段恋情。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "He is also, incidentally, an unforgivable bore.",
+      "translation": {
+        "text": "顺便说一句，他也会成为不可饶恕的讨厌鬼。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "This temptation to cover the distance between himself and the reader, to study his image in the sight of those who do not know him, can be his undoing.",
+      "translation": {
+        "text": "试图跨越自己与读者之间的距离、在不认识自己的人眼中审视自身形象，这种诱惑可能毁掉他。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "He has begun to write to please.",
+      "translation": {
+        "text": "他已经开始为了取悦别人而写作。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "A young English writer made the pertinent observation a year or two back that the talent goes into the first draft, and the art into the drafts that follow.",
+      "translation": {
+        "text": "一两年前，一位年轻英国作家作出精辟评论：才华体现在初稿中，艺术则体现在后续修改稿中。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "For this reason also the writer, like any other artist, has no resting place, no crowd or movement in which he may take comfort, no judgment from outside which can replace the judgment from within.",
+      "translation": {
+        "text": "也因此，作家像任何艺术家一样没有安歇之处，没有可从中获得安慰的群体或运动，也没有任何外界判断能够取代内心判断。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "A writer makes order out of the anarchy of his heart.",
+      "translation": {
+        "text": "作家从内心的混乱中建立秩序。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "He submits himself to a more ruthless discipline than any critic dreamed of, and when he flirts with fame, he is taking time off from living within himself, from the search for what his world contains at its",
+      "translation": {
+        "text": "他让自己服从一种比任何评论家所能设想的都更严酷的纪律；当他向名声献媚时，便是在暂停内心生活，暂停寻找自己世界中"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "inmost point.",
+      "translation": {
+        "text": "最深处所蕴含的东西。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-039-what-every-writer-wants-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3916261,
+        "sha256": "52e5cdb37ed00bbcb2621f2af95ea1e624b4086de0397b32966dcc4ccca5d525"
+      },
+      "duration": 235.468,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 3.26,
+          "end": 5.68
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.94,
+          "end": 10.96
+        },
+        {
+          "segmentId": "s003",
+          "start": 13.08,
+          "end": 18.62
+        },
+        {
+          "segmentId": "s004",
+          "start": 21.64,
+          "end": 27.68
+        },
+        {
+          "segmentId": "s005",
+          "start": 28.76,
+          "end": 35.06
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.08,
+          "end": 38.24
+        },
+        {
+          "segmentId": "s007",
+          "start": 39.08,
+          "end": 44.1
+        },
+        {
+          "segmentId": "s008",
+          "start": 45.22,
+          "end": 49.78
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.66,
+          "end": 60.28
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.28,
+          "end": 66.18
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.14,
+          "end": 81.68
+        },
+        {
+          "segmentId": "s012",
+          "start": 81.68,
+          "end": 92.66
+        },
+        {
+          "segmentId": "s013",
+          "start": 93.66,
+          "end": 99.9
+        },
+        {
+          "segmentId": "s014",
+          "start": 100.98,
+          "end": 105.92
+        },
+        {
+          "segmentId": "s015",
+          "start": 106.7,
+          "end": 111.16
+        },
+        {
+          "segmentId": "s016",
+          "start": 112.14,
+          "end": 125.08
+        },
+        {
+          "segmentId": "s017",
+          "start": 126.06,
+          "end": 139.54
+        },
+        {
+          "segmentId": "s018",
+          "start": 139.54,
+          "end": 143.42
+        },
+        {
+          "segmentId": "s019",
+          "start": 144.18,
+          "end": 147.26
+        },
+        {
+          "segmentId": "s020",
+          "start": 148.2,
+          "end": 153.08
+        },
+        {
+          "segmentId": "s021",
+          "start": 154.38,
+          "end": 166.36
+        },
+        {
+          "segmentId": "s022",
+          "start": 166.36,
+          "end": 169.96
+        },
+        {
+          "segmentId": "s023",
+          "start": 171.42,
+          "end": 182.86
+        },
+        {
+          "segmentId": "s024",
+          "start": 183.6,
+          "end": 199.56
+        },
+        {
+          "segmentId": "s025",
+          "start": 200.6,
+          "end": 203.88
+        },
+        {
+          "segmentId": "s026",
+          "start": 204.7,
+          "end": 220.2
+        },
+        {
+          "segmentId": "s027",
+          "start": 220.2,
+          "end": 221.34
+        }
+      ]
+    }
+  ]
+}

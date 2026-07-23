@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-077-078-terrible-toothache",
+    "kind": "textbook",
+    "title": "Lesson 77: Terrible toothache",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 77–Terrible Toothache.",
+      "translation": {
+        "text": "第77课——要命的牙痛。"
+      }
+    },
+    {
+      "id": "s001a",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s001b",
+      "text": "What time of day is it, do you think? How do you know?",
+      "translation": {
+        "text": "你认为当时是一天中的什么时间？你是怎么知道的？"
+      }
+    },
+    {
+      "id": "s001c",
+      "text": "Good morning, Mr. Croft.",
+      "translation": {
+        "text": "早上好，克罗夫特先生。"
+      }
+    },
+    {
+      "id": "s001d",
+      "text": "Good morning, nurse. I want to see the dentist, please.",
+      "translation": {
+        "text": "早上好，护士。我想见牙医。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Do you have an appointment?",
+      "translation": {
+        "text": "您预约了吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "No, I don't.",
+      "translation": {
+        "text": "没有。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Is it urgent?",
+      "translation": {
+        "text": "很紧急吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Yes, it is.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It's very urgent.",
+      "translation": {
+        "text": "非常紧急。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I feel awful.",
+      "translation": {
+        "text": "我难受极了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I have a terrible toothache.",
+      "translation": {
+        "text": "我牙痛得要命。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Can you come at 10 a.m.",
+      "translation": {
+        "text": "您能在上午十点来吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "on Monday, April 24th?",
+      "translation": {
+        "text": "4月24日，星期一。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I must see the dentist now, nurse.",
+      "translation": {
+        "text": "护士，我现在就必须见牙医。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The dentist is very busy at the moment.",
+      "translation": {
+        "text": "牙医此刻很忙。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Can you come at 2 p.m.?",
+      "translation": {
+        "text": "您下午两点来可以吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "That's very late.",
+      "translation": {
+        "text": "那太晚了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Can the dentist see me now?",
+      "translation": {
+        "text": "牙医现在能给我看吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I'm afraid that he can't, Mr.",
+      "translation": {
+        "text": "恐怕不能，克罗夫特"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Croft.",
+      "translation": {
+        "text": "先生。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Can't you wait till this afternoon?",
+      "translation": {
+        "text": "您不能等到今天下午吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I can wait, but my toothache can't.",
+      "translation": {
+        "text": "我能等，但我的牙痛等不了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-077-078-terrible-toothache-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1681701,
+        "sha256": "1b0dd90e8a3a319155403f5923e3281e09017bb310ca72b24a4b092766985d57"
+      },
+      "duration": 97.097,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 4.95
+        },
+        {
+          "segmentId": "s001a",
+          "start": 6.52,
+          "end": 10.8
+        },
+        {
+          "segmentId": "s001b",
+          "start": 12.2,
+          "end": 18.54
+        },
+        {
+          "segmentId": "s001c",
+          "start": 20.88,
+          "end": 23.92
+        },
+        {
+          "segmentId": "s001d",
+          "start": 24.92,
+          "end": 30.44
+        },
+        {
+          "segmentId": "s002",
+          "start": 32.06,
+          "end": 33.44
+        },
+        {
+          "segmentId": "s003",
+          "start": 34.56,
+          "end": 36.24
+        },
+        {
+          "segmentId": "s004",
+          "start": 36.62,
+          "end": 37.76
+        },
+        {
+          "segmentId": "s005",
+          "start": 38.68,
+          "end": 40.52
+        },
+        {
+          "segmentId": "s006",
+          "start": 41.32,
+          "end": 43.2
+        },
+        {
+          "segmentId": "s007",
+          "start": 44.24,
+          "end": 45.98
+        },
+        {
+          "segmentId": "s008",
+          "start": 46.76,
+          "end": 49.62
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.86,
+          "end": 53.34
+        },
+        {
+          "segmentId": "s010",
+          "start": 53.44,
+          "end": 56.06
+        },
+        {
+          "segmentId": "s011",
+          "start": 57.06,
+          "end": 61.52
+        },
+        {
+          "segmentId": "s012",
+          "start": 62.74,
+          "end": 66.5
+        },
+        {
+          "segmentId": "s013",
+          "start": 67.42,
+          "end": 70.54
+        },
+        {
+          "segmentId": "s014",
+          "start": 71.06,
+          "end": 73.2
+        },
+        {
+          "segmentId": "s015",
+          "start": 74.3,
+          "end": 76.64
+        },
+        {
+          "segmentId": "s016",
+          "start": 77.34,
+          "end": 80.72
+        },
+        {
+          "segmentId": "s017",
+          "start": 81.1,
+          "end": 81.42
+        },
+        {
+          "segmentId": "s018",
+          "start": 82.1,
+          "end": 84.94
+        },
+        {
+          "segmentId": "s019",
+          "start": 86.06,
+          "end": 90.5
+        }
+      ]
+    }
+  ]
+}

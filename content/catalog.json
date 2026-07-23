@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "lex-fridman-podcast",
+      "kind": "podcast",
+      "title": "Lex Fridman Podcast",
+      "lessonCount": 1,
+      "documentKey": "collections/lex-fridman-podcast.json"
+    },
+    {
+      "id": "new-concept-english-book-1",
+      "kind": "course",
+      "title": "新概念英语第一册",
+      "subtitle": "First Things First",
+      "lessonCount": 72,
+      "documentKey": "collections/new-concept-english-book-1.json"
+    },
+    {
+      "id": "new-concept-english-book-2",
+      "kind": "course",
+      "title": "新概念英语第二册",
+      "subtitle": "Practice and Progress",
+      "lessonCount": 96,
+      "documentKey": "collections/new-concept-english-book-2.json"
+    },
+    {
+      "id": "new-concept-english-book-3",
+      "kind": "course",
+      "title": "新概念英语第三册",
+      "subtitle": "Developing Skills",
+      "lessonCount": 60,
+      "documentKey": "collections/new-concept-english-book-3.json"
+    },
+    {
+      "id": "new-concept-english-book-4",
+      "kind": "course",
+      "title": "新概念英语第四册",
+      "subtitle": "Fluency in English",
+      "lessonCount": 48,
+      "documentKey": "collections/new-concept-english-book-4.json"
+    },
+    {
+      "id": "pragmatic-engineer-podcast",
+      "kind": "podcast",
+      "title": "The Pragmatic Engineer",
+      "lessonCount": 1,
+      "documentKey": "collections/pragmatic-engineer-podcast.json"
+    }
+  ]
+}

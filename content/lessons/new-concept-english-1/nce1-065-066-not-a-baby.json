@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-065-066-not-a-baby",
+    "kind": "textbook",
+    "title": "Lesson 65: Not a baby",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 65–Not a Baby.",
+      "translation": {
+        "text": "第65课——不是小孩子了。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Does Jill take the key to the front door?",
+      "translation": {
+        "text": "吉尔带走前门钥匙了吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What are you going to do this evening, Jill?",
+      "translation": {
+        "text": "吉尔，你今晚打算做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I'm going to meet some friends, Dad.",
+      "translation": {
+        "text": "我打算去见几个朋友，爸爸。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "You mustn't come home late.",
+      "translation": {
+        "text": "你不许回家太晚。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "You must be home at half past ten.",
+      "translation": {
+        "text": "你必须十点半到家。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I can't get home so early, Dad.",
+      "translation": {
+        "text": "我没法那么早回家，爸爸。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Can I have the key to the front door, No, you can't.",
+      "translation": {
+        "text": "我能带前门钥匙吗？不，你不能。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Jill's eighteen years old, Tom.",
+      "translation": {
+        "text": "吉尔已经十八岁了，汤姆。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "She's not a baby.",
+      "translation": {
+        "text": "她不是小孩子了。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Give her the key.",
+      "translation": {
+        "text": "把钥匙给她吧。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "She always comes home early.",
+      "translation": {
+        "text": "她一向回家很早。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Oh, all right.",
+      "translation": {
+        "text": "哦，那好吧。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给你。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "But you mustn't come home after a quarter past eleven.",
+      "translation": {
+        "text": "但你不能晚于十一点一刻回家。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Do you hear?",
+      "translation": {
+        "text": "听见了吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Yes, Dad.",
+      "translation": {
+        "text": "听见了，爸爸。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Thanks, Mom.",
+      "translation": {
+        "text": "谢谢，妈妈。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "That's all right.",
+      "translation": {
+        "text": "不用谢。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Goodbye.",
+      "translation": {
+        "text": "再见。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Enjoy yourself.",
+      "translation": {
+        "text": "玩得开心。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "We always enjoy ourselves, Mom.",
+      "translation": {
+        "text": "我们总会玩得很开心，妈妈。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Bye-bye.",
+      "translation": {
+        "text": "再见。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-065-066-not-a-baby-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1654163,
+        "sha256": "212d645cfb2cfffc7ae3fa88899aff89ba16d77fdf37e780e6d39484995bf2c7"
+      },
+      "duration": 95.373,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.5,
+          "end": 4.68
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.5,
+          "end": 10.28
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.74,
+          "end": 15.16
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.66,
+          "end": 21.46
+        },
+        {
+          "segmentId": "s005",
+          "start": 22.44,
+          "end": 25.8
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.8,
+          "end": 29.26
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.2,
+          "end": 33.8
+        },
+        {
+          "segmentId": "s008",
+          "start": 34.94,
+          "end": 38.2
+        },
+        {
+          "segmentId": "s009",
+          "start": 39.42,
+          "end": 46.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 47.72,
+          "end": 50.98
+        },
+        {
+          "segmentId": "s011",
+          "start": 51.96,
+          "end": 53.78
+        },
+        {
+          "segmentId": "s012",
+          "start": 54.78,
+          "end": 56.06
+        },
+        {
+          "segmentId": "s013",
+          "start": 57.02,
+          "end": 59.78
+        },
+        {
+          "segmentId": "s014",
+          "start": 61.16,
+          "end": 62.8
+        },
+        {
+          "segmentId": "s015",
+          "start": 64.24,
+          "end": 65.56
+        },
+        {
+          "segmentId": "s016",
+          "start": 66.3,
+          "end": 70.7
+        },
+        {
+          "segmentId": "s017",
+          "start": 71.56,
+          "end": 72.56
+        },
+        {
+          "segmentId": "s018",
+          "start": 73.46,
+          "end": 74.56
+        },
+        {
+          "segmentId": "s019",
+          "start": 75.82,
+          "end": 76.8
+        },
+        {
+          "segmentId": "s020",
+          "start": 77.88,
+          "end": 79.04
+        },
+        {
+          "segmentId": "s021",
+          "start": 79.84,
+          "end": 80.4
+        },
+        {
+          "segmentId": "s022",
+          "start": 81.78,
+          "end": 82.86
+        },
+        {
+          "segmentId": "s023",
+          "start": 84.38,
+          "end": 87.42
+        },
+        {
+          "segmentId": "s024",
+          "start": 88.36,
+          "end": 89
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-045-046-the-boss-s-letter",
+    "kind": "textbook",
+    "title": "Lesson 45: The boss's letter",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 45.",
+      "translation": {
+        "text": "第45课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Boss's Letter.",
+      "translation": {
+        "text": "老板的信。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why can't Pamela type the letter?",
+      "translation": {
+        "text": "帕梅拉为什么不能把这封信打出来？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Can you come here a minute, please, Bob?",
+      "translation": {
+        "text": "鲍勃，请你来一下好吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Yes, sir.",
+      "translation": {
+        "text": "好的，先生。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Where's Pamela?",
+      "translation": {
+        "text": "帕梅拉在哪里？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "She's next door.",
+      "translation": {
+        "text": "她在隔壁。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "She's in her office, sir.",
+      "translation": {
+        "text": "她在自己的办公室里，先生。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Can she type this letter for me?",
+      "translation": {
+        "text": "她能替我把这封信打出来吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Ask her, please.",
+      "translation": {
+        "text": "请去问问她。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Yes, sir.",
+      "translation": {
+        "text": "好的，先生。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Can you type this letter for the boss, Pamela?",
+      "translation": {
+        "text": "帕梅拉，你能替老板把这封信打出来吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Yes, of course I can.",
+      "translation": {
+        "text": "能，我当然能。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给你。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Thank you, Bob.",
+      "translation": {
+        "text": "谢谢你，鲍勃。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Bob?",
+      "translation": {
+        "text": "鲍勃？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Yes, what's the matter?",
+      "translation": {
+        "text": "怎么了？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I can't type this letter.",
+      "translation": {
+        "text": "这封信我打不了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "I can't read it.",
+      "translation": {
+        "text": "我看不懂。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The Boss's handwriting is terrible.",
+      "translation": {
+        "text": "老板的字迹太糟糕了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-045-046-the-boss-s-letter-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1275124,
+        "sha256": "7f56b492ae73a12ea316a27435793c3eb90d79829ac2a5a06eda45a05bac1b26"
+      },
+      "duration": 71.628,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.08,
+          "end": 1.86
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.88,
+          "end": 4.44
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.34,
+          "end": 10.58
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.02,
+          "end": 15.14
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.7,
+          "end": 20.8
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.74,
+          "end": 22.54
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.04,
+          "end": 25
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.1,
+          "end": 27.52
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.26,
+          "end": 30.12
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.98,
+          "end": 34.32
+        },
+        {
+          "segmentId": "s011",
+          "start": 35.28,
+          "end": 36.34
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.06,
+          "end": 37.7
+        },
+        {
+          "segmentId": "s013",
+          "start": 39.42,
+          "end": 43.3
+        },
+        {
+          "segmentId": "s014",
+          "start": 44.08,
+          "end": 46.58
+        },
+        {
+          "segmentId": "s015",
+          "start": 47.7,
+          "end": 48.64
+        },
+        {
+          "segmentId": "s016",
+          "start": 49.34,
+          "end": 50.5
+        },
+        {
+          "segmentId": "s017",
+          "start": 51.92,
+          "end": 52.38
+        },
+        {
+          "segmentId": "s018",
+          "start": 53.04,
+          "end": 55.14
+        },
+        {
+          "segmentId": "s019",
+          "start": 55.84,
+          "end": 58.3
+        },
+        {
+          "segmentId": "s020",
+          "start": 58.3,
+          "end": 60.94
+        },
+        {
+          "segmentId": "s021",
+          "start": 61.64,
+          "end": 64.86
+        }
+      ]
+    }
+  ]
+}

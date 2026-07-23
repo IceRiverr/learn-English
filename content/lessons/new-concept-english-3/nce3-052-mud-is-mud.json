@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-052-mud-is-mud",
+    "kind": "textbook",
+    "title": "Lesson 52: Mud is Mud",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did Harry decide to give up his little game?",
+      "translation": {
+        "text": "哈里为什么决定放弃他的小把戏？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "My cousin, Harry, keeps a large, curiously shaped bottle on permanent display in his study.",
+      "translation": {
+        "text": "我的表兄哈里把一个形状奇特的大瓶子长期陈列在书房里。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.",
+      "translation": {
+        "text": "尽管瓶子染着淡雅的绿色，观察敏锐的来客很快就会发现，里面装着一种看似浓稠、灰白的物质。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "If you were to ask Harry what was in the bottle, he would tell you that it contained perfumed mud.",
+      "translation": {
+        "text": "如果问哈里瓶中是什么，他会告诉你里面装的是香泥。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "If you expressed doubt or surprise, he would immediately invite you to smell it and then to rub some into your skin.",
+      "translation": {
+        "text": "如果你表示怀疑或惊讶，他会立刻请你闻闻，再往皮肤上擦一点。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "This brief experiment would dispel any further doubts you might have.",
+      "translation": {
+        "text": "这个简短实验会消除你余下的所有疑虑。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The bottle really does contain perfumed mud.",
+      "translation": {
+        "text": "瓶子里确实装着香泥。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "How Harry came into the possession of this outlandish stuff makes an interesting story which he is fond of relating.",
+      "translation": {
+        "text": "哈里如何得到这种古怪东西，是个有趣的故事，而他也很喜欢讲述。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Furthermore, the acquisition of this bottle cured him of a bad habit he had been developing for years.",
+      "translation": {
+        "text": "而且，买下这个瓶子还治好了他养成多年的一个坏习惯。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist.",
+      "translation": {
+        "text": "哈里过去觉得，走进高档化妆品店，提出购买根本不存在的商品这种荒唐要求，是个绝妙的玩笑。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He would invent fanciful names on the spot.",
+      "translation": {
+        "text": "他会当场编造稀奇古怪的名称。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "On entering a shop, he would ask for a new perfume called Scented Shadow or for insoluble bath cubes.",
+      "translation": {
+        "text": "一进商店，他就会要一种名叫“香影”的新香水，或是不溶于水的沐浴块。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "If a shop assistant told him she had not heard of it, he would pretend to be considerably put out.",
+      "translation": {
+        "text": "如果店员说没听说过，他就装出十分不满的样子。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did.",
+      "translation": {
+        "text": "他最喜欢听店员说他凭空捏造的商品暂时缺货，还会郑重承诺以后再来，当然他从未回来过。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "How Harry managed to keep a straight face during these performances is quite beyond me.",
+      "translation": {
+        "text": "哈里在这些表演中如何能板着脸不笑，我实在无法理解。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Harry does not need to be prompted to explain how he bought his precious bottle of mud.",
+      "translation": {
+        "text": "不用别人催问，哈里就会解释自己怎样买下那瓶珍贵的泥。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "One day, he went to an exclusive shop in London and asked for Myrolyte.",
+      "translation": {
+        "text": "一天，他走进伦敦一家高档商店，要买“麦罗莱特”。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable.",
+      "translation": {
+        "text": "店员一脸困惑，哈里又重复了一遍，慢慢地重读每个音节。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "When the woman shook her head in bewilderment, Harry went on to explain that Myrolyte was a hard, amber-like substance which could be used to remove freckles.",
+      "translation": {
+        "text": "女人茫然地摇头时，哈里接着解释说，麦罗莱特是一种琥珀般的坚硬物质，可以用来祛除雀斑。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "This explanation evidently conveyed something to the woman who searched shelf after shelf.",
+      "translation": {
+        "text": "这个解释显然让女人想到了什么，她逐层货架搜寻起来。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "She produced all sorts of weird concoctions, but none of them met with Harry's requirements.",
+      "translation": {
+        "text": "她拿出各种稀奇古怪的混合制品，却没有一种符合哈里的要求。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "When Harry put on his act of being mildly annoyed, the assistant promised to order some for him.",
+      "translation": {
+        "text": "哈里又演起略显不快的戏码，店员便答应替他订货。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Intoxicated by his success, then asked for perfumed mud.",
+      "translation": {
+        "text": "哈里被成功冲昏了头，接着又要香泥。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "He expected the assistant to look at him in blank astonishment.",
+      "translation": {
+        "text": "他以为店员会目瞪口呆地望着他。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "However, it was his turn to be surprised, for the woman's eyes immediately lit up and she fetched several bottles which she placed on the counter for Harry to inspect.",
+      "translation": {
+        "text": "然而这次轮到他吃惊了，女人立即两眼放光，取来好几瓶放在柜台上供哈里查看。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "For once, Harry had to admit defeat.",
+      "translation": {
+        "text": "这一次，哈里只得认输。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "He picked up what seemed to be the smallest bottle and discreetly asked the price.",
+      "translation": {
+        "text": "他拿起看起来最小的一瓶，谨慎地询问价格。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "He was glad to get away with a mere twenty pounds and he beat a hasty retreat, clutching the precious bottle under his arm.",
+      "translation": {
+        "text": "只花20英镑便脱身，他已庆幸不已；他把那只珍贵的瓶子夹在腋下，匆忙撤退。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "From then on, Harry decided that this little game he had invented might prove to be expensive.",
+      "translation": {
+        "text": "从那以后，哈里认定自己发明的这个小游戏可能会代价高昂。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "The curious bottle, which now adorns the bookcase in his study, was his first and last purchase of rare cosmetics.",
+      "translation": {
+        "text": "如今装点着书房书架的奇特瓶子，是他第一次、也是最后一次购买稀有化妆品。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-052-mud-is-mud-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4141642,
+        "sha256": "46bc9c7455fe928faf622effa5d9c2674774c81b450b4dfdec3e6d94c5d2c8e0"
+      },
+      "duration": 249.6,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.12,
+          "end": 8.74
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.24,
+          "end": 13.48
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.44,
+          "end": 22.5
+        },
+        {
+          "segmentId": "s004",
+          "start": 23.52,
+          "end": 34.46
+        },
+        {
+          "segmentId": "s005",
+          "start": 35.48,
+          "end": 41.34
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.24,
+          "end": 50.88
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.88,
+          "end": 56
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.58,
+          "end": 59.74
+        },
+        {
+          "segmentId": "s009",
+          "start": 60.78,
+          "end": 68.28
+        },
+        {
+          "segmentId": "s010",
+          "start": 69.34,
+          "end": 76.1
+        },
+        {
+          "segmentId": "s011",
+          "start": 77.66,
+          "end": 87.86
+        },
+        {
+          "segmentId": "s012",
+          "start": 88.9,
+          "end": 91.72
+        },
+        {
+          "segmentId": "s013",
+          "start": 92.34,
+          "end": 101.24
+        },
+        {
+          "segmentId": "s014",
+          "start": 102.28,
+          "end": 108.44
+        },
+        {
+          "segmentId": "s015",
+          "start": 109.36,
+          "end": 122.12
+        },
+        {
+          "segmentId": "s016",
+          "start": 123.18,
+          "end": 128.88
+        },
+        {
+          "segmentId": "s017",
+          "start": 130.36,
+          "end": 135.04
+        },
+        {
+          "segmentId": "s018",
+          "start": 136.08,
+          "end": 142.3
+        },
+        {
+          "segmentId": "s019",
+          "start": 142.76,
+          "end": 150.22
+        },
+        {
+          "segmentId": "s020",
+          "start": 150.96,
+          "end": 162.86
+        },
+        {
+          "segmentId": "s021",
+          "start": 163.86,
+          "end": 169.94
+        },
+        {
+          "segmentId": "s022",
+          "start": 170.66,
+          "end": 176.76
+        },
+        {
+          "segmentId": "s023",
+          "start": 177.96,
+          "end": 184.34
+        },
+        {
+          "segmentId": "s024",
+          "start": 185.32,
+          "end": 190.52
+        },
+        {
+          "segmentId": "s025",
+          "start": 191.44,
+          "end": 195.26
+        },
+        {
+          "segmentId": "s026",
+          "start": 195.76,
+          "end": 207.86
+        },
+        {
+          "segmentId": "s027",
+          "start": 208.96,
+          "end": 212.08
+        },
+        {
+          "segmentId": "s028",
+          "start": 212.56,
+          "end": 218.14
+        },
+        {
+          "segmentId": "s029",
+          "start": 219.04,
+          "end": 227.68
+        },
+        {
+          "segmentId": "s030",
+          "start": 228.68,
+          "end": 234.8
+        },
+        {
+          "segmentId": "s031",
+          "start": 235.62,
+          "end": 243.98
+        }
+      ]
+    }
+  ]
+}

@@ -29,6 +29,16 @@ try {
         $env:Path = "$bundledNodeDirectory;$originalProcessPath"
     }
 
+    & $pnpm generate:catalog
+    if ($LASTEXITCODE -ne 0) {
+        throw "Catalog generation failed. Deployment stopped."
+    }
+
+    & $pnpm validate:content
+    if ($LASTEXITCODE -ne 0) {
+        throw "Content validation failed. Deployment stopped."
+    }
+
     & $pnpm exec tsc -b
     if ($LASTEXITCODE -ne 0) {
         throw "TypeScript build failed. Deployment stopped."

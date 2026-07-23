@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-004-the-double-life-of-alfred-bloggs",
+    "kind": "textbook",
+    "title": "Lesson 4: The Double Life of Alfred Bloggs",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 4.",
+      "translation": {
+        "text": "第4课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Double Life of Alfred Bloggs.",
+      "translation": {
+        "text": "阿尔弗雷德·布洛格斯的双重生活。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why did Alf want a white-collar job?",
+      "translation": {
+        "text": "阿尔夫为什么想要一份白领工作？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "These days people who do manual work often receive far more money than people who work in offices.",
+      "translation": {
+        "text": "如今，从事体力劳动的人所得的收入往往比办公室职员多得多。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "People who work in offices are frequently referred to as white-collar workers for the simple reason that they usually wear a collar and tie to go to work.",
+      "translation": {
+        "text": "办公室职员常被称为“白领工人”，原因很简单：他们上班通常穿衬衫、系领带。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Such is human nature that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.",
+      "translation": {
+        "text": "许多人宁愿牺牲较高的工资来换取成为白领的身份，这就是人性。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This can give rise to curious situations, as it did in the case of Alfred Bloggs, who worked as a dust man for the Ellesmere Corporation.",
+      "translation": {
+        "text": "这会造成一些奇特的情形，在埃尔斯米尔公司当清洁工的阿尔弗雷德·布洛格斯就是如此。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "When he got married, Alf was too embarrassed to say anything to his wife about his job.",
+      "translation": {
+        "text": "结婚时，阿尔夫难为情，不敢把自己的职业告诉妻子。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He simply told her that he worked for the corporation.",
+      "translation": {
+        "text": "他只说自己在那家公司工作。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Every morning he left home dressed in a smart black suit.",
+      "translation": {
+        "text": "每天早晨，他穿着一身漂亮的黑西装离开家。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He then changed into overalls and spent the next eight hours as a dust man.",
+      "translation": {
+        "text": "然后换上工作服，接下来的八个小时便当清洁工。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Before returning home at night, he took a shower and changed back into his suit.",
+      "translation": {
+        "text": "晚上回家前，他先洗个澡，再换回西装。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "did this for over two years, and his fellow dust men kept his secret.",
+      "translation": {
+        "text": "他这样做了两年多，同事们一直替他保守秘密。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Alf's wife has never discovered that she married a dust man, and she never will, for Alf has just found another job.",
+      "translation": {
+        "text": "阿尔夫的妻子从未发现自己嫁给了一个清洁工，而且以后也永远不会发现，因为阿尔夫刚找到另一份工作。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He will soon be working in an office.",
+      "translation": {
+        "text": "他很快就要在办公室工作了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money.",
+      "translation": {
+        "text": "他的收入将只有过去的一半，但他觉得地位的提高完全值得付出金钱上的损失。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "From now on, he will wear a suit all day, and others will call him Mr.",
+      "translation": {
+        "text": "从今以后，他可以整天穿西装，别人也会称他为布洛格斯先生，"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Bloggs, not Alf.",
+      "translation": {
+        "text": "而不是阿尔夫。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-004-the-double-life-of-alfred-bloggs-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2260885,
+        "sha256": "071263dff61dd47b7269f532093b0a339264aa99a8716c4c48645545e591d20f"
+      },
+      "duration": 132.049,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.53,
+          "end": 1.77
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.67,
+          "end": 5.43
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.27,
+          "end": 9.91
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.49,
+          "end": 14.29
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.94,
+          "end": 23.76
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.7,
+          "end": 35.9
+        },
+        {
+          "segmentId": "s007",
+          "start": 36.84,
+          "end": 47.28
+        },
+        {
+          "segmentId": "s008",
+          "start": 48.2,
+          "end": 59.08
+        },
+        {
+          "segmentId": "s009",
+          "start": 60.92,
+          "end": 66.82
+        },
+        {
+          "segmentId": "s010",
+          "start": 67.72,
+          "end": 70.52
+        },
+        {
+          "segmentId": "s011",
+          "start": 71.48,
+          "end": 75.8
+        },
+        {
+          "segmentId": "s012",
+          "start": 76.54,
+          "end": 82.06
+        },
+        {
+          "segmentId": "s013",
+          "start": 82.9,
+          "end": 88.18
+        },
+        {
+          "segmentId": "s014",
+          "start": 89.28,
+          "end": 94.84
+        },
+        {
+          "segmentId": "s015",
+          "start": 94.84,
+          "end": 103.82
+        },
+        {
+          "segmentId": "s016",
+          "start": 104.46,
+          "end": 106.62
+        },
+        {
+          "segmentId": "s017",
+          "start": 107.56,
+          "end": 116.24
+        },
+        {
+          "segmentId": "s018",
+          "start": 116.24,
+          "end": 123.32
+        },
+        {
+          "segmentId": "s019",
+          "start": 123.6,
+          "end": 125.26
+        }
+      ]
+    }
+  ]
+}

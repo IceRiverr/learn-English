@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-017-018-how-do-you-do",
+    "kind": "textbook",
+    "title": "Lesson 17: How do you do",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 17.",
+      "translation": {
+        "text": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How do you do.",
+      "translation": {
+        "text": "你好。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What are Michael Baker and Jeremy Short's jobs?",
+      "translation": {
+        "text": "迈克尔·贝克和杰里米·肖特是做什么工作的？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Come and meet our employees, Mr. Richards.",
+      "translation": {
+        "text": "理查兹先生，来认识一下我们的雇员。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Thank you, Mr.",
+      "translation": {
+        "text": "谢谢您，"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Jackson.",
+      "translation": {
+        "text": "杰克逊先生。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This is Nicola Gray.",
+      "translation": {
+        "text": "这位是尼古拉·格雷。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "And this is Claire Taylor.",
+      "translation": {
+        "text": "这位是克莱尔·泰勒。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "How do you do.",
+      "translation": {
+        "text": "你好。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Those women are very hard-working.",
+      "translation": {
+        "text": "那些女士工作很勤奋。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "What are their jobs?",
+      "translation": {
+        "text": "她们是做什么工作的？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "They're keyboard operators.",
+      "translation": {
+        "text": "她们是电脑录入员。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This is Michael Baker.",
+      "translation": {
+        "text": "这位是迈克尔·贝克。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "And this is Jeremy Short.",
+      "translation": {
+        "text": "这位是杰里米·肖特。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "How do you do.",
+      "translation": {
+        "text": "你好。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "They aren't very busy.",
+      "translation": {
+        "text": "他们不太忙。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "What are their jobs?",
+      "translation": {
+        "text": "他们是做什么工作的？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "They're sales reps.",
+      "translation": {
+        "text": "他们是推销员。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "They're very lazy.",
+      "translation": {
+        "text": "他们很懒。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Who is this young man?",
+      "translation": {
+        "text": "这位年轻人是谁？"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "This is Jim.",
+      "translation": {
+        "text": "这是吉姆。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "He's our office assistant.",
+      "translation": {
+        "text": "他是我们的办公室助理。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-017-018-how-do-you-do-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1535743,
+        "sha256": "0c3cdc637ce733d3ffbe1851be637f9635405fee5c6abc13d675e34f83173eb4"
+      },
+      "duration": 87.954,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 1.91
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.87,
+          "end": 4.33
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.38,
+          "end": 10.7
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.76,
+          "end": 17.28
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.65,
+          "end": 22.97
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.95,
+          "end": 26.53
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.97,
+          "end": 27.01
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.01,
+          "end": 30.37
+        },
+        {
+          "segmentId": "s009",
+          "start": 31.45,
+          "end": 33.81
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.27,
+          "end": 36.73
+        },
+        {
+          "segmentId": "s011",
+          "start": 38.25,
+          "end": 41.41
+        },
+        {
+          "segmentId": "s012",
+          "start": 42.97,
+          "end": 44.73
+        },
+        {
+          "segmentId": "s013",
+          "start": 46.37,
+          "end": 48.83
+        },
+        {
+          "segmentId": "s014",
+          "start": 50.21,
+          "end": 52.81
+        },
+        {
+          "segmentId": "s015",
+          "start": 53.85,
+          "end": 56.29
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.31,
+          "end": 58.99
+        },
+        {
+          "segmentId": "s017",
+          "start": 60.33,
+          "end": 62.61
+        },
+        {
+          "segmentId": "s018",
+          "start": 63.79,
+          "end": 65.85
+        },
+        {
+          "segmentId": "s019",
+          "start": 67.67,
+          "end": 69.27
+        },
+        {
+          "segmentId": "s020",
+          "start": 70.17,
+          "end": 71.89
+        },
+        {
+          "segmentId": "s021",
+          "start": 73.25,
+          "end": 75.43
+        },
+        {
+          "segmentId": "s022",
+          "start": 75.43,
+          "end": 78.47
+        },
+        {
+          "segmentId": "s023",
+          "start": 79.31,
+          "end": 81.55
+        }
+      ]
+    }
+  ]
+}

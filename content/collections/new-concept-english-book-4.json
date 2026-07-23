@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "id": "new-concept-english-book-4",
+  "kind": "course",
+  "title": "新概念英语第四册",
+  "subtitle": "Fluency in English",
+  "lessons": [
+    {
+      "id": "nce4-001-finding-fossil-man",
+      "kind": "textbook",
+      "title": "Lesson 1: Finding Fossil Man",
+      "duration": 133.904,
+      "byteLength": 2291224,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-001-finding-fossil-man.json"
+    },
+    {
+      "id": "nce4-002-spare-that-spider",
+      "kind": "textbook",
+      "title": "Lesson 2: Spare That Spider",
+      "duration": 140.042,
+      "byteLength": 2389443,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-002-spare-that-spider.json"
+    },
+    {
+      "id": "nce4-003-matterhorn-man",
+      "kind": "textbook",
+      "title": "Lesson 3: Matterhorn Man",
+      "duration": 159.582,
+      "byteLength": 2702070,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-003-matterhorn-man.json"
+    },
+    {
+      "id": "nce4-004-seeing-hands",
+      "kind": "textbook",
+      "title": "Lesson 4: Seeing Hands",
+      "duration": 135.706,
+      "byteLength": 2320051,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-004-seeing-hands.json"
+    },
+    {
+      "id": "nce4-005-youth",
+      "kind": "textbook",
+      "title": "Lesson 5: Youth",
+      "duration": 159.373,
+      "byteLength": 2698709,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-005-youth.json"
+    },
+    {
+      "id": "nce4-006-the-sporting-spirit",
+      "kind": "textbook",
+      "title": "Lesson 6: The Sporting Spirit",
+      "duration": 120.581,
+      "byteLength": 2078067,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-006-the-sporting-spirit.json"
+    },
+    {
+      "id": "nce4-007-bats",
+      "kind": "textbook",
+      "title": "Lesson 7: Bats",
+      "duration": 155.429,
+      "byteLength": 2635595,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-007-bats.json"
+    },
+    {
+      "id": "nce4-008-trading-standards",
+      "kind": "textbook",
+      "title": "Lesson 8: Trading Standards",
+      "duration": 141.479,
+      "byteLength": 2412430,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-008-trading-standards.json"
+    },
+    {
+      "id": "nce4-009-royal-espionage",
+      "kind": "textbook",
+      "title": "Lesson 9: Royal Espionage",
+      "duration": 162.299,
+      "byteLength": 2745540,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-009-royal-espionage.json"
+    },
+    {
+      "id": "nce4-010-silicon-valley",
+      "kind": "textbook",
+      "title": "Lesson 10: Silicon Valley",
+      "duration": 155.011,
+      "byteLength": 2628928,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-010-silicon-valley.json"
+    },
+    {
+      "id": "nce4-011-how-to-grow-old",
+      "kind": "textbook",
+      "title": "Lesson 11: How to Grow Old",
+      "duration": 159.451,
+      "byteLength": 2699983,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-011-how-to-grow-old.json"
+    },
+    {
+      "id": "nce4-012-banks-and-their-customers",
+      "kind": "textbook",
+      "title": "Lesson 12: Banks and Their Customers",
+      "duration": 129.62,
+      "byteLength": 2222694,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-012-banks-and-their-customers.json"
+    },
+    {
+      "id": "nce4-013-the-search-for-oil",
+      "kind": "textbook",
+      "title": "Lesson 13: The Search for Oil",
+      "duration": 143.203,
+      "byteLength": 2440019,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-013-the-search-for-oil.json"
+    },
+    {
+      "id": "nce4-014-the-butterfly-effect",
+      "kind": "textbook",
+      "title": "Lesson 14: The Butterfly Effect",
+      "duration": 148.114,
+      "byteLength": 2518599,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-014-the-butterfly-effect.json"
+    },
+    {
+      "id": "nce4-015-secrecy-in-industry",
+      "kind": "textbook",
+      "title": "Lesson 15: Secrecy in Industry",
+      "duration": 146.051,
+      "byteLength": 2485578,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-015-secrecy-in-industry.json"
+    },
+    {
+      "id": "nce4-016-the-modern-city",
+      "kind": "textbook",
+      "title": "Lesson 16: The Modern City",
+      "duration": 129.515,
+      "byteLength": 2221002,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-016-the-modern-city.json"
+    },
+    {
+      "id": "nce4-017-a-man-made-disease",
+      "kind": "textbook",
+      "title": "Lesson 17: A Man-made Disease",
+      "duration": 181.838,
+      "byteLength": 3058180,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-017-a-man-made-disease.json"
+    },
+    {
+      "id": "nce4-018-porpoises",
+      "kind": "textbook",
+      "title": "Lesson 18: Porpoises",
+      "duration": 177.607,
+      "byteLength": 2990453,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-018-porpoises.json"
+    },
+    {
+      "id": "nce4-019-the-stuff-of-dreams",
+      "kind": "textbook",
+      "title": "Lesson 19: The Stuff of Dreams",
+      "duration": 197.773,
+      "byteLength": 3313138,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-019-the-stuff-of-dreams.json"
+    },
+    {
+      "id": "nce4-020-snake-poison",
+      "kind": "textbook",
+      "title": "Lesson 20: Snake Poison",
+      "duration": 181.368,
+      "byteLength": 3050645,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-020-snake-poison.json"
+    },
+    {
+      "id": "nce4-021-william-s-hart-and-the-early-western-film",
+      "kind": "textbook",
+      "title": "Lesson 21: William S. Hart and the Early Western Film",
+      "duration": 197.486,
+      "byteLength": 3308590,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-021-william-s-hart-and-the-early-western-film.json"
+    },
+    {
+      "id": "nce4-022-knowledge-and-progress",
+      "kind": "textbook",
+      "title": "Lesson 22: Knowledge and Progress",
+      "duration": 166.557,
+      "byteLength": 2813682,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-022-knowledge-and-progress.json"
+    },
+    {
+      "id": "nce4-023-bird-flight",
+      "kind": "textbook",
+      "title": "Lesson 23: Bird Flight",
+      "duration": 175.987,
+      "byteLength": 2964544,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-023-bird-flight.json"
+    },
+    {
+      "id": "nce4-024-beauty",
+      "kind": "textbook",
+      "title": "Lesson 24: Beauty",
+      "duration": 160.653,
+      "byteLength": 2719192,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-024-beauty.json"
+    },
+    {
+      "id": "nce4-025-non-auditory-effects-of-noise",
+      "kind": "textbook",
+      "title": "Lesson 25: Non-Auditory Effects of Noise",
+      "duration": 233.3,
+      "byteLength": 3881582,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-025-non-auditory-effects-of-noise.json"
+    },
+    {
+      "id": "nce4-026-the-past-life-of-the-earth",
+      "kind": "textbook",
+      "title": "Lesson 26: The Past Life of the Earth",
+      "duration": 205.531,
+      "byteLength": 3437285,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-026-the-past-life-of-the-earth.json"
+    },
+    {
+      "id": "nce4-027-the-vasa",
+      "kind": "textbook",
+      "title": "Lesson 27: The vasa",
+      "duration": 249.234,
+      "byteLength": 4136499,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-027-the-vasa.json"
+    },
+    {
+      "id": "nce4-028-patients-and-doctors",
+      "kind": "textbook",
+      "title": "Lesson 28: Patients and Doctors",
+      "duration": 186.305,
+      "byteLength": 3129655,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-028-patients-and-doctors.json"
+    },
+    {
+      "id": "nce4-029-the-hovercraft",
+      "kind": "textbook",
+      "title": "Lesson 29: The Hovercraft",
+      "duration": 203.912,
+      "byteLength": 3411348,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-029-the-hovercraft.json"
+    },
+    {
+      "id": "nce4-030-exploring-the-sea-floor",
+      "kind": "textbook",
+      "title": "Lesson 30: Exploring the Sea-Floor",
+      "duration": 213.394,
+      "byteLength": 3563085,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-030-exploring-the-sea-floor.json"
+    },
+    {
+      "id": "nce4-031-the-sculptor-speaks",
+      "kind": "textbook",
+      "title": "Lesson 31: The Sculptor Speaks",
+      "duration": 209.554,
+      "byteLength": 3501637,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-031-the-sculptor-speaks.json"
+    },
+    {
+      "id": "nce4-032-galileo-reborn",
+      "kind": "textbook",
+      "title": "Lesson 32: Galileo Reborn",
+      "duration": 213.603,
+      "byteLength": 3566411,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-032-galileo-reborn.json"
+    },
+    {
+      "id": "nce4-033-education",
+      "kind": "textbook",
+      "title": "Lesson 33: Education",
+      "duration": 243.148,
+      "byteLength": 4039113,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-033-education.json"
+    },
+    {
+      "id": "nce4-034-adolescence",
+      "kind": "textbook",
+      "title": "Lesson 34: Adolescence",
+      "duration": 196.519,
+      "byteLength": 3293059,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-034-adolescence.json"
+    },
+    {
+      "id": "nce4-035-space-odyssey",
+      "kind": "textbook",
+      "title": "Lesson 35: Space Odyssey",
+      "duration": 210.286,
+      "byteLength": 3513328,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-035-space-odyssey.json"
+    },
+    {
+      "id": "nce4-036-the-cost-of-government",
+      "kind": "textbook",
+      "title": "Lesson 36: The Cost of Government",
+      "duration": 207.804,
+      "byteLength": 3473640,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-036-the-cost-of-government.json"
+    },
+    {
+      "id": "nce4-037-the-process-of-ageing",
+      "kind": "textbook",
+      "title": "Lesson 37: The Process of Ageing",
+      "duration": 275.566,
+      "byteLength": 4557824,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-037-the-process-of-ageing.json"
+    },
+    {
+      "id": "nce4-038-water-and-the-traveller",
+      "kind": "textbook",
+      "title": "Lesson 38: Water and the Traveller",
+      "duration": 183.615,
+      "byteLength": 3086612,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-038-water-and-the-traveller.json"
+    },
+    {
+      "id": "nce4-039-what-every-writer-wants",
+      "kind": "textbook",
+      "title": "Lesson 39: What Every Writer Wants",
+      "duration": 235.468,
+      "byteLength": 3916261,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-039-what-every-writer-wants.json"
+    },
+    {
+      "id": "nce4-040-waves",
+      "kind": "textbook",
+      "title": "Lesson 40: Waves",
+      "duration": 172.983,
+      "byteLength": 2916466,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-040-waves.json"
+    },
+    {
+      "id": "nce4-041-training-elephants",
+      "kind": "textbook",
+      "title": "Lesson 41: Training Elephants",
+      "duration": 292.336,
+      "byteLength": 4826148,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-041-training-elephants.json"
+    },
+    {
+      "id": "nce4-042-recording-an-earthquake",
+      "kind": "textbook",
+      "title": "Lesson 42: Recording an Earthquake",
+      "duration": 291.527,
+      "byteLength": 4813201,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-042-recording-an-earthquake.json"
+    },
+    {
+      "id": "nce4-043-are-there-strangers-in-space",
+      "kind": "textbook",
+      "title": "Lesson 43: Are There Strangers in Space",
+      "duration": 340.349,
+      "byteLength": 5594379,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-043-are-there-strangers-in-space.json"
+    },
+    {
+      "id": "nce4-044-patterns-of-culture",
+      "kind": "textbook",
+      "title": "Lesson 44: Patterns of Culture",
+      "duration": 305.685,
+      "byteLength": 5039727,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-044-patterns-of-culture.json"
+    },
+    {
+      "id": "nce4-045-of-men-and-galaxies",
+      "kind": "textbook",
+      "title": "Lesson 45: Of Men and Galaxies",
+      "duration": 296.516,
+      "byteLength": 4893023,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-045-of-men-and-galaxies.json"
+    },
+    {
+      "id": "nce4-046-hobbies",
+      "kind": "textbook",
+      "title": "Lesson 46: Hobbies",
+      "duration": 284.97,
+      "byteLength": 4708261,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-046-hobbies.json"
+    },
+    {
+      "id": "nce4-047-the-great-escape",
+      "kind": "textbook",
+      "title": "Lesson 47: The Great Escape",
+      "duration": 353.698,
+      "byteLength": 5807930,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-047-the-great-escape.json"
+    },
+    {
+      "id": "nce4-048-planning-a-share-portfolio",
+      "kind": "textbook",
+      "title": "Lesson 48: Planning a Share Portfolio",
+      "duration": 197.564,
+      "byteLength": 3309808,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-4/nce4-048-planning-a-share-portfolio.json"
+    }
+  ]
+}

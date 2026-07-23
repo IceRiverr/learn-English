@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-014-a-noble-gangster",
+    "kind": "textbook",
+    "title": "Lesson 14: A Noble Gangster",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 14.",
+      "translation": {
+        "text": "第14课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Noble Gangster.",
+      "translation": {
+        "text": "一位贵族歹徒。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How did Hawkwood make money in times of peace?",
+      "translation": {
+        "text": "霍克伍德在和平时期怎样赚钱？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for protection.",
+      "translation": {
+        "text": "过去有一段时期，芝加哥的商店和企业老板不得不向歹徒支付大笔钱财，以换取“保护”。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop.",
+      "translation": {
+        "text": "如果钱没有及时付清，歹徒便会砸毁店铺，迅速使店主无法继续经营。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Obtaining protection money is not a modern crime.",
+      "translation": {
+        "text": "勒索保护费并不是现代才有的罪行。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "As long ago as the 14th century, an English man, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.",
+      "translation": {
+        "text": "早在14世纪，英国人约翰·霍克伍德爵士就有了一个惊人发现：人们宁愿支付大笔金钱，也不愿让毕生事业毁在歹徒手中。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence.",
+      "translation": {
+        "text": "600年前，约翰·霍克伍德爵士带领一队士兵来到意大利，并在佛罗伦萨附近定居。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He soon made a name for himself and came to be known to the Italians as Giovanni Accuto.",
+      "translation": {
+        "text": "他很快声名鹊起，意大利人称他为乔瓦尼·阿库托。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.",
+      "translation": {
+        "text": "每当意大利各城邦相互交战时，霍克伍德便把士兵雇给愿意支付他所索高价的王公。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them.",
+      "translation": {
+        "text": "和平时期生意清淡，霍克伍德和部下便开进一座城邦，烧毁几座农场后提出：只要付给他们保护费，他们就撤走。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Hawkwood made large sums of money in this way.",
+      "translation": {
+        "text": "霍克伍德用这种办法赚了大笔钱财。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "In spite of this, the Italians regarded him as a sort of hero.",
+      "translation": {
+        "text": "尽管如此，意大利人仍把他视为某种英雄。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted.",
+      "translation": {
+        "text": "他80岁去世时，佛罗伦萨人为他举行了国葬，并请人画了一幅画像。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It was dedicated to the memory of the most valiant soldier and most notable leader, Signor Giovanni Haukodue.",
+      "translation": {
+        "text": "画像题献给最英勇的战士、最杰出的领袖乔瓦尼·霍克伍德先生。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-014-a-noble-gangster-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2270038,
+        "sha256": "0d03a50d19db53f03332ab1a2ba9b8a93272176f89c8fce415805418e5f11856"
+      },
+      "duration": 132.624,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.18,
+          "end": 1.72
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.42,
+          "end": 3.9
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.4,
+          "end": 8.68
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.92,
+          "end": 13.02
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.28,
+          "end": 25.12
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.12,
+          "end": 34.24
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.64,
+          "end": 38.9
+        },
+        {
+          "segmentId": "s008",
+          "start": 39.72,
+          "end": 55.1
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.16,
+          "end": 64.58
+        },
+        {
+          "segmentId": "s010",
+          "start": 65.42,
+          "end": 72.26
+        },
+        {
+          "segmentId": "s011",
+          "start": 73.52,
+          "end": 84.44
+        },
+        {
+          "segmentId": "s012",
+          "start": 85.12,
+          "end": 99.32
+        },
+        {
+          "segmentId": "s013",
+          "start": 100.4,
+          "end": 103.46
+        },
+        {
+          "segmentId": "s014",
+          "start": 104.2,
+          "end": 109
+        },
+        {
+          "segmentId": "s015",
+          "start": 109.9,
+          "end": 117.44
+        },
+        {
+          "segmentId": "s016",
+          "start": 117.44,
+          "end": 127.3
+        }
+      ]
+    }
+  ]
+}

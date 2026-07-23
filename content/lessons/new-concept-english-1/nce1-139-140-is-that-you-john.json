@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-139-140-is-that-you-john",
+    "kind": "textbook",
+    "title": "Lesson 139: Is that you, John?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 139.",
+      "translation": {
+        "text": "第139课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Is That You, John?",
+      "translation": {
+        "text": "是你吗，约翰？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Which John Smith does Graham Turner think he is talking to?",
+      "translation": {
+        "text": "格雷厄姆·特纳以为他正在和哪一位约翰·史密斯通话？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Is That You, John?",
+      "translation": {
+        "text": "是你吗，约翰？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Yes, speaking.",
+      "translation": {
+        "text": "是我，请讲。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Tell Mary we'll be late for dinner this evening.",
+      "translation": {
+        "text": "告诉玛丽，我们今晚吃晚饭会迟到。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I'm afraid I don't understand.",
+      "translation": {
+        "text": "恐怕我不明白您的意思。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Hasn't Mary told you?",
+      "translation": {
+        "text": "玛丽没告诉你吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "She invited Charlotte and me to dinner this evening.",
+      "translation": {
+        "text": "她邀请夏洛特和我今晚去吃晚饭。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I said I would be at your house at six o'clock, but the boss wants me to do some extra work.",
+      "translation": {
+        "text": "我说过六点到你家，可老板要我加班。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I'll have to stay at the office.",
+      "translation": {
+        "text": "我得留在办公室。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I don't know when I'll finish.",
+      "translation": {
+        "text": "我不知道什么时候才能做完。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Oh, and by the way, my wife wants to know if Mary needs any help.",
+      "translation": {
+        "text": "哦，顺便问一下，我妻子想知道玛丽是否需要帮忙。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I don't know what you're talking about.",
+      "translation": {
+        "text": "我不知道您在说什么。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "That is John Smith, isn't it?",
+      "translation": {
+        "text": "你是约翰·史密斯，对吧？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Yes, I'm John Smith.",
+      "translation": {
+        "text": "是的，我是约翰·史密斯。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "You are John Smith, engineer, aren't you?",
+      "translation": {
+        "text": "你是工程师约翰·史密斯，对吧？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "That's right.",
+      "translation": {
+        "text": "没错。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "You work for the overseas engineering company, don't you?",
+      "translation": {
+        "text": "你在海外工程公司工作，对吧？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "No, I don't.",
+      "translation": {
+        "text": "不，我不在那里工作。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I'm John Smith, the telephone engineer, and I'm repairing your telephone line.",
+      "translation": {
+        "text": "我是电话工程师约翰·史密斯，正在修理你家的电话线。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-139-140-is-that-you-john-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1805969,
+        "sha256": "2a3c6066a6aff2070f77f05215c3f0b170e559916fec5fd88ed50f6de98fce52"
+      },
+      "duration": 104.882,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 2.42
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.48,
+          "end": 5.22
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.76,
+          "end": 10.98
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.7,
+          "end": 18.22
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.32,
+          "end": 21.96
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.56,
+          "end": 23.88
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.94,
+          "end": 28.5
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.5,
+          "end": 31.96
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.4,
+          "end": 35.1
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.98,
+          "end": 40.16
+        },
+        {
+          "segmentId": "s011",
+          "start": 41.38,
+          "end": 50.48
+        },
+        {
+          "segmentId": "s012",
+          "start": 51.42,
+          "end": 53.8
+        },
+        {
+          "segmentId": "s013",
+          "start": 54.52,
+          "end": 56.92
+        },
+        {
+          "segmentId": "s014",
+          "start": 57.92,
+          "end": 65.22
+        },
+        {
+          "segmentId": "s015",
+          "start": 66.06,
+          "end": 69.4
+        },
+        {
+          "segmentId": "s016",
+          "start": 70.7,
+          "end": 73.78
+        },
+        {
+          "segmentId": "s017",
+          "start": 74.1,
+          "end": 76.2
+        },
+        {
+          "segmentId": "s018",
+          "start": 77.18,
+          "end": 81.72
+        },
+        {
+          "segmentId": "s019",
+          "start": 82.16,
+          "end": 83.04
+        },
+        {
+          "segmentId": "s020",
+          "start": 84.04,
+          "end": 89.72
+        },
+        {
+          "segmentId": "s021",
+          "start": 90.16,
+          "end": 91.5
+        },
+        {
+          "segmentId": "s022",
+          "start": 91.98,
+          "end": 98.78
+        }
+      ]
+    }
+  ]
+}

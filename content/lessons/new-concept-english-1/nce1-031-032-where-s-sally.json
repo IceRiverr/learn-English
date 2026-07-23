@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-031-032-where-s-sally",
+    "kind": "textbook",
+    "title": "Lesson 31: Where's Sally?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 31.",
+      "translation": {
+        "text": "第31课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Where's Sally?",
+      "translation": {
+        "text": "萨莉在哪里？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Is the cat climbing the tree?",
+      "translation": {
+        "text": "猫正在爬树吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where's Sally, Jack?",
+      "translation": {
+        "text": "杰克，萨莉在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She's in the garden, Jean.",
+      "translation": {
+        "text": "她在花园里，琼。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What's she doing?",
+      "translation": {
+        "text": "她在做什么？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "She's sitting under the tree.",
+      "translation": {
+        "text": "她正坐在树下。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Is Tim in the garden, too?",
+      "translation": {
+        "text": "蒂姆也在花园里吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Yes, he is.",
+      "translation": {
+        "text": "是的，他在。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "He's climbing the tree.",
+      "translation": {
+        "text": "他正在爬树。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I beg your pardon.",
+      "translation": {
+        "text": "请再说一遍。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Who's climbing the tree?",
+      "translation": {
+        "text": "谁在爬树？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Tim is.",
+      "translation": {
+        "text": "蒂姆。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "What about the dog?",
+      "translation": {
+        "text": "那只狗呢？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The dog's in the garden, too.",
+      "translation": {
+        "text": "那只狗也在花园里。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "It's running across the grass.",
+      "translation": {
+        "text": "它正跑过草地。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It's running after a cat.",
+      "translation": {
+        "text": "它正在追一只猫。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-031-032-where-s-sally-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1073290,
+        "sha256": "3bb1dcb10d0b539f4d31131c79dcf7535fb8f6aa763f664517aa996534ed49ef"
+      },
+      "duration": 58.984,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.79
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.21,
+          "end": 4.13
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.47,
+          "end": 9.87
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.49,
+          "end": 13.75
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.51,
+          "end": 17.57
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.49,
+          "end": 20.67
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.49,
+          "end": 22.65
+        },
+        {
+          "segmentId": "s008",
+          "start": 23.39,
+          "end": 25.69
+        },
+        {
+          "segmentId": "s009",
+          "start": 26.61,
+          "end": 29.19
+        },
+        {
+          "segmentId": "s010",
+          "start": 29.19,
+          "end": 31.25
+        },
+        {
+          "segmentId": "s011",
+          "start": 31.87,
+          "end": 33.51
+        },
+        {
+          "segmentId": "s012",
+          "start": 34.55,
+          "end": 36.11
+        },
+        {
+          "segmentId": "s013",
+          "start": 36.91,
+          "end": 38.75
+        },
+        {
+          "segmentId": "s014",
+          "start": 39.51,
+          "end": 40.39
+        },
+        {
+          "segmentId": "s015",
+          "start": 41.37,
+          "end": 42.93
+        },
+        {
+          "segmentId": "s016",
+          "start": 43.79,
+          "end": 46.27
+        },
+        {
+          "segmentId": "s017",
+          "start": 46.87,
+          "end": 49.25
+        },
+        {
+          "segmentId": "s018",
+          "start": 50.01,
+          "end": 52.33
+        }
+      ]
+    }
+  ]
+}

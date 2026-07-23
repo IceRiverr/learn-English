@@ -1,21 +1,18 @@
 import { openDB } from "idb";
+import { z } from "zod";
+import type { RuntimeLesson, RuntimeSegment } from "./content";
 
-export interface Segment {
-  id: string;
-  start: number;
-  end: number;
-  text: string;
-  translations?: Record<string, string>;
-  speaker?: string;
-}
+export type Segment = RuntimeSegment;
 
 export interface Course {
+  schemaVersion?: 2;
   id: string;
   title: string;
   audioFilename: string;
   duration: number;
   revision?: number;
   language?: string;
+  defaultRenditionId?: "en" | "zh-ai";
   segments: Segment[];
   audioLocation?: "opfs" | "indexeddb";
 }
@@ -29,6 +26,38 @@ export interface LastPlayed {
   courseId: string;
   updatedAt: number;
 }
+
+const segmentSchema = z.object({
+  id: z.string().min(1),
+  start: z.number().nonnegative(),
+  end: z.number().positive(),
+  text: z.string().min(1),
+  translations: z.object({ "zh-Hans": z.string().min(1).optional() }).optional(),
+  speaker: z.string().min(1).optional()
+});
+
+const savedCourseSchema = z.object({
+  schemaVersion: z.literal(2).optional(),
+  id: z.string().min(1),
+  title: z.string().min(1),
+  audioFilename: z.string().min(1),
+  duration: z.number().positive(),
+  revision: z.number().int().positive().optional(),
+  language: z.string().min(1).optional(),
+  defaultRenditionId: z.enum(["en", "zh-ai"]).optional(),
+  segments: z.array(segmentSchema).min(1),
+  audioLocation: z.enum(["opfs", "indexeddb"]).optional()
+});
+
+const savedProgressSchema = z.object({
+  currentTime: z.number().finite(),
+  playbackRate: z.number().positive().finite()
+});
+
+const lastPlayedSchema = z.object({
+  courseId: z.string().min(1),
+  updatedAt: z.number().finite()
+});
 
 const database = openDB("english-listening", 1, {
   upgrade(db) {
@@ -68,7 +97,7 @@ async function deleteOpfsAudio(courseId: string): Promise<void> {
 }
 
 export async function saveCourse(
-  course: Omit<Course, "audioLocation">,
+  course: Omit<Course | RuntimeLesson, "audioLocation">,
   audio: Blob
 ): Promise<Course> {
   const db = await database;
@@ -89,7 +118,8 @@ export async function saveCourse(
 }
 
 export async function loadCourse(courseId: string): Promise<Course | undefined> {
-  return (await database).get("app-data", `course:${courseId}`) as Promise<Course | undefined>;
+  const parsed = savedCourseSchema.safeParse(await (await database).get("app-data", `course:${courseId}`));
+  return parsed.success ? parsed.data : undefined;
 }
 
 export async function saveCourseMetadata(
@@ -107,7 +137,8 @@ export async function loadAudio(courseId: string): Promise<Blob | undefined> {
   if (!course) return undefined;
 
   if (course.audioLocation === "indexeddb") {
-    return (await database).get("app-data", `audio:${courseId}`) as Promise<Blob | undefined>;
+    const value = await (await database).get("app-data", `audio:${courseId}`);
+    return value instanceof Blob ? value : undefined;
   }
   if (course.audioLocation !== "opfs") return undefined;
 
@@ -126,7 +157,8 @@ export async function saveProgress(courseId: string, progress: SavedProgress): P
 }
 
 export async function loadProgress(courseId: string): Promise<SavedProgress | undefined> {
-  return (await database).get("app-data", `progress:${courseId}`) as Promise<SavedProgress | undefined>;
+  const parsed = savedProgressSchema.safeParse(await (await database).get("app-data", `progress:${courseId}`));
+  return parsed.success ? parsed.data : undefined;
 }
 
 export async function saveLastPlayed(courseId: string): Promise<void> {
@@ -135,14 +167,8 @@ export async function saveLastPlayed(courseId: string): Promise<void> {
 }
 
 export async function loadLastPlayed(): Promise<LastPlayed | undefined> {
-  const value = await (await database).get("app-data", "last-played") as unknown;
-  if (!value || typeof value !== "object") return undefined;
-  const candidate = value as Partial<LastPlayed>;
-  if (typeof candidate.courseId !== "string" || candidate.courseId.length === 0
-    || typeof candidate.updatedAt !== "number" || !Number.isFinite(candidate.updatedAt)) {
-    return undefined;
-  }
-  return { courseId: candidate.courseId, updatedAt: candidate.updatedAt };
+  const parsed = lastPlayedSchema.safeParse(await (await database).get("app-data", "last-played"));
+  return parsed.success ? parsed.data : undefined;
 }
 
 export async function clearLastPlayed(): Promise<void> {

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-055-not-a-gold-mine",
+    "kind": "textbook",
+    "title": "Lesson 55: Not a Gold Mine",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First,",
+      "translation": {
+        "text": "首先，"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "listen and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What did the team find?",
+      "translation": {
+        "text": "这支队伍发现了什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Dreams of finding lost treasure almost came true recently.",
+      "translation": {
+        "text": "寻找失落宝藏的梦想最近几乎成了现实。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "A new machine called the Revealer has been invented and it has been used to detect gold which has been buried in the ground.",
+      "translation": {
+        "text": "一种名为“探宝器”的新机器已经问世，并被用来探测埋在地下的黄金。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The machine was used in a cave near the seashore where, it is said, pirates used to hide gold.",
+      "translation": {
+        "text": "这台机器被用在海边附近的一个洞穴中，据说海盗过去常把黄金藏在那里。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The pirates would often bury gold in the cave and then fail to collect it.",
+      "translation": {
+        "text": "海盗常把黄金埋在洞里，后来却没能取走。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "translation": {
+        "text": "队长正在检查洞口附近的土壤时，机器显示地下有黄金。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Very excited, the party dug a hole two feet deep.",
+      "translation": {
+        "text": "队员们非常兴奋，挖了一个两英尺深的坑。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "They finally found a small gold coin which was almost worthless.",
+      "translation": {
+        "text": "最后，他们找到一枚几乎一文不值的小金币。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "translation": {
+        "text": "接着，队员们彻底搜查了整个洞穴，但除了一只空铁皮箱外，什么也没找到。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In spite of this, many people are confident that the Revealer may reveal something of value fairly soon.",
+      "translation": {
+        "text": "尽管如此，许多人相信“探宝器”不久就可能发现有价值的东西。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-055-not-a-gold-mine-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1864618,
+        "sha256": "135135670dcfb594a21c1ff4cddd5092b23117b45367378af11aa9df6fbfb68d"
+      },
+      "duration": 107.233,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 2.64,
+          "end": 3.56
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.34,
+          "end": 8.86
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.34,
+          "end": 12.1
+        },
+        {
+          "segmentId": "s004",
+          "start": 14.28,
+          "end": 18.96
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.34,
+          "end": 30.44
+        },
+        {
+          "segmentId": "s006",
+          "start": 31.48,
+          "end": 40.62
+        },
+        {
+          "segmentId": "s007",
+          "start": 41.94,
+          "end": 56.64
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.64,
+          "end": 67.08
+        },
+        {
+          "segmentId": "s009",
+          "start": 68.3,
+          "end": 73.26
+        },
+        {
+          "segmentId": "s010",
+          "start": 74.16,
+          "end": 78.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 79.92,
+          "end": 89.62
+        },
+        {
+          "segmentId": "s012",
+          "start": 91.1,
+          "end": 100.94
+        }
+      ]
+    }
+  ]
+}

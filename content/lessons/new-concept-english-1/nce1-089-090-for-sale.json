@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-089-090-for-sale",
+    "kind": "textbook",
+    "title": "Lesson 89: For sale",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 89.",
+      "translation": {
+        "text": "第89课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "For Sale.",
+      "translation": {
+        "text": "待售。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why couldn't Nigel decide?",
+      "translation": {
+        "text": "奈杰尔为什么拿不定主意？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Good afternoon.",
+      "translation": {
+        "text": "下午好。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I believe that this house is for sale.",
+      "translation": {
+        "text": "我听说这所房子要出售。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "That's right.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "May I have a look at it, please?",
+      "translation": {
+        "text": "我可以看一看吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Yes, of course.",
+      "translation": {
+        "text": "当然可以。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Come in.",
+      "translation": {
+        "text": "请进。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "How long have you lived here?",
+      "translation": {
+        "text": "您在这里住了多久？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I've lived here for twenty years.",
+      "translation": {
+        "text": "我在这里住了二十年。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Twenty years?",
+      "translation": {
+        "text": "二十年？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "That's a long time.",
+      "translation": {
+        "text": "那可够久的。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Yes, I've been here since 1976.",
+      "translation": {
+        "text": "是的，我从1976年起就住在这里。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Then why do you want to sell it?",
+      "translation": {
+        "text": "那您为什么想卖掉它？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Because I've just retired.",
+      "translation": {
+        "text": "因为我刚退休。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I want to buy a small house in the country.",
+      "translation": {
+        "text": "我想在乡下买一所小房子。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "How much does this house cost?",
+      "translation": {
+        "text": "这所房子多少钱？"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "£68,500.",
+      "translation": {
+        "text": "68,500英镑。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That's a lot of money.",
+      "translation": {
+        "text": "那可是一大笔钱。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "It's worth every penny of it.",
+      "translation": {
+        "text": "它值这个价，一分也不多。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Well, I like the house, but I can't decide yet.",
+      "translation": {
+        "text": "嗯，我喜欢这所房子，但还拿不定主意。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "My wife must see it first.",
+      "translation": {
+        "text": "我妻子必须先看看。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Women always have the last word.",
+      "translation": {
+        "text": "女人总是最后说了算。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-089-090-for-sale-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1615378,
+        "sha256": "1c1ca9e5810c43777dc3e38da090cdf14741c7fc2006be0caed828d921fafab5"
+      },
+      "duration": 92.944,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.3,
+          "end": 2.12
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.1,
+          "end": 4.02
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.7,
+          "end": 9.86
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.36,
+          "end": 13.84
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.35,
+          "end": 17.21
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.27,
+          "end": 22.03
+        },
+        {
+          "segmentId": "s007",
+          "start": 22.79,
+          "end": 23.45
+        },
+        {
+          "segmentId": "s008",
+          "start": 24.65,
+          "end": 27.17
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.03,
+          "end": 29.19
+        },
+        {
+          "segmentId": "s010",
+          "start": 29.81,
+          "end": 30.27
+        },
+        {
+          "segmentId": "s011",
+          "start": 31.27,
+          "end": 34.03
+        },
+        {
+          "segmentId": "s012",
+          "start": 35.05,
+          "end": 37.61
+        },
+        {
+          "segmentId": "s013",
+          "start": 38.57,
+          "end": 39.63
+        },
+        {
+          "segmentId": "s014",
+          "start": 40.15,
+          "end": 42.07
+        },
+        {
+          "segmentId": "s015",
+          "start": 42.77,
+          "end": 46.35
+        },
+        {
+          "segmentId": "s016",
+          "start": 48.09,
+          "end": 51.17
+        },
+        {
+          "segmentId": "s017",
+          "start": 51.87,
+          "end": 53.89
+        },
+        {
+          "segmentId": "s018",
+          "start": 54.61,
+          "end": 58.47
+        },
+        {
+          "segmentId": "s019",
+          "start": 59.67,
+          "end": 62.83
+        },
+        {
+          "segmentId": "s020",
+          "start": 64.99,
+          "end": 66.75
+        },
+        {
+          "segmentId": "s021",
+          "start": 68.25,
+          "end": 70.21
+        },
+        {
+          "segmentId": "s022",
+          "start": 70.85,
+          "end": 73.35
+        },
+        {
+          "segmentId": "s023",
+          "start": 74.03,
+          "end": 79.33
+        },
+        {
+          "segmentId": "s024",
+          "start": 80.47,
+          "end": 82.79
+        },
+        {
+          "segmentId": "s025",
+          "start": 83.93,
+          "end": 86.59
+        }
+      ]
+    }
+  ]
+}

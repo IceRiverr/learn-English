@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-035-justice-was-done",
+    "kind": "textbook",
+    "title": "Lesson 35: Justice was Done",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 35.",
+      "translation": {
+        "text": "第35课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "was Done.",
+      "translation": {
+        "text": "正义得到伸张。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The word justice is given two different meanings in the text.",
+      "translation": {
+        "text": "课文赋予“正义”一词两种不同含义。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "What is the distinction between them?",
+      "translation": {
+        "text": "它们有何区别？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The word justice is usually associated with courts of law.",
+      "translation": {
+        "text": "“正义”一词通常同法庭联系在一起。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "We might say that justice has been done when a man's innocence or guilt has been proved beyond doubt.",
+      "translation": {
+        "text": "当一个人的清白或罪责得到确凿证明时，我们也许会说正义得到了伸张。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "is part of the complex machinery of the law.",
+      "translation": {
+        "text": "这是复杂法律机制的一部分。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Those who seek it undertake an arduous journey and can never be sure that they will find it.",
+      "translation": {
+        "text": "寻求正义的人踏上的是一段艰难的旅程，而且永远不能肯定能否找到它。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "however wise or eminent, are human and can make mistakes.",
+      "translation": {
+        "text": "法官无论多么明智、显赫，终究是人，也会犯错。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "There are rare instances when justice almost ceases to be an abstract concept.",
+      "translation": {
+        "text": "在极少数情况下，正义几乎不再是一个抽象概念。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Reward or punishment are meted out quite independent of human interference.",
+      "translation": {
+        "text": "奖赏或惩罚会完全不受人为干预地降临。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "At such times, justice acts like a living force.",
+      "translation": {
+        "text": "在这种时候，正义就像一种有生命的力量在发挥作用。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "When we use a phrase like, it serves him right, we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord.",
+      "translation": {
+        "text": "当我们说“他活该”之类的话时，实际上是在某种程度上承认，特定的情形使正义自行得到了伸张。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "When a thief was caught on the premises of a large jewelry store one morning, the shop assistants must have found it impossible to resist the temptation to say, it serves him right.",
+      "translation": {
+        "text": "一天早晨，一个小偷在一家大型珠宝店内被抓住，店员们想必忍不住要说：“他活该。”"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The shop was an old converted house with many large, disused fireplaces and tall, narrow chimneys.",
+      "translation": {
+        "text": "这家店由一幢旧房改建而成，里面有许多废弃的大壁炉和又高又窄的烟囱。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Towards midday a girl heard a muffled cry coming from behind one of the walls.",
+      "translation": {
+        "text": "临近中午，一个姑娘听见一堵墙后传来低沉的呼救声。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "As the cry was repeated several times she ran to tell the manager who promptly rang up the fire brigade.",
+      "translation": {
+        "text": "呼救声重复了几次，她便跑去告诉经理，经理立即给消防队打了电话。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The cry had certainly come from one of the chimneys, but as there were so many of them, the firefighters could not be certain which one it was.",
+      "translation": {
+        "text": "声音肯定来自某个烟囱，但烟囱太多，消防员无法确定究竟是哪一个。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "They located the right chimney by tapping at the walls and listening for the man's cries.",
+      "translation": {
+        "text": "他们一边敲墙，一边听那人的呼喊，从而找到了正确的烟囱。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "After chipping through a wall which was eighteen inches thick, they found that a man had been trapped in the chimney.",
+      "translation": {
+        "text": "凿穿一堵18英寸厚的墙后，他们发现一个人被困在烟囱里。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "As it was extremely narrow the man was unable to move, but the firefighters were eventually able to free him by cutting a huge hole in the wall.",
+      "translation": {
+        "text": "烟囱非常狭窄，那人动弹不得，消防员最终在墙上凿出一个大洞，才把他救出来。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The sorry-looking, blackened figure that emerged admitted at once that he had tried to break into the shop during the night but had got stuck in the chimney.",
+      "translation": {
+        "text": "钻出来的是一个浑身熏黑、模样可怜的人，他立即承认自己夜里企图闯入商店，却卡在了烟囱里。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "He had been there for nearly ten hours.",
+      "translation": {
+        "text": "他已经在那里困了近十个小时。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Justice had been done even before the man was handed over to the police.",
+      "translation": {
+        "text": "甚至在此人被交给警察之前，正义就已经得到了伸张。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-035-justice-was-done-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3147753,
+        "sha256": "dfba602f5e1c217be574c02b5f316e3b37aed550c6734dbd1e2b119d105d6834"
+      },
+      "duration": 187.481,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.18,
+          "end": 1.82
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.1,
+          "end": 4.04
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.46,
+          "end": 8.92
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.66,
+          "end": 14.6
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.4,
+          "end": 17.62
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.87,
+          "end": 24.69
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.69,
+          "end": 32.31
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.61,
+          "end": 36.85
+        },
+        {
+          "segmentId": "s009",
+          "start": 37.95,
+          "end": 44.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 45.49,
+          "end": 50.03
+        },
+        {
+          "segmentId": "s011",
+          "start": 50.99,
+          "end": 57.09
+        },
+        {
+          "segmentId": "s012",
+          "start": 58.37,
+          "end": 63.47
+        },
+        {
+          "segmentId": "s013",
+          "start": 64.31,
+          "end": 68.51
+        },
+        {
+          "segmentId": "s014",
+          "start": 69.53,
+          "end": 82.47
+        },
+        {
+          "segmentId": "s015",
+          "start": 83.99,
+          "end": 96.65
+        },
+        {
+          "segmentId": "s016",
+          "start": 97.49,
+          "end": 105.17
+        },
+        {
+          "segmentId": "s017",
+          "start": 106.13,
+          "end": 111.91
+        },
+        {
+          "segmentId": "s018",
+          "start": 112.87,
+          "end": 120.19
+        },
+        {
+          "segmentId": "s019",
+          "start": 120.19,
+          "end": 131.15
+        },
+        {
+          "segmentId": "s020",
+          "start": 132.23,
+          "end": 138.57
+        },
+        {
+          "segmentId": "s021",
+          "start": 139.65,
+          "end": 147.61
+        },
+        {
+          "segmentId": "s022",
+          "start": 147.61,
+          "end": 159.79
+        },
+        {
+          "segmentId": "s023",
+          "start": 160.83,
+          "end": 172.55
+        },
+        {
+          "segmentId": "s024",
+          "start": 173.19,
+          "end": 176.27
+        },
+        {
+          "segmentId": "s025",
+          "start": 176.27,
+          "end": 181.59
+        }
+      ]
+    }
+  ]
+}

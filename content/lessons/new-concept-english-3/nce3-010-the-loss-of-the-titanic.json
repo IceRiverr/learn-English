@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-010-the-loss-of-the-titanic",
+    "kind": "textbook",
+    "title": "Lesson 10: The Loss of the Titanic",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 10.",
+      "translation": {
+        "text": "第10课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Loss of the Titanic.",
+      "translation": {
+        "text": "“泰坦尼克号”的沉没。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What would have happened if only two of the sixteen watertight compartments had been flooded?",
+      "translation": {
+        "text": "如果16个水密舱中只有两个进水，会发生什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The great ship Titanic sailed for New York from Southampton on April 10, 1912.",
+      "translation": {
+        "text": "巨轮“泰坦尼克号”于1912年4月10日从南安普敦启航驶往纽约。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She was carrying 1,316 passengers and a crew of 891.",
+      "translation": {
+        "text": "船上载有1,316名乘客和891名船员。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Even by modern standards, the 46,000-ton Titanic was a colossal ship.",
+      "translation": {
+        "text": "即使用现代标准衡量，这艘46,000吨的“泰坦尼克号”也是一艘庞然大物。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments.",
+      "translation": {
+        "text": "然而在当时，它不仅是有史以来建造的最大船只，而且因拥有16个水密舱而被认为永不沉没。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Even if two of these were flooded, she would still be able to float.",
+      "translation": {
+        "text": "即使其中两个进水，它仍能漂浮。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.",
+      "translation": {
+        "text": "这艘巨型客轮的悲惨沉没将永远为人铭记，因为它在处女航中沉没，造成了惨重的人员伤亡。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.",
+      "translation": {
+        "text": "启航四天后，当“泰坦尼克号”航行在北大西洋冰冷的海面上时，瞭望员突然发现了一座巨大的冰山。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "After the alarm had been given, the great ship turned sharply to avoid a direct collision.",
+      "translation": {
+        "text": "警报发出后，巨轮急转弯以避免正面相撞。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over one hundred feet out of the water beside her.",
+      "translation": {
+        "text": "“泰坦尼克号”转向及时，与船旁高出水面100多英尺的巨大冰墙擦身而过。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Suddenly, there was a slight, trembling sound from below, and the captain went down to see what had happened.",
+      "translation": {
+        "text": "突然，船下传来轻微的震颤声，船长下去查看出了什么事。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The noise had been so faint that no one thought that the ship had been damaged.",
+      "translation": {
+        "text": "声音非常轻，以至于没有人认为船体已经受损。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "the captain realized, to his horror, that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded.",
+      "translation": {
+        "text": "船长惊恐地意识到“泰坦尼克号”正在迅速下沉，因为16个水密舱中已有5个进水。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The order to abandon ship was given, and hundreds of people plunged into the icy water.",
+      "translation": {
+        "text": "弃船命令发出后，数百人跳入冰冷的海水。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "As there were not enough lifeboats for everybody, one thousand five hundred lives were lost.",
+      "translation": {
+        "text": "由于救生艇不够所有人使用，共有1,500人丧生。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-010-the-loss-of-the-titanic-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2549674,
+        "sha256": "b46f7f9a451a5d90a590d98b593b9bfa8c2680b81311a647c78a4109d4d1a578"
+      },
+      "duration": 150.1,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.85,
+          "end": 2.15
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.21,
+          "end": 4.75
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.15,
+          "end": 9.33
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.65,
+          "end": 16.65
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.3,
+          "end": 26.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.08,
+          "end": 34.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.34,
+          "end": 41.9
+        },
+        {
+          "segmentId": "s008",
+          "start": 42.74,
+          "end": 54.74
+        },
+        {
+          "segmentId": "s009",
+          "start": 54.74,
+          "end": 59.82
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.9,
+          "end": 70.38
+        },
+        {
+          "segmentId": "s011",
+          "start": 71.88,
+          "end": 82.86
+        },
+        {
+          "segmentId": "s012",
+          "start": 83.76,
+          "end": 90.04
+        },
+        {
+          "segmentId": "s013",
+          "start": 91.24,
+          "end": 101.56
+        },
+        {
+          "segmentId": "s014",
+          "start": 102.8,
+          "end": 110.66
+        },
+        {
+          "segmentId": "s015",
+          "start": 111.54,
+          "end": 116.6
+        },
+        {
+          "segmentId": "s016",
+          "start": 118.46,
+          "end": 129.12
+        },
+        {
+          "segmentId": "s017",
+          "start": 129.94,
+          "end": 136.22
+        },
+        {
+          "segmentId": "s018",
+          "start": 136.22,
+          "end": 143.58
+        }
+      ]
+    }
+  ]
+}

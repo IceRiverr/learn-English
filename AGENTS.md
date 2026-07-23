@@ -52,8 +52,8 @@
 - 存储键必须按课程 ID 隔离：`course:<id>`、`audio:<id>` 和 `progress:<id>`。
 - 对仍在内置目录中的材料，“删除下载”只删除课程缓存和音频，必须保留 `progress:<id>` 与 `last-played`。
 - 保持对已下载旧课程和无翻译课程的兼容。
-- Service Worker 只预缓存应用外壳，不预缓存课程 MP3。
-- `public/**/*.mp3` 已被 Git 忽略，不得添加或提交这些文件。
+- Service Worker 预缓存应用外壳、`content/catalog.json` 和 `content/collections/*.json`，不预缓存完整 Lesson JSON 或课程 MP3。
+- 新正式音频位于 `audio/**/*.mp3` 并被 Git 忽略；迁移期间旧 `public/**/*.mp3` 也继续忽略，不得添加或提交这些文件。
 
 ## 界面规则
 
@@ -67,6 +67,7 @@
 - 当前产品只支持内置课程，不提供用户自定义 MP3 或字幕 JSON 导入入口；除非用户明确提出新 Feature，否则不要恢复导入界面。
 - 音频链接可用不代表拥有再发布权。添加公开课程前必须检查来源、署名和授权状态。
 - 大型音频和本地制作中间文件不得进入 Git。
+- 制作期材料按 Lesson 位于被忽略的 `content-work/<lesson-id>/`，跨 Lesson 的迁移和报告位于 `content-work/_shared/`；正式结构化内容从仓库根 `content/` 开始，不使用 `public/content`。
 - 分块翻译应使用 `scripts/translation-workflow.mjs`，不要直接重写大型课程 JSON。
 
 ## 部署

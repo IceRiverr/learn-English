@@ -1,0 +1,25 @@
+{
+  "baselineCreatedAt": "2026-07-23T16:08:38.203Z",
+  "baselineDigest": "60cfbf516cba1f4c70a306c5e9d49f0dd9ea6d6803b37c3e373d6214a56ac8bb",
+  "sourceRoot": "public",
+  "contentRoot": "content",
+  "audioRoot": "audio",
+  "productionRoot": "production",
+  "summary": {
+    "collectionCount": 6,
+    "lessonCount": 278,
+    "audioCount": 278,
+    "segmentCount": 6784,
+    "translationCount": 6784,
+    "speakerSegmentCount": 867
+  },
+  "verification": {
+    "lessonIdsUnchanged": true,
+    "segmentIdsTextAndTimelineUnchanged": true,
+    "translationsUnchanged": true,
+    "speakersUnchanged": true,
+    "audioBytesAndSha256Unchanged": true
+  },
+  "legacyFilesRemoved": false,
+  "productionDeployed": false
+}

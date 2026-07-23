@@ -4,6 +4,7 @@ dist/
 
 # Keep large audio files local; public metadata and other assets are tracked
 public/**/*.mp3
+audio/**/*.mp3
 
 # TypeScript and Vite generated files
 *.tsbuildinfo
@@ -18,3 +19,11 @@ vite.config.d.ts
 # Local podcast and translation production artifacts
 .lex-work/
 .translation-work/
+content-work/
+
+# Rights-restricted or rights-unverified course workspaces.
+# Keep the convention and template tracked, but ignore every real course.
+private-courses/*
+!private-courses/README.md
+!private-courses/_template/
+!private-courses/_template/**

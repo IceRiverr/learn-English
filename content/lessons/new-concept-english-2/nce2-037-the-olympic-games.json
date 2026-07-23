@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-037-the-olympic-games",
+    "kind": "textbook",
+    "title": "Lesson 37: The Olympic Games",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 37.",
+      "translation": {
+        "text": "第37课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Olympic Games.",
+      "translation": {
+        "text": "奥林匹克运动会。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "When was the last time this country hosted the Olympic Games?",
+      "translation": {
+        "text": "这个国家上一次主办奥运会是什么时候？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The Olympic Games will be held in our country in four years' time.",
+      "translation": {
+        "text": "四年以后，奥运会将在我国举行。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic Standard swimming pool.",
+      "translation": {
+        "text": "由于许多人将来我国访问，政府将建造新的旅馆、一座巨大的体育场和一座新的奥运会标准游泳池。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "They will also be building new roads and a special railway line.",
+      "translation": {
+        "text": "他们还将修建新的道路和一条专用铁路。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The games will be held just outside the capital and the whole area will be called Olympic City.",
+      "translation": {
+        "text": "运动会将在首都城外举行，整个地区将被称为奥林匹克城。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Workers will have completed the new roads by the end of next year. By the end of next year, they will have finished work on the new stadium.",
+      "translation": {
+        "text": "工人们将在明年年底前修完新道路；到明年年底，他们还将建成新体育场。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "translation": {
+        "text": "这些奇妙的现代化建筑由库尔特·冈特设计。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Everybody will be watching anxiously as the new buildings go up.",
+      "translation": {
+        "text": "大家都将焦急地注视着这些新建筑拔地而起。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "translation": {
+        "text": "我们都非常激动，盼望着奥运会的到来，因为我国以前从未举办过奥运会。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-037-the-olympic-games-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1600472,
+        "sha256": "8cc6a2db7348b9a20f2e49686678c74f6b10d835c8226c9e9aa2a61a3526341d"
+      },
+      "duration": 90.723,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.62,
+          "end": 2.2
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.14,
+          "end": 4.58
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.94,
+          "end": 9.14
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.46,
+          "end": 14.68
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.96,
+          "end": 21.56
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.56,
+          "end": 35.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 36.34,
+          "end": 41
+        },
+        {
+          "segmentId": "s008",
+          "start": 42.08,
+          "end": 49.34
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.58,
+          "end": 60.88
+        },
+        {
+          "segmentId": "s010",
+          "start": 62.02,
+          "end": 66.86
+        },
+        {
+          "segmentId": "s011",
+          "start": 68.38,
+          "end": 73
+        },
+        {
+          "segmentId": "s012",
+          "start": 74.48,
+          "end": 83.72
+        }
+      ]
+    }
+  ]
+}

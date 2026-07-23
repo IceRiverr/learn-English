@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-129-130-seventy-miles-an-hour",
+    "kind": "textbook",
+    "title": "Lesson 129: Seventy miles an hour",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 129–70 Miles an Hour.",
+      "translation": {
+        "text": "第129课——时速70英里。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What does Anne advise her husband to do next time?",
+      "translation": {
+        "text": "安建议她丈夫下次怎么做？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Look, Gary, that policeman's waving to you.",
+      "translation": {
+        "text": "看，加里，那个警察在向你挥手。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "He wants you to stop.",
+      "translation": {
+        "text": "他要你停车。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Where do you think you are?",
+      "translation": {
+        "text": "你以为你这是在哪儿？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "On a racetrack?",
+      "translation": {
+        "text": "在赛车场吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "You must have been driving at seventy miles an hour.",
+      "translation": {
+        "text": "你刚才的车速一定达到了每小时70英里。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I can't have been.",
+      "translation": {
+        "text": "不可能。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I was doing eighty when I overtook you.",
+      "translation": {
+        "text": "我以每小时80英里的速度超过了你。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Didn't you see the speed limit?",
+      "translation": {
+        "text": "你没看见限速标志吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I'm afraid I didn't, officer.",
+      "translation": {
+        "text": "恐怕没看见，警官。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I must have been dreaming.",
+      "translation": {
+        "text": "我刚才一定是在开小差。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "He wasn't dreaming, officer.",
+      "translation": {
+        "text": "警官，他可没有开小差。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I was telling him to drive slowly.",
+      "translation": {
+        "text": "我一直在叫他开慢点。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "That's why I didn't see the sign.",
+      "translation": {
+        "text": "所以我才没看见那个标志。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Let me see your driving license.",
+      "translation": {
+        "text": "让我看看你的驾驶执照。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I won't charge you this time, but you'd better not do it again.",
+      "translation": {
+        "text": "这次我不罚你，但你最好别再犯了。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢您。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "I'll certainly be more careful.",
+      "translation": {
+        "text": "我以后一定会更加小心。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I told you to drive slowly, Gary.",
+      "translation": {
+        "text": "我早就叫你开慢点了，加里。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "You always tell me to drive slowly, darling.",
+      "translation": {
+        "text": "亲爱的，你总是叫我开慢点。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Well, next time, you'd better take my advice.",
+      "translation": {
+        "text": "那下次你最好听我的劝。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-129-130-seventy-miles-an-hour-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1784708,
+        "sha256": "1f14a46d335fb2e95d3f58623bf0097a1fcc6e38444114c1cde981b0b6c733e9"
+      },
+      "duration": 103.549,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.4,
+          "end": 5.74
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.32,
+          "end": 10.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.48,
+          "end": 16.98
+        },
+        {
+          "segmentId": "s004",
+          "start": 19.27,
+          "end": 23.95
+        },
+        {
+          "segmentId": "s005",
+          "start": 24.45,
+          "end": 26.27
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.41,
+          "end": 30.57
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.23,
+          "end": 32.73
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.67,
+          "end": 38.05
+        },
+        {
+          "segmentId": "s009",
+          "start": 38.87,
+          "end": 40.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 41.67,
+          "end": 45.29
+        },
+        {
+          "segmentId": "s011",
+          "start": 46.53,
+          "end": 48.73
+        },
+        {
+          "segmentId": "s012",
+          "start": 49.67,
+          "end": 51.99
+        },
+        {
+          "segmentId": "s013",
+          "start": 52.75,
+          "end": 54.51
+        },
+        {
+          "segmentId": "s014",
+          "start": 55.51,
+          "end": 58.15
+        },
+        {
+          "segmentId": "s015",
+          "start": 58.93,
+          "end": 62.47
+        },
+        {
+          "segmentId": "s016",
+          "start": 63.37,
+          "end": 66.07
+        },
+        {
+          "segmentId": "s017",
+          "start": 67.77,
+          "end": 70.03
+        },
+        {
+          "segmentId": "s018",
+          "start": 71.53,
+          "end": 77.41
+        },
+        {
+          "segmentId": "s019",
+          "start": 78.47,
+          "end": 79.23
+        },
+        {
+          "segmentId": "s020",
+          "start": 79.67,
+          "end": 82.17
+        },
+        {
+          "segmentId": "s021",
+          "start": 83.17,
+          "end": 86.61
+        },
+        {
+          "segmentId": "s022",
+          "start": 87.71,
+          "end": 91.07
+        },
+        {
+          "segmentId": "s023",
+          "start": 91.91,
+          "end": 96.45
+        }
+      ]
+    }
+  ]
+}

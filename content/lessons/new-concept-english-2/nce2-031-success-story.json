@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-031-success-story",
+    "kind": "textbook",
+    "title": "Lesson 31: Success Story",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 31.",
+      "translation": {
+        "text": "第31课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Success Story.",
+      "translation": {
+        "text": "成功者的故事。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen, and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was Frank's first job?",
+      "translation": {
+        "text": "弗兰克的第一份工作是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Yesterday afternoon, Frank Hawkins was telling me about his experiences as a young man.",
+      "translation": {
+        "text": "昨天下午，弗兰克·霍金斯向我讲述了他年轻时的经历。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Before he retired, Frank was the head of a very large business company, but as a boy, he used to work in a small shop.",
+      "translation": {
+        "text": "退休前，弗兰克是一家大公司的负责人；但小时候，他曾在一家小商店工作。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It was his job to repair bicycles, and at that time, he used to work 14 hours a day.",
+      "translation": {
+        "text": "他的工作是修理自行车，那时他每天要工作14个小时。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He saved money for years, and in 1958, he bought a small workshop of his own.",
+      "translation": {
+        "text": "他多年积蓄钱财，并于1958年买下了自己的一个小作坊。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "In his twenties, Frank used to make spare parts for airplanes.",
+      "translation": {
+        "text": "二十多岁时，弗兰克曾制造飞机零配件。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "At that time, he had two helpers.",
+      "translation": {
+        "text": "那时他有两名帮手。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In a few years, the small workshop had become a large factory which employed 728 people.",
+      "translation": {
+        "text": "几年后，小作坊变成了一家雇有728人的大工厂。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "translation": {
+        "text": "回想起早年的艰苦岁月和漫长的成功之路，弗兰克笑了。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He was still smiling when the door opened and his wife came in.",
+      "translation": {
+        "text": "门打开、妻子进来时，他仍在笑。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She wanted him to repair their grandson's bicycle.",
+      "translation": {
+        "text": "她要他修理孙子的自行车。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-031-success-story-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1639334,
+        "sha256": "8a8a06bfa3cc5bf7070bac537c9b5438a0042e2255aa13c0923561ad1a2965f0"
+      },
+      "duration": 93.153,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 2.04
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.56,
+          "end": 4.2
+        },
+        {
+          "segmentId": "s003",
+          "start": 6,
+          "end": 8.94
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.24,
+          "end": 12.44
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.54,
+          "end": 21.7
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.1,
+          "end": 33.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 34.4,
+          "end": 41.8
+        },
+        {
+          "segmentId": "s008",
+          "start": 42.92,
+          "end": 49.72
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.72,
+          "end": 55.4
+        },
+        {
+          "segmentId": "s010",
+          "start": 55.4,
+          "end": 59.06
+        },
+        {
+          "segmentId": "s011",
+          "start": 60.04,
+          "end": 69.4
+        },
+        {
+          "segmentId": "s012",
+          "start": 70.74,
+          "end": 77.04
+        },
+        {
+          "segmentId": "s013",
+          "start": 78.2,
+          "end": 82.68
+        },
+        {
+          "segmentId": "s014",
+          "start": 82.68,
+          "end": 87.16
+        }
+      ]
+    }
+  ]
+}

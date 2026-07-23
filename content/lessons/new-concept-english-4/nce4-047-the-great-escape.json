@@ -1,0 +1,496 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-047-the-great-escape",
+    "kind": "textbook",
+    "title": "Lesson 47: The Great Escape",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 47.",
+      "translation": {
+        "text": "第47课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Great Escape.",
+      "translation": {
+        "text": "大逃离。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is one of the features of modern camping where nationality is concerned?",
+      "translation": {
+        "text": "就国籍而言，现代露营的一项特点是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "is one powerful motive for camping.",
+      "translation": {
+        "text": "经济因素是露营的一大动力。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Since after the initial outlay upon equipment, or through hiring it, the total expense can be far less than the cost of hotels.",
+      "translation": {
+        "text": "因为设备只需一次性购置，也可以租用，所以总费用可能远低于住旅馆。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "But, to a popular assumption, it is far from being the only one or even the greatest.",
+      "translation": {
+        "text": "但与普遍看法相反，这远非唯一动机，甚至不是最重要的动机。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The man who maneuvers carelessly into his 20 pounds worth of space at one of Europe's myriad permanent sites may find himself bumping a Bentley.",
+      "translation": {
+        "text": "一个漫不经心地把车开进欧洲无数固定营地中价值20英镑空位的人，可能发现自己撞上了一辆宾利。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "More likely, Ford Escort will be hub to hub with Renault or Mercedes, but rarely with bicycles made for two.",
+      "translation": {
+        "text": "更常见的是，福特雅仕会与雷诺或奔驰车轮相接，却很少与双人自行车相邻。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "That the equipment of modern camping becomes yearly more sophisticated is an entertaining paradox for the cynic, a brighter promise for the hopeful traveler who has sworn to get away from it all.",
+      "translation": {
+        "text": "现代露营设备一年比一年精密，这对愤世嫉俗者是有趣的悖论，对发誓逃离一切、满怀希望的旅行者则是更光明的承诺。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "It also provides, and some student sociologist might care to base his thesis upon the phenomenon, an escape of another kind.",
+      "translation": {
+        "text": "它还提供另一种逃离；某位社会学学生或许愿以此现象写论文。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The modern traveler is often a man who dislikes the splendid and the Bella Vista, not because he cannot afford, or shuns their material comforts, but because he is afraid of them.",
+      "translation": {
+        "text": "现代旅行者常不喜欢“大饭店”和“美景酒店”，不是因为住不起或排斥物质舒适，而是因为害怕它们。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Affluent he may be, but he is by no means sure what to tip the poor man or the chambermaid.",
+      "translation": {
+        "text": "他也许很富裕，却完全拿不准该给门童或客房女服务员多少小费。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Master in his own house, he has little idea of when to say boo to a maître de hotel, from all such fears camping releases him.",
+      "translation": {
+        "text": "在自己家里是主人，面对领班却不知道何时敢吭声；露营把他从所有这些恐惧中解放出来。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Granted, a snobbery of camping itself, based upon equipment and techniques, already exists, but it is of a kind that, if he meets it, he can readily understand and deal with.",
+      "translation": {
+        "text": "诚然，以装备和技巧为依据的露营优越感已经存在，但即使遇到，他也能轻易理解和应付。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "There is no superior they, in the shape of managements and hotel hierarchies to darken his holiday days.",
+      "translation": {
+        "text": "那里没有以管理层和酒店等级制度出现的高高在上的“他们”给假日蒙上阴影。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "To such motives yet another must be added.",
+      "translation": {
+        "text": "除这些动机外，还必须再加上一项。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The contemporary phenomenon of car worship is to be explained not least by the sense of independence and freedom that ownership entails.",
+      "translation": {
+        "text": "当代汽车崇拜现象很大程度上源于拥有汽车带来的独立和自由感。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "To this pleasure camping gives an exquisite refinement.",
+      "translation": {
+        "text": "露营又把这种快乐精妙地提升了一层。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "From one's own front door, to home or foreign hills, or sands and back again, everything is to hand.",
+      "translation": {
+        "text": "从自家门口到国内外山地或沙滩，再返回家中，一切都随手可得。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Not only are the means of arriving at the holiday paradise entirely within one's own command and keeping, but the means of escape from holiday hell, if the beach proves too crowded, the local weather to inclement,",
+      "translation": {
+        "text": "不仅到达度假天堂的手段完全掌握在自己手中；如果海滩太拥挤、当地天气太恶劣，逃离度假地狱的手段，"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "are there outside, or, as likely, part of, the tent.",
+      "translation": {
+        "text": "也就在帐篷外，甚至很可能就是帐篷的一部分。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Idealists have objected to the practice of camping, as to the package tour, that the traveller abroad thereby denies himself the opportunity of getting to know the people of the country visited.",
+      "translation": {
+        "text": "理想主义者反对露营，也反对包价旅游，理由是出国旅行者因此放弃了了解当地人民的机会。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Insularity and self-containment, it is argued, go hand in hand.",
+      "translation": {
+        "text": "他们认为，孤立与自我封闭相伴而生。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "The opinion does not survive experience of a popular continental camping place.",
+      "translation": {
+        "text": "这种观点经不起欧洲大陆热门营地的实际检验。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "hotels tend to cater for one nationality of visitors especially, sometimes exclusively.",
+      "translation": {
+        "text": "旅馆往往主要、甚至专门接待某一国籍的游客。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Camping sites, by contrast, are highly cosmopolitan.",
+      "translation": {
+        "text": "相比之下，露营地高度国际化。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "Granted, a preponderance of Germans is a characteristic that seems common to most Mediterranean sites, but as yet there is no overwhelmingly specialized patronage.",
+      "translation": {
+        "text": "诚然，德国人占多数似乎是大部分地中海营地的共同特征，但目前尚无某一国游客压倒性垄断的情况。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "Notices forbidding the open-air drying of clothes, or the use of water points for car washing, or those inviting our camping friends to a dance or a boat trip are printed not only in French or Italian or Spanish, but",
+      "translation": {
+        "text": "禁止露天晾衣、禁止用供水点洗车的告示，或邀请露营朋友参加舞会和乘船游览的通知，不仅用法语、意大利语或西班牙语印刷，"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "also in English, German and Dutch.",
+      "translation": {
+        "text": "还使用英语、德语和荷兰语。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "At mealtimes, the odor of sauerkraut vies with that of garlic.",
+      "translation": {
+        "text": "吃饭时，酸菜的气味与大蒜香争胜。"
+      }
+    },
+    {
+      "id": "s032",
+      "text": "The Frenchman's breakfast coffee competes with the Englishman's bacon and eggs.",
+      "translation": {
+        "text": "法国人的早餐咖啡与英国人的培根鸡蛋相互竞争。"
+      }
+    },
+    {
+      "id": "s033",
+      "text": "Whether the remarkable growth of organized camping means the eventual death of the more independent kind is hard to say.",
+      "translation": {
+        "text": "有组织露营的迅猛增长是否意味着较独立露营方式最终消亡，很难断言。"
+      }
+    },
+    {
+      "id": "s034",
+      "text": "Municipalities naturally want to secure the camper's site fees and other custom.",
+      "translation": {
+        "text": "地方政府自然希望获得露营者的场地费及其他消费。"
+      }
+    },
+    {
+      "id": "s035",
+      "text": "Police are wary of itinerants who cannot be traced to a recognized camp boundary or to four walls.",
+      "translation": {
+        "text": "警方提防那些无法追踪到正规营地或固定住所的流动人员。"
+      }
+    },
+    {
+      "id": "s036",
+      "text": "But most probably, it will all depend upon campers themselves.",
+      "translation": {
+        "text": "但最终很可能全取决于露营者自己。"
+      }
+    },
+    {
+      "id": "s037",
+      "text": "How many heath-fires they cause, how much litter they leave, in short, whether or not they wholly alienate landowners and those who live in the countryside.",
+      "translation": {
+        "text": "他们引发多少荒地火灾、留下多少垃圾；简言之，是否会彻底得罪土地所有者和乡村居民。"
+      }
+    },
+    {
+      "id": "s038",
+      "text": "Only good scouting is likely to preserve the freedoms so dear to the heart of the eternal Boy Scout.",
+      "translation": {
+        "text": "只有良好的野外行为，才可能保住永远的童子军心中如此珍爱的自由。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-047-the-great-escape-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 5807930,
+        "sha256": "d75f7780404351a4e3edeecb2ce424459d84f32286e8e4c7650c106b9c48d8fc"
+      },
+      "duration": 353.698,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.82,
+          "end": 2.22
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.98,
+          "end": 4.08
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.66,
+          "end": 8.64
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.42,
+          "end": 14.88
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.52,
+          "end": 21.36
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.42,
+          "end": 32.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 33.48,
+          "end": 42.84
+        },
+        {
+          "segmentId": "s008",
+          "start": 44.1,
+          "end": 54.34
+        },
+        {
+          "segmentId": "s009",
+          "start": 55.52,
+          "end": 64.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 65.84,
+          "end": 79.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 81,
+          "end": 92.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 92.96,
+          "end": 106.22
+        },
+        {
+          "segmentId": "s013",
+          "start": 107.3,
+          "end": 114.14
+        },
+        {
+          "segmentId": "s014",
+          "start": 115.34,
+          "end": 127.33
+        },
+        {
+          "segmentId": "s015",
+          "start": 128.41,
+          "end": 141.53
+        },
+        {
+          "segmentId": "s016",
+          "start": 142.85,
+          "end": 150.83
+        },
+        {
+          "segmentId": "s017",
+          "start": 152.01,
+          "end": 155.33
+        },
+        {
+          "segmentId": "s018",
+          "start": 156.27,
+          "end": 166.13
+        },
+        {
+          "segmentId": "s019",
+          "start": 166.13,
+          "end": 170.87
+        },
+        {
+          "segmentId": "s020",
+          "start": 172.21,
+          "end": 180.21
+        },
+        {
+          "segmentId": "s021",
+          "start": 181.41,
+          "end": 196.71
+        },
+        {
+          "segmentId": "s022",
+          "start": 197.35,
+          "end": 203.65
+        },
+        {
+          "segmentId": "s023",
+          "start": 205.25,
+          "end": 217.79
+        },
+        {
+          "segmentId": "s024",
+          "start": 218.49,
+          "end": 223.85
+        },
+        {
+          "segmentId": "s025",
+          "start": 224.62,
+          "end": 229.47
+        },
+        {
+          "segmentId": "s026",
+          "start": 230.91,
+          "end": 238.11
+        },
+        {
+          "segmentId": "s027",
+          "start": 239.83,
+          "end": 243.51
+        },
+        {
+          "segmentId": "s028",
+          "start": 244.71,
+          "end": 256.79
+        },
+        {
+          "segmentId": "s029",
+          "start": 258.43,
+          "end": 274.37
+        },
+        {
+          "segmentId": "s030",
+          "start": 274.37,
+          "end": 276.81
+        },
+        {
+          "segmentId": "s031",
+          "start": 277.85,
+          "end": 281.97
+        },
+        {
+          "segmentId": "s032",
+          "start": 283.03,
+          "end": 287.33
+        },
+        {
+          "segmentId": "s033",
+          "start": 289.8,
+          "end": 297.48
+        },
+        {
+          "segmentId": "s034",
+          "start": 298.42,
+          "end": 302.98
+        },
+        {
+          "segmentId": "s035",
+          "start": 304.1,
+          "end": 310.92
+        },
+        {
+          "segmentId": "s036",
+          "start": 311.76,
+          "end": 316.4
+        },
+        {
+          "segmentId": "s037",
+          "start": 317.72,
+          "end": 330.1
+        },
+        {
+          "segmentId": "s038",
+          "start": 331.34,
+          "end": 338.5
+        }
+      ]
+    }
+  ]
+}

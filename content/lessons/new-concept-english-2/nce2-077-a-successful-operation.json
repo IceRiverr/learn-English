@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-077-a-successful-operation",
+    "kind": "textbook",
+    "title": "Lesson 77: A Successful Operation",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 77.",
+      "translation": {
+        "text": "第77课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Successful Operation.",
+      "translation": {
+        "text": "一次成功的手术。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Did the doctors find out how the woman died?",
+      "translation": {
+        "text": "医生们查明这名女子的死因了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The mummy of an Egyptian woman who died in 800 B.C.",
+      "translation": {
+        "text": "一具公元前800年去世的埃及女子木乃伊。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "has just had an operation.",
+      "translation": {
+        "text": "刚刚接受了一次手术。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The mummy is that of Shepenmut, who was once a singer in the temple of Thebes.",
+      "translation": {
+        "text": "这具木乃伊是舍彭穆特，她曾是底比斯神庙的一名歌女。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "As there were strange marks on the x-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "translation": {
+        "text": "由于木乃伊的X光片上有一些奇怪的斑点，医生们一直试图查明这名女子是否死于一种罕见疾病。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The only way to do this was to operate.",
+      "translation": {
+        "text": "要弄清这一点，唯一的办法就是动手术。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "translation": {
+        "text": "手术持续了四个多小时；由于皮肤覆盖着坚硬的树脂，手术非常困难。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "translation": {
+        "text": "医生们从木乃伊上取下一部分，送往实验室。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "They also found something which the x-ray plates did not show, a small wax figure of the god Duamutef.",
+      "translation": {
+        "text": "他们还发现了X光片上没有显示的东西：一尊杜阿穆特夫神的小蜡像。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "This god, which has the head of a cow, was normally placed inside a mummy.",
+      "translation": {
+        "text": "这位牛头神通常被放在木乃伊体内。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The doctors have not yet decided how the woman died.",
+      "translation": {
+        "text": "医生们仍未确定这名女子的死因。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "They feared that the mummy would fall to pieces when they cut it open, but fortunately, this has not happened.",
+      "translation": {
+        "text": "他们原本担心切开木乃伊时它会散成碎片，但幸运的是，这并没有发生。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The mummy successfully survived the operation.",
+      "translation": {
+        "text": "这具木乃伊成功挺过了手术。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-077-a-successful-operation-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1872573,
+        "sha256": "052eaef9a1a6c0d3812f07958b5ec0074527ca295540c04ff7e19f8ab316e649"
+      },
+      "duration": 107.729,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.14
+        },
+        {
+          "segmentId": "s002",
+          "start": 3,
+          "end": 4.82
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.32,
+          "end": 9.58
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.02,
+          "end": 14.26
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.51,
+          "end": 21.59
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.77,
+          "end": 23.89
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.07,
+          "end": 31.03
+        },
+        {
+          "segmentId": "s008",
+          "start": 32.27,
+          "end": 43.41
+        },
+        {
+          "segmentId": "s009",
+          "start": 44.69,
+          "end": 48.35
+        },
+        {
+          "segmentId": "s010",
+          "start": 49.35,
+          "end": 59.97
+        },
+        {
+          "segmentId": "s011",
+          "start": 60.87,
+          "end": 65.37
+        },
+        {
+          "segmentId": "s012",
+          "start": 66.63,
+          "end": 75.75
+        },
+        {
+          "segmentId": "s013",
+          "start": 76.75,
+          "end": 82.51
+        },
+        {
+          "segmentId": "s014",
+          "start": 83.61,
+          "end": 87.67
+        },
+        {
+          "segmentId": "s015",
+          "start": 88.83,
+          "end": 96.71
+        },
+        {
+          "segmentId": "s016",
+          "start": 97.69,
+          "end": 100.97
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-066-sweet-as-honey",
+    "kind": "textbook",
+    "title": "Lesson 66: Sweet as Honey",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What was sweet as honey and why?",
+      "translation": {
+        "text": "什么东西像蜂蜜一样甜？为什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "In 1963, a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "translation": {
+        "text": "1963年，一架兰开斯特轰炸机在瓦利斯岛坠毁。那是南太平洋上一处偏僻的地方，位于萨摩亚以西很远处。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The plane wasn't too badly damaged, but Over the years, the crash was forgotten and the wreck remained undisturbed.",
+      "translation": {
+        "text": "飞机损坏得并不太严重，但随着岁月流逝，这起事故被人遗忘，飞机残骸一直无人触动。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Then, in 1989, 26 years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "translation": {
+        "text": "后来到了1989年，也就是失事26年后，人们在对该岛进行航空勘测时偶然重新发现了这架飞机。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "translation": {
+        "text": "当时，状况尚可的兰开斯特轰炸机已经十分罕见，值得抢救。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The French authorities had the plane packaged and moved in parts back to France.",
+      "translation": {
+        "text": "法国当局把飞机包装起来，拆成零件运回法国。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Now, a group of enthusiasts are going to have the plane restored.",
+      "translation": {
+        "text": "现在，一群爱好者准备请人修复这架飞机。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt.",
+      "translation": {
+        "text": "它装有四台劳斯莱斯“梅林”发动机，不过其中只有三台需要重修。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey, still in perfect condition.",
+      "translation": {
+        "text": "当他们拆开包装箱，发现第四台发动机像蜂蜜一样甜、仍然完好无损时，那份惊喜可想而知。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax.",
+      "translation": {
+        "text": "一群蜜蜂把这台发动机变成了蜂巢，蜂蜡将它完整地保存了下来。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-066-sweet-as-honey-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1872139,
+        "sha256": "fc4e80bbc106085572222a1ffa5203c54a055bbdb5cf31f74b606f9f7ee59aa5"
+      },
+      "duration": 107.703,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.38,
+          "end": 9.32
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.8,
+          "end": 13.84
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.02,
+          "end": 27.28
+        },
+        {
+          "segmentId": "s004",
+          "start": 28.22,
+          "end": 37.42
+        },
+        {
+          "segmentId": "s005",
+          "start": 38.7,
+          "end": 50.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 51.34,
+          "end": 58.62
+        },
+        {
+          "segmentId": "s007",
+          "start": 59.52,
+          "end": 65.2
+        },
+        {
+          "segmentId": "s008",
+          "start": 66.34,
+          "end": 70.48
+        },
+        {
+          "segmentId": "s009",
+          "start": 71.62,
+          "end": 79.14
+        },
+        {
+          "segmentId": "s010",
+          "start": 80.1,
+          "end": 93.1
+        },
+        {
+          "segmentId": "s011",
+          "start": 94.16,
+          "end": 101.56
+        }
+      ]
+    }
+  ]
+}

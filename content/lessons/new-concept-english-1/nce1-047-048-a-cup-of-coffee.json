@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-047-048-a-cup-of-coffee",
+    "kind": "textbook",
+    "title": "Lesson 47: A cup of coffee",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 47.",
+      "translation": {
+        "text": "第47课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Cup of Coffee.",
+      "translation": {
+        "text": "一杯咖啡。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How does Anne like her coffee?",
+      "translation": {
+        "text": "安喜欢喝什么样的咖啡？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Do you like coffee, Anne?",
+      "translation": {
+        "text": "安，你喜欢咖啡吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Yes, I do.",
+      "translation": {
+        "text": "喜欢。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Do you want a cup?",
+      "translation": {
+        "text": "想来一杯吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Yes, please, Christine.",
+      "translation": {
+        "text": "好的，谢谢，克里斯蒂娜。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Do you want any sugar?",
+      "translation": {
+        "text": "要加糖吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "好的，请加一点。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Do you want any milk?",
+      "translation": {
+        "text": "要加牛奶吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "No, thank you.",
+      "translation": {
+        "text": "不了，谢谢。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I don't like milk in my coffee.",
+      "translation": {
+        "text": "我不喜欢在咖啡里加牛奶。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I like black coffee.",
+      "translation": {
+        "text": "我喜欢黑咖啡。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Do you like biscuits?",
+      "translation": {
+        "text": "你喜欢饼干吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Yes, I do.",
+      "translation": {
+        "text": "喜欢。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Do you want one?",
+      "translation": {
+        "text": "想来一块吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "好的，谢谢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-047-048-a-cup-of-coffee-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1153356,
+        "sha256": "25e5105b975185c0ff3e5f4a7ae17f069f0f2cac62aa206e52531cc30b8cc8ad"
+      },
+      "duration": 64,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 2.11
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.17,
+          "end": 4.75
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.31,
+          "end": 10.55
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.21,
+          "end": 14.57
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.15,
+          "end": 19.29
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.37,
+          "end": 22.17
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.47,
+          "end": 24.99
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.29,
+          "end": 28.69
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.83,
+          "end": 32.45
+        },
+        {
+          "segmentId": "s010",
+          "start": 33.83,
+          "end": 34.77
+        },
+        {
+          "segmentId": "s011",
+          "start": 35.99,
+          "end": 38.01
+        },
+        {
+          "segmentId": "s012",
+          "start": 39.19,
+          "end": 40.31
+        },
+        {
+          "segmentId": "s013",
+          "start": 40.81,
+          "end": 43.75
+        },
+        {
+          "segmentId": "s014",
+          "start": 44.61,
+          "end": 47.11
+        },
+        {
+          "segmentId": "s015",
+          "start": 48.39,
+          "end": 50.13
+        },
+        {
+          "segmentId": "s016",
+          "start": 51.33,
+          "end": 52.75
+        },
+        {
+          "segmentId": "s017",
+          "start": 53.87,
+          "end": 55.25
+        },
+        {
+          "segmentId": "s018",
+          "start": 56.09,
+          "end": 57.15
+        }
+      ]
+    }
+  ]
+}

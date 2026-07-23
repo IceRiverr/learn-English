@@ -1,44 +1,79 @@
 // @ts-expect-error The project does not otherwise need Node.js type declarations.
-import { cp, mkdir } from "node:fs/promises";
-import { defineConfig } from "vite";
+import { createReadStream } from "node:fs";
+// @ts-expect-error The project does not otherwise need Node.js type declarations.
+import { cp, mkdir, stat } from "node:fs/promises";
+// @ts-expect-error The project does not otherwise need Node.js type declarations.
+import { resolve, sep } from "node:path";
+// @ts-expect-error The project does not otherwise need Node.js type declarations.
+import { fileURLToPath } from "node:url";
+import { defineConfig, type ViteDevServer } from "vite";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
-const publishedPublicAssets = [
-  "icon.svg",
-  "samples",
-  "新概念/新概念1-美音",
-  "新概念/新概念2-美音",
-  "新概念/新概念3-美音",
-  "新概念/新概念4-美音"
-] as const;
+const projectDirectory = fileURLToPath(new URL(".", import.meta.url));
 
-function copyPublishedPublicAssets(skipAudioAssets: boolean) {
+function contentAssets(skipAudioAssets: boolean) {
   return {
-    name: "copy-published-public-assets",
+    name: "content-assets",
     apply: "build" as const,
     async closeBundle() {
-      for (const asset of publishedPublicAssets) {
-        const parent = asset.includes("/") ? asset.slice(0, asset.lastIndexOf("/") + 1) : "";
-        const source = new URL(`./public/${asset}`, import.meta.url);
-        const destination = new URL(`./dist/${asset}`, import.meta.url);
-        await mkdir(new URL(`./dist/${parent}`, import.meta.url), { recursive: true });
-        await cp(source, destination, {
-          recursive: true,
-          filter: (path) => !skipAudioAssets || !path.toLowerCase().endsWith(".mp3")
-        });
-      }
+      await mkdir(new URL("./dist/content", import.meta.url), { recursive: true });
+      await cp(new URL("./content", import.meta.url), new URL("./dist/content", import.meta.url), { recursive: true });
+      await mkdir(new URL("./dist/audio", import.meta.url), { recursive: true });
+      await cp(new URL("./audio", import.meta.url), new URL("./dist/audio", import.meta.url), {
+        recursive: true,
+        filter: (path) => !skipAudioAssets || !path.toLowerCase().endsWith(".mp3")
+      });
+      await cp(new URL("./content/icon.svg", import.meta.url), new URL("./dist/icon.svg", import.meta.url));
+    }
+  };
+}
+
+function serveContentAssets() {
+  return {
+    name: "serve-content-assets",
+    configureServer(server: ViteDevServer) {
+      server.middlewares.use((request, response, next) => {
+        const requestUrl = "url" in request && typeof request.url === "string"
+          ? request.url
+          : request.originalUrl;
+        const pathname = decodeURIComponent((requestUrl ?? "").split("?")[0]);
+        const mapping = pathname === "/icon.svg"
+          ? { root: resolve(projectDirectory, "content"), relativePath: "icon.svg" }
+          : pathname.startsWith("/content/")
+            ? { root: resolve(projectDirectory, "content"), relativePath: pathname.slice("/content/".length) }
+            : pathname.startsWith("/audio/")
+              ? { root: resolve(projectDirectory, "audio"), relativePath: pathname.slice("/audio/".length) }
+              : undefined;
+        if (!mapping) return next();
+        const path = resolve(mapping.root, mapping.relativePath);
+        const safeRoot = mapping.root.endsWith(sep) ? mapping.root : `${mapping.root}${sep}`;
+        if (!path.startsWith(safeRoot)) {
+          response.statusCode = 403;
+          response.end();
+          return;
+        }
+        void stat(path).then((metadata) => {
+          if (!metadata.isFile()) return next();
+          response.setHeader("Content-Length", metadata.size);
+          response.setHeader("Content-Type", path.endsWith(".json") ? "application/json; charset=utf-8"
+            : path.endsWith(".svg") ? "image/svg+xml" : "audio/mpeg");
+          createReadStream(path).pipe(response);
+        }).catch(() => next());
+      });
     }
   };
 }
 
 export default defineConfig(({ mode }) => ({
+  publicDir: false,
   build: {
     copyPublicDir: false
   },
   plugins: [
     react(),
-    copyPublishedPublicAssets(mode === "deploy-light"),
+    serveContentAssets(),
+    contentAssets(mode === "deploy-light"),
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["icon.svg"],
@@ -59,8 +94,12 @@ export default defineConfig(({ mode }) => ({
         ]
       },
       workbox: {
-        globPatterns: ["**/*.{html,js,css,svg}"],
-        globIgnores: ["**/samples/**"]
+        globPatterns: [
+          "**/*.{html,js,css,svg}",
+          "content/catalog.json",
+          "content/collections/*.json"
+        ],
+        globIgnores: ["**/audio/**", "**/content/lessons/**/*.json"]
       }
     })
   ]

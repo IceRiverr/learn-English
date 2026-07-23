@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-003-please-send-me-a-card",
+    "kind": "textbook",
+    "title": "Lesson 3: Please Send Me a Card",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 3.",
+      "translation": {
+        "text": "第3课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Please Send Me a Card.",
+      "translation": {
+        "text": "请给我寄一张明信片。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How many cards did the writer send?",
+      "translation": {
+        "text": "作者寄出了多少张明信片？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Postcards always spoil my holidays.",
+      "translation": {
+        "text": "明信片总是搅得我度假不得安宁。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Last summer I went to Italy.",
+      "translation": {
+        "text": "去年夏天我去了意大利。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I visited museums and sat in public gardens.",
+      "translation": {
+        "text": "我参观了博物馆，还常坐在公共花园里。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A friendly waiter taught me a few words of Italian.",
+      "translation": {
+        "text": "一位友好的服务员教了我几句意大利语。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Then he lent me a book.",
+      "translation": {
+        "text": "后来他借给我一本书。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I read a few lines, but I did not understand a word.",
+      "translation": {
+        "text": "我读了几行，却一个字也不懂。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Every day I thought about postcards.",
+      "translation": {
+        "text": "我每天都想着明信片的事。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "My holidays passed quickly, but I did not send cards to my friends.",
+      "translation": {
+        "text": "假期过得很快，可我没有给朋友们寄明信片。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "On the last day I made a big decision.",
+      "translation": {
+        "text": "到了最后一天，我作出了一项重大决定。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I got up early and bought 37 cards.",
+      "translation": {
+        "text": "我早早起床，买了37张明信片。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I spent the whole day in my room, but I did not write a single card.",
+      "translation": {
+        "text": "我在房间里待了一整天，却连一张明信片也没有写。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-003-please-send-me-a-card-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1367676,
+        "sha256": "0f2ffb1d94b4b5c52171be0209162f72d4682af46f409f3f45284ad0f2f767df"
+      },
+      "duration": 76.173,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.63
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.77,
+          "end": 4.73
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.39,
+          "end": 9.61
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.19,
+          "end": 13.93
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.31,
+          "end": 19.57
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.11,
+          "end": 23.37
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.23,
+          "end": 27.99
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.99,
+          "end": 32.45
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.39,
+          "end": 34.99
+        },
+        {
+          "segmentId": "s010",
+          "start": 36.05,
+          "end": 40.47
+        },
+        {
+          "segmentId": "s011",
+          "start": 41.85,
+          "end": 45.01
+        },
+        {
+          "segmentId": "s012",
+          "start": 46.11,
+          "end": 51.65
+        },
+        {
+          "segmentId": "s013",
+          "start": 52.89,
+          "end": 56.51
+        },
+        {
+          "segmentId": "s014",
+          "start": 57.33,
+          "end": 61.85
+        },
+        {
+          "segmentId": "s015",
+          "start": 63.03,
+          "end": 69.53
+        }
+      ]
+    }
+  ]
+}

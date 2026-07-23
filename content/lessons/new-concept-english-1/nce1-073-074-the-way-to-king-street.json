@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-073-074-the-way-to-king-street",
+    "kind": "textbook",
+    "title": "Lesson 73: The way to King Street",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 73–The Way to King Street.",
+      "translation": {
+        "text": "第73课——去国王街的路。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s002a",
+      "text": "Why did the man need a phrasebook?",
+      "translation": {
+        "text": "那个男人为什么需要一本常用语手册？"
+      }
+    },
+    {
+      "id": "s002b",
+      "text": "Last week Mrs. Mills went to London.",
+      "translation": {
+        "text": "上星期，米尔斯太太去了伦敦。"
+      }
+    },
+    {
+      "id": "s002c",
+      "text": "She does not know London very well, and she lost her way.",
+      "translation": {
+        "text": "她不太熟悉伦敦，因此迷了路。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "She saw a man near a bus stop.",
+      "translation": {
+        "text": "她在公共汽车站附近看见一个男人。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "I can ask him the way, she said to herself.",
+      "translation": {
+        "text": "“我可以向他问路，”她心里想。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Excuse me, she said.",
+      "translation": {
+        "text": "“打扰一下，”她说。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Can you tell me the way to King Street, please?",
+      "translation": {
+        "text": "“请问您能告诉我去国王街怎么走吗？”"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The man smiled pleasantly.",
+      "translation": {
+        "text": "那个男人友好地笑了笑。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He did not understand English.",
+      "translation": {
+        "text": "他听不懂英语。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "He spoke German.",
+      "translation": {
+        "text": "他说德语。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He was a tourist.",
+      "translation": {
+        "text": "他是一名游客。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Then he put his hand into his pocket and took out a phrasebook.",
+      "translation": {
+        "text": "然后，他把手伸进口袋，拿出一本常用语手册。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He opened the book and found a phrase.",
+      "translation": {
+        "text": "他打开书，找到一句话。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He read the phrase slowly.",
+      "translation": {
+        "text": "他慢慢地读出那句话。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I am sorry, he said.",
+      "translation": {
+        "text": "“对不起，”他说，"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I do not speak English.",
+      "translation": {
+        "text": "“我不会说英语。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-073-074-the-way-to-king-street-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1636673,
+        "sha256": "bd5a6f38221daee0a545fdfaea30e0bdd26c50492e0e18ecf89c20b02cc39902"
+      },
+      "duration": 94.276,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 5.53
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.49,
+          "end": 10.99
+        },
+        {
+          "segmentId": "s002a",
+          "start": 12.58,
+          "end": 15.82
+        },
+        {
+          "segmentId": "s002b",
+          "start": 18.66,
+          "end": 22.66
+        },
+        {
+          "segmentId": "s002c",
+          "start": 22.66,
+          "end": 29.32
+        },
+        {
+          "segmentId": "s003",
+          "start": 32.38,
+          "end": 35.04
+        },
+        {
+          "segmentId": "s004",
+          "start": 36.18,
+          "end": 40.56
+        },
+        {
+          "segmentId": "s005",
+          "start": 41.92,
+          "end": 44.28
+        },
+        {
+          "segmentId": "s006",
+          "start": 45.28,
+          "end": 49.5
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.14,
+          "end": 53.5
+        },
+        {
+          "segmentId": "s008",
+          "start": 54.66,
+          "end": 57.58
+        },
+        {
+          "segmentId": "s009",
+          "start": 58.52,
+          "end": 60.02
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.02,
+          "end": 62.84
+        },
+        {
+          "segmentId": "s011",
+          "start": 64.12,
+          "end": 70.92
+        },
+        {
+          "segmentId": "s012",
+          "start": 71.92,
+          "end": 75.44
+        },
+        {
+          "segmentId": "s013",
+          "start": 76.7,
+          "end": 79.62
+        },
+        {
+          "segmentId": "s014",
+          "start": 79.62,
+          "end": 84.06
+        },
+        {
+          "segmentId": "s015",
+          "start": 84.84,
+          "end": 87.54
+        }
+      ]
+    }
+  ]
+}

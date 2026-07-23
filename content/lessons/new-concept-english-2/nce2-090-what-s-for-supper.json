@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-090-what-s-for-supper",
+    "kind": "textbook",
+    "title": "Lesson 90: What's for Supper",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What kind of fish are they?",
+      "translation": {
+        "text": "它们是什么鱼？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Fish and chips has always been a favorite dish in Britain.",
+      "translation": {
+        "text": "炸鱼薯条一直是英国人喜爱的菜肴。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "But as the oceans have been overfished, fish has become more and more expensive.",
+      "translation": {
+        "text": "但由于海洋遭到过度捕捞，鱼类变得越来越昂贵。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.",
+      "translation": {
+        "text": "因此，听说巨型鱼正在吓坏北海石油钻井平台上的潜水员，实在令人惊讶。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet underwater, have been frightened out of their wits by giant fish bumping into them as they",
+      "translation": {
+        "text": "石油钻井平台经常需要维修，潜水员常常要在水下100英尺的黑暗中作业；巨型鱼撞向正在工作的他们时，把他们吓得魂不附体。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "work.",
+      "translation": {
+        "text": "工作。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Now they have had special cages made to protect them from these monsters.",
+      "translation": {
+        "text": "现在，他们已经让人制作了专用笼子，以保护自己免受这些“怪物”的侵扰。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The fish are not sharks or killer whales, but favorite eating varieties like cod and skate, which grow to unnatural sizes, sometimes as much as 12 feet in length.",
+      "translation": {
+        "text": "这些鱼不是鲨鱼或虎鲸，而是鳕鱼和鳐鱼等人们爱吃的品种；它们长到了不正常的尺寸，有时长达12英尺。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Three factors have caused these fish to grow so large.",
+      "translation": {
+        "text": "有三个因素使这些鱼长得如此巨大。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The warm water round the hot oil pipes under the sea, the plentiful supply of food thrown overboard by the crews on the rigs, the total absence of fishing boats around the oil rigs.",
+      "translation": {
+        "text": "海底热油管周围的温暖海水、钻井平台人员扔下的大量食物，以及钻井平台附近完全没有渔船。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "As a result, the fish just eat and eat and grow and grow in the lovely warm water.",
+      "translation": {
+        "text": "结果，这些鱼就在舒适的温水里不停地吃，不停地长。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Who eats who?",
+      "translation": {
+        "text": "究竟谁吃谁呢？"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-090-what-s-for-supper-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2035569,
+        "sha256": "3ae25871dea6ac6ac2e299bdb990290fbc635acff874981377f8d3b672fff1c7"
+      },
+      "duration": 117.917,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.99,
+          "end": 8.81
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.49,
+          "end": 12.53
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.61,
+          "end": 18.75
+        },
+        {
+          "segmentId": "s004",
+          "start": 19.93,
+          "end": 25.91
+        },
+        {
+          "segmentId": "s005",
+          "start": 27.25,
+          "end": 35.81
+        },
+        {
+          "segmentId": "s006",
+          "start": 37.31,
+          "end": 53.25
+        },
+        {
+          "segmentId": "s007",
+          "start": 53.25,
+          "end": 53.55
+        },
+        {
+          "segmentId": "s008",
+          "start": 54.79,
+          "end": 59.83
+        },
+        {
+          "segmentId": "s009",
+          "start": 60.99,
+          "end": 76.31
+        },
+        {
+          "segmentId": "s010",
+          "start": 77.71,
+          "end": 81.99
+        },
+        {
+          "segmentId": "s011",
+          "start": 82.93,
+          "end": 98.47
+        },
+        {
+          "segmentId": "s012",
+          "start": 99.77,
+          "end": 108.05
+        },
+        {
+          "segmentId": "s013",
+          "start": 109.33,
+          "end": 110.63
+        }
+      ]
+    }
+  ]
+}

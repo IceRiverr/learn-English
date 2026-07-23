@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-123-124-a-trip-to-australia",
+    "kind": "textbook",
+    "title": "Lesson 123: A trip to Australia",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 123.",
+      "translation": {
+        "text": "第123课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Trip to Australia.",
+      "translation": {
+        "text": "澳大利亚之旅。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who is the man with the beard?",
+      "translation": {
+        "text": "那个留胡子的男人是谁？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Look, Scott!",
+      "translation": {
+        "text": "看，斯科特！"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "This is a photograph I took during my trip to Australia.",
+      "translation": {
+        "text": "这是我去澳大利亚旅行时拍的一张照片。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Let me see it, Mike.",
+      "translation": {
+        "text": "让我看看，迈克。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This is a good photograph.",
+      "translation": {
+        "text": "这张照片拍得真好。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Who are these people?",
+      "translation": {
+        "text": "这些人是谁？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "They're people I met during the trip.",
+      "translation": {
+        "text": "他们是我在旅行途中认识的人。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "That's the ship we traveled on.",
+      "translation": {
+        "text": "那就是我们乘坐的船。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "What a beautiful ship!",
+      "translation": {
+        "text": "多漂亮的船啊！"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Who's this?",
+      "translation": {
+        "text": "这个人是谁？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "That's the man I told you about, remember?",
+      "translation": {
+        "text": "他就是我跟你提过的那个人，还记得吗？"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Ah, yes.",
+      "translation": {
+        "text": "啊，记得。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The one who offered you a job in Australia.",
+      "translation": {
+        "text": "就是那个请你去澳大利亚工作的人。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "That's right.",
+      "translation": {
+        "text": "没错。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Who's this?",
+      "translation": {
+        "text": "这个人是谁？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Guess.",
+      "translation": {
+        "text": "猜猜看。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It's not you, is it?",
+      "translation": {
+        "text": "不会是你吧？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That's right.",
+      "translation": {
+        "text": "正是我。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I grew a beard during the trip, but I shaved it off when I came home.",
+      "translation": {
+        "text": "旅行期间我留了胡子，不过回家后就把它刮掉了。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Why did you shave it off?",
+      "translation": {
+        "text": "你为什么把胡子刮掉？"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "My wife didn't like it.",
+      "translation": {
+        "text": "我妻子不喜欢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-123-124-a-trip-to-australia-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1487800,
+        "sha256": "23c58b7cf37a1743b1380728a283f5fda4110a6c2efd9d7f8d98d992446613d2"
+      },
+      "duration": 84.95,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.82
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.86,
+          "end": 5.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.62,
+          "end": 11.62
+        },
+        {
+          "segmentId": "s004",
+          "start": 13,
+          "end": 15.32
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.91,
+          "end": 18.73
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.91,
+          "end": 25.33
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.71,
+          "end": 28.27
+        },
+        {
+          "segmentId": "s008",
+          "start": 29.23,
+          "end": 31.21
+        },
+        {
+          "segmentId": "s009",
+          "start": 31.83,
+          "end": 33.55
+        },
+        {
+          "segmentId": "s010",
+          "start": 34.93,
+          "end": 38.03
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.31,
+          "end": 41.65
+        },
+        {
+          "segmentId": "s012",
+          "start": 42.49,
+          "end": 44.23
+        },
+        {
+          "segmentId": "s013",
+          "start": 45.09,
+          "end": 45.83
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.83,
+          "end": 50.65
+        },
+        {
+          "segmentId": "s015",
+          "start": 51.49,
+          "end": 52.51
+        },
+        {
+          "segmentId": "s016",
+          "start": 53.11,
+          "end": 56.39
+        },
+        {
+          "segmentId": "s017",
+          "start": 57.33,
+          "end": 58.13
+        },
+        {
+          "segmentId": "s018",
+          "start": 58.97,
+          "end": 59.75
+        },
+        {
+          "segmentId": "s019",
+          "start": 60.55,
+          "end": 60.95
+        },
+        {
+          "segmentId": "s020",
+          "start": 61.81,
+          "end": 63.77
+        },
+        {
+          "segmentId": "s021",
+          "start": 64.13,
+          "end": 65.07
+        },
+        {
+          "segmentId": "s022",
+          "start": 66.27,
+          "end": 72.97
+        },
+        {
+          "segmentId": "s023",
+          "start": 73.59,
+          "end": 75.43
+        },
+        {
+          "segmentId": "s024",
+          "start": 76.11,
+          "end": 78.31
+        }
+      ]
+    }
+  ]
+}

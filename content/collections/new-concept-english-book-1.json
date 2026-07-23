@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "id": "new-concept-english-book-1",
+  "kind": "course",
+  "title": "新概念英语第一册",
+  "subtitle": "First Things First",
+  "lessons": [
+    {
+      "id": "nce1-001-002-excuse-me",
+      "kind": "textbook",
+      "title": "Lesson 1: Excuse me!",
+      "duration": 37.068,
+      "byteLength": 723417,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-001-002-excuse-me.json"
+    },
+    {
+      "id": "nce1-003-004-sorry-sir",
+      "kind": "textbook",
+      "title": "Lesson 3: Sorry, sir.",
+      "duration": 60.264,
+      "byteLength": 1093715,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-003-004-sorry-sir.json"
+    },
+    {
+      "id": "nce1-005-006-nice-to-meet-you",
+      "kind": "textbook",
+      "title": "Lesson 5: Nice to meet you",
+      "duration": 71.837,
+      "byteLength": 1278458,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-005-006-nice-to-meet-you.json"
+    },
+    {
+      "id": "nce1-007-008-are-you-a-teacher",
+      "kind": "textbook",
+      "title": "Lesson 7: Are you a teacher?",
+      "duration": 64.34,
+      "byteLength": 1158781,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-007-008-are-you-a-teacher.json"
+    },
+    {
+      "id": "nce1-009-010-how-are-you-today",
+      "kind": "textbook",
+      "title": "Lesson 9: How are you today?",
+      "duration": 53.603,
+      "byteLength": 987394,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-009-010-how-are-you-today.json"
+    },
+    {
+      "id": "nce1-011-012-is-this-your-shirt",
+      "kind": "textbook",
+      "title": "Lesson 11: Is this your shirt?",
+      "duration": 59.246,
+      "byteLength": 1077470,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-011-012-is-this-your-shirt.json"
+    },
+    {
+      "id": "nce1-013-014-a-new-dress",
+      "kind": "textbook",
+      "title": "Lesson 13: A new dress",
+      "duration": 56.111,
+      "byteLength": 1027414,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-013-014-a-new-dress.json"
+    },
+    {
+      "id": "nce1-015-016-your-passports-please",
+      "kind": "textbook",
+      "title": "Lesson 15: Your passports, please.",
+      "duration": 79.02,
+      "byteLength": 1393147,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-015-016-your-passports-please.json"
+    },
+    {
+      "id": "nce1-017-018-how-do-you-do",
+      "kind": "textbook",
+      "title": "Lesson 17: How do you do",
+      "duration": 87.954,
+      "byteLength": 1535743,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-017-018-how-do-you-do.json"
+    },
+    {
+      "id": "nce1-019-020-tired-and-thirsty",
+      "kind": "textbook",
+      "title": "Lesson 19: Tired and thirsty",
+      "duration": 62.38,
+      "byteLength": 1127506,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-019-020-tired-and-thirsty.json"
+    },
+    {
+      "id": "nce1-021-022-which-book",
+      "kind": "textbook",
+      "title": "Lesson 21: Which book?",
+      "duration": 41.456,
+      "byteLength": 793477,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-021-022-which-book.json"
+    },
+    {
+      "id": "nce1-023-024-which-glasses",
+      "kind": "textbook",
+      "title": "Lesson 23: Which glasses?",
+      "duration": 44.304,
+      "byteLength": 838936,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-023-024-which-glasses.json"
+    },
+    {
+      "id": "nce1-025-026-mrs-smith-s-kitchen",
+      "kind": "textbook",
+      "title": "Lesson 25: Mrs. Smith's kitchen",
+      "duration": 72.307,
+      "byteLength": 1285972,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-025-026-mrs-smith-s-kitchen.json"
+    },
+    {
+      "id": "nce1-027-028-mrs-smith-s-living-room",
+      "kind": "textbook",
+      "title": "Lesson 27: Mrs. Smith's living room",
+      "duration": 78.968,
+      "byteLength": 1392315,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-027-028-mrs-smith-s-living-room.json"
+    },
+    {
+      "id": "nce1-029-030-come-in-amy",
+      "kind": "textbook",
+      "title": "Lesson 29: Come in, Amy.",
+      "duration": 54.309,
+      "byteLength": 998645,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-029-030-come-in-amy.json"
+    },
+    {
+      "id": "nce1-031-032-where-s-sally",
+      "kind": "textbook",
+      "title": "Lesson 31: Where's Sally?",
+      "duration": 58.984,
+      "byteLength": 1073290,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-031-032-where-s-sally.json"
+    },
+    {
+      "id": "nce1-033-034-a-fine-day",
+      "kind": "textbook",
+      "title": "Lesson 33: A fine day",
+      "duration": 69.329,
+      "byteLength": 1238414,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-033-034-a-fine-day.json"
+    },
+    {
+      "id": "nce1-035-036-our-village",
+      "kind": "textbook",
+      "title": "Lesson 35: Our village",
+      "duration": 85.891,
+      "byteLength": 1502794,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-035-036-our-village.json"
+    },
+    {
+      "id": "nce1-037-038-making-a-bookcase",
+      "kind": "textbook",
+      "title": "Lesson 37: Making a bookcase",
+      "duration": 76.304,
+      "byteLength": 1349767,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-037-038-making-a-bookcase.json"
+    },
+    {
+      "id": "nce1-039-040-don-t-drop-it",
+      "kind": "textbook",
+      "title": "Lesson 39: Don't drop it!",
+      "duration": 69.564,
+      "byteLength": 1242175,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-039-040-don-t-drop-it.json"
+    },
+    {
+      "id": "nce1-041-042-penny-s-bag",
+      "kind": "textbook",
+      "title": "Lesson 41: Penny's bag",
+      "duration": 72.176,
+      "byteLength": 1283869,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-041-042-penny-s-bag.json"
+    },
+    {
+      "id": "nce1-043-044-hurry-up",
+      "kind": "textbook",
+      "title": "Lesson 43: Hurry up!",
+      "duration": 78.864,
+      "byteLength": 1390617,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-043-044-hurry-up.json"
+    },
+    {
+      "id": "nce1-045-046-the-boss-s-letter",
+      "kind": "textbook",
+      "title": "Lesson 45: The boss's letter",
+      "duration": 71.628,
+      "byteLength": 1275124,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-045-046-the-boss-s-letter.json"
+    },
+    {
+      "id": "nce1-047-048-a-cup-of-coffee",
+      "kind": "textbook",
+      "title": "Lesson 47: A cup of coffee",
+      "duration": 64,
+      "byteLength": 1153356,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-047-048-a-cup-of-coffee.json"
+    },
+    {
+      "id": "nce1-049-050-at-the-butcher-s",
+      "kind": "textbook",
+      "title": "Lesson 49: At the butcher's",
+      "duration": 82.312,
+      "byteLength": 1445675,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-049-050-at-the-butcher-s.json"
+    },
+    {
+      "id": "nce1-051-052-a-pleasant-climate",
+      "kind": "textbook",
+      "title": "Lesson 51: A pleasant climate",
+      "duration": 91.533,
+      "byteLength": 1592880,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-051-052-a-pleasant-climate.json"
+    },
+    {
+      "id": "nce1-053-054-an-interesting-climate",
+      "kind": "textbook",
+      "title": "Lesson 53: An interesting climate",
+      "duration": 104.202,
+      "byteLength": 1795133,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-053-054-an-interesting-climate.json"
+    },
+    {
+      "id": "nce1-055-056-the-sawyer-family",
+      "kind": "textbook",
+      "title": "Lesson 55: The Sawyer family",
+      "duration": 94.119,
+      "byteLength": 1634161,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-055-056-the-sawyer-family.json"
+    },
+    {
+      "id": "nce1-057-058-an-unusual-day",
+      "kind": "textbook",
+      "title": "Lesson 57: An unusual day",
+      "duration": 103.34,
+      "byteLength": 1781356,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-057-058-an-unusual-day.json"
+    },
+    {
+      "id": "nce1-059-060-is-that-all",
+      "kind": "textbook",
+      "title": "Lesson 59: Is that all?",
+      "duration": 80.614,
+      "byteLength": 1418562,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-059-060-is-that-all.json"
+    },
+    {
+      "id": "nce1-061-062-a-bad-cold",
+      "kind": "textbook",
+      "title": "Lesson 61: A bad cold",
+      "duration": 81.789,
+      "byteLength": 1437323,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-061-062-a-bad-cold.json"
+    },
+    {
+      "id": "nce1-063-064-thank-you-doctor",
+      "kind": "textbook",
+      "title": "Lesson 63: Thank you, doctor.",
+      "duration": 103.131,
+      "byteLength": 1778028,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-063-064-thank-you-doctor.json"
+    },
+    {
+      "id": "nce1-065-066-not-a-baby",
+      "kind": "textbook",
+      "title": "Lesson 65: Not a baby",
+      "duration": 95.373,
+      "byteLength": 1654163,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-065-066-not-a-baby.json"
+    },
+    {
+      "id": "nce1-067-068-the-weekend",
+      "kind": "textbook",
+      "title": "Lesson 67: The weekend",
+      "duration": 87.406,
+      "byteLength": 1526980,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-067-068-the-weekend.json"
+    },
+    {
+      "id": "nce1-069-070-the-car-race",
+      "kind": "textbook",
+      "title": "Lesson 69: The car race",
+      "duration": 105.927,
+      "byteLength": 1822635,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-069-070-the-car-race.json"
+    },
+    {
+      "id": "nce1-071-072-he-s-awful",
+      "kind": "textbook",
+      "title": "Lesson 71: He's awful!",
+      "duration": 122.828,
+      "byteLength": 2092432,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-071-072-he-s-awful.json"
+    },
+    {
+      "id": "nce1-073-074-the-way-to-king-street",
+      "kind": "textbook",
+      "title": "Lesson 73: The way to King Street",
+      "duration": 94.276,
+      "byteLength": 1636673,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-073-074-the-way-to-king-street.json"
+    },
+    {
+      "id": "nce1-075-076-uncomfortable-shoes",
+      "kind": "textbook",
+      "title": "Lesson 75: Uncomfortable shoes",
+      "duration": 92.029,
+      "byteLength": 1600805,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-075-076-uncomfortable-shoes.json"
+    },
+    {
+      "id": "nce1-077-078-terrible-toothache",
+      "kind": "textbook",
+      "title": "Lesson 77: Terrible toothache",
+      "duration": 97.097,
+      "byteLength": 1681701,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-077-078-terrible-toothache.json"
+    },
+    {
+      "id": "nce1-079-080-carol-s-shopping-list",
+      "kind": "textbook",
+      "title": "Lesson 79: Carol's shopping-list",
+      "duration": 99.945,
+      "byteLength": 1727160,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-079-080-carol-s-shopping-list.json"
+    },
+    {
+      "id": "nce1-081-082-roast-beef-and-potatoes",
+      "kind": "textbook",
+      "title": "Lesson 81: Roast beef and potatoes",
+      "duration": 84.558,
+      "byteLength": 1481551,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-081-082-roast-beef-and-potatoes.json"
+    },
+    {
+      "id": "nce1-083-084-going-on-holiday",
+      "kind": "textbook",
+      "title": "Lesson 83: Going on holiday",
+      "duration": 99.004,
+      "byteLength": 1712138,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-083-084-going-on-holiday.json"
+    },
+    {
+      "id": "nce1-085-086-paris-in-the-spring",
+      "kind": "textbook",
+      "title": "Lesson 85: Paris in the spring",
+      "duration": 76.643,
+      "byteLength": 1355198,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-085-086-paris-in-the-spring.json"
+    },
+    {
+      "id": "nce1-087-088-a-car-crash",
+      "kind": "textbook",
+      "title": "Lesson 87: A car crash",
+      "duration": 87.876,
+      "byteLength": 1534486,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-087-088-a-car-crash.json"
+    },
+    {
+      "id": "nce1-089-090-for-sale",
+      "kind": "textbook",
+      "title": "Lesson 89: For sale",
+      "duration": 92.944,
+      "byteLength": 1615378,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-089-090-for-sale.json"
+    },
+    {
+      "id": "nce1-091-092-poor-ian",
+      "kind": "textbook",
+      "title": "Lesson 91: Poor Ian",
+      "duration": 106.423,
+      "byteLength": 1830552,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-091-092-poor-ian.json"
+    },
+    {
+      "id": "nce1-093-094-our-new-neighbour",
+      "kind": "textbook",
+      "title": "Lesson 93: Our new neighbour",
+      "duration": 79.569,
+      "byteLength": 1401860,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-093-094-our-new-neighbour.json"
+    },
+    {
+      "id": "nce1-095-096-tickets-please",
+      "kind": "textbook",
+      "title": "Lesson 95: Tickets, please.",
+      "duration": 97.358,
+      "byteLength": 1685867,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-095-096-tickets-please.json"
+    },
+    {
+      "id": "nce1-097-098-a-small-blue-case",
+      "kind": "textbook",
+      "title": "Lesson 97: A small blue case",
+      "duration": 93.78,
+      "byteLength": 1628740,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-097-098-a-small-blue-case.json"
+    },
+    {
+      "id": "nce1-099-100-ow",
+      "kind": "textbook",
+      "title": "Lesson 99: Ow!",
+      "duration": 72.673,
+      "byteLength": 1291776,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-099-100-ow.json"
+    },
+    {
+      "id": "nce1-101-102-a-card-from-jimmy",
+      "kind": "textbook",
+      "title": "Lesson 101: A card from Jimmy",
+      "duration": 113.659,
+      "byteLength": 1946079,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-101-102-a-card-from-jimmy.json"
+    },
+    {
+      "id": "nce1-103-104-the-french-test",
+      "kind": "textbook",
+      "title": "Lesson 103: The French test",
+      "duration": 99.945,
+      "byteLength": 1727150,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-103-104-the-french-test.json"
+    },
+    {
+      "id": "nce1-105-106-full-of-mistakes",
+      "kind": "textbook",
+      "title": "Lesson 105: Full of mistakes",
+      "duration": 95.948,
+      "byteLength": 1663351,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-105-106-full-of-mistakes.json"
+    },
+    {
+      "id": "nce1-107-108-it-s-too-small",
+      "kind": "textbook",
+      "title": "Lesson 107: It's too small.",
+      "duration": 103.158,
+      "byteLength": 1778441,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-107-108-it-s-too-small.json"
+    },
+    {
+      "id": "nce1-109-110-a-good-idea",
+      "kind": "textbook",
+      "title": "Lesson 109: A good idea",
+      "duration": 99.448,
+      "byteLength": 1719219,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-109-110-a-good-idea.json"
+    },
+    {
+      "id": "nce1-111-112-the-most-expensive-model",
+      "kind": "textbook",
+      "title": "Lesson 111: The most expensive model",
+      "duration": 115.069,
+      "byteLength": 1968611,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-111-112-the-most-expensive-model.json"
+    },
+    {
+      "id": "nce1-113-114-small-change",
+      "kind": "textbook",
+      "title": "Lesson 113: Small change",
+      "duration": 90.514,
+      "byteLength": 1576607,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-113-114-small-change.json"
+    },
+    {
+      "id": "nce1-115-116-knock-knock",
+      "kind": "textbook",
+      "title": "Lesson 115: Knock, knock!",
+      "duration": 93.884,
+      "byteLength": 1630402,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-115-116-knock-knock.json"
+    },
+    {
+      "id": "nce1-117-118-tommy-s-breakfast",
+      "kind": "textbook",
+      "title": "Lesson 117: Tommy's breakfast",
+      "duration": 102.243,
+      "byteLength": 1763850,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-117-118-tommy-s-breakfast.json"
+    },
+    {
+      "id": "nce1-119-120-a-true-story",
+      "kind": "textbook",
+      "title": "Lesson 119: A true story",
+      "duration": 112.98,
+      "byteLength": 1935227,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-119-120-a-true-story.json"
+    },
+    {
+      "id": "nce1-121-122-the-man-in-a-hat",
+      "kind": "textbook",
+      "title": "Lesson 121: The man in a hat",
+      "duration": 87.092,
+      "byteLength": 1521988,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-121-122-the-man-in-a-hat.json"
+    },
+    {
+      "id": "nce1-123-124-a-trip-to-australia",
+      "kind": "textbook",
+      "title": "Lesson 123: A trip to Australia",
+      "duration": 84.95,
+      "byteLength": 1487800,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-123-124-a-trip-to-australia.json"
+    },
+    {
+      "id": "nce1-125-126-tea-for-two",
+      "kind": "textbook",
+      "title": "Lesson 125: Tea for two",
+      "duration": 81.894,
+      "byteLength": 1438995,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-125-126-tea-for-two.json"
+    },
+    {
+      "id": "nce1-127-128-a-famous-actress",
+      "kind": "textbook",
+      "title": "Lesson 127: A famous actress",
+      "duration": 106.397,
+      "byteLength": 1830151,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-127-128-a-famous-actress.json"
+    },
+    {
+      "id": "nce1-129-130-seventy-miles-an-hour",
+      "kind": "textbook",
+      "title": "Lesson 129: Seventy miles an hour",
+      "duration": 103.549,
+      "byteLength": 1784708,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-129-130-seventy-miles-an-hour.json"
+    },
+    {
+      "id": "nce1-131-132-don-t-be-so-sure",
+      "kind": "textbook",
+      "title": "Lesson 131: Don't be so sure!",
+      "duration": 94.302,
+      "byteLength": 1637082,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-131-132-don-t-be-so-sure.json"
+    },
+    {
+      "id": "nce1-133-134-sensational-news",
+      "kind": "textbook",
+      "title": "Lesson 133: Sensational news!",
+      "duration": 109.871,
+      "byteLength": 1885614,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-133-134-sensational-news.json"
+    },
+    {
+      "id": "nce1-135-136-the-latest-report",
+      "kind": "textbook",
+      "title": "Lesson 135: The latest report",
+      "duration": 120.268,
+      "byteLength": 2051580,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-135-136-the-latest-report.json"
+    },
+    {
+      "id": "nce1-137-138-a-pleasant-dream",
+      "kind": "textbook",
+      "title": "Lesson 137: A pleasant dream",
+      "duration": 104.281,
+      "byteLength": 1796374,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-137-138-a-pleasant-dream.json"
+    },
+    {
+      "id": "nce1-139-140-is-that-you-john",
+      "kind": "textbook",
+      "title": "Lesson 139: Is that you, John?",
+      "duration": 104.882,
+      "byteLength": 1805969,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-139-140-is-that-you-john.json"
+    },
+    {
+      "id": "nce1-141-142-sally-s-first-train-ride",
+      "kind": "textbook",
+      "title": "Lesson 141: Sally's first train ride",
+      "duration": 127.007,
+      "byteLength": 2159180,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-141-142-sally-s-first-train-ride.json"
+    },
+    {
+      "id": "nce1-143-144-a-walk-through-the-woods",
+      "kind": "textbook",
+      "title": "Lesson 143: A walk through the woods",
+      "duration": 120.999,
+      "byteLength": 2063270,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/new-concept-english-1/nce1-143-144-a-walk-through-the-woods.json"
+    }
+  ]
+}

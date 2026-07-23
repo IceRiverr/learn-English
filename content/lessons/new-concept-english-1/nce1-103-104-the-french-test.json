@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-103-104-the-french-test",
+    "kind": "textbook",
+    "title": "Lesson 103: The French test",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 103, The French Test.",
+      "translation": {
+        "text": "第103课——法语考试。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "How long did the exam last?",
+      "translation": {
+        "text": "考试持续了多长时间？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How was the exam, Richard?",
+      "translation": {
+        "text": "考试怎么样，理查德？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Not too bad.",
+      "translation": {
+        "text": "不算太糟。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I think I passed in English and mathematics.",
+      "translation": {
+        "text": "我想我的英语和数学及格了。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The questions were very easy.",
+      "translation": {
+        "text": "那些题很容易。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "How about you, Gary?",
+      "translation": {
+        "text": "你呢，加里？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The English and Maths papers weren't easy enough for me.",
+      "translation": {
+        "text": "英语和数学试卷对我来说不够容易。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I hope I haven't failed.",
+      "translation": {
+        "text": "我希望自己没有不及格。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I think I failed the French paper.",
+      "translation": {
+        "text": "我想我的法语考试没及格。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I could answer sixteen of the questions.",
+      "translation": {
+        "text": "我能回答其中16道题。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "They were very easy, but I couldn't answer the rest.",
+      "translation": {
+        "text": "那些题很容易，但其余的我答不出来。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "They were too difficult for me.",
+      "translation": {
+        "text": "它们对我来说太难了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "French tests are awful, aren't they?",
+      "translation": {
+        "text": "法语考试糟透了，不是吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I hate them.",
+      "translation": {
+        "text": "我讨厌法语考试。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'm sure I've got a low mark.",
+      "translation": {
+        "text": "我肯定自己的分数很低。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Oh, cheer up.",
+      "translation": {
+        "text": "哦，振作点。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Perhaps we didn't do too badly.",
+      "translation": {
+        "text": "也许我们考得不算太差。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "The guy next to me wrote his name at the top of the paper.",
+      "translation": {
+        "text": "坐在我旁边的那个考生只在试卷顶端写了自己的名字。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Yes.",
+      "translation": {
+        "text": "是吗？"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Then he sat there and looked at it for three hours.",
+      "translation": {
+        "text": "然后他坐在那里，对着试卷看了三个小时。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "He didn't write a word.",
+      "translation": {
+        "text": "一个字也没写。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-103-104-the-french-test-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1727150,
+        "sha256": "6f261223a17b3d7d9c4f8a52eb55075a1d1156579fac7fab78246d999394cb93"
+      },
+      "duration": 99.945,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.5,
+          "end": 5.04
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.98,
+          "end": 11.12
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.9,
+          "end": 15.52
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.88,
+          "end": 19.98
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.78,
+          "end": 21.92
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.62,
+          "end": 26.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.28,
+          "end": 29.5
+        },
+        {
+          "segmentId": "s008",
+          "start": 29.5,
+          "end": 31.9
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.5,
+          "end": 39.14
+        },
+        {
+          "segmentId": "s010",
+          "start": 39.84,
+          "end": 41.84
+        },
+        {
+          "segmentId": "s011",
+          "start": 42.68,
+          "end": 45.62
+        },
+        {
+          "segmentId": "s012",
+          "start": 46.5,
+          "end": 49.82
+        },
+        {
+          "segmentId": "s013",
+          "start": 50.52,
+          "end": 55.38
+        },
+        {
+          "segmentId": "s014",
+          "start": 56.06,
+          "end": 58.62
+        },
+        {
+          "segmentId": "s015",
+          "start": 59.74,
+          "end": 63.24
+        },
+        {
+          "segmentId": "s016",
+          "start": 63.76,
+          "end": 65.14
+        },
+        {
+          "segmentId": "s017",
+          "start": 65.56,
+          "end": 68.42
+        },
+        {
+          "segmentId": "s018",
+          "start": 70.08,
+          "end": 71.64
+        },
+        {
+          "segmentId": "s019",
+          "start": 72.82,
+          "end": 75.76
+        },
+        {
+          "segmentId": "s020",
+          "start": 76.8,
+          "end": 81.86
+        },
+        {
+          "segmentId": "s021",
+          "start": 82.56,
+          "end": 83
+        },
+        {
+          "segmentId": "s022",
+          "start": 84.08,
+          "end": 88.56
+        },
+        {
+          "segmentId": "s023",
+          "start": 89.34,
+          "end": 91.2
+        }
+      ]
+    }
+  ]
+}

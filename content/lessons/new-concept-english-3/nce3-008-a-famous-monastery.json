@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-008-a-famous-monastery",
+    "kind": "textbook",
+    "title": "Lesson 8: A Famous Monastery",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 8.",
+      "translation": {
+        "text": "第8课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Famous Monastery.",
+      "translation": {
+        "text": "一座著名的修道院。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What are the St.",
+      "translation": {
+        "text": "圣伯纳德犬"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Bernard dogs used for?",
+      "translation": {
+        "text": "被用来做什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The Great St.",
+      "translation": {
+        "text": "大圣伯纳德"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Pass connects Switzerland to Italy.",
+      "translation": {
+        "text": "山口连接着瑞士和意大利。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "At 2,473 meters, it is the highest mountain pass in Europe.",
+      "translation": {
+        "text": "山口海拔2,473米，是欧洲最高的山口。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The famous monastery of St.",
+      "translation": {
+        "text": "著名的圣伯纳德"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Bernard, which was founded in the 11th lies about a mile away.",
+      "translation": {
+        "text": "修道院建于11世纪，距山口约一英里。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "For hundreds of years, St.",
+      "translation": {
+        "text": "数百年来，圣伯纳德"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "dogs have saved the lives of crossing the dangerous pass.",
+      "translation": {
+        "text": "犬挽救了许多穿越这处危险山口的旅客的生命。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.",
+      "translation": {
+        "text": "这些温顺的狗最早从亚洲引进，早在罗马时代就被用作看门犬。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Now that a tunnel has been built through the mountains, pass is less dangerous.",
+      "translation": {
+        "text": "如今山中已经开通了隧道，山口没有从前那么危险了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "But each year, the dogs are still sent out into the snow whenever a traveler is in difficulty.",
+      "translation": {
+        "text": "但每年只要有旅客遇到困难，人们仍会派这些狗进入雪地救援。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Despite the new tunnel, there are still a few people who rashly attempt to cross the pass on foot.",
+      "translation": {
+        "text": "尽管有了新隧道，仍有少数人贸然尝试徒步翻越山口。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the pass in cars.",
+      "translation": {
+        "text": "夏季修道院十分繁忙，因为成千上万驾车越过山口的人会前来参观。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "As there are so many people about, the dogs have to be kept in a special enclosure.",
+      "translation": {
+        "text": "由于来往的人太多，狗只得被关在一个专门的围栏里。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "In winter, however, life at the monastery is quite different.",
+      "translation": {
+        "text": "然而到了冬季，修道院的生活就完全不同了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "The temperature drops to minus 30 degrees, and very few people attempt to cross the pass.",
+      "translation": {
+        "text": "气温会降至零下30摄氏度，几乎没有人尝试翻越山口。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The monks prefer winter to summer, for they have more privacy.",
+      "translation": {
+        "text": "修道士们喜欢冬天胜过夏天，因为他们能享有更多清静。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The dogs have greater freedom, too, for they are allowed to outside their enclosure.",
+      "translation": {
+        "text": "狗也有了更多自由，因为它们可以到围栏外活动。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.",
+      "translation": {
+        "text": "冬季定期到访修道院的只有一群群在圣诞节和复活节前来滑雪的年轻人。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "These young people, who love the peace of the mountains, always receive a warm welcome at St.",
+      "translation": {
+        "text": "这些热爱山间宁静的年轻人总会在圣伯纳德"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Bernard's Monastery.",
+      "translation": {
+        "text": "修道院受到热烈欢迎。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-008-a-famous-monastery-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2335244,
+        "sha256": "00175e8af3a6a4c7a4afd67168f1f08c72eb2837eef9b8ff26618fbc5a9cbaf4"
+      },
+      "duration": 136.699,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 1.53
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.17,
+          "end": 3.65
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.01,
+          "end": 8.39
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.67,
+          "end": 10.61
+        },
+        {
+          "segmentId": "s005",
+          "start": 10.85,
+          "end": 12.37
+        },
+        {
+          "segmentId": "s006",
+          "start": 15.08,
+          "end": 16.1
+        },
+        {
+          "segmentId": "s007",
+          "start": 16.64,
+          "end": 19.68
+        },
+        {
+          "segmentId": "s008",
+          "start": 20.56,
+          "end": 27.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.14,
+          "end": 30.28
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.68,
+          "end": 36.04
+        },
+        {
+          "segmentId": "s011",
+          "start": 37.06,
+          "end": 38.98
+        },
+        {
+          "segmentId": "s012",
+          "start": 39.44,
+          "end": 43.58
+        },
+        {
+          "segmentId": "s013",
+          "start": 44.76,
+          "end": 52.28
+        },
+        {
+          "segmentId": "s014",
+          "start": 53.04,
+          "end": 58.48
+        },
+        {
+          "segmentId": "s015",
+          "start": 59.28,
+          "end": 65.6
+        },
+        {
+          "segmentId": "s016",
+          "start": 66.36,
+          "end": 72.94
+        },
+        {
+          "segmentId": "s017",
+          "start": 74.32,
+          "end": 83.1
+        },
+        {
+          "segmentId": "s018",
+          "start": 83.98,
+          "end": 89.34
+        },
+        {
+          "segmentId": "s019",
+          "start": 90.24,
+          "end": 94.62
+        },
+        {
+          "segmentId": "s020",
+          "start": 95.66,
+          "end": 101.92
+        },
+        {
+          "segmentId": "s021",
+          "start": 101.92,
+          "end": 106.24
+        },
+        {
+          "segmentId": "s022",
+          "start": 107.5,
+          "end": 112.88
+        },
+        {
+          "segmentId": "s023",
+          "start": 113.88,
+          "end": 121.46
+        },
+        {
+          "segmentId": "s024",
+          "start": 122.4,
+          "end": 129.1
+        },
+        {
+          "segmentId": "s025",
+          "start": 129.4,
+          "end": 130.38
+        }
+      ]
+    }
+  ]
+}

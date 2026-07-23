@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-009-010-how-are-you-today",
+    "kind": "textbook",
+    "title": "Lesson 9: How are you today?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 9.",
+      "translation": {
+        "text": "第9课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How Are You Today?",
+      "translation": {
+        "text": "你今天好吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How is Emma?",
+      "translation": {
+        "text": "埃玛怎么样？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Hello, Helen.",
+      "translation": {
+        "text": "你好，海伦。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Hi, Stephen.",
+      "translation": {
+        "text": "你好，史蒂文。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "How are you today?",
+      "translation": {
+        "text": "你今天好吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I'm very well, thank you.",
+      "translation": {
+        "text": "我很好，谢谢你。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "And you?",
+      "translation": {
+        "text": "你呢？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I'm fine, thanks.",
+      "translation": {
+        "text": "我很好，谢谢。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "How is Tony?",
+      "translation": {
+        "text": "托尼怎么样？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He's fine, thanks.",
+      "translation": {
+        "text": "他很好，谢谢。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "How's Emma?",
+      "translation": {
+        "text": "埃玛怎么样？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She's very well, too, Helen.",
+      "translation": {
+        "text": "她也很好，海伦。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Goodbye, Helen.",
+      "translation": {
+        "text": "再见，海伦。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Nice to see you.",
+      "translation": {
+        "text": "很高兴见到你。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Nice to see you, too, Stephen.",
+      "translation": {
+        "text": "我也很高兴见到你，史蒂文。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Goodbye.",
+      "translation": {
+        "text": "再见。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-009-010-how-are-you-today-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 987394,
+        "sha256": "b416dac80a7cace8e08704ba22c67b80c712b9f20043e2779bea2bff51b0e747"
+      },
+      "duration": 53.603,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 1.55
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.53,
+          "end": 4.33
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.79,
+          "end": 10.21
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.55,
+          "end": 13.07
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.26,
+          "end": 16.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 17.14,
+          "end": 18.02
+        },
+        {
+          "segmentId": "s007",
+          "start": 19.1,
+          "end": 20.76
+        },
+        {
+          "segmentId": "s008",
+          "start": 21.54,
+          "end": 23.84
+        },
+        {
+          "segmentId": "s009",
+          "start": 24.32,
+          "end": 24.9
+        },
+        {
+          "segmentId": "s010",
+          "start": 25.64,
+          "end": 27.3
+        },
+        {
+          "segmentId": "s011",
+          "start": 28.78,
+          "end": 29.9
+        },
+        {
+          "segmentId": "s012",
+          "start": 29.9,
+          "end": 32.56
+        },
+        {
+          "segmentId": "s013",
+          "start": 33.48,
+          "end": 34.12
+        },
+        {
+          "segmentId": "s014",
+          "start": 35,
+          "end": 37.46
+        },
+        {
+          "segmentId": "s015",
+          "start": 39.28,
+          "end": 40.12
+        },
+        {
+          "segmentId": "s016",
+          "start": 40.8,
+          "end": 41.94
+        },
+        {
+          "segmentId": "s017",
+          "start": 42.72,
+          "end": 45.4
+        },
+        {
+          "segmentId": "s018",
+          "start": 46.24,
+          "end": 46.6
+        }
+      ]
+    }
+  ]
+}

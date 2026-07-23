@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-021-022-which-book",
+    "kind": "textbook",
+    "title": "Lesson 21: Which book?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 21.",
+      "translation": {
+        "text": "第21课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Which Book.",
+      "translation": {
+        "text": "哪一本书？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Which book does the man want?",
+      "translation": {
+        "text": "这位男士想要哪一本书？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Give me a book, please, Jane.",
+      "translation": {
+        "text": "简，请给我一本书。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Which book?",
+      "translation": {
+        "text": "哪一本？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "This one?",
+      "translation": {
+        "text": "这一本吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "No, not that one.",
+      "translation": {
+        "text": "不，不是那一本。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The red one.",
+      "translation": {
+        "text": "红色的那一本。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "This one?",
+      "translation": {
+        "text": "这一本吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "是的，请给我。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给你。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-021-022-which-book-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 793477,
+        "sha256": "bf7e81b95faaacd9e4e945f118a99cd71ec924d65ae8f43987beb3b0895094ee"
+      },
+      "duration": 41.456,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.11,
+          "end": 1.83
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.03,
+          "end": 4.01
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.39,
+          "end": 9.85
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.53,
+          "end": 14.21
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.68,
+          "end": 19.14
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.22,
+          "end": 21.06
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.96,
+          "end": 22.56
+        },
+        {
+          "segmentId": "s008",
+          "start": 23.9,
+          "end": 26.5
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.08,
+          "end": 28.34
+        },
+        {
+          "segmentId": "s010",
+          "start": 28.34,
+          "end": 30.2
+        },
+        {
+          "segmentId": "s011",
+          "start": 31.18,
+          "end": 32.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 33,
+          "end": 33.84
+        },
+        {
+          "segmentId": "s013",
+          "start": 34.74,
+          "end": 35.36
+        }
+      ]
+    }
+  ]
+}

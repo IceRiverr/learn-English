@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-127-128-a-famous-actress",
+    "kind": "textbook",
+    "title": "Lesson 127: A famous actress",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 127.",
+      "translation": {
+        "text": "第127课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Famous Actress.",
+      "translation": {
+        "text": "一位著名的女演员。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who is only 29, and why is it so unclear?",
+      "translation": {
+        "text": "谁只有29岁？为什么这件事让人搞不清楚？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Can you recognize that woman, I think I can, It must be Karen Marsh, the actress.",
+      "translation": {
+        "text": "你能认出那个女人吗？我想我能。她一定是女演员卡伦·马什。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I thought so.",
+      "translation": {
+        "text": "我也这么想。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Who's that beside her?",
+      "translation": {
+        "text": "她旁边的那个人是谁？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "That must be Conrad Reeves.",
+      "translation": {
+        "text": "那一定是康拉德·里夫斯。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Conrad Reeves, the actor?",
+      "translation": {
+        "text": "演员康拉德·里夫斯？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It can't be.",
+      "translation": {
+        "text": "不可能。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Let me have another look.",
+      "translation": {
+        "text": "让我再看一眼。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I think you're right.",
+      "translation": {
+        "text": "我想你是对的。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Isn't he her third husband?",
+      "translation": {
+        "text": "他不是她的第三任丈夫吗？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "No.",
+      "translation": {
+        "text": "不是。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He must be her fourth or fifth.",
+      "translation": {
+        "text": "他一定是她的第四任或第五任丈夫。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Doesn't Karen Marsh look old?",
+      "translation": {
+        "text": "卡伦·马什看起来不是很老吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "She does, doesn't she?",
+      "translation": {
+        "text": "是显老，对吧？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I read she's 29, but she must be at least 40.",
+      "translation": {
+        "text": "我看到报道说她29岁，但她肯定至少有40岁。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I'm sure she is.",
+      "translation": {
+        "text": "我敢肯定她有。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "She was a famous actress when I was still at school.",
+      "translation": {
+        "text": "我还在上学时，她就已经是著名演员了。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That was a long time ago, wasn't it?",
+      "translation": {
+        "text": "那是很久以前的事了，对吧？"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Not that long ago.",
+      "translation": {
+        "text": "也没有那么久。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "I'm not more than 29 myself.",
+      "translation": {
+        "text": "我自己也还不到29岁呢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-127-128-a-famous-actress-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1830151,
+        "sha256": "f687d735d1f2961a86d09c3f36c4ba816ccc53f2ccf67ed43da676cdaba0f04e"
+      },
+      "duration": 106.397,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 2.46
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.62,
+          "end": 4.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.76,
+          "end": 10.88
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.22,
+          "end": 17.88
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.33,
+          "end": 32.05
+        },
+        {
+          "segmentId": "s006",
+          "start": 33.25,
+          "end": 34.53
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.33,
+          "end": 37.17
+        },
+        {
+          "segmentId": "s008",
+          "start": 38.33,
+          "end": 41.35
+        },
+        {
+          "segmentId": "s009",
+          "start": 42.49,
+          "end": 45.09
+        },
+        {
+          "segmentId": "s010",
+          "start": 45.97,
+          "end": 47.11
+        },
+        {
+          "segmentId": "s011",
+          "start": 47.77,
+          "end": 49.95
+        },
+        {
+          "segmentId": "s012",
+          "start": 51.27,
+          "end": 52.67
+        },
+        {
+          "segmentId": "s013",
+          "start": 53.65,
+          "end": 56.25
+        },
+        {
+          "segmentId": "s014",
+          "start": 57.39,
+          "end": 58.01
+        },
+        {
+          "segmentId": "s015",
+          "start": 58.79,
+          "end": 61.93
+        },
+        {
+          "segmentId": "s016",
+          "start": 63.81,
+          "end": 66.35
+        },
+        {
+          "segmentId": "s017",
+          "start": 67.35,
+          "end": 69.95
+        },
+        {
+          "segmentId": "s018",
+          "start": 70.65,
+          "end": 77.77
+        },
+        {
+          "segmentId": "s019",
+          "start": 79.15,
+          "end": 81.07
+        },
+        {
+          "segmentId": "s020",
+          "start": 82.47,
+          "end": 87.29
+        },
+        {
+          "segmentId": "s021",
+          "start": 88.89,
+          "end": 92.53
+        },
+        {
+          "segmentId": "s022",
+          "start": 92.53,
+          "end": 95.39
+        },
+        {
+          "segmentId": "s023",
+          "start": 96.37,
+          "end": 99.65
+        }
+      ]
+    }
+  ]
+}

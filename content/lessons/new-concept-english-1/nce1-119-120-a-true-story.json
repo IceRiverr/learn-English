@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-119-120-a-true-story",
+    "kind": "textbook",
+    "title": "Lesson 119: A true story",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 119.",
+      "translation": {
+        "text": "第119课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A True Story.",
+      "translation": {
+        "text": "一个真实的故事。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who called out to the thieves in the dark?",
+      "translation": {
+        "text": "黑暗中是谁向小偷喊话？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Do you like stories?",
+      "translation": {
+        "text": "你喜欢故事吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I want to tell you a true story.",
+      "translation": {
+        "text": "我想给你讲一个真实的故事。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It happened to a friend of mine a year ago.",
+      "translation": {
+        "text": "这件事一年前发生在我的一个朋友身上。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "While my friend, George, was reading in bed, two thieves climbed into his kitchen.",
+      "translation": {
+        "text": "我的朋友乔治躺在床上看书时，两个小偷爬进了他的厨房。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "After they had entered the house, they went into the dining room.",
+      "translation": {
+        "text": "他们进入房子后，走进了餐厅。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It was very dark, so they turned on a torch.",
+      "translation": {
+        "text": "里面很黑，所以他们打开了一支手电筒。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Suddenly, they heard a voice behind them.",
+      "translation": {
+        "text": "突然，他们听到身后有个声音。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "What's up?",
+      "translation": {
+        "text": "“怎么了？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "What's up?",
+      "translation": {
+        "text": "怎么了？”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Someone called.",
+      "translation": {
+        "text": "有人喊道。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The thieves dropped the torch and ran away as quickly as they could.",
+      "translation": {
+        "text": "小偷扔下手电筒，飞快地逃走了。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "George heard the noise and came downstairs quickly.",
+      "translation": {
+        "text": "乔治听到响声，迅速下了楼。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He turned on the light, but he couldn't see anyone.",
+      "translation": {
+        "text": "他打开灯，但一个人也没看见。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The thieves had already gone.",
+      "translation": {
+        "text": "小偷早已逃走了。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "But George's parrot, Henry, was still there.",
+      "translation": {
+        "text": "但乔治的鹦鹉亨利还在那里。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "What's up, George?",
+      "translation": {
+        "text": "“怎么了，乔治？”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "He called.",
+      "translation": {
+        "text": "它叫道。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Nothing, Henry, George said and smiled.",
+      "translation": {
+        "text": "“没什么，亨利。”乔治笑着说，"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Go back to sleep.",
+      "translation": {
+        "text": "“回去睡觉吧。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-119-120-a-true-story-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1935227,
+        "sha256": "6afcb5dba4d0b6e32bc8f280071f5da8d96a45f089197a6a15096452ac28334c"
+      },
+      "duration": 112.98,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.58
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.42,
+          "end": 4.96
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.64,
+          "end": 10.62
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.14,
+          "end": 15.76
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.34,
+          "end": 20.12
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.46,
+          "end": 24.46
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.44,
+          "end": 29.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.22,
+          "end": 39.74
+        },
+        {
+          "segmentId": "s009",
+          "start": 40.98,
+          "end": 46.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 47.6,
+          "end": 53.22
+        },
+        {
+          "segmentId": "s011",
+          "start": 54.22,
+          "end": 58.78
+        },
+        {
+          "segmentId": "s012",
+          "start": 60.1,
+          "end": 61
+        },
+        {
+          "segmentId": "s013",
+          "start": 61.64,
+          "end": 62.48
+        },
+        {
+          "segmentId": "s014",
+          "start": 63.38,
+          "end": 64.34
+        },
+        {
+          "segmentId": "s015",
+          "start": 65.74,
+          "end": 72.66
+        },
+        {
+          "segmentId": "s016",
+          "start": 74.3,
+          "end": 78.82
+        },
+        {
+          "segmentId": "s017",
+          "start": 79.82,
+          "end": 85.14
+        },
+        {
+          "segmentId": "s018",
+          "start": 86.3,
+          "end": 88.7
+        },
+        {
+          "segmentId": "s019",
+          "start": 89.98,
+          "end": 94.54
+        },
+        {
+          "segmentId": "s020",
+          "start": 95.68,
+          "end": 96.82
+        },
+        {
+          "segmentId": "s021",
+          "start": 97.5,
+          "end": 98.42
+        },
+        {
+          "segmentId": "s022",
+          "start": 99.58,
+          "end": 103.36
+        },
+        {
+          "segmentId": "s023",
+          "start": 104.44,
+          "end": 105.76
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-049-the-ideal-servant",
+    "kind": "textbook",
+    "title": "Lesson 49: The Ideal Servant",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What was Bessie's little weakness?",
+      "translation": {
+        "text": "贝西的小毛病是什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "It is a good thing my Aunt Harriet died years ago.",
+      "translation": {
+        "text": "幸好我的哈丽特姑妈多年前就去世了。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "If she were alive today, she would not be able to air her views on her favorite topic of conversation, domestic servants.",
+      "translation": {
+        "text": "如果她今天还活着，就无法再对她最爱谈的话题——家佣——发表意见了。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Aunt Harriet lived in that leisurely age when servants were employed to do housework.",
+      "translation": {
+        "text": "哈丽特姑妈生活在那个雇佣仆人做家务的悠闲年代。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She had a huge rambling country house called The Gables.",
+      "translation": {
+        "text": "她有一座名叫“山墙庄园”的庞大而布局散乱的乡间住宅。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.",
+      "translation": {
+        "text": "她对这幢房子感情深厚；尽管它远远超出她的实际需要，丈夫去世很久后她仍坚持住在那里。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Before she grew old, Aunt Harriet used to entertain lavishly.",
+      "translation": {
+        "text": "上年纪以前，哈丽特姑妈常大宴宾客。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I often visited The Gables when I was a boy.",
+      "translation": {
+        "text": "我小时候经常去山墙庄园。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "No matter how many guests were present, the great house was always immaculate.",
+      "translation": {
+        "text": "无论来了多少客人，这座大宅总是一尘不染。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The parquet floors shone like mirrors.",
+      "translation": {
+        "text": "拼花地板亮得像镜子。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "polished silver was displayed in gleaming glass cabinets.",
+      "translation": {
+        "text": "擦得锃亮的银器陈列在闪闪发光的玻璃柜里。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Even my uncle's huge collection of books was kept miraculously free from dust.",
+      "translation": {
+        "text": "就连叔父收藏的大批书籍也奇迹般地不染灰尘。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.",
+      "translation": {
+        "text": "哈丽特姑妈统领着一支看不见的仆人大军，他们不停地刷洗、清洁和擦亮。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "She always referred to them as the shifting population, for they came and went with such frequency that I",
+      "translation": {
+        "text": "她总把他们称为“流动人口”，因为他们来去如此频繁，我几乎认不清他们。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "enlightened policy, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please.",
+      "translation": {
+        "text": "她的用人政策也算开明，从不让家佣每天工作超过八小时；不过，她极难取悦。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.",
+      "translation": {
+        "text": "她总批评人性反复无常，却仍坚持不懈地寻找理想仆人，直到生命尽头；即便贝西曾让她大失所望，也没有停止。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Bessie worked for Aunt Harriet for three years.",
+      "translation": {
+        "text": "贝西为哈丽特姑妈工作了三年。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "During that time, she so gained my aunt's confidence that she was put in charge of the domestic staff.",
+      "translation": {
+        "text": "在此期间，她深得姑妈信任，被委派管理所有家佣。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Aunt Harriet could not find words to praise Bessie's industriousness and efficiency.",
+      "translation": {
+        "text": "哈丽特姑妈简直找不到足够的词来赞美贝西的勤劳和高效。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "In addition to all her other qualifications, Bessie was an expert cook.",
+      "translation": {
+        "text": "除其他种种优点外，贝西还是一位烹饪高手。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "She acted the role of the perfect servant for three years before Aunt Harriet discovered her little weakness.",
+      "translation": {
+        "text": "她把完美女佣的角色扮演了三年，哈丽特姑妈才发现她的小毛病。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "After being absent from the gables for a week, my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner.",
+      "translation": {
+        "text": "离开山墙庄园一周后，一天下午姑妈突然带着一群客人回来，吩咐贝西准备晚饭。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily.",
+      "translation": {
+        "text": "饭菜不仅远低于平常水准，贝西似乎连路也走不稳。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "She bumped into the furniture and kept mumbling about the guests.",
+      "translation": {
+        "text": "她不停撞上家具，还含糊地嘟囔着客人的事。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "When she came in with the last course, a huge pudding, she tripped on the carpet and the pudding went flying through the air, narrowly missed my aunt and crashed on the dining table with considerable force.",
+      "translation": {
+        "text": "她端着最后一道菜——一个硕大的布丁——进来时，在地毯上绊了一跤，布丁飞过空中，险些砸中姑妈，随后重重落在餐桌上。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Though this caused great mirth among the guests, Aunt Harriet was horrified.",
+      "translation": {
+        "text": "客人们因此哄堂大笑，哈丽特姑妈却惊骇万分。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "She reluctantly came to the conclusion that Bessie was drunk.",
+      "translation": {
+        "text": "她不得不勉强得出结论：贝西喝醉了。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "The guests had, of course, realized this from the moment Bessie opened the door for them and, long before the final catastrophe, had had a difficult time trying to conceal their amusement.",
+      "translation": {
+        "text": "当然，客人们从贝西开门迎接他们时就看出来了；早在最后这场灾难发生前，他们就一直费力掩饰笑意。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "The poor girl was dismissed instantly.",
+      "translation": {
+        "text": "这个可怜的姑娘当场被解雇。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe.",
+      "translation": {
+        "text": "贝西离开后，哈丽特姑妈发现，在原来是她衣柜的地方，整齐堆放着一摞摞形状大小各异的空酒瓶。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-049-the-ideal-servant-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4378227,
+        "sha256": "c92b54e586f609a41aa3158c4282196783a4cdf876e43328ff040392664c257d"
+      },
+      "duration": 264.385,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.44,
+          "end": 8.68
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.02,
+          "end": 12.8
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.12,
+          "end": 18.42
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.98,
+          "end": 28.28
+        },
+        {
+          "segmentId": "s005",
+          "start": 29.3,
+          "end": 34.6
+        },
+        {
+          "segmentId": "s006",
+          "start": 35.46,
+          "end": 39.5
+        },
+        {
+          "segmentId": "s007",
+          "start": 40.3,
+          "end": 51.58
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.86,
+          "end": 57.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 57.78,
+          "end": 60.5
+        },
+        {
+          "segmentId": "s010",
+          "start": 61.48,
+          "end": 66.84
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.52,
+          "end": 70.18
+        },
+        {
+          "segmentId": "s012",
+          "start": 71.36,
+          "end": 75.14
+        },
+        {
+          "segmentId": "s013",
+          "start": 76.3,
+          "end": 82.18
+        },
+        {
+          "segmentId": "s014",
+          "start": 83.44,
+          "end": 91.84
+        },
+        {
+          "segmentId": "s015",
+          "start": 92.8,
+          "end": 108.32
+        },
+        {
+          "segmentId": "s016",
+          "start": 109.22,
+          "end": 119.12
+        },
+        {
+          "segmentId": "s017",
+          "start": 120.3,
+          "end": 135.78
+        },
+        {
+          "segmentId": "s018",
+          "start": 137.44,
+          "end": 140.18
+        },
+        {
+          "segmentId": "s019",
+          "start": 141.1,
+          "end": 147.76
+        },
+        {
+          "segmentId": "s020",
+          "start": 149.14,
+          "end": 154.94
+        },
+        {
+          "segmentId": "s021",
+          "start": 154.94,
+          "end": 161.1
+        },
+        {
+          "segmentId": "s022",
+          "start": 162.12,
+          "end": 169.38
+        },
+        {
+          "segmentId": "s023",
+          "start": 170.7,
+          "end": 181.18
+        },
+        {
+          "segmentId": "s024",
+          "start": 182.16,
+          "end": 189.26
+        },
+        {
+          "segmentId": "s025",
+          "start": 190.02,
+          "end": 193.7
+        },
+        {
+          "segmentId": "s026",
+          "start": 194.78,
+          "end": 210.02
+        },
+        {
+          "segmentId": "s027",
+          "start": 211.34,
+          "end": 217.1
+        },
+        {
+          "segmentId": "s028",
+          "start": 218.34,
+          "end": 222.2
+        },
+        {
+          "segmentId": "s029",
+          "start": 223.34,
+          "end": 236.94
+        },
+        {
+          "segmentId": "s030",
+          "start": 237.82,
+          "end": 240.92
+        },
+        {
+          "segmentId": "s031",
+          "start": 241.78,
+          "end": 253.88
+        }
+      ]
+    }
+  ]
+}

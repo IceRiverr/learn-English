@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-111-112-the-most-expensive-model",
+    "kind": "textbook",
+    "title": "Lesson 111: The most expensive model",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 111.",
+      "translation": {
+        "text": "第111课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Most Expensive Model.",
+      "translation": {
+        "text": "最昂贵的型号。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Can Mr.",
+      "translation": {
+        "text": "弗里斯先生"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Frith buy the television on installments?",
+      "translation": {
+        "text": "能分期付款购买这台电视机吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "How does it work?",
+      "translation": {
+        "text": "它怎么操作？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I like this television very much.",
+      "translation": {
+        "text": "我非常喜欢这台电视机。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "How much does it cost?",
+      "translation": {
+        "text": "它多少钱？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It's the most expensive model in the shop.",
+      "translation": {
+        "text": "这是店里最昂贵的型号。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It costs £500.",
+      "translation": {
+        "text": "售价500英镑。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "That's too expensive for us.",
+      "translation": {
+        "text": "这对我们来说太贵了。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "We can't afford all that money.",
+      "translation": {
+        "text": "我们付不起那么多钱。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "This model's less expensive than that one.",
+      "translation": {
+        "text": "这个型号比那个便宜。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It's only £300, but, of course, it's not as good as the expensive one.",
+      "translation": {
+        "text": "只要300英镑，不过当然没有那台贵的好。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I don't like this model.",
+      "translation": {
+        "text": "我不喜欢这个型号。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The other model's more expensive, but it's worth the money.",
+      "translation": {
+        "text": "另一个型号更贵，但物有所值。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Can we buy it on installments?",
+      "translation": {
+        "text": "我们能分期付款买吗？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Of course.",
+      "translation": {
+        "text": "当然可以。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "You can pay a deposit of £30 and then £14 a month for three years.",
+      "translation": {
+        "text": "您可以先付30英镑定金，然后连续三年每月付14英镑。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Do you like it, dear?",
+      "translation": {
+        "text": "亲爱的，你喜欢吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I certainly do, but I don't like the price.",
+      "translation": {
+        "text": "我当然喜欢，但我不喜欢它的价格。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "You always want the best, but we can't afford it.",
+      "translation": {
+        "text": "你总想要最好的，可我们买不起。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Sometimes you think you're a millionaire.",
+      "translation": {
+        "text": "有时你觉得自己是个百万富翁。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Millionaires don't buy things on installments.",
+      "translation": {
+        "text": "百万富翁可不会分期付款买东西。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-111-112-the-most-expensive-model-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1968611,
+        "sha256": "dc99e56d957b6ca0ac00ec445f546433d48c77f872219c93926fabb5c6ec7243"
+      },
+      "duration": 115.069,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.62,
+          "end": 2.6
+        },
+        {
+          "segmentId": "s002",
+          "start": 4.06,
+          "end": 6.42
+        },
+        {
+          "segmentId": "s003",
+          "start": 8.24,
+          "end": 12.08
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.78,
+          "end": 14.6
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.94,
+          "end": 18.2
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.66,
+          "end": 21.08
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.56,
+          "end": 26.42
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.28,
+          "end": 28.94
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.94,
+          "end": 33.9
+        },
+        {
+          "segmentId": "s010",
+          "start": 34.62,
+          "end": 36.7
+        },
+        {
+          "segmentId": "s011",
+          "start": 38.32,
+          "end": 41.56
+        },
+        {
+          "segmentId": "s012",
+          "start": 42.28,
+          "end": 45.12
+        },
+        {
+          "segmentId": "s013",
+          "start": 45.88,
+          "end": 49.3
+        },
+        {
+          "segmentId": "s014",
+          "start": 50.06,
+          "end": 58.26
+        },
+        {
+          "segmentId": "s015",
+          "start": 59.7,
+          "end": 61.98
+        },
+        {
+          "segmentId": "s016",
+          "start": 62.8,
+          "end": 67.98
+        },
+        {
+          "segmentId": "s017",
+          "start": 69.42,
+          "end": 72.04
+        },
+        {
+          "segmentId": "s018",
+          "start": 72.98,
+          "end": 73.84
+        },
+        {
+          "segmentId": "s019",
+          "start": 74.58,
+          "end": 83.16
+        },
+        {
+          "segmentId": "s020",
+          "start": 84.4,
+          "end": 86.04
+        },
+        {
+          "segmentId": "s021",
+          "start": 87.22,
+          "end": 92.02
+        },
+        {
+          "segmentId": "s022",
+          "start": 92.98,
+          "end": 98.1
+        },
+        {
+          "segmentId": "s023",
+          "start": 98.76,
+          "end": 103.04
+        },
+        {
+          "segmentId": "s024",
+          "start": 105.36,
+          "end": 108.78
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-059-060-is-that-all",
+    "kind": "textbook",
+    "title": "Lesson 59: Is that all?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 59.",
+      "translation": {
+        "text": "第59课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Is That All?",
+      "translation": {
+        "text": "就这些吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Does the lady buy any chalk?",
+      "translation": {
+        "text": "这位女士买粉笔了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I want some envelopes, please.",
+      "translation": {
+        "text": "我想买一些信封。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Do you want the large size or the small size?",
+      "translation": {
+        "text": "您要大号的还是小号的？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The large size, please.",
+      "translation": {
+        "text": "请给我大号的。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Do you have any writing paper?",
+      "translation": {
+        "text": "你们有信纸吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Yes, we do.",
+      "translation": {
+        "text": "有。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I don't have any small pads.",
+      "translation": {
+        "text": "我没有小本的信纸簿。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I only have large ones.",
+      "translation": {
+        "text": "只有大本的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Do you want a pad?",
+      "translation": {
+        "text": "您要一本吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Yes, please.",
+      "translation": {
+        "text": "要的，谢谢。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "And I want some glue.",
+      "translation": {
+        "text": "我还要一些胶水。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "A bottle of glue.",
+      "translation": {
+        "text": "一瓶胶水。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "And I want a large box of chalk, too.",
+      "translation": {
+        "text": "我还想要一大盒粉笔。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I only have small boxes.",
+      "translation": {
+        "text": "我只有小盒的。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Do you want one?",
+      "translation": {
+        "text": "您要一盒吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "No, thank you.",
+      "translation": {
+        "text": "不了，谢谢。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Is That All?",
+      "translation": {
+        "text": "就这些吗？"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That's All, thank you.",
+      "translation": {
+        "text": "就这些，谢谢。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "What else do you want?",
+      "translation": {
+        "text": "您还要什么？"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "I want my change.",
+      "translation": {
+        "text": "我要找给我的零钱。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-059-060-is-that-all-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1418562,
+        "sha256": "9f8d64ea0667dba3e0a1c696d4753a08db27b3e29bdca0783bbaaebdab0d53bd"
+      },
+      "duration": 80.614,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.4,
+          "end": 2.02
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.16,
+          "end": 4.36
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.06,
+          "end": 10.26
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.88,
+          "end": 14.06
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.22,
+          "end": 19
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.14,
+          "end": 23.9
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.12,
+          "end": 27.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.22,
+          "end": 31.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 32,
+          "end": 32.98
+        },
+        {
+          "segmentId": "s010",
+          "start": 34.22,
+          "end": 37.28
+        },
+        {
+          "segmentId": "s011",
+          "start": 38.26,
+          "end": 40.56
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.54,
+          "end": 43.38
+        },
+        {
+          "segmentId": "s013",
+          "start": 44.12,
+          "end": 45.4
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.5,
+          "end": 48.58
+        },
+        {
+          "segmentId": "s015",
+          "start": 49.88,
+          "end": 51.4
+        },
+        {
+          "segmentId": "s016",
+          "start": 52.56,
+          "end": 57.32
+        },
+        {
+          "segmentId": "s017",
+          "start": 58.1,
+          "end": 60.62
+        },
+        {
+          "segmentId": "s018",
+          "start": 61.46,
+          "end": 62.5
+        },
+        {
+          "segmentId": "s019",
+          "start": 63.06,
+          "end": 64.18
+        },
+        {
+          "segmentId": "s020",
+          "start": 64.8,
+          "end": 65.96
+        },
+        {
+          "segmentId": "s021",
+          "start": 66.6,
+          "end": 68.62
+        },
+        {
+          "segmentId": "s022",
+          "start": 69.26,
+          "end": 70.78
+        },
+        {
+          "segmentId": "s023",
+          "start": 71.44,
+          "end": 73.66
+        }
+      ]
+    }
+  ]
+}

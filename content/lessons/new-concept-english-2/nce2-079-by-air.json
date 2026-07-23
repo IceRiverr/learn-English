@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-079-by-air",
+    "kind": "textbook",
+    "title": "Lesson 79: By Air",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did the plane turn back?",
+      "translation": {
+        "text": "飞机为什么返航？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "I used to travel by air a great deal when I was a boy.",
+      "translation": {
+        "text": "我小时候经常乘飞机旅行。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "My parents used to live in South America, and I used to fly there from Europe in the holidays.",
+      "translation": {
+        "text": "父母曾住在南美洲，假期里我常从欧洲乘飞机去那里。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "A flight attendant would take charge of me, and I never had an unpleasant experience.",
+      "translation": {
+        "text": "一名空乘人员会照顾我，我从未有过不愉快的经历。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I am used to traveling by air, and only on one occasion have I ever felt frightened.",
+      "translation": {
+        "text": "我习惯乘飞机旅行，只有一次真正感到过害怕。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "After taking off, we were flying low over the city, and slowly gaining height, when the plane suddenly turned round and flew back to the airport.",
+      "translation": {
+        "text": "起飞后，我们正低空飞越城市并缓缓爬升，飞机却突然调头飞回机场。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.",
+      "translation": {
+        "text": "等候降落时，一名空乘告诉我们保持镇静，飞机一着陆就安静有序地下机。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Everybody on board was worried, and we were curious to find out what had happened.",
+      "translation": {
+        "text": "机上每个人都很担心，也都急于知道发生了什么。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Later we learnt that there was a very important person on board.",
+      "translation": {
+        "text": "后来我们得知，机上有一位非常重要的人物。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The police had been told that a bomb had been planted on the plane.",
+      "translation": {
+        "text": "警方接到消息，说飞机上被人安放了一枚炸弹。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "After we had landed, the plane was searched thoroughly.",
+      "translation": {
+        "text": "降落后，飞机接受了彻底搜查。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Fortunately, nothing was found and five hours later we were able to take off again.",
+      "translation": {
+        "text": "什么也没发现；五小时后，我们终于再次起飞。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-079-by-air-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1828655,
+        "sha256": "74ce0855ea91b199ca9531d74419e05e48ed6ec06f13ec3b2dae181b0dfc2231"
+      },
+      "duration": 104.986,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.35,
+          "end": 8.95
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.39,
+          "end": 12.51
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.82,
+          "end": 19.06
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.12,
+          "end": 27.38
+        },
+        {
+          "segmentId": "s005",
+          "start": 28.86,
+          "end": 35.02
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.12,
+          "end": 42.82
+        },
+        {
+          "segmentId": "s007",
+          "start": 44.02,
+          "end": 55.9
+        },
+        {
+          "segmentId": "s008",
+          "start": 57.52,
+          "end": 67.88
+        },
+        {
+          "segmentId": "s009",
+          "start": 69.2,
+          "end": 75.32
+        },
+        {
+          "segmentId": "s010",
+          "start": 76.26,
+          "end": 80.32
+        },
+        {
+          "segmentId": "s011",
+          "start": 81.2,
+          "end": 85.54
+        },
+        {
+          "segmentId": "s012",
+          "start": 86.72,
+          "end": 90.9
+        },
+        {
+          "segmentId": "s013",
+          "start": 93.5,
+          "end": 98.68
+        }
+      ]
+    }
+  ]
+}

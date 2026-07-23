@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-080-the-crystal-palace",
+    "kind": "textbook",
+    "title": "Lesson 80: The Crystal Palace",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "The Crystal Palace.",
+      "translation": {
+        "text": "水晶宫。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "How many people visited the Great Exhibition of 1851?",
+      "translation": {
+        "text": "有多少人参观了1851年的万国工业博览会？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851?",
+      "translation": {
+        "text": "19世纪最非凡的建筑或许要数水晶宫；它为1851年的万国工业博览会而建于海德公园。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "translation": {
+        "text": "水晶宫不同于世界上其他所有建筑，因为它由钢铁和玻璃建成。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "translation": {
+        "text": "它是有史以来最大的建筑之一，许多国家的人纷纷前来参观。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "A great many goods were sent to the exhibition from various parts of the world.",
+      "translation": {
+        "text": "大量商品从世界各地运到博览会展出。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "There was also a great deal of machinery on display.",
+      "translation": {
+        "text": "现场还展出了大量机器。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The most wonderful piece of machinery on show was Nasmyth's steam hammer.",
+      "translation": {
+        "text": "展品中最奇妙的机器是内斯密斯的蒸汽锤。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Though in those days, traveling was not as easy as it is today, steamboats carried thousands of visitors across the channel from Europe.",
+      "translation": {
+        "text": "虽然当时旅行远不如今天方便，轮船仍从欧洲运送成千上万的游客横渡英吉利海峡。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "On arriving in England, they were taken to the Crystal Palace by train.",
+      "translation": {
+        "text": "他们一到英国，就由火车送往水晶宫。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.",
+      "translation": {
+        "text": "参观者总计600万人，博览会的利润被用于兴建博物馆和高等院校。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Later, the Crystal Palace was moved to South London.",
+      "translation": {
+        "text": "后来，水晶宫被迁到伦敦南部。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+      "translation": {
+        "text": "直到1936年毁于大火之前，它一直是世界上最著名的建筑之一。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-080-the-crystal-palace-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2062319,
+        "sha256": "964072cd3a688a024ea6ecfa3552911fa949cfccb9b33b6ea626114b13ba58f9"
+      },
+      "duration": 119.589,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.75,
+          "end": 4.43
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.03,
+          "end": 8.85
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.37,
+          "end": 15.91
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.3,
+          "end": 31.6
+        },
+        {
+          "segmentId": "s005",
+          "start": 32.88,
+          "end": 41.8
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.94,
+          "end": 51.02
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.95,
+          "end": 57.44
+        },
+        {
+          "segmentId": "s008",
+          "start": 58.42,
+          "end": 62.34
+        },
+        {
+          "segmentId": "s009",
+          "start": 63.6,
+          "end": 69.8
+        },
+        {
+          "segmentId": "s010",
+          "start": 70.94,
+          "end": 82.78
+        },
+        {
+          "segmentId": "s011",
+          "start": 83.82,
+          "end": 89.04
+        },
+        {
+          "segmentId": "s012",
+          "start": 89.04,
+          "end": 98.78
+        },
+        {
+          "segmentId": "s013",
+          "start": 99.98,
+          "end": 103.74
+        },
+        {
+          "segmentId": "s014",
+          "start": 104.76,
+          "end": 112.16
+        }
+      ]
+    }
+  ]
+}

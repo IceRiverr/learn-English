@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-070-red-for-danger",
+    "kind": "textbook",
+    "title": "Lesson 70: Red for Danger",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How was the drunk removed from the ring?",
+      "translation": {
+        "text": "那个醉汉是怎样被带出斗牛场的？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "translation": {
+        "text": "一次斗牛表演中，一个醉汉突然晃进了斗牛场中央。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The crowd began to shout, but the drunk was unaware of the danger.",
+      "translation": {
+        "text": "观众开始大喊，可醉汉没有意识到危险。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "translation": {
+        "text": "当时公牛正忙着对付斗牛士，却突然看见那个醉汉一边出言不逊，一边挥舞着一顶红帽子。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "translation": {
+        "text": "公牛似乎受不了批评，完全忘了斗牛士，朝醉汉冲去。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The crowd suddenly grew quiet.",
+      "translation": {
+        "text": "人群突然安静下来。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The drunk, however, seemed quite sure of himself.",
+      "translation": {
+        "text": "然而，醉汉似乎胸有成竹。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "translation": {
+        "text": "公牛靠近时，他笨拙地闪到一边，让它冲了过去。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The crowd broke into cheers and the drunk bowed.",
+      "translation": {
+        "text": "人群爆发出欢呼声，醉汉则鞠躬致意。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.",
+      "translation": {
+        "text": "这时已有三个人进入斗牛场，迅速把醉汉拖到了安全地带。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.",
+      "translation": {
+        "text": "连公牛似乎也为他感到难过，一直同情地望着，直到醉汉被带走，才再次把注意力转向斗牛士。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-070-red-for-danger-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1734213,
+        "sha256": "09d83554f1c68d46d943bb3574e635f13fa327c89328ce1371f3b7f51007e0a8"
+      },
+      "duration": 99.082,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.65,
+          "end": 9.31
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.59,
+          "end": 13.21
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.56,
+          "end": 21.16
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.02,
+          "end": 27.7
+        },
+        {
+          "segmentId": "s005",
+          "start": 28.58,
+          "end": 39.82
+        },
+        {
+          "segmentId": "s006",
+          "start": 41.2,
+          "end": 49.56
+        },
+        {
+          "segmentId": "s007",
+          "start": 50.52,
+          "end": 53.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 54.24,
+          "end": 57.86
+        },
+        {
+          "segmentId": "s009",
+          "start": 58.88,
+          "end": 65.38
+        },
+        {
+          "segmentId": "s010",
+          "start": 66.38,
+          "end": 70.26
+        },
+        {
+          "segmentId": "s011",
+          "start": 71.28,
+          "end": 78.84
+        },
+        {
+          "segmentId": "s012",
+          "start": 80.1,
+          "end": 92.9
+        }
+      ]
+    }
+  ]
+}

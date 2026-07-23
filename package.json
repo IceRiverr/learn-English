@@ -4,8 +4,11 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "dev": "pnpm generate:catalog && vite",
+    "validate:content": "node scripts/validate-content.mjs",
+    "generate:catalog": "node scripts/generate-catalog.mjs",
+    "migrate:lessons": "node scripts/migrate-lessons-v2.mjs",
+    "build": "pnpm generate:catalog && pnpm validate:content && tsc -b && vite build",
     "preview": "vite preview",
     "deploy": "powershell -ExecutionPolicy Bypass -File scripts/deploy-light.ps1",
     "deploy:light": "powershell -ExecutionPolicy Bypass -File scripts/deploy-light.ps1",

@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-020-pioneer-pilots",
+    "kind": "textbook",
+    "title": "Lesson 20: Pioneer Pilots",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 20.",
+      "translation": {
+        "text": "第20课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Pilots.",
+      "translation": {
+        "text": "飞行先驱。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was the name of the first plane to fly across the English Channel?",
+      "translation": {
+        "text": "第一架飞越英吉利海峡的飞机叫什么名字？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "In 1908, Lord Northcliffe offered a prize of one thousand pounds to the first man who would fly across the English Channel.",
+      "translation": {
+        "text": "1908年，诺思克利夫勋爵悬赏1,000英镑，奖励第一个飞越英吉利海峡的人。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Over a year passed before the first attempt was made.",
+      "translation": {
+        "text": "过了一年多，才有人首次尝试。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "July 19, 1909, in the early morning, Hubert Latham took off from the French coast in his plane, the Antoinette 4.",
+      "translation": {
+        "text": "1909年7月19日清晨，休伯特·莱瑟姆驾驶“安托瓦内特4号”从法国海岸起飞。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He had traveled only seven miles across the Channel when his engine failed and he was forced to land on the sea.",
+      "translation": {
+        "text": "他飞过海峡仅7英里，发动机便发生故障，被迫降落海面。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The Antoinette floated on the water until Latham was picked up by a ship.",
+      "translation": {
+        "text": "“安托瓦内特号”漂浮在水面上，直到莱瑟姆被一艘船救起。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Two days later, Louis Bleriot arrived near Calais with a plane called Number 11.",
+      "translation": {
+        "text": "两天后，路易·布莱里奥带着一架名为“11号”的飞机来到加来附近。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Bleriot had been making planes since 1905 and this was his latest model.",
+      "translation": {
+        "text": "布莱里奥从1905年起便开始制造飞机，这是他的最新型号。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "A week before, he had completed a successful overland flight during which he covered 26 miles.",
+      "translation": {
+        "text": "一周前，他刚成功完成一次26英里的陆上飞行。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Latham, however, did not give up easily.",
+      "translation": {
+        "text": "然而，莱瑟姆并没有轻易放弃。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "He, too, arrived near Calais on the same day with a new Antoinette.",
+      "translation": {
+        "text": "同一天，他也带着一架新的“安托瓦内特号”来到加来附近。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It looked as if there would be an exciting race across the Channel.",
+      "translation": {
+        "text": "看来一场激动人心的飞越海峡竞赛就要上演。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Both planes were going to take off on July 25, but Latham failed to get up early enough.",
+      "translation": {
+        "text": "两架飞机原定7月25日起飞，但莱瑟姆没能足够早地起床。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.",
+      "translation": {
+        "text": "凌晨4点15分进行一次短暂试飞后，布莱里奥在半小时后启程。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "His great flight lasted 37 minutes.",
+      "translation": {
+        "text": "他的伟大飞行持续了37分钟。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "When he landed near Dover, the first person to greet him was a local policeman.",
+      "translation": {
+        "text": "他在多佛附近着陆时，第一个迎接他的是当地一名警察。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again.",
+      "translation": {
+        "text": "一周后莱瑟姆再次尝试，飞到距多佛仅半英里处，却又一次运气不佳。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "His engine failed and he landed on the sea for the second time.",
+      "translation": {
+        "text": "他的发动机发生故障，第二次降落在海面上。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-020-pioneer-pilots-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2414228,
+        "sha256": "bca0f82763bab9cf4d040acfdbad2fd113e5be765b2ebb5546301938bf8157be"
+      },
+      "duration": 141.636,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0,
+          "end": 1.38
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.66,
+          "end": 3.44
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.64,
+          "end": 8
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.28,
+          "end": 13.66
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.74,
+          "end": 26.02
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.02,
+          "end": 30.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.56,
+          "end": 42.32
+        },
+        {
+          "segmentId": "s008",
+          "start": 43.04,
+          "end": 51.4
+        },
+        {
+          "segmentId": "s009",
+          "start": 51.4,
+          "end": 57.3
+        },
+        {
+          "segmentId": "s010",
+          "start": 59.32,
+          "end": 65.88
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.4,
+          "end": 73.24
+        },
+        {
+          "segmentId": "s012",
+          "start": 74.26,
+          "end": 81.66
+        },
+        {
+          "segmentId": "s013",
+          "start": 82.82,
+          "end": 84.98
+        },
+        {
+          "segmentId": "s014",
+          "start": 85.8,
+          "end": 91.28
+        },
+        {
+          "segmentId": "s015",
+          "start": 92.1,
+          "end": 96.1
+        },
+        {
+          "segmentId": "s016",
+          "start": 97.3,
+          "end": 104.06
+        },
+        {
+          "segmentId": "s017",
+          "start": 105,
+          "end": 112.44
+        },
+        {
+          "segmentId": "s018",
+          "start": 113.18,
+          "end": 116.2
+        },
+        {
+          "segmentId": "s019",
+          "start": 116.84,
+          "end": 122.36
+        },
+        {
+          "segmentId": "s020",
+          "start": 123.86,
+          "end": 131.16
+        },
+        {
+          "segmentId": "s021",
+          "start": 131.94,
+          "end": 136.5
+        }
+      ]
+    }
+  ]
+}

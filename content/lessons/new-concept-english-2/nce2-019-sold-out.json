@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-019-sold-out",
+    "kind": "textbook",
+    "title": "Lesson 19: Sold Out",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 19.",
+      "translation": {
+        "text": "第19课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Sold Out.",
+      "translation": {
+        "text": "票已售完。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "When will the writer see the play?",
+      "translation": {
+        "text": "作者什么时候能看到这出戏？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The play may begin at any moment, I said.",
+      "translation": {
+        "text": "“戏随时都会开演，”我说。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It may have begun already, Susan answered.",
+      "translation": {
+        "text": "“也许已经开演了，”苏珊回答。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I hurried to the ticket office.",
+      "translation": {
+        "text": "我匆忙赶到售票处。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "May I have two tickets, please?",
+      "translation": {
+        "text": "“请给我两张票好吗？”"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I asked.",
+      "translation": {
+        "text": "我问。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I'm sorry, we've sold out, the girl said.",
+      "translation": {
+        "text": "“对不起，票已售完，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "What a pity, Susan exclaimed.",
+      "translation": {
+        "text": "“真可惜！”苏珊惊呼道。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Just then, a man hurried to the ticket office.",
+      "translation": {
+        "text": "正在这时，一个男人匆匆赶到售票处。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Can I return these two tickets?",
+      "translation": {
+        "text": "“我可以退掉这两张票吗？”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "he asked.",
+      "translation": {
+        "text": "他问。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Certainly, the girl said.",
+      "translation": {
+        "text": "“当然可以，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I went back to the ticket office at once.",
+      "translation": {
+        "text": "我马上又回到售票处。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Could I have those two tickets, please?",
+      "translation": {
+        "text": "“我可以买那两张票吗？”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I asked.",
+      "translation": {
+        "text": "我问。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Certainly, the girl said.",
+      "translation": {
+        "text": "“当然可以，”那姑娘说。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "But they're for next Wednesday's performance. Do you still want them?",
+      "translation": {
+        "text": "“不过那是下星期三演出的票。您还要吗？”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I might as well have them, I said sadly.",
+      "translation": {
+        "text": "“我还是买下吧，”我难过地说。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-019-sold-out-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1528983,
+        "sha256": "933b572efcc60987952768ac722e5f9edb2e7603752f8a6e0a7fc226d87e8397"
+      },
+      "duration": 86.256,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 1.97
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.23,
+          "end": 3.93
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.27,
+          "end": 8.65
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.35,
+          "end": 12.83
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.09,
+          "end": 18.79
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.51,
+          "end": 23.51
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.57,
+          "end": 26.65
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.65,
+          "end": 30.13
+        },
+        {
+          "segmentId": "s009",
+          "start": 30.97,
+          "end": 31.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 32.27,
+          "end": 36.17
+        },
+        {
+          "segmentId": "s011",
+          "start": 37.13,
+          "end": 40.35
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.65,
+          "end": 45.33
+        },
+        {
+          "segmentId": "s013",
+          "start": 46.51,
+          "end": 49.13
+        },
+        {
+          "segmentId": "s014",
+          "start": 49.67,
+          "end": 50.21
+        },
+        {
+          "segmentId": "s015",
+          "start": 51.39,
+          "end": 53.71
+        },
+        {
+          "segmentId": "s016",
+          "start": 53.71,
+          "end": 58.05
+        },
+        {
+          "segmentId": "s017",
+          "start": 59.37,
+          "end": 62.39
+        },
+        {
+          "segmentId": "s018",
+          "start": 63.27,
+          "end": 63.81
+        },
+        {
+          "segmentId": "s019",
+          "start": 65.21,
+          "end": 67.59
+        },
+        {
+          "segmentId": "s020",
+          "start": 68.69,
+          "end": 74.15
+        },
+        {
+          "segmentId": "s021",
+          "start": 75.41,
+          "end": 79.65
+        }
+      ]
+    }
+  ]
+}

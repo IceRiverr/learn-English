@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-052-a-pretty-carpet",
+    "kind": "textbook",
+    "title": "Lesson 52: A Pretty Carpet",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 52.",
+      "translation": {
+        "text": "第52课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Pretty Carpet.",
+      "translation": {
+        "text": "漂亮的地毯。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is the writer's carpet made of?",
+      "translation": {
+        "text": "作者的地毯是由什么做成的？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "We have just moved into a new house, and I have been working hard all morning.",
+      "translation": {
+        "text": "我们刚搬进一所新房子，我整个上午一直在辛苦干活。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I have been trying to get my new room in order.",
+      "translation": {
+        "text": "我一直在设法把新房间整理好。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "This has not been easy because I own over a thousand books.",
+      "translation": {
+        "text": "这并不容易，因为我有一千多本书。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "translation": {
+        "text": "更糟的是，房间相当小，所以我暂时把书放在了地板上。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "At the moment, they cover every inch of floor space, and I actually have to walk on them to get in or out of the room.",
+      "translation": {
+        "text": "眼下，书铺满了地面的每一寸空间，我进出房间实际上都得踩着它们走。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "translation": {
+        "text": "不久前，姐姐帮我把一个旧书架搬上了楼。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "translation": {
+        "text": "她走进我的房间，看到地上那些书时大吃一惊。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "This is the prettiest carpet I have ever seen, she said.",
+      "translation": {
+        "text": "“这是我见过的最漂亮的地毯，”她说。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "She gazed at it for some time, then added, You don't need bookcases at all.",
+      "translation": {
+        "text": "她凝视了一会儿，然后又说：“你根本不需要书架。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "You can sit here in your spare time and read the carpet.",
+      "translation": {
+        "text": "闲暇时你可以坐在这里读这张地毯。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-052-a-pretty-carpet-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1702450,
+        "sha256": "f3f44ded69a728de4df5ca06442737789e17df250b9567bff3ff5c7303cc42fb"
+      },
+      "duration": 97.097,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 2.03
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.79,
+          "end": 3.99
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.49,
+          "end": 8.33
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.99,
+          "end": 12.53
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.33,
+          "end": 20.93
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.09,
+          "end": 26.01
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.81,
+          "end": 32.49
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.75,
+          "end": 42.53
+        },
+        {
+          "segmentId": "s009",
+          "start": 43.77,
+          "end": 54.17
+        },
+        {
+          "segmentId": "s010",
+          "start": 55.17,
+          "end": 63.21
+        },
+        {
+          "segmentId": "s011",
+          "start": 64.25,
+          "end": 71.77
+        },
+        {
+          "segmentId": "s012",
+          "start": 73.19,
+          "end": 78.75
+        },
+        {
+          "segmentId": "s013",
+          "start": 79.47,
+          "end": 86.47
+        },
+        {
+          "segmentId": "s014",
+          "start": 87.25,
+          "end": 91.15
+        }
+      ]
+    }
+  ]
+}

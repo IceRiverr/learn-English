@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-028-no-parking",
+    "kind": "textbook",
+    "title": "Lesson 28: No Parking",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 28.",
+      "translation": {
+        "text": "第28课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "No Parking.",
+      "translation": {
+        "text": "禁止停车。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is Jasper White's problem?",
+      "translation": {
+        "text": "贾斯珀·怀特有什么烦恼？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Jasper White is one of those rare people who believes in ancient myths.",
+      "translation": {
+        "text": "贾斯珀·怀特是少有的相信古代神话的人之一。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+      "translation": {
+        "text": "他刚在城里买了一所新房子，但自从搬进去后，汽车和车主便不断给他带来麻烦。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+      "translation": {
+        "text": "每当夜里回家，他总会发现有人把车停在他家大门外。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Because of this, he has not been able to get his own car into his garage even once.",
+      "translation": {
+        "text": "因此，他甚至一次也没能把自己的车开进车库。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Jasper has put up no parking signs outside his gate, but these have not had any effect.",
+      "translation": {
+        "text": "贾斯珀在大门外竖起了“禁止停车”的牌子，但没有任何效果。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Now he has put an ugly stone head over the gate.",
+      "translation": {
+        "text": "现在他在大门上方安放了一个丑陋的石雕头像。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "It is one of the ugliest faces I have ever seen.",
+      "translation": {
+        "text": "这是我见过的最丑陋的面孔之一。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "translation": {
+        "text": "我问他那是什么，他告诉我那是蛇发女怪美杜莎。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Jasper hopes that she will turn cars and their owners to stone, but none of them has been turned to stone yet.",
+      "translation": {
+        "text": "贾斯珀希望她能把汽车和车主都变成石头，但至今还没有一个变成石头。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-028-no-parking-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1617176,
+        "sha256": "aac637545e66907d7af0c4ff660d930ec9bf3ab70d83614fddd627ebc64fadfe"
+      },
+      "duration": 91.768,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 1.87
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.87,
+          "end": 3.85
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.45,
+          "end": 8.37
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.83,
+          "end": 11.81
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.4,
+          "end": 19.64
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.14,
+          "end": 30.7
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.7,
+          "end": 39.44
+        },
+        {
+          "segmentId": "s008",
+          "start": 40.46,
+          "end": 47.98
+        },
+        {
+          "segmentId": "s009",
+          "start": 49.22,
+          "end": 57.44
+        },
+        {
+          "segmentId": "s010",
+          "start": 58.54,
+          "end": 62.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 64.12,
+          "end": 68.5
+        },
+        {
+          "segmentId": "s012",
+          "start": 69.46,
+          "end": 75.52
+        },
+        {
+          "segmentId": "s013",
+          "start": 76.92,
+          "end": 85.86
+        }
+      ]
+    }
+  ]
+}

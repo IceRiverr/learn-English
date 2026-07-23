@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-008-trading-standards",
+    "kind": "textbook",
+    "title": "Lesson 8: Trading Standards",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 8.",
+      "translation": {
+        "text": "第8课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Standards.",
+      "translation": {
+        "text": "贸易标准。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What makes trading between rich countries difficult?",
+      "translation": {
+        "text": "什么使富国之间的贸易变得困难？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables.",
+      "translation": {
+        "text": "布鲁塞尔的官员声称，在美国宰杀的鸡不配登上欧洲人的餐桌。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "No, say the Americans.",
+      "translation": {
+        "text": "美国人说，不对。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Our fowl are fine.",
+      "translation": {
+        "text": "我们的鸡很好。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "We simply clean them in a different way.",
+      "translation": {
+        "text": "我们只是采用了不同的清洗方式。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.",
+      "translation": {
+        "text": "如今，阻碍富国之间贸易的，与其说是关税，不如说是各国法规的差异。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It is not just farmers who are complaining.",
+      "translation": {
+        "text": "抱怨的并不只有农民。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States.",
+      "translation": {
+        "text": "一款符合欧盟安全标准的电动剃须刀，在美国销售前仍必须获得美国检测机构批准。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "And an American-made dialysis machine needs the EU's okay before it hits the market in Europe.",
+      "translation": {
+        "text": "而美国制造的透析机进入欧洲市场前，也需要欧盟认可。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "As it happens, a razor that is safe in Europe is unlikely to electrocute Americans.",
+      "translation": {
+        "text": "事实上，在欧洲使用安全的剃须刀不大可能把美国人电死。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do?",
+      "translation": {
+        "text": "因此，大西洋两岸的企业都问：一套测试足够，为什么还要做两套？"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Politicians agree, in principle, so America and the EU have been trying to reach a deal which would eliminate the need to double-test many products.",
+      "translation": {
+        "text": "政界人士原则上表示赞同，因此美国和欧盟一直试图达成协议，取消许多产品接受双重检测的必要。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "They hope to finish in time for a trade summit between America and the EU on May 28.",
+      "translation": {
+        "text": "他们希望赶在5月28日欧美贸易峰会之前完成。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Although negotiators are optimistic, the details are complex enough that they may be hard-pressed to get a deal at all.",
+      "translation": {
+        "text": "尽管谈判代表持乐观态度，但细节相当复杂，他们可能很难达成任何协议。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "One difficulty is to construct the agreements.",
+      "translation": {
+        "text": "一个困难在于协议的构建方式。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "The Americans would happily reach one accord on standards for medical devices and then hammer out different packs covering, say, electronic goods and drug manufacturing.",
+      "translation": {
+        "text": "美国人乐于先就医疗设备标准达成一项协议，再分别敲定涵盖电子产品、药品制造等领域的其他协议。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The EU, following fine continental traditions, wants agreement on general principles which could be applied to many types of products and perhaps extended to other countries.",
+      "translation": {
+        "text": "欧盟则遵循欧洲大陆的优良传统，希望就能适用于多种产品、或许还能推广到其他国家的一般原则达成协议。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-008-trading-standards-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2412430,
+        "sha256": "e97c2cda2433f656c784b43f10da226b53dd76ce71d6825c4f68ced125092e4c"
+      },
+      "duration": 141.479,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.18,
+          "end": 1.28
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.1,
+          "end": 2.8
+        },
+        {
+          "segmentId": "s003",
+          "start": 3.76,
+          "end": 6.34
+        },
+        {
+          "segmentId": "s004",
+          "start": 7.38,
+          "end": 10.18
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.23,
+          "end": 20.93
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.21,
+          "end": 23.81
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.45,
+          "end": 25.65
+        },
+        {
+          "segmentId": "s008",
+          "start": 25.97,
+          "end": 28.07
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.91,
+          "end": 38.23
+        },
+        {
+          "segmentId": "s010",
+          "start": 39.41,
+          "end": 41.55
+        },
+        {
+          "segmentId": "s011",
+          "start": 42.39,
+          "end": 52.17
+        },
+        {
+          "segmentId": "s012",
+          "start": 52.17,
+          "end": 59.63
+        },
+        {
+          "segmentId": "s013",
+          "start": 61.27,
+          "end": 66.75
+        },
+        {
+          "segmentId": "s014",
+          "start": 68.01,
+          "end": 74.83
+        },
+        {
+          "segmentId": "s015",
+          "start": 75.63,
+          "end": 84.43
+        },
+        {
+          "segmentId": "s016",
+          "start": 85.35,
+          "end": 91.21
+        },
+        {
+          "segmentId": "s017",
+          "start": 92.09,
+          "end": 99.25
+        },
+        {
+          "segmentId": "s018",
+          "start": 100.15,
+          "end": 100.45
+        },
+        {
+          "segmentId": "s019",
+          "start": 101.11,
+          "end": 103.75
+        },
+        {
+          "segmentId": "s020",
+          "start": 104.61,
+          "end": 115.43
+        },
+        {
+          "segmentId": "s021",
+          "start": 116.47,
+          "end": 128.31
+        }
+      ]
+    }
+  ]
+}

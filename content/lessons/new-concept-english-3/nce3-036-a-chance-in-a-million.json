@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-036-a-chance-in-a-million",
+    "kind": "textbook",
+    "title": "Lesson 36: A Chance in a Million",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 36.",
+      "translation": {
+        "text": "第36课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Chance in a Million.",
+      "translation": {
+        "text": "百万分之一的机会。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was the chance in a million?",
+      "translation": {
+        "text": "那个百万分之一的巧合是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "We are less credulous than we used to be.",
+      "translation": {
+        "text": "我们不像过去那么轻信了。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "In the 19th century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences, most of them wildly improbable.",
+      "translation": {
+        "text": "在19世纪，小说家常用一连串巧合来收尾，其中大多荒诞得难以置信。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Readers happily accepted the fact that an obscure maidservant was really the hero's mother.",
+      "translation": {
+        "text": "读者会欣然接受这样一个事实：一个默默无闻的女仆其实是主人公的母亲。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A long-lost brother, who was presumed dead, was really alive all the time, and wickedly plotting to bring about the hero's downfall, and so on.",
+      "translation": {
+        "text": "一个失散多年、被认为已经死亡的兄弟其实一直活着，而且正恶毒地密谋让主人公垮台，等等。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Modern readers would find such naive solutions totally unacceptable.",
+      "translation": {
+        "text": "现代读者会认为这种天真的结局完全无法接受。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Yet, in real life, circumstances do sometimes conspire to bring about coincidences, which anyone but a 19th novelist would find incredible.",
+      "translation": {
+        "text": "然而现实生活中，种种情形有时确实会共同造成巧合，除了19世纪的小说家，任何人都会觉得不可思议。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "When I was a boy, my grandfather told me how a German taxi driver, Franz Bussmann, found a brother who was thought to have been killed twenty years before.",
+      "translation": {
+        "text": "我小时候，祖父给我讲过一个德国出租车司机弗朗茨·巴斯曼如何找到一个被认为20年前已经阵亡的兄弟。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "While on a walking tour with his wife, he stopped to talk to a workman.",
+      "translation": {
+        "text": "他和妻子徒步旅行时，停下来同一名工人交谈。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "After they had gone on, Mrs.",
+      "translation": {
+        "text": "他们继续前行后，巴斯曼太太"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Bussmann commented on the workman's close resemblance to her husband, and even suggested that he might be his brother.",
+      "translation": {
+        "text": "说那名工人和丈夫长得极像，甚至提出他可能就是丈夫的兄弟。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Franz poured scorn on the idea, pointing out that his brother had been killed in action during the war.",
+      "translation": {
+        "text": "弗朗茨对这个想法嗤之以鼻，指出自己的兄弟已经在战争中阵亡。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Though Mrs.",
+      "translation": {
+        "text": "尽管巴斯曼太太"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Bussmann was fully acquainted with this story, she thought that there was a chance in a million that she might be right.",
+      "translation": {
+        "text": "完全了解这段往事，她仍认为自己或许有百万分之一的可能猜对了。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "A few days later, she sent a boy to the workman to ask him if his name was Hans Bussmann.",
+      "translation": {
+        "text": "几天后，她派一个男孩去问那名工人是不是叫汉斯·巴斯曼。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Needless to say, the man's name was Hans Bussmann, and he really was Franz's long-lost brother.",
+      "translation": {
+        "text": "不言而喻，那人果然叫汉斯·巴斯曼，确实是弗朗茨失散多年的兄弟。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "When the brothers were reunited, Hans explained how it was that he was still alive.",
+      "translation": {
+        "text": "兄弟重逢后，汉斯解释了自己为何仍然活着。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "After having been wounded towards the end of the war, he had been sent to hospital and was separated from his unit.",
+      "translation": {
+        "text": "战争快结束时，他负伤后被送进医院，因而同部队失散。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The hospital had been bombed, and Hans had made his way back into western Germany on foot.",
+      "translation": {
+        "text": "医院遭到轰炸，汉斯徒步回到了德国西部。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Meanwhile, his unit was lost and all records of him had been destroyed.",
+      "translation": {
+        "text": "与此同时，他所在的部队全军覆没，有关他的全部档案也被毁了。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "Hans returned to his family home, but the house had been bombed and no one in the neighborhood knew what had become of the inhabitants.",
+      "translation": {
+        "text": "汉斯回到老家，却发现房子已被炸毁，邻居中没人知道屋里的人后来怎么样了。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Assuming that his family had been killed during an air raid, Hans settled down in a village 50 miles away where he had remained ever since.",
+      "translation": {
+        "text": "汉斯以为家人在空袭中遇难，便在50英里外的一个村庄定居下来，此后一直住在那里。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-036-a-chance-in-a-million-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3156127,
+        "sha256": "34ae7fa59a748c23fabcc0c7e9f78950df49e3daabe01b269fe2fcbdc15363f4"
+      },
+      "duration": 188.003,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0,
+          "end": 1.3
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.18,
+          "end": 3.66
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.18,
+          "end": 8.46
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.68,
+          "end": 11.72
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.44,
+          "end": 16.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 17.1,
+          "end": 29.44
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.5,
+          "end": 36.92
+        },
+        {
+          "segmentId": "s008",
+          "start": 37.72,
+          "end": 49.1
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.04,
+          "end": 54.96
+        },
+        {
+          "segmentId": "s010",
+          "start": 56.2,
+          "end": 67.98
+        },
+        {
+          "segmentId": "s011",
+          "start": 69.36,
+          "end": 80.34
+        },
+        {
+          "segmentId": "s012",
+          "start": 81.34,
+          "end": 86.16
+        },
+        {
+          "segmentId": "s013",
+          "start": 86.94,
+          "end": 89.32
+        },
+        {
+          "segmentId": "s014",
+          "start": 89.56,
+          "end": 97.32
+        },
+        {
+          "segmentId": "s015",
+          "start": 98.76,
+          "end": 106.02
+        },
+        {
+          "segmentId": "s016",
+          "start": 107.1,
+          "end": 108.22
+        },
+        {
+          "segmentId": "s017",
+          "start": 108.54,
+          "end": 115.88
+        },
+        {
+          "segmentId": "s018",
+          "start": 116.96,
+          "end": 123.66
+        },
+        {
+          "segmentId": "s019",
+          "start": 125.06,
+          "end": 132.66
+        },
+        {
+          "segmentId": "s020",
+          "start": 133.82,
+          "end": 139.1
+        },
+        {
+          "segmentId": "s021",
+          "start": 140.46,
+          "end": 148.86
+        },
+        {
+          "segmentId": "s022",
+          "start": 149.8,
+          "end": 156.46
+        },
+        {
+          "segmentId": "s023",
+          "start": 157.74,
+          "end": 162.56
+        },
+        {
+          "segmentId": "s024",
+          "start": 163.38,
+          "end": 172.04
+        },
+        {
+          "segmentId": "s025",
+          "start": 173.42,
+          "end": 182.62
+        }
+      ]
+    }
+  ]
+}

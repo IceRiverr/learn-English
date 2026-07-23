@@ -30,7 +30,8 @@ pnpm dev
 pnpm build
 ```
 
-仓库不跟踪课程 MP3。本地使用固定课程时，请将对应音频放入课程配置指定的 `public/` 目录。当前界面只提供内置课程，
+仓库不跟踪 Lesson MP3。本地使用内置内容时，请将音频放入 `audio/lessons/`，结构化内容位于 `content/`。制作期材料按 Lesson 放在被忽略的
+`content-work/<lesson-id>/`，跨 Lesson 的迁移与报告放在 `content-work/_shared/`。当前界面只提供内置内容，
 不支持用户自定义导入 MP3 或字幕 JSON。
 
 ## 生产部署
@@ -43,7 +44,7 @@ pnpm deploy
 
 该命令会重新构建并全量上传除 MP3 以外的生产文件。轻量构建会检查 `dist`，发现 MP3 时立即停止，避免重复传输课程音频。
 
-新增或修改 `public/**/*.mp3` 后，单独执行音频部署：
+新增或修改 `audio/**/*.mp3` 后，单独执行音频部署：
 
 ```bash
 pnpm deploy:audio
@@ -55,39 +56,17 @@ pnpm deploy:audio
 两个部署命令都只允许写入 `/var/www/learn.iceriver.cc`，不得访问或清理 `/var/www/iceriver.cc`。生产部署需要可用的 Windows
 OpenSSH 和服务器 SSH 密钥。
 
-## 课程文件格式
+## Lesson 内容格式
 
-内置课程由 MP3 和 JSON 组成。`audioFilename` 必须与 MP3 文件名一致，时间单位为秒。
-
-```json
-{
-  "version": 1,
-  "course": {
-    "id": "my-course",
-    "title": "My Course",
-    "audioFilename": "my-course.mp3",
-    "duration": 60.5,
-    "language": "en"
-  },
-  "segments": [
-    {
-      "id": "s001",
-      "start": 0.2,
-      "end": 4.8,
-      "text": "This is the first sentence.",
-      "translations": {
-        "zh-Hans": "这是第一句话。"
-      }
-    }
-  ]
-}
-```
-
-字幕必须按时间排序、互不重叠，并且不能超出音频时长。中文译文是可选字段。
+每个 Lesson 使用一个 `content/lessons/<content-group>/<lesson-id>.json`，其中包含元数据、来源与 rights、说话人、英文 Segment、可选简中译文，
+以及音频 Rendition 和 Cue。音频独立位于
+`audio/lessons/<content-group>/<lesson-id>-en.mp3`。完整约束见
+[`Feature 0015`](docs/features/0015-lesson-content-model-migration/design.md)。
 
 ## 本地数据
 
-课程、字幕和播放进度保存在 IndexedDB，音频优先保存在 OPFS。Service Worker 只缓存应用本身，不预缓存课程音频。
+课程、字幕和播放进度保存在 IndexedDB，音频优先保存在 OPFS。Service Worker 预缓存应用外壳、`catalog.json`
+和 Collection 索引，但不预缓存完整 Lesson JSON 或课程音频。
 
 清除浏览器网站数据可能删除已下载课程和学习进度。
 
@@ -95,4 +74,6 @@ OpenSSH 和服务器 SSH 密钥。
 
 React、TypeScript、Vite、Zod、IndexedDB、OPFS 和 vite-plugin-pwa。
 
-设计文档位于 [`docs/features`](docs/features)。课程来源和署名见 [`public/samples/README.md`](public/samples/README.md)。
+设计文档位于 [`docs/features`](docs/features)。每个 Lesson 的来源和 rights 信息保存在对应的
+`content/lessons/**/*.json` 中。Lesson 的物理分组只用于维护，Collection 归属仍由 `content/collections/*.json`
+中的 `lessons` 摘要列表决定。

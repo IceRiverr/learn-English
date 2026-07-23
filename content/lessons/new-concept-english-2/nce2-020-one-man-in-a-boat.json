@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-020-one-man-in-a-boat",
+    "kind": "textbook",
+    "title": "Lesson 20: One Man in a Boat",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 20.",
+      "translation": {
+        "text": "第20课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "One Man in a Boat.",
+      "translation": {
+        "text": "独坐孤舟。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why is fishing the writer's favorite sport?",
+      "translation": {
+        "text": "为什么钓鱼是作者最喜欢的运动？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Fishing is my favorite sport.",
+      "translation": {
+        "text": "钓鱼是我最喜欢的运动。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I often fish for hours without catching anything.",
+      "translation": {
+        "text": "我常一钓就是几个小时，却什么也钓不到。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "But this does not worry me.",
+      "translation": {
+        "text": "但这并不使我烦恼。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Some fishermen are unlucky.",
+      "translation": {
+        "text": "有些垂钓者运气不好。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Instead of catching fish, they catch old boots and rubbish.",
+      "translation": {
+        "text": "他们钓不到鱼，反而钓上旧靴子和垃圾。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I am even less lucky.",
+      "translation": {
+        "text": "我的运气甚至更差。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I never catch anything, not even old boots.",
+      "translation": {
+        "text": "我什么也钓不到，连旧靴子也没有。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "translation": {
+        "text": "在河边耗费整个上午后，我总是提着空袋子回家。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "You must give up fishing, my friends say.",
+      "translation": {
+        "text": "“你必须放弃钓鱼，”朋友们说。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It's a waste of time.",
+      "translation": {
+        "text": "“这是浪费时间。”"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "But they don't realize one important thing.",
+      "translation": {
+        "text": "但他们没有认识到一件重要的事。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I'm not really interested in fishing.",
+      "translation": {
+        "text": "我对钓鱼其实并不感兴趣。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I am only interested in sitting in a boat and doing nothing at all.",
+      "translation": {
+        "text": "我只对坐在船上无所事事感兴趣。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-020-one-man-in-a-boat-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1467143,
+        "sha256": "db5218351f342ffded3601e48e9e4bca45d690070ba5084b4c9307a4c9195387"
+      },
+      "duration": 82.39,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 1.95
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.77,
+          "end": 4.61
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.29,
+          "end": 9.65
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.25,
+          "end": 14.63
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.07,
+          "end": 18.05
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.89,
+          "end": 22.85
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.07,
+          "end": 26.37
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.37,
+          "end": 29.69
+        },
+        {
+          "segmentId": "s009",
+          "start": 30.75,
+          "end": 36.11
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.39,
+          "end": 39.41
+        },
+        {
+          "segmentId": "s011",
+          "start": 40.17,
+          "end": 45.09
+        },
+        {
+          "segmentId": "s012",
+          "start": 46.43,
+          "end": 53.79
+        },
+        {
+          "segmentId": "s013",
+          "start": 54.75,
+          "end": 58.65
+        },
+        {
+          "segmentId": "s014",
+          "start": 59.49,
+          "end": 61.23
+        },
+        {
+          "segmentId": "s015",
+          "start": 62.41,
+          "end": 65.97
+        },
+        {
+          "segmentId": "s016",
+          "start": 66.93,
+          "end": 69.91
+        },
+        {
+          "segmentId": "s017",
+          "start": 70.73,
+          "end": 76.23
+        }
+      ]
+    }
+  ]
+}

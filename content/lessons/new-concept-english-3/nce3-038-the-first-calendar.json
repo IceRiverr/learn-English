@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-038-the-first-calendar",
+    "kind": "textbook",
+    "title": "Lesson 38: The First Calendar",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "The First Calendar.",
+      "translation": {
+        "text": "最早的日历。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What is the importance of the dots, lines, and symbols engraved on stone, bones, and ivory?",
+      "translation": {
+        "text": "刻在石头、骨头和象牙上的点、线和符号有什么重要意义？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Future historians will be in a unique position when they come to record the history of our own times.",
+      "translation": {
+        "text": "未来的历史学家记录我们这个时代的历史时，将处于一种独特的有利地位。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "They are the great mass of evidence that steadily accumulates.",
+      "translation": {
+        "text": "他们将拥有不断积累的大量证据。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "What is more, they will not have to rely solely on the written word.",
+      "translation": {
+        "text": "而且，他们不必只依靠文字记录。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Films, videos, and CD-ROMs are just some of the bewildering amount of information they will have.",
+      "translation": {
+        "text": "电影、录像和光盘只是他们所能获得的海量信息中的一小部分。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "They will be able, as it were, to see and hear us in action.",
+      "translation": {
+        "text": "可以说，他们能够看到并听到我们活动时的情景。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "But the historian attempting to reconstruct the distant past is always faced with a difficult task.",
+      "translation": {
+        "text": "然而，试图重现遥远过去的历史学家总是面临艰巨的任务。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He has to deduce what he can from the few scanty clues available.",
+      "translation": {
+        "text": "他必须从少得可怜的现有线索中尽力推断。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Even seemingly insignificant remains can shed interesting light on the history of early man.",
+      "translation": {
+        "text": "即使看似微不足道的遗迹，也能为早期人类史提供有趣的启示。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Up to now, historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.",
+      "translation": {
+        "text": "迄今为止，历史学家一直认为日历随着农业的出现而产生，因为那时人类才真正需要了解季节。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Recent scientific evidence seems to indicate that this assumption is incorrect.",
+      "translation": {
+        "text": "近期科学证据似乎表明，这一假设并不正确。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Historians have long been puzzled by dots, lines, and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths.",
+      "translation": {
+        "text": "长期以来，历史学家一直困惑于刻在石壁、骨头和猛犸象牙上的点、线和符号。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The nomads who made these markings lived by hunting and fishing during the last Ice Age, which began about 35,000 BC and ended about 10,000 BC.",
+      "translation": {
+        "text": "留下这些标记的游牧民族在最后一个冰川时期靠狩猎和捕鱼为生；这一时期约始于公元前35000年，终于公元前10000年。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "By correlating markings made in various parts of the historians have been able to read this difficult code.",
+      "translation": {
+        "text": "通过把各地留下的标记相互对照，历史学家已经能够解读这种复杂的符号。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "They have found that it is connected with the passage of days and the phases of the moon.",
+      "translation": {
+        "text": "他们发现，它同日子的推移和月相有关。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It is, in fact, a primitive type of calendar.",
+      "translation": {
+        "text": "实际上，这是一种原始日历。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It has long been known that the hunting scenes depicted on walls were not simply a form of artistic expression.",
+      "translation": {
+        "text": "人们早已知道，石壁上描绘的狩猎场面并不只是一种艺术表现形式。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "They had a definite meaning, for they were as near as early man could get to writing.",
+      "translation": {
+        "text": "它们具有明确含义，因为这已是早期人类最接近文字的表达方式。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "It is possible that there is a definite relation between these paintings and the markings that sometimes accompany them.",
+      "translation": {
+        "text": "这些图画与有时伴随其出现的标记之间，可能存在明确联系。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "It seems that man was making a real effort to understand the seasons 20,000 years earlier than has been supposed.",
+      "translation": {
+        "text": "看来，人类为了解季节所作的真正努力，比原先认为的时间早了两万年。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-038-the-first-calendar-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3154864,
+        "sha256": "979e0de8885da1d51d52b170eaa9049a0e5ce6362f9a21bf84ba886c3626d086"
+      },
+      "duration": 187.925,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 1.67,
+          "end": 3.77
+        },
+        {
+          "segmentId": "s002",
+          "start": 5.23,
+          "end": 8.21
+        },
+        {
+          "segmentId": "s003",
+          "start": 9.67,
+          "end": 18.11
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.62,
+          "end": 27.36
+        },
+        {
+          "segmentId": "s005",
+          "start": 30.8,
+          "end": 36.16
+        },
+        {
+          "segmentId": "s006",
+          "start": 37.04,
+          "end": 41.94
+        },
+        {
+          "segmentId": "s007",
+          "start": 42.64,
+          "end": 51.4
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.34,
+          "end": 57.24
+        },
+        {
+          "segmentId": "s009",
+          "start": 58.9,
+          "end": 66
+        },
+        {
+          "segmentId": "s010",
+          "start": 67,
+          "end": 71.38
+        },
+        {
+          "segmentId": "s011",
+          "start": 72.66,
+          "end": 79.64
+        },
+        {
+          "segmentId": "s012",
+          "start": 80.74,
+          "end": 94.56
+        },
+        {
+          "segmentId": "s013",
+          "start": 95.72,
+          "end": 101.72
+        },
+        {
+          "segmentId": "s014",
+          "start": 103.14,
+          "end": 113.9
+        },
+        {
+          "segmentId": "s015",
+          "start": 114.9,
+          "end": 127.94
+        },
+        {
+          "segmentId": "s016",
+          "start": 129.26,
+          "end": 137.18
+        },
+        {
+          "segmentId": "s017",
+          "start": 138.1,
+          "end": 143.64
+        },
+        {
+          "segmentId": "s018",
+          "start": 144.4,
+          "end": 147.9
+        },
+        {
+          "segmentId": "s019",
+          "start": 149.04,
+          "end": 156.54
+        },
+        {
+          "segmentId": "s020",
+          "start": 157.3,
+          "end": 163.08
+        },
+        {
+          "segmentId": "s021",
+          "start": 163.8,
+          "end": 172.36
+        },
+        {
+          "segmentId": "s022",
+          "start": 173.46,
+          "end": 182.48
+        }
+      ]
+    }
+  ]
+}

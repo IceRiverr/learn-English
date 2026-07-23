@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-015-good-news",
+    "kind": "textbook",
+    "title": "Lesson 15: Good News",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What was the good news?",
+      "translation": {
+        "text": "好消息是什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The secretary told me that Mr.",
+      "translation": {
+        "text": "秘书告诉我，哈姆斯沃斯"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Harmsworth would see me.",
+      "translation": {
+        "text": "先生会见我。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I felt very nervous when I went into his office.",
+      "translation": {
+        "text": "走进他的办公室时，我感到非常紧张。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He did not look up from his desk when I entered.",
+      "translation": {
+        "text": "我进去时，他头也没抬，仍然看着办公桌。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "After I had sat down, he said that business was very bad.",
+      "translation": {
+        "text": "我坐下后，他说生意非常不景气。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He told me that the firm could not afford to pay such large salaries.",
+      "translation": {
+        "text": "他告诉我，公司支付不起这么高的薪水。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Twenty people had already left.",
+      "translation": {
+        "text": "已经有20个人离开了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I knew that my turn had come.",
+      "translation": {
+        "text": "我知道轮到我了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Mr.",
+      "translation": {
+        "text": "哈姆斯沃斯"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Harmsworth, I said in a weak voice.",
+      "translation": {
+        "text": "先生，我声音微弱地说。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Don't interrupt, he said.",
+      "translation": {
+        "text": "“不要打断我，”他说。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Then he smiled and told me I would receive an extra thousand pounds a year.",
+      "translation": {
+        "text": "然后他笑了，告诉我每年将给我加薪1,000英镑。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-015-good-news-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1244773,
+        "sha256": "8e9d4b7adc68a97b51cd666df7faddc7fa49aab7197f603bb6ad6179f120442a"
+      },
+      "duration": 68.493,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.57,
+          "end": 8.51
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.93,
+          "end": 11.59
+        },
+        {
+          "segmentId": "s003",
+          "start": 13.91,
+          "end": 16.49
+        },
+        {
+          "segmentId": "s004",
+          "start": 16.83,
+          "end": 18.31
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.21,
+          "end": 23.01
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.41,
+          "end": 27.51
+        },
+        {
+          "segmentId": "s007",
+          "start": 28.33,
+          "end": 33.97
+        },
+        {
+          "segmentId": "s008",
+          "start": 35.05,
+          "end": 40.19
+        },
+        {
+          "segmentId": "s009",
+          "start": 41.67,
+          "end": 44.01
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.85,
+          "end": 47.41
+        },
+        {
+          "segmentId": "s011",
+          "start": 47.41,
+          "end": 49.01
+        },
+        {
+          "segmentId": "s012",
+          "start": 49.33,
+          "end": 52.31
+        },
+        {
+          "segmentId": "s013",
+          "start": 53.35,
+          "end": 55.29
+        },
+        {
+          "segmentId": "s014",
+          "start": 56.21,
+          "end": 62.37
+        }
+      ]
+    }
+  ]
+}

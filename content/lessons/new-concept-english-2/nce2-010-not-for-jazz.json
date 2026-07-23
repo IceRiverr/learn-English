@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-010-not-for-jazz",
+    "kind": "textbook",
+    "title": "Lesson 10: Not for Jazz",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 10.",
+      "translation": {
+        "text": "第10课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Not for Jazz.",
+      "translation": {
+        "text": "不适合演奏爵士乐。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen, and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What happened to the clavichord?",
+      "translation": {
+        "text": "那架古钢琴发生了什么事？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "We have an old musical instrument.",
+      "translation": {
+        "text": "我们有一件古老的乐器。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It is called a clavichord.",
+      "translation": {
+        "text": "它叫古钢琴。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It was made in Germany in 1681.",
+      "translation": {
+        "text": "它于1681年在德国制造。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Our clavichord is kept in the living room.",
+      "translation": {
+        "text": "我们的古钢琴存放在客厅里。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It has belonged to our family for a long time. The instrument was bought by my grandfather many years ago.",
+      "translation": {
+        "text": "它属于我们家已经很久了。这件乐器是我祖父多年前买的。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Recently it was damaged by a visitor.",
+      "translation": {
+        "text": "最近它被一位客人弄坏了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "She tried to play jazz on it.",
+      "translation": {
+        "text": "她试图用它演奏爵士乐。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "She struck the keys too hard and two of the strings were broken.",
+      "translation": {
+        "text": "她敲键太用力，弄断了两根琴弦。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "My father was shocked.",
+      "translation": {
+        "text": "我父亲大为震惊。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Now we are not allowed to touch it.",
+      "translation": {
+        "text": "现在不许我们碰它。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It is being repaired by a friend of my father's.",
+      "translation": {
+        "text": "父亲的一位朋友正在修理它。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-010-not-for-jazz-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1157843,
+        "sha256": "f7d19df0ea4342e3b7da44ecb89dd804b5e6f8ff2af0e5c9c3cc596dd3cd12fa"
+      },
+      "duration": 63.06,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.08,
+          "end": 1.34
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.36,
+          "end": 3.42
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.08,
+          "end": 7.92
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.06,
+          "end": 11.1
+        },
+        {
+          "segmentId": "s005",
+          "start": 12.62,
+          "end": 15.22
+        },
+        {
+          "segmentId": "s006",
+          "start": 16.06,
+          "end": 18
+        },
+        {
+          "segmentId": "s007",
+          "start": 18.92,
+          "end": 22.3
+        },
+        {
+          "segmentId": "s008",
+          "start": 23.8,
+          "end": 26.06
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.18,
+          "end": 35.54
+        },
+        {
+          "segmentId": "s010",
+          "start": 36.58,
+          "end": 39.02
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.88,
+          "end": 42.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 42.88,
+          "end": 47.3
+        },
+        {
+          "segmentId": "s013",
+          "start": 48.4,
+          "end": 50.12
+        },
+        {
+          "segmentId": "s014",
+          "start": 51.24,
+          "end": 53.72
+        },
+        {
+          "segmentId": "s015",
+          "start": 54.3,
+          "end": 57.08
+        }
+      ]
+    }
+  ]
+}

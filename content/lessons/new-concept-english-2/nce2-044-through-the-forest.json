@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-044-through-the-forest",
+    "kind": "textbook",
+    "title": "Lesson 44: Through the Forest",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How did Mrs.",
+      "translation": {
+        "text": "斯特林太太"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Stirling get her bag back?",
+      "translation": {
+        "text": "是怎样拿回提包的？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Mrs.",
+      "translation": {
+        "text": "安·"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Ann Stirling did not think of the risk she was taking when she ran through a forest after two men.",
+      "translation": {
+        "text": "斯特林太太追着两个男人跑进森林时，根本没想到自己所冒的风险。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children.",
+      "translation": {
+        "text": "当时她正和孩子们在森林边缘野餐，那两个人突然冲到她面前。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Mrs.",
+      "translation": {
+        "text": "斯特林"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Stirling got so angry that she ran after them.",
+      "translation": {
+        "text": "太太气愤极了，便追了上去。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "She was soon out of breath, but she continued to run.",
+      "translation": {
+        "text": "她很快就上气不接下气，但仍继续追赶。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "translation": {
+        "text": "追上他们时，她看到两人已经坐下，正在翻看包里的东西，于是径直朝他们冲过去。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The men got such a fright that they dropped the bag and ran away.",
+      "translation": {
+        "text": "那两个人吓得扔下提包逃走了。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The strap needs mending, said Mrs.",
+      "translation": {
+        "text": "“包带需要修一修，”斯特林太太"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Stirling later, but they did not steal anything.",
+      "translation": {
+        "text": "后来又说，“不过他们什么也没偷走。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-044-through-the-forest-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1548647,
+        "sha256": "f184463f77cc38d51ae3988d1c15c39caf119893d73e0770b9e0b7a56bec18a9"
+      },
+      "duration": 87.484,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.9,
+          "end": 8.48
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.14,
+          "end": 10.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.4,
+          "end": 13.02
+        },
+        {
+          "segmentId": "s004",
+          "start": 15.28,
+          "end": 15.66
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.02,
+          "end": 23.04
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.76,
+          "end": 31.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 43.86,
+          "end": 44.58
+        },
+        {
+          "segmentId": "s008",
+          "start": 46.22,
+          "end": 50.06
+        },
+        {
+          "segmentId": "s009",
+          "start": 50.96,
+          "end": 55.2
+        },
+        {
+          "segmentId": "s010",
+          "start": 55.2,
+          "end": 66.72
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.58,
+          "end": 73.24
+        },
+        {
+          "segmentId": "s012",
+          "start": 74.2,
+          "end": 77.62
+        },
+        {
+          "segmentId": "s013",
+          "start": 77.94,
+          "end": 81.44
+        }
+      ]
+    }
+  ]
+}

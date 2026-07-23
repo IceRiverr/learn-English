@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-029-030-come-in-amy",
+    "kind": "textbook",
+    "title": "Lesson 29: Come in, Amy.",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 29–Come In, Amy.",
+      "translation": {
+        "text": "第29课——进来吧，艾米。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "How must Amy clean the floor?",
+      "translation": {
+        "text": "艾米必须怎样清扫地板？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Come in, Amy.",
+      "translation": {
+        "text": "进来吧，艾米。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Shut the door, please.",
+      "translation": {
+        "text": "请把门关上。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "This bedroom's very untidy.",
+      "translation": {
+        "text": "这间卧室太不整洁了。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What must I do, Mrs.",
+      "translation": {
+        "text": "我必须做什么，"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Jones?",
+      "translation": {
+        "text": "琼斯太太？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Open the window and air the room.",
+      "translation": {
+        "text": "打开窗户，给房间通通风。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Then put these clothes in the wardrobe.",
+      "translation": {
+        "text": "然后把这些衣服放进衣柜里。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Then make the bed.",
+      "translation": {
+        "text": "接着整理床铺。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Dust the dressing table.",
+      "translation": {
+        "text": "给梳妆台掸灰。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Then sweep the floor.",
+      "translation": {
+        "text": "然后扫地。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-029-030-come-in-amy-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 998645,
+        "sha256": "a318dd5b585c37f5cdb25f772bdca3fe7691df2127ea0d70c7c5b0b403cf269b"
+      },
+      "duration": 54.309,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 4.79
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.83,
+          "end": 10.71
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.73,
+          "end": 15.17
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.3,
+          "end": 18.68
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.92,
+          "end": 21.16
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.54,
+          "end": 25.38
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.76,
+          "end": 28.66
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.78,
+          "end": 29.22
+        },
+        {
+          "segmentId": "s009",
+          "start": 30.22,
+          "end": 33.7
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.24,
+          "end": 38.56
+        },
+        {
+          "segmentId": "s011",
+          "start": 40,
+          "end": 41.46
+        },
+        {
+          "segmentId": "s012",
+          "start": 43.28,
+          "end": 44.9
+        },
+        {
+          "segmentId": "s013",
+          "start": 45.84,
+          "end": 48
+        }
+      ]
+    }
+  ]
+}

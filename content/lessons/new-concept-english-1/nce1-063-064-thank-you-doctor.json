@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-063-064-thank-you-doctor",
+    "kind": "textbook",
+    "title": "Lesson 63: Thank you, doctor.",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 63.",
+      "translation": {
+        "text": "第63课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Thank You, Doctor.",
+      "translation": {
+        "text": "谢谢您，医生。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who else is in bed today?",
+      "translation": {
+        "text": "今天还有谁卧床了？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "How's Jimmy today?",
+      "translation": {
+        "text": "吉米今天怎么样？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He's better.",
+      "translation": {
+        "text": "他好些了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Thank you, Doctor. Can I see him, please, Mrs. Williams?",
+      "translation": {
+        "text": "谢谢您，医生。我可以看看他吗，威廉斯太太？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Certainly, Doctor.",
+      "translation": {
+        "text": "当然可以，医生。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Come upstairs.",
+      "translation": {
+        "text": "请上楼。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "You look very well, Jimmy.",
+      "translation": {
+        "text": "你看起来很好，吉米。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "You are better now, but you mustn't get up yet.",
+      "translation": {
+        "text": "你现在好多了，但还不能起床。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "You must stay in bed for another two days.",
+      "translation": {
+        "text": "你必须再卧床两天。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The boy mustn't go to school yet, Mrs.",
+      "translation": {
+        "text": "这个孩子还不能去上学，威廉斯"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Williams, and he mustn't eat rich food.",
+      "translation": {
+        "text": "太太，而且他不能吃油腻的食物。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Does he have a temperature, Doctor?",
+      "translation": {
+        "text": "他发烧吗，医生？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "No, he doesn't.",
+      "translation": {
+        "text": "不发烧。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Must he stay in bed?",
+      "translation": {
+        "text": "他必须卧床吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Yes, he must remain in bed for another two days.",
+      "translation": {
+        "text": "是的，他必须再卧床两天。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "He can get up for about two hours each day.",
+      "translation": {
+        "text": "他每天可以起床两小时左右。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "But you must keep the room warm.",
+      "translation": {
+        "text": "但您必须保持房间温暖。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Where's Mr. Williams",
+      "translation": {
+        "text": "威廉斯先生在哪里"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "this evening?",
+      "translation": {
+        "text": "今晚在哪里？"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "He's in bed, Doctor.",
+      "translation": {
+        "text": "他躺在床上，医生。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Can you see him, please?",
+      "translation": {
+        "text": "您能看看他吗？"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "He has a bad cold, too.",
+      "translation": {
+        "text": "他也得了重感冒。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-063-064-thank-you-doctor-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1778028,
+        "sha256": "cc509df370e53fdfe7d68ae50d58354c47ffd3027920186594627650b761cf09"
+      },
+      "duration": 103.131,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.16
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.38,
+          "end": 4.7
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.42,
+          "end": 11.04
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.64,
+          "end": 15.16
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.28,
+          "end": 16.84
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.3,
+          "end": 20.76
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.66,
+          "end": 22
+        },
+        {
+          "segmentId": "s008",
+          "start": 22.7,
+          "end": 27.46
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.06,
+          "end": 30.54
+        },
+        {
+          "segmentId": "s010",
+          "start": 31.4,
+          "end": 32.46
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.1,
+          "end": 36.12
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.02,
+          "end": 41.4
+        },
+        {
+          "segmentId": "s013",
+          "start": 42.38,
+          "end": 46.6
+        },
+        {
+          "segmentId": "s014",
+          "start": 48.24,
+          "end": 51.74
+        },
+        {
+          "segmentId": "s015",
+          "start": 51.92,
+          "end": 55.88
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.16,
+          "end": 61.06
+        },
+        {
+          "segmentId": "s017",
+          "start": 62.08,
+          "end": 63.64
+        },
+        {
+          "segmentId": "s018",
+          "start": 64.24,
+          "end": 66.22
+        },
+        {
+          "segmentId": "s019",
+          "start": 66.94,
+          "end": 71.8
+        },
+        {
+          "segmentId": "s020",
+          "start": 72.78,
+          "end": 77.16
+        },
+        {
+          "segmentId": "s021",
+          "start": 77.92,
+          "end": 81.04
+        },
+        {
+          "segmentId": "s022",
+          "start": 83.53,
+          "end": 84.45
+        },
+        {
+          "segmentId": "s023",
+          "start": 85.01,
+          "end": 86.31
+        },
+        {
+          "segmentId": "s024",
+          "start": 87.11,
+          "end": 89.51
+        },
+        {
+          "segmentId": "s025",
+          "start": 90.53,
+          "end": 92.29
+        },
+        {
+          "segmentId": "s026",
+          "start": 93.29,
+          "end": 96.05
+        }
+      ]
+    }
+  ]
+}

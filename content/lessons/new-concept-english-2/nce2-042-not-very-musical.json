@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-042-not-very-musical",
+    "kind": "textbook",
+    "title": "Lesson 42: Not Very Musical",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 42.",
+      "translation": {
+        "text": "第42课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Not Very Musical.",
+      "translation": {
+        "text": "并非很懂音乐。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What happened when the snake charmer began to play jazz?",
+      "translation": {
+        "text": "耍蛇人开始演奏爵士乐时发生了什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "As we had had a long walk through one of the markets of Old Delhi, we stopped at a square to have a rest.",
+      "translation": {
+        "text": "我们在旧德里的一个市场里走了很长一段路，便在一处广场停下来休息。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "translation": {
+        "text": "过了一会儿，我们注意到广场另一边有个耍蛇人，旁边放着两只大篮子，于是走过去看他表演。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "translation": {
+        "text": "他一看见我们，就拿起一根镶满硬币的长笛，打开其中一只篮子。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "When he began to play a tune, we had our first glimpse of the snake.",
+      "translation": {
+        "text": "他开始吹奏一支曲子时，我们第一次看见了蛇。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It rose out of the basket and began to follow the movements of the pipe.",
+      "translation": {
+        "text": "蛇从篮子里探出身子，开始随着笛子的摆动而扭动。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "translation": {
+        "text": "耍蛇人突然开始演奏爵士乐和现代流行歌曲时，我们非常惊讶。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The snake, however, continued to dance slowly.",
+      "translation": {
+        "text": "然而，蛇仍然缓慢地舞动着。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "It obviously could not tell the difference between Indian music and jazz.",
+      "translation": {
+        "text": "显然，它分辨不出印度音乐和爵士乐。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-042-not-very-musical-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1525655,
+        "sha256": "cb5b835dbc8ee149ebc2c16f5e8aa4a10b544f4d40d87b818f81ed11c20c3e7e"
+      },
+      "duration": 86.047,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.76
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.8,
+          "end": 4.24
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.88,
+          "end": 8.82
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.12,
+          "end": 13.96
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.14,
+          "end": 24.68
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.64,
+          "end": 36.34
+        },
+        {
+          "segmentId": "s007",
+          "start": 37.42,
+          "end": 45.76
+        },
+        {
+          "segmentId": "s008",
+          "start": 46.76,
+          "end": 52.8
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.64,
+          "end": 59.04
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.14,
+          "end": 67.98
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.98,
+          "end": 73.48
+        },
+        {
+          "segmentId": "s012",
+          "start": 74.58,
+          "end": 79.9
+        }
+      ]
+    }
+  ]
+}

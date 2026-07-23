@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-099-100-ow",
+    "kind": "textbook",
+    "title": "Lesson 99: Ow!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 99.",
+      "translation": {
+        "text": "第99课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Must Andy go to see the doctor?",
+      "translation": {
+        "text": "安迪必须去看医生吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What's the matter, Andy?",
+      "translation": {
+        "text": "怎么了，安迪？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I slipped and fell downstairs.",
+      "translation": {
+        "text": "我滑了一跤，从楼梯上摔了下来。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Have you hurt yourself?",
+      "translation": {
+        "text": "你伤着自己了吗？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Yes, I have.",
+      "translation": {
+        "text": "是的，伤着了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I think that I've hurt my back.",
+      "translation": {
+        "text": "我想我的背受伤了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Try and stand up.",
+      "translation": {
+        "text": "试着站起来。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Can you stand up?",
+      "translation": {
+        "text": "你能站起来吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Here, let me help you.",
+      "translation": {
+        "text": "来，让我帮你。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I'm sorry, Lucy.",
+      "translation": {
+        "text": "对不起，露西。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I'm afraid that I can't get up.",
+      "translation": {
+        "text": "恐怕我站不起来。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I think that the doctor had better see you.",
+      "translation": {
+        "text": "我想最好让医生给你看看。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I'll phone Dr. Carter.",
+      "translation": {
+        "text": "我给卡特医生打电话。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The doctor says that he will come at once.",
+      "translation": {
+        "text": "医生说他马上就来。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'm sure that you need an x-ray, Andy.",
+      "translation": {
+        "text": "安迪，我敢肯定你需要拍X光片。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-099-100-ow-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1291776,
+        "sha256": "c707cf4c3f20fa2565f41567962f462396fd2eb1ca655705b4242f392c1906a3"
+      },
+      "duration": 72.673,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 1.96
+        },
+        {
+          "segmentId": "s002",
+          "start": 4.78,
+          "end": 8.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.7,
+          "end": 13.38
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.01,
+          "end": 19.11
+        },
+        {
+          "segmentId": "s005",
+          "start": 19.83,
+          "end": 22.67
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.73,
+          "end": 25.51
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.17,
+          "end": 27.55
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.55,
+          "end": 31.19
+        },
+        {
+          "segmentId": "s009",
+          "start": 32.75,
+          "end": 34.43
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.31,
+          "end": 36.89
+        },
+        {
+          "segmentId": "s011",
+          "start": 37.49,
+          "end": 40.05
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.39,
+          "end": 42.77
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.83,
+          "end": 46.63
+        },
+        {
+          "segmentId": "s014",
+          "start": 47.91,
+          "end": 52.15
+        },
+        {
+          "segmentId": "s015",
+          "start": 52.99,
+          "end": 54.65
+        },
+        {
+          "segmentId": "s016",
+          "start": 56.35,
+          "end": 60.83
+        },
+        {
+          "segmentId": "s017",
+          "start": 61.89,
+          "end": 66.05
+        }
+      ]
+    }
+  ]
+}

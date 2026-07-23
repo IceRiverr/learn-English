@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-053-hot-snake",
+    "kind": "textbook",
+    "title": "Lesson 53: Hot Snake",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 53.",
+      "translation": {
+        "text": "第53课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Hot Snake.",
+      "translation": {
+        "text": "触电的蛇。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What caused the fire?",
+      "translation": {
+        "text": "是什么引起了火灾？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "At last, firemen have put out a big forest fire in California.",
+      "translation": {
+        "text": "消防队员终于扑灭了加利福尼亚的一场森林大火。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Since then, they have been trying to find out how the fire began.",
+      "translation": {
+        "text": "从那以后，他们一直在设法查明起火原因。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "translation": {
+        "text": "森林火灾常由碎玻璃或人们随手丢弃的烟头引起。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Yesterday, the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "translation": {
+        "text": "昨天，消防队员仔细检查了地面，却没能找到任何碎玻璃。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "They were also quite sure that a cigarette end did not start the fire.",
+      "translation": {
+        "text": "他们也十分确信，火灾不是由烟头引起的。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "This morning, however, a fireman accidentally discovered the cause.",
+      "translation": {
+        "text": "然而今天早晨，一名消防队员偶然发现了起火原因。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "He noticed the remains of a snake which was wound round the electric wires of a 16,000 volt power line.",
+      "translation": {
+        "text": "他注意到一条蛇的残骸缠绕在一条16,000伏高压线的电线上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In this way, he was able to solve the mystery.",
+      "translation": {
+        "text": "这样，他便解开了这个谜。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The explanation was simple but very unusual.",
+      "translation": {
+        "text": "解释很简单，却十分不同寻常。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "A bird had snatched up the snake from the ground and then dropped it onto the wires.",
+      "translation": {
+        "text": "一只鸟从地面抓起那条蛇，随后把它丢到了电线上。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The snake then wound itself round the wires.",
+      "translation": {
+        "text": "蛇接着把身体缠在电线上。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "translation": {
+        "text": "它这样做时，火花落到地面，立刻引发了火灾。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-053-hot-snake-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1827826,
+        "sha256": "407c99b11483639af37fc77f1fe3cf70ebdb955d30108c4e0de4725d2d288b98"
+      },
+      "duration": 104.934,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.72,
+          "end": 2.34
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.28,
+          "end": 4.38
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.22,
+          "end": 9.26
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.7,
+          "end": 12.36
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.39,
+          "end": 19.73
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.15,
+          "end": 26.19
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.61,
+          "end": 36.57
+        },
+        {
+          "segmentId": "s008",
+          "start": 38.03,
+          "end": 45.55
+        },
+        {
+          "segmentId": "s009",
+          "start": 46.65,
+          "end": 51.75
+        },
+        {
+          "segmentId": "s010",
+          "start": 52.67,
+          "end": 58.25
+        },
+        {
+          "segmentId": "s011",
+          "start": 59.39,
+          "end": 68.65
+        },
+        {
+          "segmentId": "s012",
+          "start": 69.89,
+          "end": 73.51
+        },
+        {
+          "segmentId": "s013",
+          "start": 74.65,
+          "end": 78.57
+        },
+        {
+          "segmentId": "s014",
+          "start": 79.43,
+          "end": 86.69
+        },
+        {
+          "segmentId": "s015",
+          "start": 87.77,
+          "end": 91.01
+        },
+        {
+          "segmentId": "s016",
+          "start": 91.79,
+          "end": 99.11
+        }
+      ]
+    }
+  ]
+}

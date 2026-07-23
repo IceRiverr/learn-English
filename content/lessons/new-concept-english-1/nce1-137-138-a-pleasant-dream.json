@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-137-138-a-pleasant-dream",
+    "kind": "textbook",
+    "title": "Lesson 137: A pleasant dream",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 137.",
+      "translation": {
+        "text": "第137课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Pleasant Dream.",
+      "translation": {
+        "text": "美好的梦。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What would Julie like to do if she had the money?",
+      "translation": {
+        "text": "如果朱莉有了钱，她想做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Are you doing the football pools, Brian?",
+      "translation": {
+        "text": "布赖恩，你在填足球赛博彩单吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Yes, I've nearly finished, Julie.",
+      "translation": {
+        "text": "是的，我快填完了，朱莉。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I'm sure we'll win something this week.",
+      "translation": {
+        "text": "我相信我们这周会赢点什么。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "You always say that, but we never win anything.",
+      "translation": {
+        "text": "你总是这么说，可我们从来什么也没赢过。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "What will you do if you win a lot of money?",
+      "translation": {
+        "text": "如果你赢了很多钱，你会做什么？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "If I win a lot of money, I'll buy you a mink coat.",
+      "translation": {
+        "text": "如果我赢了很多钱，我会给你买一件貂皮大衣。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I don't want a mink coat.",
+      "translation": {
+        "text": "我不想要貂皮大衣。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I want to see the world.",
+      "translation": {
+        "text": "我想环游世界。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "All right.",
+      "translation": {
+        "text": "好吧。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "If we win a lot of money, we'll travel around the world and we'll stay at the best hotels.",
+      "translation": {
+        "text": "如果我们赢了很多钱，我们就环游世界，住最好的酒店。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Then we'll return home and buy a big house in the country.",
+      "translation": {
+        "text": "然后我们回国，在乡下买一栋大房子。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "We'll have a beautiful garden and… But if we spend all that money, we'll be poor again.",
+      "translation": {
+        "text": "我们会有一个漂亮的花园，而且……可是，如果我们把钱全花光，就又会变穷。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "What will we do then?",
+      "translation": {
+        "text": "那时我们怎么办？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "If we spend all the money, we'll try and win the football pools again.",
+      "translation": {
+        "text": "如果把钱全花光了，我们就再去赢一次足球赛博彩。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It's a pleasant dream, but everything depends on if.",
+      "translation": {
+        "text": "这个梦很美好，但一切都取决于那个“如果”。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-137-138-a-pleasant-dream-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1796374,
+        "sha256": "0aa0cbec55f56964feb093a83d772ba98969ff93c815cd391ee68dec43a2c8ba"
+      },
+      "duration": 104.281,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.5,
+          "end": 2.54
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.62,
+          "end": 5.08
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.72,
+          "end": 10.44
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.84,
+          "end": 16.22
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.88,
+          "end": 22.42
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.54,
+          "end": 26.06
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.8,
+          "end": 29.62
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.58,
+          "end": 35.74
+        },
+        {
+          "segmentId": "s009",
+          "start": 36.82,
+          "end": 40.52
+        },
+        {
+          "segmentId": "s010",
+          "start": 41.66,
+          "end": 46.82
+        },
+        {
+          "segmentId": "s011",
+          "start": 47.82,
+          "end": 50.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 51.08,
+          "end": 53.48
+        },
+        {
+          "segmentId": "s013",
+          "start": 54.44,
+          "end": 55.44
+        },
+        {
+          "segmentId": "s014",
+          "start": 56.38,
+          "end": 64.32
+        },
+        {
+          "segmentId": "s015",
+          "start": 65.32,
+          "end": 70.98
+        },
+        {
+          "segmentId": "s016",
+          "start": 71.94,
+          "end": 80.86
+        },
+        {
+          "segmentId": "s017",
+          "start": 81.84,
+          "end": 83.74
+        },
+        {
+          "segmentId": "s018",
+          "start": 85.16,
+          "end": 91.08
+        },
+        {
+          "segmentId": "s019",
+          "start": 92.28,
+          "end": 97.94
+        }
+      ]
+    }
+  ]
+}

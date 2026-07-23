@@ -1,0 +1,484 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-044-speed-and-comfort",
+    "kind": "textbook",
+    "title": "Lesson 44: Speed and Comfort",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 44.",
+      "translation": {
+        "text": "第44课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Speed and Comfort.",
+      "translation": {
+        "text": "速度与舒适。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Which type of transport does the rider prefer, do you think?",
+      "translation": {
+        "text": "你认为作者更喜欢哪种交通方式？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "People traveling long distances frequently have to decide whether they would prefer to go by land, sea, or air.",
+      "translation": {
+        "text": "长途旅行的人经常要决定走陆路、海路还是乘飞机。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Hardly anyone can positively enjoy sitting in a train for more than a few hours.",
+      "translation": {
+        "text": "几乎没人真能享受在火车上一坐数小时的滋味。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Train compartments soon get cramped and stuffy.",
+      "translation": {
+        "text": "车厢很快就会变得拥挤而闷热。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It is almost impossible to take your mind off the journey.",
+      "translation": {
+        "text": "你几乎不可能不去想旅途本身。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Reading is only a partial solution, for the monotonous rhythm of the wheels clicking on the rails soon lulls you to sleep.",
+      "translation": {
+        "text": "读书只能部分解决问题，因为车轮敲击铁轨的单调节奏很快就会催你入睡。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "During the day, sleep comes in snatches.",
+      "translation": {
+        "text": "白天只能断断续续地睡。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "At night, when you really wish to go to sleep, you rarely manage to do so.",
+      "translation": {
+        "text": "夜里真正想睡时，却很少能如愿。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or fumbling to find your ticket for inspection.",
+      "translation": {
+        "text": "如果有幸买到卧铺，你会花半夜盯着天花板上的蓝色小灯，或摸索着找车票接受检查。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Inevitably, you arrive at your destination almost exhausted.",
+      "translation": {
+        "text": "到达目的地时，你必然已经精疲力竭。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Long car journeys are even less pleasant, for it is quite impossible even to read.",
+      "translation": {
+        "text": "长途汽车旅行更不愉快，因为你甚至根本无法看书。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "On motorways, you can, at least, travel fairly safely at high speeds.",
+      "translation": {
+        "text": "在高速公路上，至少还能以较高速度相对安全地行驶。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "But more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.",
+      "translation": {
+        "text": "但往往旅程大部分是在服务站稀少、车流过多的道路上度过的。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "By comparison, ferry trips or cruises offer a great variety of civilized comforts.",
+      "translation": {
+        "text": "相比之下，渡轮或游轮提供了各种文明而舒适的享受。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "You can stretch your legs on the spacious decks, play games, meet interesting people, and enjoy good food.",
+      "translation": {
+        "text": "你可以在宽敞的甲板上活动腿脚、玩游戏、结识有趣的人并享用美食。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Always assuming, of course, that the sea is calm.",
+      "translation": {
+        "text": "当然，前提始终是海面风平浪静。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "If it is not, and you are likely to get seasick, no form of transport could be worse.",
+      "translation": {
+        "text": "如果海上不平静，而你又容易晕船，那就没有比这更糟的交通方式了。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Even if you travel in ideal weather, sea journeys take a long time.",
+      "translation": {
+        "text": "即使天气理想，海上旅行仍要花很长时间。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Relatively few people are prepared to sacrifice holiday time for the pleasure of traveling by sea.",
+      "translation": {
+        "text": "愿意牺牲假期时间来享受海上旅行乐趣的人相对很少。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Airplanes have the reputation of being dangerous, and even hardened travelers are intimidated by them.",
+      "translation": {
+        "text": "飞机素有危险之名，就连久经旅行的人也会对它心存畏惧。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "They also have the disadvantage of being an expensive form of transport.",
+      "translation": {
+        "text": "飞机还有费用昂贵这个缺点。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "But nothing can match them for speed and comfort.",
+      "translation": {
+        "text": "但在速度和舒适方面，没有任何交通工具能同它相比。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Traveling at a height of 30,000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.",
+      "translation": {
+        "text": "在云层之上3万英尺高空，以每小时500多英里的速度飞行，是一种令人振奋的体验。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "You do not have to devise ways of taking your mind off the journey, for an airplane gets you to your destination rapidly.",
+      "translation": {
+        "text": "你不必设法转移对旅途的注意力，因为飞机很快就把你送到目的地。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "For a few hours, you settle back in a deep armchair to enjoy the flight.",
+      "translation": {
+        "text": "几个小时里，你可以靠在宽大的扶手椅中享受飞行。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "The real escapist can watch a film and sip champagne on some services.",
+      "translation": {
+        "text": "在某些航班上，真正想逃离现实的人还能看电影、啜饮香槟。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "But even when such refinements are not available, there is plenty to keep you occupied.",
+      "translation": {
+        "text": "即使没有这些精致享受，也有很多事情可做。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "An airplane offers you an unusual and breathtaking view of the world.",
+      "translation": {
+        "text": "飞机为你呈现一幅非同寻常、激动人心的世界景观。"
+      }
+    },
+    {
+      "id": "s032",
+      "text": "You soar effortlessly over high mountains and deep valleys.",
+      "translation": {
+        "text": "你毫不费力地飞越高山和深谷。"
+      }
+    },
+    {
+      "id": "s033",
+      "text": "You really see the shape of the land.",
+      "translation": {
+        "text": "你真正看清了大地的轮廓。"
+      }
+    },
+    {
+      "id": "s034",
+      "text": "If the landscape is hidden from view, you can enjoy the extraordinary sight of unbroken cloud planes that stretch out for miles before you, while the sun shines brilliantly in a clear sky.",
+      "translation": {
+        "text": "如果地面景色被遮住，你可以欣赏连绵数英里的完整云海这一奇景，而太阳则在澄澈天空中灿烂照耀。"
+      }
+    },
+    {
+      "id": "s035",
+      "text": "The journey is so smooth that there is nothing to prevent you from reading or sleeping.",
+      "translation": {
+        "text": "旅途如此平稳，没有什么能妨碍你读书或睡觉。"
+      }
+    },
+    {
+      "id": "s036",
+      "text": "However you decide to spend your time, one thing is certain.",
+      "translation": {
+        "text": "无论你决定怎样打发时间，有一点是肯定的。"
+      }
+    },
+    {
+      "id": "s037",
+      "text": "You will arrive at your destination, fresh and uncrumpled.",
+      "translation": {
+        "text": "抵达目的地时，你会精神焕发、衣着整齐。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-044-speed-and-comfort-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4259109,
+        "sha256": "86a06d23bed43251afaa14f364cae3e99e9b0307e212216d35086ba04fb588d8"
+      },
+      "duration": 256.94,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.05,
+          "end": 1.55
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.33,
+          "end": 3.59
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.59,
+          "end": 7.75
+        },
+        {
+          "segmentId": "s004",
+          "start": 8.95,
+          "end": 12.51
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.03,
+          "end": 23.07
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.05,
+          "end": 29.85
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.65,
+          "end": 34.23
+        },
+        {
+          "segmentId": "s008",
+          "start": 34.95,
+          "end": 38.19
+        },
+        {
+          "segmentId": "s009",
+          "start": 39.25,
+          "end": 47.65
+        },
+        {
+          "segmentId": "s010",
+          "start": 49.29,
+          "end": 52.07
+        },
+        {
+          "segmentId": "s011",
+          "start": 52.83,
+          "end": 57.95
+        },
+        {
+          "segmentId": "s012",
+          "start": 57.95,
+          "end": 69.83
+        },
+        {
+          "segmentId": "s013",
+          "start": 71.01,
+          "end": 75.97
+        },
+        {
+          "segmentId": "s014",
+          "start": 77.39,
+          "end": 83.01
+        },
+        {
+          "segmentId": "s015",
+          "start": 83.01,
+          "end": 88.75
+        },
+        {
+          "segmentId": "s016",
+          "start": 89.39,
+          "end": 98.13
+        },
+        {
+          "segmentId": "s017",
+          "start": 98.95,
+          "end": 105.32
+        },
+        {
+          "segmentId": "s018",
+          "start": 106.42,
+          "end": 114.74
+        },
+        {
+          "segmentId": "s019",
+          "start": 115.66,
+          "end": 119.28
+        },
+        {
+          "segmentId": "s020",
+          "start": 120.6,
+          "end": 126.94
+        },
+        {
+          "segmentId": "s021",
+          "start": 128.2,
+          "end": 133.08
+        },
+        {
+          "segmentId": "s022",
+          "start": 133.08,
+          "end": 140.72
+        },
+        {
+          "segmentId": "s023",
+          "start": 142,
+          "end": 148.98
+        },
+        {
+          "segmentId": "s024",
+          "start": 149.86,
+          "end": 154.88
+        },
+        {
+          "segmentId": "s025",
+          "start": 155.74,
+          "end": 159.04
+        },
+        {
+          "segmentId": "s026",
+          "start": 160.02,
+          "end": 169.86
+        },
+        {
+          "segmentId": "s027",
+          "start": 171.2,
+          "end": 178.72
+        },
+        {
+          "segmentId": "s028",
+          "start": 179.68,
+          "end": 184.72
+        },
+        {
+          "segmentId": "s029",
+          "start": 185.82,
+          "end": 191.56
+        },
+        {
+          "segmentId": "s030",
+          "start": 192.56,
+          "end": 197.76
+        },
+        {
+          "segmentId": "s031",
+          "start": 198.52,
+          "end": 203.72
+        },
+        {
+          "segmentId": "s032",
+          "start": 204.6,
+          "end": 208.52
+        },
+        {
+          "segmentId": "s033",
+          "start": 209.52,
+          "end": 212.26
+        },
+        {
+          "segmentId": "s034",
+          "start": 212.92,
+          "end": 227.58
+        },
+        {
+          "segmentId": "s035",
+          "start": 228.76,
+          "end": 234.46
+        },
+        {
+          "segmentId": "s036",
+          "start": 235.18,
+          "end": 239.68
+        },
+        {
+          "segmentId": "s037",
+          "start": 240.4,
+          "end": 244.51
+        }
+      ]
+    }
+  ]
+}

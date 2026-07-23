@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-026-the-past-life-of-the-earth",
+    "kind": "textbook",
+    "title": "Lesson 26: The Past Life of the Earth",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson Past Life of",
+      "translation": {
+        "text": "第26课："
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Lesson",
+      "translation": {
+        "text": "地球上的"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The the Lesson 28.",
+      "translation": {
+        "text": "昔日"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The Past Life of",
+      "translation": {
+        "text": "生命。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "the It is very rarely that one comes across a dead body, except, course,",
+      "translation": {
+        "text": "人们很少碰到动物尸体，当然，"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "on the roads.",
+      "translation": {
+        "text": "公路上除外。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "They decompose and are quickly destroyed by the weather or eaten by some other creature.",
+      "translation": {
+        "text": "它们会腐烂，很快被风雨破坏或被其他动物吃掉。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It is almost always due to some very special circumstances that traces of land animals survive, as by falling into inaccessible caves or into an ice crevasse like the Siberian mammoths when the whole",
+      "translation": {
+        "text": "陆生动物的遗迹几乎总要在极特殊的条件下才能保存，例如掉入无法进入的洞穴，或像西伯利亚猛犸象那样落入冰隙；有时整个"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "animal is sometimes preserved, as in a refrigerator.",
+      "translation": {
+        "text": "动物会像放进冰箱一样被保存下来。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "This is what happened to the famous Barasovka mammoth, which was found preserved and in good condition.",
+      "translation": {
+        "text": "著名的别列佐夫卡猛犸象就是如此，它被发现时保存完好。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In his mouth were the remains of fir trees, the last meal that he had before he fell into the crevasse and broke his back.",
+      "translation": {
+        "text": "它嘴里还留着冷杉枝叶，那是它掉进冰隙摔断脊背前吃的最后一餐。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The mammoth has now been restored in the paleontological museum in St.",
+      "translation": {
+        "text": "这头猛犸象如今已在圣彼得堡的古生物博物馆中复原。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Other animals were trapped in tar pits like the elephants, saber-toothed cats, and numerous other creatures that are found at Rancho La Brea, which is now just a suburb of Los Angeles.",
+      "translation": {
+        "text": "还有些动物陷入焦油坑，例如在如今已成为洛杉矶郊区的拉布雷亚牧场发现的大象、剑齿虎以及许多其他动物。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Apparently what happened was that water collected on these tar pits, and the bigger animals, like the elephants, ventured out onto the apparently firm surface to drink and were promptly bogged in the tar.",
+      "translation": {
+        "text": "事情显然是这样的：焦油坑上积了水，大象等大型动物冒险踏上看似坚实的表面去饮水，立刻便陷入焦油。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "And then, when they were dead, the carnivores, like the saber-toothed cats and the giant wolves, came out to feed and suffered exactly the same fate.",
+      "translation": {
+        "text": "它们死后，剑齿虎和巨狼等食肉动物前来觅食，也遭遇了完全相同的命运。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "There are also endless numbers of birds in the tar as well.",
+      "translation": {
+        "text": "焦油中还保存着数不胜数的鸟类。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-026-the-past-life-of-the-earth-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3437285,
+        "sha256": "c676b303275c69652172b38f68bea44eb500fd94f509adf6eb747826c60d6754"
+      },
+      "duration": 205.531,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 28.31,
+          "end": 32.17
+        },
+        {
+          "segmentId": "s002",
+          "start": 41.75,
+          "end": 43.15
+        },
+        {
+          "segmentId": "s003",
+          "start": 55.31,
+          "end": 70.67
+        },
+        {
+          "segmentId": "s004",
+          "start": 71.03,
+          "end": 81.57
+        },
+        {
+          "segmentId": "s005",
+          "start": 81.57,
+          "end": 97.45
+        },
+        {
+          "segmentId": "s006",
+          "start": 97.67,
+          "end": 98.35
+        },
+        {
+          "segmentId": "s007",
+          "start": 99.17,
+          "end": 105.07
+        },
+        {
+          "segmentId": "s008",
+          "start": 106.21,
+          "end": 122.05
+        },
+        {
+          "segmentId": "s009",
+          "start": 122.05,
+          "end": 125.55
+        },
+        {
+          "segmentId": "s010",
+          "start": 126.69,
+          "end": 132.65
+        },
+        {
+          "segmentId": "s011",
+          "start": 133.75,
+          "end": 142.49
+        },
+        {
+          "segmentId": "s012",
+          "start": 143.25,
+          "end": 148.25
+        },
+        {
+          "segmentId": "s013",
+          "start": 148.81,
+          "end": 162.19
+        },
+        {
+          "segmentId": "s014",
+          "start": 163.41,
+          "end": 177.85
+        },
+        {
+          "segmentId": "s015",
+          "start": 178.47,
+          "end": 189.39
+        },
+        {
+          "segmentId": "s016",
+          "start": 190.59,
+          "end": 194.05
+        }
+      ]
+    }
+  ]
+}

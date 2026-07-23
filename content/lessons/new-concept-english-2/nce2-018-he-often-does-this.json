@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-018-he-often-does-this",
+    "kind": "textbook",
+    "title": "Lesson 18: He Often does This",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 18.",
+      "translation": {
+        "text": "第18课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "He often does this.",
+      "translation": {
+        "text": "他经常干这种事。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What had happened to the writer's bag?",
+      "translation": {
+        "text": "作者的包出了什么事？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "After I had had lunch at a village pub, I looked for my bag.",
+      "translation": {
+        "text": "我在一家乡村小酒馆吃过午饭后，开始寻找我的包。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I had left it on a chair beside the door, and now it wasn't there.",
+      "translation": {
+        "text": "我原来把它放在门边的椅子上，可现在不见了。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "As I was looking for it, the landlord came in.",
+      "translation": {
+        "text": "我正在寻找时，店主走了进来。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Did you have a good meal?",
+      "translation": {
+        "text": "“饭吃得好吗？”"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "he asked.",
+      "translation": {
+        "text": "他问道。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Yes, thank you, I answered.",
+      "translation": {
+        "text": "“很好，谢谢。”我回答。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "But I can't pay the bill.",
+      "translation": {
+        "text": "“但我没法付账。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I haven't got my bag.",
+      "translation": {
+        "text": "我的包不见了。”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The landlord smiled and immediately went out.",
+      "translation": {
+        "text": "店主笑了笑，立刻走了出去。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "In a few minutes, he returned with my bag and gave it back to me.",
+      "translation": {
+        "text": "几分钟后，他拿着我的包回来，把它还给了我。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I'm very sorry, he said.",
+      "translation": {
+        "text": "“非常抱歉，”他说。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "My dog had taken it into the garden.",
+      "translation": {
+        "text": "“我的狗把它叼到花园里去了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He often does this.",
+      "translation": {
+        "text": "它经常干这种事。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-018-he-often-does-this-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1255239,
+        "sha256": "448c79741eedf29b6d84ac4ad90fb423bf948b05e8d6c8e25f4c7bba8fda60f7"
+      },
+      "duration": 69.146,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.63
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.31,
+          "end": 4.05
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.25,
+          "end": 8.51
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.59,
+          "end": 12.11
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.31,
+          "end": 20.05
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.93,
+          "end": 26.11
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.35,
+          "end": 31.21
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.99,
+          "end": 34.25
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.75,
+          "end": 35.29
+        },
+        {
+          "segmentId": "s010",
+          "start": 36.09,
+          "end": 38.31
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.05,
+          "end": 40.77
+        },
+        {
+          "segmentId": "s012",
+          "start": 41.41,
+          "end": 43.19
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.99,
+          "end": 47.99
+        },
+        {
+          "segmentId": "s014",
+          "start": 48.69,
+          "end": 54.07
+        },
+        {
+          "segmentId": "s015",
+          "start": 54.89,
+          "end": 57.37
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.37,
+          "end": 61.17
+        },
+        {
+          "segmentId": "s017",
+          "start": 61.93,
+          "end": 63.39
+        }
+      ]
+    }
+  ]
+}

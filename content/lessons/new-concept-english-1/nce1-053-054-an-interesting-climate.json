@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-053-054-an-interesting-climate",
+    "kind": "textbook",
+    "title": "Lesson 53: An interesting climate",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 53.",
+      "translation": {
+        "text": "第53课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "An Interesting Climate.",
+      "translation": {
+        "text": "有趣的气候。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is the favorite subject of conversation in England?",
+      "translation": {
+        "text": "英国人最爱谈论的话题是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where do you come from?",
+      "translation": {
+        "text": "你来自哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I come from England.",
+      "translation": {
+        "text": "我来自英国。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What's the climate like in your country?",
+      "translation": {
+        "text": "你们国家的气候怎么样？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It's mild, but it's not always pleasant.",
+      "translation": {
+        "text": "气候温和，但并不总是宜人。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The weather's often cold in the north and windy in the east.",
+      "translation": {
+        "text": "北部经常很冷，东部经常刮风。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It's often wet in the west and sometimes warm in the south.",
+      "translation": {
+        "text": "西部经常潮湿，南部有时很暖和。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Which seasons do you like best?",
+      "translation": {
+        "text": "你最喜欢哪些季节？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I like spring and summer.",
+      "translation": {
+        "text": "我喜欢春天和夏天。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The days are long and the nights are short.",
+      "translation": {
+        "text": "白天长，夜晚短。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The sun rises early and sets late.",
+      "translation": {
+        "text": "太阳升得早，落得晚。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I don't like autumn and winter.",
+      "translation": {
+        "text": "我不喜欢秋天和冬天。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The days are short and the nights are long.",
+      "translation": {
+        "text": "白天短，夜晚长。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The sun rises late and sets early.",
+      "translation": {
+        "text": "太阳升得晚，落得早。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Our climate is not very good, but it's certainly interesting.",
+      "translation": {
+        "text": "我们的气候不算很好，但的确很有意思。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It's our favorite subject of conversation.",
+      "translation": {
+        "text": "天气是我们最喜欢谈论的话题。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-053-054-an-interesting-climate-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1795133,
+        "sha256": "105515d948834edc2f3c03a191e2da916db1ff824c307ba72823ac33521d8fad"
+      },
+      "duration": 104.202,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 2.19
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.39,
+          "end": 5.37
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.49,
+          "end": 11.41
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.76,
+          "end": 18.7
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.73,
+          "end": 23.39
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.85,
+          "end": 26.55
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.83,
+          "end": 30.57
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.57,
+          "end": 35.69
+        },
+        {
+          "segmentId": "s009",
+          "start": 37.49,
+          "end": 43.47
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.45,
+          "end": 50.87
+        },
+        {
+          "segmentId": "s011",
+          "start": 52.37,
+          "end": 54.95
+        },
+        {
+          "segmentId": "s012",
+          "start": 55.95,
+          "end": 59.05
+        },
+        {
+          "segmentId": "s013",
+          "start": 59.99,
+          "end": 64.57
+        },
+        {
+          "segmentId": "s014",
+          "start": 65.57,
+          "end": 69.33
+        },
+        {
+          "segmentId": "s015",
+          "start": 70.69,
+          "end": 73.69
+        },
+        {
+          "segmentId": "s016",
+          "start": 74.93,
+          "end": 79.39
+        },
+        {
+          "segmentId": "s017",
+          "start": 80.39,
+          "end": 85.07
+        },
+        {
+          "segmentId": "s018",
+          "start": 86.63,
+          "end": 92.55
+        },
+        {
+          "segmentId": "s019",
+          "start": 93.61,
+          "end": 96.97
+        }
+      ]
+    }
+  ]
+}

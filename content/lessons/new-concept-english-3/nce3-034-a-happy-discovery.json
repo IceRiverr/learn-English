@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-034-a-happy-discovery",
+    "kind": "textbook",
+    "title": "Lesson 34: A Happy Discovery",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What was the happy discovery?",
+      "translation": {
+        "text": "那个令人高兴的发现是什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Antique shops exert a peculiar fascination on a great many people.",
+      "translation": {
+        "text": "古玩店对许多人有一种特殊的吸引力。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The more expensive kind of antique shop, where rare objects are beautifully displayed in glass cases to keep them free from dust, is usually a forbidding place.",
+      "translation": {
+        "text": "较为昂贵的古玩店把珍品精美地陈列在玻璃柜中以免落尘，通常令人望而却步。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "But no one has to muster up courage to enter a less pretentious antique shop.",
+      "translation": {
+        "text": "但走进一家不那么气派的古玩店，谁也不必鼓足勇气。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "There is always hope that in its labyrinth of musty, dark, disordered rooms, a real rarity will be found amongst the piles of assorted junk that litter the floors.",
+      "translation": {
+        "text": "在那迷宫般、霉味扑鼻、昏暗杂乱的房间里，人们总希望能从散落满地的各类破烂中发现真正的珍品。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "No one discovers a rarity by chance.",
+      "translation": {
+        "text": "珍品不会偶然被发现。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.",
+      "translation": {
+        "text": "真正执着的淘便宜货者必须有耐心，最重要的是一眼认出物品价值的能力。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "To do this, he must be at least as knowledgeable as the dealer.",
+      "translation": {
+        "text": "为此，他至少得和古玩商一样博学。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded.",
+      "translation": {
+        "text": "他必须像一心想有所发现的科学家一样，始终抱着终有一天会得到丰厚回报的希望。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "My old friend, Halliday, is just such a person.",
+      "translation": {
+        "text": "我的老朋友哈利迪正是这样的人。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He has often described to me how he picked up a masterpiece for a mere fifty pounds.",
+      "translation": {
+        "text": "他常向我讲述自己如何只花50英镑就买到了一幅杰作。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "One Saturday morning, Frank visited an antique shop in my neighborhood.",
+      "translation": {
+        "text": "一个星期六的上午，弗兰克去了我家附近的一家古玩店。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "As he had never been there before, he found a great deal to interest him.",
+      "translation": {
+        "text": "因为以前从未来过，他发现店里有许多东西令他感兴趣。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The morning passed rapidly, and Frank was about to leave when he noticed a large packing case lying on the floor.",
+      "translation": {
+        "text": "上午很快过去，弗兰克正准备离开时，注意到地板上放着一只大包装箱。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The dealer told him that it had just come in, but that he could not be bothered to open it.",
+      "translation": {
+        "text": "古玩商告诉他，箱子刚运来，但他懒得打开。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Frank begged him to do so, and the dealer reluctantly prized it open.",
+      "translation": {
+        "text": "弗兰克央求他打开，古玩商才不情愿地把箱子撬开。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "The contents were disappointing.",
+      "translation": {
+        "text": "里面的东西令人失望。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken.",
+      "translation": {
+        "text": "除了一把看起来颇有意思的雕花匕首外，箱里全是陶器，而且大多已经破损。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.",
+      "translation": {
+        "text": "弗兰克轻轻地把陶器一件件拿出来，突然发现包装箱底部有一幅袖珍画。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "As its composition and line reminded him of an Italian painting he knew well, he decided to buy it.",
+      "translation": {
+        "text": "画的构图和线条使他想起一幅很熟悉的意大利画作，于是他决定买下它。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Glancing at it briefly, the dealer told him that it was worth fifty pounds.",
+      "translation": {
+        "text": "古玩商匆匆看了一眼，说它值50英镑。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Frank could hardly conceal his excitement, for he knew that he had made a real discovery.",
+      "translation": {
+        "text": "弗兰克几乎掩饰不住自己的兴奋，因为他知道自己确实有了重大发现。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "The tiny painting proved to be an unknown masterpiece by Correggio, and was worth hundreds of thousands of pounds.",
+      "translation": {
+        "text": "这幅小画后来被证实是柯勒乔的一幅不为人知的杰作，价值数十万英镑。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-034-a-happy-discovery-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3189552,
+        "sha256": "b46cad8abc27c8380adbc5be1c87d7e94b1c4e3ebbd4c266c49ff2cd5936e801"
+      },
+      "duration": 190.093,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.28,
+          "end": 8.88
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.2,
+          "end": 12.12
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.76,
+          "end": 19.36
+        },
+        {
+          "segmentId": "s004",
+          "start": 21.24,
+          "end": 33.6
+        },
+        {
+          "segmentId": "s005",
+          "start": 34.5,
+          "end": 40.58
+        },
+        {
+          "segmentId": "s006",
+          "start": 41.56,
+          "end": 53.7
+        },
+        {
+          "segmentId": "s007",
+          "start": 54.7,
+          "end": 57.82
+        },
+        {
+          "segmentId": "s008",
+          "start": 59.36,
+          "end": 68.84
+        },
+        {
+          "segmentId": "s009",
+          "start": 69.62,
+          "end": 74.74
+        },
+        {
+          "segmentId": "s010",
+          "start": 75.64,
+          "end": 84.2
+        },
+        {
+          "segmentId": "s011",
+          "start": 85.18,
+          "end": 89.84
+        },
+        {
+          "segmentId": "s012",
+          "start": 90.86,
+          "end": 96.66
+        },
+        {
+          "segmentId": "s013",
+          "start": 97.46,
+          "end": 102.68
+        },
+        {
+          "segmentId": "s014",
+          "start": 103.88,
+          "end": 109.16
+        },
+        {
+          "segmentId": "s015",
+          "start": 110.16,
+          "end": 118.14
+        },
+        {
+          "segmentId": "s016",
+          "start": 119.22,
+          "end": 124.82
+        },
+        {
+          "segmentId": "s017",
+          "start": 125.98,
+          "end": 131.24
+        },
+        {
+          "segmentId": "s018",
+          "start": 132.22,
+          "end": 133.92
+        },
+        {
+          "segmentId": "s019",
+          "start": 134.9,
+          "end": 141.62
+        },
+        {
+          "segmentId": "s020",
+          "start": 143.12,
+          "end": 151.7
+        },
+        {
+          "segmentId": "s021",
+          "start": 153.1,
+          "end": 160.96
+        },
+        {
+          "segmentId": "s022",
+          "start": 162.44,
+          "end": 167.2
+        },
+        {
+          "segmentId": "s023",
+          "start": 168.34,
+          "end": 174.44
+        },
+        {
+          "segmentId": "s024",
+          "start": 175.42,
+          "end": 183.98
+        }
+      ]
+    }
+  ]
+}

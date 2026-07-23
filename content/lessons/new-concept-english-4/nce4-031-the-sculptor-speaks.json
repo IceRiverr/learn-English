@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-031-the-sculptor-speaks",
+    "kind": "textbook",
+    "title": "Lesson 31: The Sculptor Speaks",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 31.",
+      "translation": {
+        "text": "第31课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Sculptor Speaks.",
+      "translation": {
+        "text": "雕塑家如是说。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What do you have to be able to do to appreciate sculpture?",
+      "translation": {
+        "text": "要欣赏雕塑，必须具备什么能力？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Appreciation of sculpture depends upon the ability to respond to form in three dimensions.",
+      "translation": {
+        "text": "欣赏雕塑取决于感受三维形体的能力。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "That is perhaps why sculpture has been described as the most difficult of all arts.",
+      "translation": {
+        "text": "这也许正是雕塑被称为所有艺术中最难的一种的原因。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions.",
+      "translation": {
+        "text": "它比欣赏平面形态、即只有二维形状的艺术更加困难。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Many more people are form-blind than color-blind.",
+      "translation": {
+        "text": "对形体盲目的人比色盲多得多。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The child learning to see first distinguishes only two-dimensional shape.",
+      "translation": {
+        "text": "儿童学习观看事物时，最初只能辨别二维形状。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It cannot judge distances, depths.",
+      "translation": {
+        "text": "他无法判断距离和深度。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Later, for its personal safety and practical needs, it has to develop, partly by means of touch, the ability to judge roughly three-dimensional distances.",
+      "translation": {
+        "text": "后来，为了自身安全和实际需要，他不得不部分借助触觉，发展出大致判断三维距离的能力。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "But having satisfied the requirements of practical necessity, most people go no further.",
+      "translation": {
+        "text": "但实际需要得到满足后，大多数人便不再进一步发展。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Though they may attain considerable accuracy in the perception of flat form, they do not make the further intellectual and emotional effort needed to comprehend form in its full spatial existence.",
+      "translation": {
+        "text": "尽管他们对平面形状的感知可能相当准确，却不会付出更多智力和情感努力，去理解形体完整的空间存在。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "This is what the sculptor must do.",
+      "translation": {
+        "text": "雕塑家却必须做到这一点。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He must strive continually to think of, and use, in its full spatial completeness.",
+      "translation": {
+        "text": "他必须不断努力，在完整的空间整体中思考和运用形体。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He gets the solid shape, as it were, inside his head.",
+      "translation": {
+        "text": "他仿佛把立体形状装进脑海。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He thinks of it, whatever its size, as if he were holding it completely enclosed in the hollow of his hand.",
+      "translation": {
+        "text": "无论物体多大，他都把它想象成完全握在掌心之中。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "He mentally visualizes a complex form from all round itself.",
+      "translation": {
+        "text": "他在头脑中从四面八方想象一个复杂形体。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "He knows while he looks at one side what the other side is like.",
+      "translation": {
+        "text": "看着一面时，他也知道另一面是什么样子。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "He identifies himself with its center of gravity, its mass, its weight.",
+      "translation": {
+        "text": "他让自己与形体的重心、质量和重量融为一体。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "He realizes its volume, as the space that the shape displaces in the air.",
+      "translation": {
+        "text": "他体会它的体积，也就是形体在空气中占据的空间。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence.",
+      "translation": {
+        "text": "而敏锐的雕塑欣赏者也必须学会把形状仅仅当作形状来感受，而不是把它看成描述或联想。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "He must, for example, perceive an egg as a simple single solid shape, quite apart from its significance as food, or from the literary idea that it will become a bird.",
+      "translation": {
+        "text": "例如，他必须把鸡蛋看成一个简单、单一的实体形状，完全撇开它作为食物的意义，也不去想象它会变成一只鸟。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "And so with solids such as a shell, a nut, a plum, a pear, a tadpole, a mushroom, a mountain peak, a kidney, a carrot, a tree trunk, a bird, a bud,",
+      "translation": {
+        "text": "贝壳、坚果、李子、梨、蝌蚪、蘑菇、山峰、肾脏、胡萝卜、树干、鸟、蓓蕾，"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "a lark, a ladybird, a bulrush, a bone.",
+      "translation": {
+        "text": "云雀、瓢虫、芦苇和骨头等实体也同样如此。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "From these he can go on to appreciate more complex forms or combinations of several forms.",
+      "translation": {
+        "text": "由此，他便能进一步欣赏更复杂的形体或多个形体的组合。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-031-the-sculptor-speaks-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3501637,
+        "sha256": "1506f2e9b561efc60861ff629c409f62f21def6afc222b1a190d4dad6a2417f3"
+      },
+      "duration": 209.554,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 1.8
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.7,
+          "end": 4.62
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.26,
+          "end": 9.52
+        },
+        {
+          "segmentId": "s004",
+          "start": 11,
+          "end": 14.74
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.41,
+          "end": 24.21
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.21,
+          "end": 31.13
+        },
+        {
+          "segmentId": "s007",
+          "start": 32.67,
+          "end": 40.39
+        },
+        {
+          "segmentId": "s008",
+          "start": 41.91,
+          "end": 46.57
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.07,
+          "end": 53.67
+        },
+        {
+          "segmentId": "s010",
+          "start": 54.02,
+          "end": 56.99
+        },
+        {
+          "segmentId": "s011",
+          "start": 57.99,
+          "end": 70.63
+        },
+        {
+          "segmentId": "s012",
+          "start": 71.65,
+          "end": 78.05
+        },
+        {
+          "segmentId": "s013",
+          "start": 78.05,
+          "end": 93.85
+        },
+        {
+          "segmentId": "s014",
+          "start": 94.87,
+          "end": 97.43
+        },
+        {
+          "segmentId": "s015",
+          "start": 97.91,
+          "end": 105.85
+        },
+        {
+          "segmentId": "s016",
+          "start": 105.85,
+          "end": 110.81
+        },
+        {
+          "segmentId": "s017",
+          "start": 111.63,
+          "end": 119.55
+        },
+        {
+          "segmentId": "s018",
+          "start": 120.67,
+          "end": 126.15
+        },
+        {
+          "segmentId": "s019",
+          "start": 127.07,
+          "end": 131.17
+        },
+        {
+          "segmentId": "s020",
+          "start": 131.79,
+          "end": 137.55
+        },
+        {
+          "segmentId": "s021",
+          "start": 138.37,
+          "end": 143.45
+        },
+        {
+          "segmentId": "s022",
+          "start": 144.61,
+          "end": 153.63
+        },
+        {
+          "segmentId": "s023",
+          "start": 154.39,
+          "end": 167.71
+        },
+        {
+          "segmentId": "s024",
+          "start": 168.83,
+          "end": 184.75
+        },
+        {
+          "segmentId": "s025",
+          "start": 185.61,
+          "end": 190.05
+        },
+        {
+          "segmentId": "s026",
+          "start": 191.23,
+          "end": 197.51
+        }
+      ]
+    }
+  ]
+}

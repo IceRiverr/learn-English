@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-029-funny-or-not",
+    "kind": "textbook",
+    "title": "Lesson 29: Funny or Not",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 29.",
+      "translation": {
+        "text": "第29课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Funny or Not.",
+      "translation": {
+        "text": "是否可笑。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is the basis of sick humor?",
+      "translation": {
+        "text": "病态幽默以什么为基础？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+      "translation": {
+        "text": "我们觉得一个笑话好不好笑，很大程度上取决于自己在哪里长大。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The sense of humor is mysteriously bound up with national characteristics.",
+      "translation": {
+        "text": "幽默感与民族特征有着神秘的联系。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "A Frenchman, for instance, might find it hard to laugh at a Russian joke.",
+      "translation": {
+        "text": "例如，一个法国人可能很难被俄罗斯笑话逗笑。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.",
+      "translation": {
+        "text": "同样，一个能让英国人笑出眼泪的笑话，俄罗斯人可能丝毫看不出哪里有趣。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "funny stories are based on comic situations.",
+      "translation": {
+        "text": "许多滑稽故事都以喜剧性情境为基础。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "In spite of national differences, certain funny situations have a universal appeal.",
+      "translation": {
+        "text": "尽管各国存在差异，某些滑稽情境却具有普遍吸引力。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "No matter where you live, would find it difficult not to laugh at, say, Charlie Chaplin's early films.",
+      "translation": {
+        "text": "无论住在哪里，你恐怕都很难不被卓别林的早期电影逗笑。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "a new type of humor, which stems largely from the U.S., has recently come into fashion.",
+      "translation": {
+        "text": "然而，近来一种主要源自美国的新型幽默开始流行。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It is called sick humor.",
+      "translation": {
+        "text": "它被称为“病态幽默”。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Comedians base their jokes on tragic situations, like violent death or serious accidents.",
+      "translation": {
+        "text": "喜剧演员以惨烈死亡或严重事故等悲剧情境作为笑料。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Many people find this sort of joke distasteful.",
+      "translation": {
+        "text": "许多人觉得这种笑话令人反感。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The following example of sick humor will enable you to judge for yourself.",
+      "translation": {
+        "text": "下面这个病态幽默的例子可以让你自行判断。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "man who had broken his right leg was taken to hospital a few weeks before Christmas.",
+      "translation": {
+        "text": "圣诞节前几个星期，一名摔断右腿的男子被送进医院。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.",
+      "translation": {
+        "text": "从到达医院那一刻起，他便不断纠缠医生，问自己何时才能回家。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "He dreaded having to spend Christmas in hospital.",
+      "translation": {
+        "text": "他害怕不得不在医院度过圣诞节。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Though the doctor did his best, the patient's recovery was slow.",
+      "translation": {
+        "text": "尽管医生竭尽全力，病人恢复得仍很缓慢。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "On Christmas Day, the man still had his right leg in plaster.",
+      "translation": {
+        "text": "圣诞节当天，他的右腿还打着石膏。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "He spent a miserable day in bed, thinking of all the fun he was missing.",
+      "translation": {
+        "text": "他郁郁寡欢地在床上度过一天，想着自己错过的种种欢乐。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year's celebrations were good.",
+      "translation": {
+        "text": "不过第二天，医生安慰他说，他很有希望及时出院参加新年庆祝活动。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "The man took heart, and sure enough, on New Year's Eve, he was able to hobble along to a party.",
+      "translation": {
+        "text": "男子重新振作起来；果然，除夕夜他已经能一瘸一拐地去参加聚会。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.",
+      "translation": {
+        "text": "为了补偿在医院里的不愉快经历，他喝得比适量多了一些。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.",
+      "translation": {
+        "text": "期间他玩得非常尽兴，还不停地告诉每个人自己多么讨厌医院。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.",
+      "translation": {
+        "text": "聚会结束时，他还在嘟囔着有关医院的话，结果踩到一块冰滑倒，摔断了左腿。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-029-funny-or-not-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3056628,
+        "sha256": "f9d8c71fe18eb72daacf146d66c720e9b376c6173180c2ce3425b36fc86c3fe1"
+      },
+      "duration": 181.786,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.05,
+          "end": 1.61
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.45,
+          "end": 3.29
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.93,
+          "end": 8.15
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.49,
+          "end": 12.07
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.62,
+          "end": 20.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 21.26,
+          "end": 26.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.28,
+          "end": 32.38
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.06,
+          "end": 41.54
+        },
+        {
+          "segmentId": "s009",
+          "start": 43.48,
+          "end": 47.14
+        },
+        {
+          "segmentId": "s010",
+          "start": 48.02,
+          "end": 53.72
+        },
+        {
+          "segmentId": "s011",
+          "start": 54.34,
+          "end": 62.4
+        },
+        {
+          "segmentId": "s012",
+          "start": 64.26,
+          "end": 70.76
+        },
+        {
+          "segmentId": "s013",
+          "start": 71.62,
+          "end": 73.48
+        },
+        {
+          "segmentId": "s014",
+          "start": 74.7,
+          "end": 81.74
+        },
+        {
+          "segmentId": "s015",
+          "start": 81.74,
+          "end": 86.48
+        },
+        {
+          "segmentId": "s016",
+          "start": 87.4,
+          "end": 92.4
+        },
+        {
+          "segmentId": "s017",
+          "start": 94.02,
+          "end": 99.64
+        },
+        {
+          "segmentId": "s018",
+          "start": 100.64,
+          "end": 108.04
+        },
+        {
+          "segmentId": "s019",
+          "start": 108.04,
+          "end": 111.88
+        },
+        {
+          "segmentId": "s020",
+          "start": 112.78,
+          "end": 117.02
+        },
+        {
+          "segmentId": "s021",
+          "start": 118.02,
+          "end": 122.38
+        },
+        {
+          "segmentId": "s022",
+          "start": 123.64,
+          "end": 128.44
+        },
+        {
+          "segmentId": "s023",
+          "start": 129.42,
+          "end": 140.54
+        },
+        {
+          "segmentId": "s024",
+          "start": 141.6,
+          "end": 148.68
+        },
+        {
+          "segmentId": "s025",
+          "start": 149.64,
+          "end": 157.36
+        },
+        {
+          "segmentId": "s026",
+          "start": 157.36,
+          "end": 165.86
+        },
+        {
+          "segmentId": "s027",
+          "start": 167.14,
+          "end": 176.64
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-043-are-there-strangers-in-space",
+    "kind": "textbook",
+    "title": "Lesson 43: Are There Strangers in Space",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First, listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What does the uniquely rational way for us to communicate with other intelligent beings in space depend on?",
+      "translation": {
+        "text": "我们与太空中其他智慧生命交流的唯一合理方式取决于什么？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "We must conclude from the work of those who have studied the origin of life that given a planet only approximately like our own, life is almost certain to start.",
+      "translation": {
+        "text": "研究生命起源者的工作使我们必须得出结论：只要有一颗与地球大致相似的行星，生命几乎必然会出现。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Of all the planets in our own solar system, we are now pretty certain the Earth is the only one on which life can survive.",
+      "translation": {
+        "text": "在太阳系所有行星中，我们如今相当确信，地球是唯一能让生命生存的行星。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Mars is too dry and poor in oxygen, far too hot, and so is Mercury, and the outer planets have temperatures near absolute zero and hydrogen-dominated atmospheres.",
+      "translation": {
+        "text": "火星太干燥且缺氧，金星太热，水星也是如此；外行星温度接近绝对零度，大气则以氢为主。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "But other suns, as the astronomers call them, are bound to have planets like our own, and as the number of stars in the universe is so vast, this possibility becomes virtual certainty.",
+      "translation": {
+        "text": "但天文学家所说的其他太阳必然也有类似地球的行星；宇宙中恒星如此众多，使这种可能性实际上成为必然。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "There are 100,000 million stars in our own Milky Way alone, and then there are 3,000 million other Milky Ways, or galaxies, in the universe.",
+      "translation": {
+        "text": "仅银河系就有1,000亿颗恒星，宇宙中另有30亿个其他银河系或星系。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "So the number of stars that we know exist is now estimated at about 300 million, million, million.",
+      "translation": {
+        "text": "因此据估计，我们已知存在的恒星约有三亿万亿颗。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Although perhaps only 1% of the life that has started somewhere will develop into highly complex and intelligent patterns, so vast is the number of planets, that intelligent life is bound to be a natural part",
+      "translation": {
+        "text": "即使某处开始的生命中只有1%会发展成高度复杂而有智慧的形态，行星数量如此庞大，智慧生命也必然是宇宙的自然组成"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "of the universe.",
+      "translation": {
+        "text": "部分。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "If then we are so certain that other intelligent life exists in the universe, why have we had no visitors from outer space yet?",
+      "translation": {
+        "text": "既然我们如此确信宇宙中有其他智慧生命，为什么至今没有外星访客？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "First of all, they may have come to this planet of ours thousands or millions of years ago, and found our then prevailing primitive state completely uninteresting to their own advanced knowledge.",
+      "translation": {
+        "text": "首先，他们也许几千年或几百万年前来过地球，发现我们当时盛行的原始状态对其先进知识毫无吸引力。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Ronald Bracewell, a leading American radio astronomer, argued in Nature that such a superior civilization, on a visit to our own solar system, may have left an automatic messenger",
+      "translation": {
+        "text": "美国著名射电天文学家罗纳德·布雷斯韦尔在《自然》杂志中提出，这种高级文明造访太阳系时，也许留下了一个自动信使，"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "behind to await the possible awakening of an advanced civilization.",
+      "translation": {
+        "text": "等待先进文明可能觉醒。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Such a messenger, receiving our radio and television signals, might well retransmit them back to its home planet, although what impression any other civilization would thus get from us is best left unsaid.",
+      "translation": {
+        "text": "这样的信使接收到我们的广播电视信号后，很可能把它们转发回母星；至于其他文明由此会对我们产生什么印象，还是不说为妙。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "But here we come up against the most difficult of all obstacles to contact with people on other planets, the astronomical distances which separate us.",
+      "translation": {
+        "text": "但此处我们遇到了与其他行星居民接触最困难的障碍：分隔我们的天文距离。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "As a reasonable guess, they might, on an average, be 100 light years away.",
+      "translation": {
+        "text": "合理估计，他们平均可能距离我们100光年。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "A light year is the distance which light travels at 186,000 miles per second in one year, namely 6 million million miles.",
+      "translation": {
+        "text": "一光年是光以每秒18.6万英里行进一年所走的距离，即6万亿英里。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Radio waves also travel at the speed of light, and assuming such an automatic messenger picked up our first broadcasts of the 1920s, the message to its home planet is barely halfway there.",
+      "translation": {
+        "text": "无线电波也以光速传播；假设一个自动信使接收到20世纪20年代最初的广播，发往母星的信息如今还不到半程。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Similarly, our own present primitive chemical rockets, though good enough to orbit men, have no chance of transporting us to the other star four light years away, let alone",
+      "translation": {
+        "text": "同样，我们现有的原始化学火箭虽足以把人送入轨道，却不可能把我们送到4光年外的另一颗恒星，更不用说"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "distances of tens or hundreds of light years.",
+      "translation": {
+        "text": "几十或几百光年的距离。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Fortunately, there is a uniquely rational way for us to communicate with other intelligent beings, as Walter Sullivan has put it in his excellent book, We Are Not Alone.",
+      "translation": {
+        "text": "幸运的是，正如沃尔特·沙利文在优秀著作《我们并不孤独》中所说，我们有一种独一无二的合理方式同其他智慧生命交流。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "This depends on the precise radio frequency of the 21-centimeter wavelength, or 1,420 megacycles per second.",
+      "translation": {
+        "text": "它取决于21厘米波长、即每秒1,420兆周的精确无线电频率。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "It is the natural frequency of emission of the hydrogen atoms in space and was discovered by us in 1951.",
+      "translation": {
+        "text": "这是太空中氢原子的自然发射频率，由我们在1951年发现。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "It must be known to any kind of radio astronomer in the universe.",
+      "translation": {
+        "text": "宇宙中任何射电天文学家都必然知道它。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Once the existence of this wavelength had been discovered, it was not long before its use as the uniquely recognizable broadcasting frequency for interstellar communication was suggested.",
+      "translation": {
+        "text": "这种波长一经发现，不久便有人建议把它用作星际通信中唯一易于识别的广播频率。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Without something of this kind, searching for intelligences on other planets would be like trying to meet a friend in London without a pre-arranged rendezvous and absurdly wandering the streets in the hope of a chance encounter.",
+      "translation": {
+        "text": "没有这样的东西，寻找其他行星上的智慧生命，就像没同朋友约好地点便试图在伦敦见面，荒唐地在街头游荡，盼望偶遇。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-043-are-there-strangers-in-space-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 5594379,
+        "sha256": "fe954e3f0e71004804f1dfbee85d4881284f9af834295525a6956353abcc4c34"
+      },
+      "duration": 340.349,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.27,
+          "end": 9.63
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.49,
+          "end": 20.65
+        },
+        {
+          "segmentId": "s003",
+          "start": 22.81,
+          "end": 34.89
+        },
+        {
+          "segmentId": "s004",
+          "start": 36.15,
+          "end": 45.05
+        },
+        {
+          "segmentId": "s005",
+          "start": 46.61,
+          "end": 61.07
+        },
+        {
+          "segmentId": "s006",
+          "start": 62.11,
+          "end": 77.53
+        },
+        {
+          "segmentId": "s007",
+          "start": 78.19,
+          "end": 91.21
+        },
+        {
+          "segmentId": "s008",
+          "start": 92.51,
+          "end": 101.13
+        },
+        {
+          "segmentId": "s009",
+          "start": 102.85,
+          "end": 118.63
+        },
+        {
+          "segmentId": "s010",
+          "start": 118.63,
+          "end": 119.37
+        },
+        {
+          "segmentId": "s011",
+          "start": 120.69,
+          "end": 129.91
+        },
+        {
+          "segmentId": "s012",
+          "start": 130.81,
+          "end": 145.03
+        },
+        {
+          "segmentId": "s013",
+          "start": 146.91,
+          "end": 162.47
+        },
+        {
+          "segmentId": "s014",
+          "start": 162.47,
+          "end": 167.05
+        },
+        {
+          "segmentId": "s015",
+          "start": 168.45,
+          "end": 184.43
+        },
+        {
+          "segmentId": "s016",
+          "start": 186.37,
+          "end": 197.55
+        },
+        {
+          "segmentId": "s017",
+          "start": 198.45,
+          "end": 205.31
+        },
+        {
+          "segmentId": "s018",
+          "start": 206.33,
+          "end": 217.51
+        },
+        {
+          "segmentId": "s019",
+          "start": 218.41,
+          "end": 232.32
+        },
+        {
+          "segmentId": "s020",
+          "start": 233.56,
+          "end": 248.98
+        },
+        {
+          "segmentId": "s021",
+          "start": 248.98,
+          "end": 252.46
+        },
+        {
+          "segmentId": "s022",
+          "start": 253.62,
+          "end": 267.74
+        },
+        {
+          "segmentId": "s023",
+          "start": 268.42,
+          "end": 280.42
+        },
+        {
+          "segmentId": "s024",
+          "start": 281.36,
+          "end": 289.4
+        },
+        {
+          "segmentId": "s025",
+          "start": 290.4,
+          "end": 294.14
+        },
+        {
+          "segmentId": "s026",
+          "start": 295.78,
+          "end": 308.52
+        },
+        {
+          "segmentId": "s027",
+          "start": 309.36,
+          "end": 323.92
+        }
+      ]
+    }
+  ]
+}

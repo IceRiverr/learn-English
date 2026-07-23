@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-054-sticky-fingers",
+    "kind": "textbook",
+    "title": "Lesson 54: Sticky Fingers",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What two interruptions did the writer have?",
+      "translation": {
+        "text": "作者两次被什么事情打断？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "After breakfast, I sent the children to school, and then I went to the shops.",
+      "translation": {
+        "text": "早饭后，我送孩子们上学，然后去商店买东西。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "It was still early when I returned home.",
+      "translation": {
+        "text": "我回到家时还很早。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The children were at school, my husband was at work, and the house was quiet.",
+      "translation": {
+        "text": "孩子们在学校，丈夫在上班，屋里静悄悄的。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "So I decided to make some meat pies.",
+      "translation": {
+        "text": "于是我决定做些肉馅饼。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "In a short time, I was busy mixing butter and flour, and my hands were soon covered with sticky pastry.",
+      "translation": {
+        "text": "不一会儿，我就忙着搅拌黄油和面粉，双手很快沾满了黏糊糊的面团。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "At exactly that moment, the telephone rang.",
+      "translation": {
+        "text": "恰好就在这时，电话响了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Nothing could have been more annoying.",
+      "translation": {
+        "text": "没有比这更烦人的事了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "translation": {
+        "text": "我用两根黏糊糊的手指夹起听筒，认出是海伦·贝茨的声音时感到很沮丧。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "It took me ten minutes to persuade her to ring back later.",
+      "translation": {
+        "text": "我花了十分钟才说服她晚些时候再打来。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "At last, I hung up the receiver.",
+      "translation": {
+        "text": "最后，我挂上了电话。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "What a mess!",
+      "translation": {
+        "text": "真是一团糟！"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "There was pastry on my fingers, on the telephone, and on the doorknobs.",
+      "translation": {
+        "text": "我的手指、电话和门把手上全是面团。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "translation": {
+        "text": "我刚回到厨房，门铃就大声响了起来，足以把死人吵醒。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "This time it was the postman, and he wanted me to sign for a registered letter.",
+      "translation": {
+        "text": "这次是邮递员，他要我签收一封挂号信。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-054-sticky-fingers-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1870049,
+        "sha256": "f2b130d802eae50399745ee6e9d796fe5e95bcd246635cceb40ceaa6d53af340"
+      },
+      "duration": 107.572,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.03,
+          "end": 8.91
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.71,
+          "end": 13.71
+        },
+        {
+          "segmentId": "s003",
+          "start": 15.92,
+          "end": 21.78
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.94,
+          "end": 25.92
+        },
+        {
+          "segmentId": "s005",
+          "start": 26.92,
+          "end": 32.76
+        },
+        {
+          "segmentId": "s006",
+          "start": 33.96,
+          "end": 37.04
+        },
+        {
+          "segmentId": "s007",
+          "start": 38.22,
+          "end": 46.64
+        },
+        {
+          "segmentId": "s008",
+          "start": 47.64,
+          "end": 51.82
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.3,
+          "end": 55.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 56.72,
+          "end": 65.8
+        },
+        {
+          "segmentId": "s011",
+          "start": 67.36,
+          "end": 72.36
+        },
+        {
+          "segmentId": "s012",
+          "start": 73.58,
+          "end": 76.02
+        },
+        {
+          "segmentId": "s013",
+          "start": 77.16,
+          "end": 78.6
+        },
+        {
+          "segmentId": "s014",
+          "start": 79.68,
+          "end": 85.62
+        },
+        {
+          "segmentId": "s015",
+          "start": 86.58,
+          "end": 94.48
+        },
+        {
+          "segmentId": "s016",
+          "start": 95.44,
+          "end": 101.62
+        }
+      ]
+    }
+  ]
+}

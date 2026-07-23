@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-047-too-high-a-price",
+    "kind": "textbook",
+    "title": "Lesson 47: Too High a Price",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 47.",
+      "translation": {
+        "text": "第47课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Too High a Price?",
+      "translation": {
+        "text": "代价是否太高？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What does the writer describe as an amusing, old-fashioned source of noise?",
+      "translation": {
+        "text": "作者把什么描述为一种有趣而老式的噪声来源？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Pollution is the price we pay for an overpopulated, over-industrialized planet.",
+      "translation": {
+        "text": "污染是我们为人口过剩、工业过度发展的地球付出的代价。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "When you come to think about it, there are only four ways you can deal with rubbish.",
+      "translation": {
+        "text": "仔细想想，处理垃圾只有四种办法。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Dump it, burn it, turn it into something you can use again, attempt to produce less of it.",
+      "translation": {
+        "text": "倾倒、焚烧、回收再利用，或者设法少制造一些。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "We keep trying all four methods, but the sheer volume of rubbish we produce worldwide threatens to overwhelm us.",
+      "translation": {
+        "text": "我们不断尝试这四种办法，但全球产生的垃圾数量之大，眼看就要把我们淹没。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Rubbish, however, is only part of the problem of polluting our planet.",
+      "translation": {
+        "text": "然而，垃圾只是污染地球这一问题的一部分。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The need to produce ever-increasing quantities of cheap food leads to a different kind of pollution.",
+      "translation": {
+        "text": "为了生产数量不断增加的廉价食品，又导致了另一种污染。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Industrialized farming methods produce cheap meat products—beef, pork, and chicken.",
+      "translation": {
+        "text": "工业化养殖方式生产出廉价肉类——牛肉、猪肉和鸡肉。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "The use of pesticides and fertilizers produces cheap grain and vegetables.",
+      "translation": {
+        "text": "农药和化肥的使用生产出廉价谷物和蔬菜。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The price we pay for cheap food may be already too high.",
+      "translation": {
+        "text": "我们为廉价食品付出的代价或许已经太高。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Mad cow disease, BSE in cattle, salmonella in chicken and eggs, and listeria in dairy products.",
+      "translation": {
+        "text": "疯牛病，即牛海绵状脑病；鸡肉和鸡蛋中的沙门氏菌；乳制品中的李斯特菌。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "And if you think you'll abandon meat and become a vegetarian, you have the choice of very expensive, organically grown vegetables, or a steady diet of pesticides every time you think you're eating fresh salads and vegetables,",
+      "translation": {
+        "text": "如果你想放弃肉食成为素食者，可以选择价格极高的有机蔬菜，或者每次以为自己在吃新鲜沙拉和蔬菜时，都持续摄入农药，"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "or just having an innocent glass of water.",
+      "translation": {
+        "text": "甚至只是喝一杯看似无害的水也不例外。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "However, there is an even more insidious kind of pollution that particularly affects urban areas and invades our daily lives, and that is noise.",
+      "translation": {
+        "text": "然而，还有一种更加隐蔽的污染，尤其影响城市地区并侵入我们的日常生活，那就是噪声。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Burglar alarms going off at any time of the day or night serve only to annoy passers-by and actually assist burglars to burgle.",
+      "translation": {
+        "text": "防盗警报不分昼夜地响，只会惹恼路人，实际上反倒帮助窃贼行窃。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "alarms constantly scream at us in the street and are a source of profound irritation.",
+      "translation": {
+        "text": "汽车警报器不断在街上冲我们尖叫，成为令人极度烦躁的根源。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "A recent survey of the effects of noise revealed, surprisingly, that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from one to seven.",
+      "translation": {
+        "text": "最近一项关于噪声影响的调查令人意外地发现，在一至七级的量表上，狗在夜间不停吠叫被列为最严重的噪声污染。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The survey revealed a large number of sources of noise that we really dislike.",
+      "translation": {
+        "text": "调查揭示了许多我们实在厌恶的噪声来源。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Lawnmowers whining on a summer's day, late-night parties in apartment blocks, noisy neighbors, vehicles of all kinds, especially large container trucks thundering through quiet villages, planes and helicopters flying",
+      "translation": {
+        "text": "夏日里割草机的嗡鸣、公寓楼里的深夜聚会、吵闹的邻居、各种车辆，尤其是轰隆隆穿过安静村庄的大型集装箱卡车，以及从头顶飞过的飞机和直升机，"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "overhead, large radios carried round in public places and played at maximum volume.",
+      "translation": {
+        "text": "还有人们带到公共场所并把音量开到最大的收音机。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "New technology has also made its own contribution to noise.",
+      "translation": {
+        "text": "新技术也为噪声作出了自己的“贡献”。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "A lot of people object to mobile phones, especially when they are used in public places like restaurants or on public transport.",
+      "translation": {
+        "text": "许多人反感手机，尤其反感人们在餐馆、公共交通等公共场所使用手机。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Loud conversations on mobile phones invade our thoughts or interrupt the pleasure of meeting friends for a quiet chat.",
+      "translation": {
+        "text": "在手机上大声交谈会侵扰我们的思绪，或打断我们同朋友安静聊天的乐趣。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "noise pollution survey revealed a rather surprising and possibly amusing old-fashioned source of noise.",
+      "translation": {
+        "text": "噪声污染调查还揭示了一种颇出人意料、或许有些好笑的老式噪声来源。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "It turned out to be snoring.",
+      "translation": {
+        "text": "原来是打鼾。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "Men were found to be the worst offenders.",
+      "translation": {
+        "text": "调查发现，男人是最严重的制造者。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "It was revealed that twenty percent of men in their mid-thirties snore.",
+      "translation": {
+        "text": "调查显示，三十五岁左右的男性中有20%打鼾。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "This figure rises to a staggering sixty percent of men in their sixties.",
+      "translation": {
+        "text": "到六十多岁时，这个数字上升到惊人的60%。"
+      }
+    },
+    {
+      "id": "s032",
+      "text": "Against these figures, it was found that only five percent of women snore regularly, while the rest are constantly woken or kept awake by their trumpeting partners.",
+      "translation": {
+        "text": "与这些数字相比，只有5%的女性经常打鼾，其余女性则不断被她们鼾声如号角的伴侣吵醒或弄得无法入睡。"
+      }
+    },
+    {
+      "id": "s033",
+      "text": "Whatever the source of noise, one thing is certain.",
+      "translation": {
+        "text": "无论噪声来自哪里，有一点是肯定的。"
+      }
+    },
+    {
+      "id": "s034",
+      "text": "Silence, it seems, has become a golden memory.",
+      "translation": {
+        "text": "看来，寂静已经成了珍贵的回忆。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-047-too-high-a-price-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4397036,
+        "sha256": "e655ea3959f50a5efae52e2af41bf251655a8572f5782dc0944b3c70dbc0c270"
+      },
+      "duration": 265.561,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0,
+          "end": 1.58
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.36,
+          "end": 3.64
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.66,
+          "end": 8
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.18,
+          "end": 15.42
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.77,
+          "end": 24.47
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.09,
+          "end": 30.13
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.85,
+          "end": 36.99
+        },
+        {
+          "segmentId": "s008",
+          "start": 37.85,
+          "end": 46.61
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.31,
+          "end": 52.27
+        },
+        {
+          "segmentId": "s010",
+          "start": 53.27,
+          "end": 60.21
+        },
+        {
+          "segmentId": "s011",
+          "start": 61.35,
+          "end": 67.17
+        },
+        {
+          "segmentId": "s012",
+          "start": 68.27,
+          "end": 73.27
+        },
+        {
+          "segmentId": "s013",
+          "start": 74.43,
+          "end": 78.61
+        },
+        {
+          "segmentId": "s014",
+          "start": 79.61,
+          "end": 88.57
+        },
+        {
+          "segmentId": "s015",
+          "start": 89.75,
+          "end": 105.01
+        },
+        {
+          "segmentId": "s016",
+          "start": 105.37,
+          "end": 108.63
+        },
+        {
+          "segmentId": "s017",
+          "start": 109.63,
+          "end": 121.49
+        },
+        {
+          "segmentId": "s018",
+          "start": 122.49,
+          "end": 132.53
+        },
+        {
+          "segmentId": "s019",
+          "start": 133.41,
+          "end": 139.07
+        },
+        {
+          "segmentId": "s020",
+          "start": 139.99,
+          "end": 154.43
+        },
+        {
+          "segmentId": "s021",
+          "start": 155.35,
+          "end": 160.55
+        },
+        {
+          "segmentId": "s022",
+          "start": 162.17,
+          "end": 178.11
+        },
+        {
+          "segmentId": "s023",
+          "start": 178.11,
+          "end": 185.35
+        },
+        {
+          "segmentId": "s024",
+          "start": 186.19,
+          "end": 190.47
+        },
+        {
+          "segmentId": "s025",
+          "start": 191.51,
+          "end": 200.19
+        },
+        {
+          "segmentId": "s026",
+          "start": 201.27,
+          "end": 210.03
+        },
+        {
+          "segmentId": "s027",
+          "start": 211.39,
+          "end": 218.87
+        },
+        {
+          "segmentId": "s028",
+          "start": 219.69,
+          "end": 222.17
+        },
+        {
+          "segmentId": "s029",
+          "start": 222.17,
+          "end": 225.33
+        },
+        {
+          "segmentId": "s030",
+          "start": 226.27,
+          "end": 231.15
+        },
+        {
+          "segmentId": "s031",
+          "start": 231.99,
+          "end": 237.33
+        },
+        {
+          "segmentId": "s032",
+          "start": 238.31,
+          "end": 250.15
+        },
+        {
+          "segmentId": "s033",
+          "start": 250.15,
+          "end": 254.91
+        },
+        {
+          "segmentId": "s034",
+          "start": 256.27,
+          "end": 260.19
+        }
+      ]
+    }
+  ]
+}

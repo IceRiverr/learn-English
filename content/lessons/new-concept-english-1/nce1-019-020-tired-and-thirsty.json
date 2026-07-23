@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-019-020-tired-and-thirsty",
+    "kind": "textbook",
+    "title": "Lesson 19: Tired and thirsty",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 19–Tired and Thirsty.",
+      "translation": {
+        "text": "第19课——又累又渴。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Why do the children thank their mother?",
+      "translation": {
+        "text": "孩子们为什么感谢他们的母亲？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What's the matter, children?",
+      "translation": {
+        "text": "孩子们，怎么了？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "We're tired.",
+      "translation": {
+        "text": "我们累了。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "And thirsty, Mom.",
+      "translation": {
+        "text": "还渴了，妈妈。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Sit down here.",
+      "translation": {
+        "text": "坐在这里吧。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Are you all right now?",
+      "translation": {
+        "text": "你们现在好些了吗？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "No, we aren't.",
+      "translation": {
+        "text": "不，还没有。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "there's an ice cream man.",
+      "translation": {
+        "text": "那里有个卖冰淇淋的人。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Two ice creams, please.",
+      "translation": {
+        "text": "请来两份冰淇淋。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Here you are, children.",
+      "translation": {
+        "text": "给你们，孩子们。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Thanks, Mom.",
+      "translation": {
+        "text": "谢谢，妈妈。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "These ice creams are nice.",
+      "translation": {
+        "text": "这些冰淇淋真好吃。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Are you all right now?",
+      "translation": {
+        "text": "你们现在好些了吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Yes, we are.",
+      "translation": {
+        "text": "是的，好了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-019-020-tired-and-thirsty-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1127506,
+        "sha256": "cab046451eefc5bb37325a4383684b803942c4990aaa55d31d9e62cd976773ce"
+      },
+      "duration": 62.38,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.3,
+          "end": 5.16
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.36,
+          "end": 10.7
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.26,
+          "end": 15.4
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.86,
+          "end": 19.5
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.5,
+          "end": 22.12
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.66,
+          "end": 24.34
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.2,
+          "end": 26.62
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.64,
+          "end": 29.54
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.54,
+          "end": 31.94
+        },
+        {
+          "segmentId": "s010",
+          "start": 33.66,
+          "end": 35.78
+        },
+        {
+          "segmentId": "s011",
+          "start": 36.92,
+          "end": 39.04
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.68,
+          "end": 42.18
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.64,
+          "end": 44.86
+        },
+        {
+          "segmentId": "s014",
+          "start": 46.04,
+          "end": 48.5
+        },
+        {
+          "segmentId": "s015",
+          "start": 49.78,
+          "end": 51.6
+        },
+        {
+          "segmentId": "s016",
+          "start": 52.84,
+          "end": 54.78
+        },
+        {
+          "segmentId": "s017",
+          "start": 55.32,
+          "end": 56.18
+        }
+      ]
+    }
+  ]
+}

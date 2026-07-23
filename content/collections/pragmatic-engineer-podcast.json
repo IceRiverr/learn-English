@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "pragmatic-engineer-podcast",
+  "kind": "podcast",
+  "title": "The Pragmatic Engineer",
+  "lessons": [
+    {
+      "id": "context-engineering-with-dex-horthy",
+      "kind": "podcast",
+      "title": "Context engineering with Dex Horthy",
+      "duration": 5543.78,
+      "byteLength": 94387181,
+      "availableLanguages": [
+        "en",
+        "zh-Hans"
+      ],
+      "documentKey": "lessons/pragmatic-engineer-podcast/context-engineering-with-dex-horthy.json"
+    }
+  ]
+}

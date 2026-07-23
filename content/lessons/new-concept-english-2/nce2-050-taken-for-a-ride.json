@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-050-taken-for-a-ride",
+    "kind": "textbook",
+    "title": "Lesson 50: Taken for a Ride",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Why did the rider not get off the bus at Woodford Green?",
+      "translation": {
+        "text": "乘客为什么没有在伍德福德绿地站下车？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "I love traveling in the country, but I don't like losing my way.",
+      "translation": {
+        "text": "我喜欢在乡间旅行，但不喜欢迷路。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "translation": {
+        "text": "最近我去远足了一次，但旅途花的时间比预计的更长。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I'm going to Woodford Green, I said to the conductor as I got on the bus, but I don't know where it is.",
+      "translation": {
+        "text": "“我要去伍德福德绿地，”上车时我对售票员说，“但我不知道它在哪里。”"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I'll tell you where to get off, answered the conductor.",
+      "translation": {
+        "text": "“我会告诉你在哪里下车，”售票员回答。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I sat in the front of the bus to get a good view of the countryside.",
+      "translation": {
+        "text": "我坐在公共汽车前部，以便好好欣赏乡间景色。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "After some time, the bus stopped.",
+      "translation": {
+        "text": "过了一段时间，公共汽车停了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "translation": {
+        "text": "我环顾四周，吃惊地发现自己是车上仅剩的一名乘客。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "You'll have to get off here, the conductor said.",
+      "translation": {
+        "text": "“你得在这里下车，”售票员说，"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "This is as far as we go.",
+      "translation": {
+        "text": "“我们的车就到这里为止。”"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Is this Woodford Green?",
+      "translation": {
+        "text": "“这里是伍德福德绿地吗？”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I asked.",
+      "translation": {
+        "text": "我问。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Oh dear, said the conductor suddenly.",
+      "translation": {
+        "text": "“哎呀，”售票员突然说，"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I forgot to put you off.",
+      "translation": {
+        "text": "“我忘了让你下车。”"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It doesn't matter, I said.",
+      "translation": {
+        "text": "“没关系，”我说，"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'll get off here.",
+      "translation": {
+        "text": "“我就在这里下吧。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "We're going back now, said the conductor.",
+      "translation": {
+        "text": "“我们现在要往回开了，”售票员说。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Well, in that case, I prefer to stay on the bus, I answered.",
+      "translation": {
+        "text": "“既然这样，我还是留在车上吧，”我回答。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-050-taken-for-a-ride-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1817809,
+        "sha256": "4ee68bcf5956e31c6d1c62db885e7d733438f6cb267f6d30f186726244c3fa4c"
+      },
+      "duration": 104.307,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.68,
+          "end": 8.26
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.74,
+          "end": 13.98
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.12,
+          "end": 21.24
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.54,
+          "end": 28.54
+        },
+        {
+          "segmentId": "s005",
+          "start": 29.8,
+          "end": 39.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 40.42,
+          "end": 44.58
+        },
+        {
+          "segmentId": "s007",
+          "start": 45.78,
+          "end": 50.76
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.08,
+          "end": 54.72
+        },
+        {
+          "segmentId": "s009",
+          "start": 55.54,
+          "end": 62.92
+        },
+        {
+          "segmentId": "s010",
+          "start": 64.14,
+          "end": 68.12
+        },
+        {
+          "segmentId": "s011",
+          "start": 69.02,
+          "end": 71.08
+        },
+        {
+          "segmentId": "s012",
+          "start": 72.3,
+          "end": 73.9
+        },
+        {
+          "segmentId": "s013",
+          "start": 74.46,
+          "end": 75.04
+        },
+        {
+          "segmentId": "s014",
+          "start": 76.08,
+          "end": 79.1
+        },
+        {
+          "segmentId": "s015",
+          "start": 80.2,
+          "end": 82.02
+        },
+        {
+          "segmentId": "s016",
+          "start": 82.9,
+          "end": 85.36
+        },
+        {
+          "segmentId": "s017",
+          "start": 86.34,
+          "end": 87.46
+        },
+        {
+          "segmentId": "s018",
+          "start": 88.44,
+          "end": 91.62
+        },
+        {
+          "segmentId": "s019",
+          "start": 92.84,
+          "end": 98.22
+        }
+      ]
+    }
+  ]
+}

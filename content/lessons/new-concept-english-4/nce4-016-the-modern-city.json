@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-016-the-modern-city",
+    "kind": "textbook",
+    "title": "Lesson 16: The Modern City",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 16.",
+      "translation": {
+        "text": "第16课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "The Modern City.",
+      "translation": {
+        "text": "现代城市。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is the author's main argument about the modern city?",
+      "translation": {
+        "text": "作者关于现代城市的主要论点是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "In the organization of industrial life, the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
+      "translation": {
+        "text": "在工业生活的组织中，工厂对工人生理和心理状态的影响被完全忽视了。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Modern industry is based on the conception of the maximum production at lowest cost, in order that an individual or a group of individuals may earn as much money as possible.",
+      "translation": {
+        "text": "现代工业建立在以最低成本取得最大产量这一观念上，目的是让个人或一群人尽可能多地赚钱。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It has expanded without any idea of the true nature of the human beings who run the machines, and without giving any consideration to the effects produced on the individuals and on their descendants by the artificial mode of existence",
+      "translation": {
+        "text": "工业扩张时，既不了解操纵机器的人类的真实本性，也不考虑工厂强加的人为生活方式对个人及其后代造成的"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "imposed by the factory.",
+      "translation": {
+        "text": "影响。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The great cities have been built with no regard for us.",
+      "translation": {
+        "text": "大城市在建设时根本没有考虑我们。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income per square foot of ground, and of offering to the tenants offices and apartments that please them.",
+      "translation": {
+        "text": "摩天大楼的形状和尺寸完全取决于两种需要：让每平方英尺土地获得最大收益，并向租户提供令他们满意的办公室和公寓。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "caused the construction of gigantic buildings, where two large masses of human beings are crowded together.",
+      "translation": {
+        "text": "这导致巨型建筑拔地而起，数量过多的人挤在其中。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Civilized men like such a way of living.",
+      "translation": {
+        "text": "文明人喜欢这样的生活方式。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.",
+      "translation": {
+        "text": "他们享受住宅的舒适和庸俗奢华，却没有意识到自己被剥夺了生活必需的东西。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The modern city consists of monstrous edifices and of dark narrow streets full of petrol fumes and toxic gases, torn by the noise of the taxi cabs, lorries, and buses, and thronged",
+      "translation": {
+        "text": "现代城市由怪物般的建筑和昏暗狭窄的街道构成；街上充满汽油烟雾和有毒气体，出租车、卡车和公共汽车的噪声震耳欲聋，巨大的人群"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "ceaselessly by great crowds.",
+      "translation": {
+        "text": "川流不息。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Obviously, it has not been planned for the good of its inhabitants.",
+      "translation": {
+        "text": "显然，现代城市并不是为居民的福祉而规划的。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-016-the-modern-city-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2221002,
+        "sha256": "fbe6ffc89d83fb6dbbbea65c41b1f43485ebf8832dd36ad843d346a6d4c10bd2"
+      },
+      "duration": 129.515,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.59,
+          "end": 1.95
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.73,
+          "end": 3.53
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.09,
+          "end": 8.25
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.63,
+          "end": 12.91
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.45,
+          "end": 25.95
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.95,
+          "end": 38.93
+        },
+        {
+          "segmentId": "s007",
+          "start": 40.03,
+          "end": 55.59
+        },
+        {
+          "segmentId": "s008",
+          "start": 55.59,
+          "end": 57.33
+        },
+        {
+          "segmentId": "s009",
+          "start": 58.31,
+          "end": 61.83
+        },
+        {
+          "segmentId": "s010",
+          "start": 62.57,
+          "end": 75.67
+        },
+        {
+          "segmentId": "s011",
+          "start": 76.85,
+          "end": 83.77
+        },
+        {
+          "segmentId": "s012",
+          "start": 84.93,
+          "end": 87.37
+        },
+        {
+          "segmentId": "s013",
+          "start": 88.07,
+          "end": 96.25
+        },
+        {
+          "segmentId": "s014",
+          "start": 96.25,
+          "end": 111.51
+        },
+        {
+          "segmentId": "s015",
+          "start": 111.51,
+          "end": 113.33
+        },
+        {
+          "segmentId": "s016",
+          "start": 114.59,
+          "end": 118.73
+        }
+      ]
+    }
+  ]
+}

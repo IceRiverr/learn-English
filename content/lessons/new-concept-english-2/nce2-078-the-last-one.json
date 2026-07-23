@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-078-the-last-one",
+    "kind": "textbook",
+    "title": "Lesson 78: The Last One",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "The Last One.",
+      "translation": {
+        "text": "最后一支。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "For how long did the writer give up smoking?",
+      "translation": {
+        "text": "作者戒烟戒了多久？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "After reading an article entitled, Cigarette Smoking and Your Health, I lit a cigarette to calm my nerves.",
+      "translation": {
+        "text": "读完一篇题为《吸烟与健康》的文章后，我点燃一支香烟来平复情绪。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
+      "translation": {
+        "text": "我专注而惬意地吸着，因为我确信这会是自己的最后一支烟。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "For a whole week I did not smoke at all and during this time, my wife suffered terribly.",
+      "translation": {
+        "text": "整整一周我一支烟也没吸，而在这段时间里，我妻子吃尽了苦头。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I had all the usual symptoms of someone giving up smoking.",
+      "translation": {
+        "text": "戒烟者常有的症状我全都有。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A bad temper and an enormous appetite.",
+      "translation": {
+        "text": "脾气暴躁，食欲惊人。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "My friends kept on offering me cigarettes and cigars.",
+      "translation": {
+        "text": "朋友们不断递给我香烟和雪茄。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.",
+      "translation": {
+        "text": "每当我从口袋里掏出一包糖果时，他们都毫不掩饰自己的好笑。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "After seven days of this, I went to a party.",
+      "translation": {
+        "text": "这样过了七天后，我参加了一个聚会。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Everybody around me was smoking and I felt extremely uncomfortable.",
+      "translation": {
+        "text": "周围每个人都在吸烟，我感到极不自在。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+      "translation": {
+        "text": "老朋友布赖恩劝我接过一支烟时，我再也忍不住了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I took one guiltily, lit it and smoked with satisfaction.",
+      "translation": {
+        "text": "我内疚地拿了一支，点燃后心满意足地吸了起来。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "My wife was delighted that things had returned to normal once more.",
+      "translation": {
+        "text": "妻子很高兴，一切终于又恢复了正常。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.",
+      "translation": {
+        "text": "不过，正如布赖恩指出的那样，戒烟是世界上最容易的事情。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He himself has done it lots of times.",
+      "translation": {
+        "text": "他自己都戒过很多次了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-078-the-last-one-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2066906,
+        "sha256": "c5a1c3955c13214bf3f5ab7c10d68ddea2ed78387bedf22e51270f10f7df83f9"
+      },
+      "duration": 119.876,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 2.08,
+          "end": 5.04
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.04,
+          "end": 8.9
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.48,
+          "end": 13.54
+        },
+        {
+          "segmentId": "s004",
+          "start": 15.86,
+          "end": 25.1
+        },
+        {
+          "segmentId": "s005",
+          "start": 26.18,
+          "end": 33.7
+        },
+        {
+          "segmentId": "s006",
+          "start": 34.96,
+          "end": 42.68
+        },
+        {
+          "segmentId": "s007",
+          "start": 43.72,
+          "end": 48.54
+        },
+        {
+          "segmentId": "s008",
+          "start": 49.34,
+          "end": 52.54
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.74,
+          "end": 57.96
+        },
+        {
+          "segmentId": "s010",
+          "start": 59.14,
+          "end": 66.74
+        },
+        {
+          "segmentId": "s011",
+          "start": 68.22,
+          "end": 71.8
+        },
+        {
+          "segmentId": "s012",
+          "start": 73.12,
+          "end": 78.36
+        },
+        {
+          "segmentId": "s013",
+          "start": 79.78,
+          "end": 87.56
+        },
+        {
+          "segmentId": "s014",
+          "start": 89,
+          "end": 94.22
+        },
+        {
+          "segmentId": "s015",
+          "start": 95.7,
+          "end": 100.58
+        },
+        {
+          "segmentId": "s016",
+          "start": 101.66,
+          "end": 109.02
+        },
+        {
+          "segmentId": "s017",
+          "start": 109.98,
+          "end": 112.92
+        }
+      ]
+    }
+  ]
+}

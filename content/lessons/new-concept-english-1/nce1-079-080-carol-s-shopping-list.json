@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-079-080-carol-s-shopping-list",
+    "kind": "textbook",
+    "title": "Lesson 79: Carol's shopping-list",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 79–Carol's Shopping List.",
+      "translation": {
+        "text": "第79课——卡罗尔的购物单。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What is Carol not going to buy?",
+      "translation": {
+        "text": "卡罗尔不准备买什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What are you doing, Carol?",
+      "translation": {
+        "text": "你在做什么，卡罗尔？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I'm making a shopping list, Tom.",
+      "translation": {
+        "text": "我在列购物单，汤姆。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "What do we need?",
+      "translation": {
+        "text": "我们需要什么？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "We need a lot of things this week.",
+      "translation": {
+        "text": "这星期我们需要很多东西。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I must go to the grocers.",
+      "translation": {
+        "text": "我必须去杂货店。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "We haven't got much tea or coffee, and we haven't got any sugar or jam.",
+      "translation": {
+        "text": "我们的茶叶和咖啡不多了，糖和果酱也一点儿没有了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "What about vegetables?",
+      "translation": {
+        "text": "蔬菜呢？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I must go to the green grocers.",
+      "translation": {
+        "text": "我必须去蔬菜水果店。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "We haven't got many tomatoes, but we've got a lot of potatoes.",
+      "translation": {
+        "text": "我们的西红柿不多了，但土豆还有很多。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I must go to the butchers, too.",
+      "translation": {
+        "text": "我还必须去肉店。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "We need some meat.",
+      "translation": {
+        "text": "我们需要一些肉。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "We haven't got any meat at all.",
+      "translation": {
+        "text": "我们一点肉也没有了。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Have we got any beer and wine?",
+      "translation": {
+        "text": "我们还有啤酒和葡萄酒吗？"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "No, we haven't, and I'm not going to get any.",
+      "translation": {
+        "text": "没有了，而且我也不准备买。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I hope that you've got some money.",
+      "translation": {
+        "text": "我希望你还有钱。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I haven't got much.",
+      "translation": {
+        "text": "我没有多少钱了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Well, I haven't got much either.",
+      "translation": {
+        "text": "嗯，我也没有多少钱了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-079-080-carol-s-shopping-list-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1727160,
+        "sha256": "bfbf49de4f41bda320699023ad9bb65eaecef1900385f54a69fd410ca9cc2986"
+      },
+      "duration": 99.945,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.4,
+          "end": 5.4
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.92,
+          "end": 10.9
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.36,
+          "end": 15.56
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.92,
+          "end": 19.84
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.46,
+          "end": 24.98
+        },
+        {
+          "segmentId": "s006",
+          "start": 26.44,
+          "end": 27.9
+        },
+        {
+          "segmentId": "s007",
+          "start": 28.88,
+          "end": 32.76
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.66,
+          "end": 36.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 36.82,
+          "end": 44.66
+        },
+        {
+          "segmentId": "s010",
+          "start": 46.54,
+          "end": 48.26
+        },
+        {
+          "segmentId": "s011",
+          "start": 48.26,
+          "end": 52.4
+        },
+        {
+          "segmentId": "s012",
+          "start": 53.54,
+          "end": 59.88
+        },
+        {
+          "segmentId": "s013",
+          "start": 61.5,
+          "end": 64.32
+        },
+        {
+          "segmentId": "s014",
+          "start": 65.34,
+          "end": 67.34
+        },
+        {
+          "segmentId": "s015",
+          "start": 68.2,
+          "end": 71.44
+        },
+        {
+          "segmentId": "s016",
+          "start": 73.28,
+          "end": 76.3
+        },
+        {
+          "segmentId": "s017",
+          "start": 76.3,
+          "end": 82.5
+        },
+        {
+          "segmentId": "s018",
+          "start": 83.42,
+          "end": 86.08
+        },
+        {
+          "segmentId": "s019",
+          "start": 87.02,
+          "end": 88.74
+        },
+        {
+          "segmentId": "s020",
+          "start": 89.5,
+          "end": 92.74
+        }
+      ]
+    }
+  ]
+}

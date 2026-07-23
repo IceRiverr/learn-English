@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-039-am-i-all-right",
+    "kind": "textbook",
+    "title": "Lesson 39: Am I All Right",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 39.",
+      "translation": {
+        "text": "第39课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Am I All Right?",
+      "translation": {
+        "text": "我是否痊愈？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why did Mr. Gilbert",
+      "translation": {
+        "text": "吉尔伯特先生"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "telephone Dr.",
+      "translation": {
+        "text": "为什么给米灵顿医生"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Millington?",
+      "translation": {
+        "text": "打电话？"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful.",
+      "translation": {
+        "text": "约翰·吉尔伯特住院期间，请医生告诉他手术是否成功。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "But the doctor refused to do so.",
+      "translation": {
+        "text": "但医生拒绝告诉他。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The following day, the patient asked for a bedside telephone.",
+      "translation": {
+        "text": "第二天，病人要了一部床头电话。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "When he was alone, he telephoned the hospital exchange and asked for Dr.",
+      "translation": {
+        "text": "独处时，他打电话给医院总机，要求接通米灵顿"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Millington.",
+      "translation": {
+        "text": "医生。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "When the doctor answered the phone, Mr. Gilbert",
+      "translation": {
+        "text": "医生接电话后，吉尔伯特先生"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "said he was inquiring about a certain patient, a Mr.",
+      "translation": {
+        "text": "说他想询问一位病人的情况，一位"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Gilbert.",
+      "translation": {
+        "text": "吉尔伯特先生。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "He asked if Mr.",
+      "translation": {
+        "text": "他问吉尔伯特先生"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Gilbert's operation had been successful, and the doctor told him that it had been.",
+      "translation": {
+        "text": "的手术是否成功，医生告诉他手术很成功。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He then asked when Mr. Gilbert",
+      "translation": {
+        "text": "接着他又问吉尔伯特先生"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "would be allowed to go home, and the doctor told him that he would have to stay in hospital for another two weeks.",
+      "translation": {
+        "text": "什么时候可以回家，医生告诉他还得在医院住两个星期。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Then Dr.",
+      "translation": {
+        "text": "随后米灵顿"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Millington asked the caller if he was a relative of the patient.",
+      "translation": {
+        "text": "医生问打电话的人是否是病人的亲属。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "No, the patient answered.",
+      "translation": {
+        "text": "“不是，”病人回答，"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I am Mr.",
+      "translation": {
+        "text": "“我就是吉尔伯特"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Gilbert.",
+      "translation": {
+        "text": "先生。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-039-am-i-all-right-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1668595,
+        "sha256": "c26c7fe7b3ab440bfe61f0bec247435d288d8f0e235216560632484f447c37c5"
+      },
+      "duration": 94.981,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 1.92
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.96,
+          "end": 4.3
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.72,
+          "end": 8.8
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.68,
+          "end": 11.62
+        },
+        {
+          "segmentId": "s005",
+          "start": 12.1,
+          "end": 13.58
+        },
+        {
+          "segmentId": "s006",
+          "start": 13.86,
+          "end": 14.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 16.46,
+          "end": 25.22
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.1,
+          "end": 28.94
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.9,
+          "end": 34.74
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.86,
+          "end": 42.5
+        },
+        {
+          "segmentId": "s011",
+          "start": 42.72,
+          "end": 43.1
+        },
+        {
+          "segmentId": "s012",
+          "start": 44.34,
+          "end": 47.48
+        },
+        {
+          "segmentId": "s013",
+          "start": 47.96,
+          "end": 53.22
+        },
+        {
+          "segmentId": "s014",
+          "start": 53.78,
+          "end": 54.28
+        },
+        {
+          "segmentId": "s015",
+          "start": 55.23,
+          "end": 56.9
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.24,
+          "end": 63.16
+        },
+        {
+          "segmentId": "s017",
+          "start": 64.84,
+          "end": 66.76
+        },
+        {
+          "segmentId": "s018",
+          "start": 67.22,
+          "end": 75.66
+        },
+        {
+          "segmentId": "s019",
+          "start": 76.88,
+          "end": 77.88
+        },
+        {
+          "segmentId": "s020",
+          "start": 78.14,
+          "end": 82.58
+        },
+        {
+          "segmentId": "s021",
+          "start": 82.58,
+          "end": 85.74
+        },
+        {
+          "segmentId": "s022",
+          "start": 86.58,
+          "end": 87.98
+        },
+        {
+          "segmentId": "s023",
+          "start": 88.44,
+          "end": 88.84
+        }
+      ]
+    }
+  ]
+}

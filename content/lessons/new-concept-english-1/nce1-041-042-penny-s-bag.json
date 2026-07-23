@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-041-042-penny-s-bag",
+    "kind": "textbook",
+    "title": "Lesson 41: Penny's bag",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 41–Penny's Bag.",
+      "translation": {
+        "text": "第41课——彭妮的提包。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Who is the tin of tobacco for?",
+      "translation": {
+        "text": "那听烟丝是给谁的？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Is that bag heavy, Penny?",
+      "translation": {
+        "text": "那个提包重吗，彭妮？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Not very.",
+      "translation": {
+        "text": "不太重。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Here.",
+      "translation": {
+        "text": "来。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Put it on this chair.",
+      "translation": {
+        "text": "把它放在这把椅子上。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "What's in it?",
+      "translation": {
+        "text": "里面有什么？"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "A piece of cheese.",
+      "translation": {
+        "text": "一块奶酪。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "A loaf of bread.",
+      "translation": {
+        "text": "一个面包。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "A bar of soap.",
+      "translation": {
+        "text": "一块肥皂。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "A bar of chocolate.",
+      "translation": {
+        "text": "一块巧克力。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "A bottle of milk.",
+      "translation": {
+        "text": "一瓶牛奶。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "A pound of sugar.",
+      "translation": {
+        "text": "一磅糖。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Half a pound of coffee.",
+      "translation": {
+        "text": "半磅咖啡。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "A quarter of a pound of tea.",
+      "translation": {
+        "text": "四分之一磅茶叶。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "And a tin of tobacco.",
+      "translation": {
+        "text": "还有一听烟丝。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Is that tin of tobacco for me?",
+      "translation": {
+        "text": "那听烟丝是给我的吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Well, it's certainly not for me.",
+      "translation": {
+        "text": "嗯，反正肯定不是给我的。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-041-042-penny-s-bag-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1283869,
+        "sha256": "9ea38f651d48b8c9a0e2f8ce77a0b7bf1b27f0b08439dc568892f0699a54225b"
+      },
+      "duration": 72.176,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 4.11
+        },
+        {
+          "segmentId": "s002",
+          "start": 5.91,
+          "end": 10.09
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.93,
+          "end": 15.03
+        },
+        {
+          "segmentId": "s004",
+          "start": 17.86,
+          "end": 20.24
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.86,
+          "end": 21.88
+        },
+        {
+          "segmentId": "s006",
+          "start": 23.1,
+          "end": 23.44
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.4,
+          "end": 26.16
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.06,
+          "end": 28.52
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.52,
+          "end": 30.82
+        },
+        {
+          "segmentId": "s010",
+          "start": 32.04,
+          "end": 33.52
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.66,
+          "end": 36.18
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.4,
+          "end": 39.06
+        },
+        {
+          "segmentId": "s013",
+          "start": 40.08,
+          "end": 41.5
+        },
+        {
+          "segmentId": "s014",
+          "start": 42.62,
+          "end": 44.32
+        },
+        {
+          "segmentId": "s015",
+          "start": 45.74,
+          "end": 47.76
+        },
+        {
+          "segmentId": "s016",
+          "start": 49.08,
+          "end": 51.66
+        },
+        {
+          "segmentId": "s017",
+          "start": 53.02,
+          "end": 55.32
+        },
+        {
+          "segmentId": "s018",
+          "start": 56.82,
+          "end": 60.68
+        },
+        {
+          "segmentId": "s019",
+          "start": 61.98,
+          "end": 65.16
+        }
+      ]
+    }
+  ]
+}

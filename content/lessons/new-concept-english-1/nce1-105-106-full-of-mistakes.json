@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-105-106-full-of-mistakes",
+    "kind": "textbook",
+    "title": "Lesson 105: Full of mistakes",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 105.",
+      "translation": {
+        "text": "第105课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Full of Mistakes.",
+      "translation": {
+        "text": "错误百出。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was Sandra's present?",
+      "translation": {
+        "text": "桑德拉得到的礼物是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where's Sandra, Bob?",
+      "translation": {
+        "text": "鲍勃，桑德拉在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I want her.",
+      "translation": {
+        "text": "我要找她。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Do you want to speak to her?",
+      "translation": {
+        "text": "您想和她说话吗？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Yes, I do.",
+      "translation": {
+        "text": "是的。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I want her to come to my office.",
+      "translation": {
+        "text": "我要她到我的办公室来。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Tell her to come at once.",
+      "translation": {
+        "text": "告诉她马上过来。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Did you want to see me?",
+      "translation": {
+        "text": "您找我吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Ah, yes, Sandra.",
+      "translation": {
+        "text": "啊，是的，桑德拉。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "How do you spell intelligent?",
+      "translation": {
+        "text": "intelligent这个词怎么拼？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Can you tell me?",
+      "translation": {
+        "text": "你能告诉我吗？"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I-N-T-E-L-L-I-G-E-N-T.",
+      "translation": {
+        "text": "I-N-T-E-L-L-I-G-E-N-T。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "That's right.",
+      "translation": {
+        "text": "对。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "You've typed it with only one L.",
+      "translation": {
+        "text": "你只打了一个L。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "This letter's full of mistakes.",
+      "translation": {
+        "text": "这封信错误百出。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I want you to type it again.",
+      "translation": {
+        "text": "我要你重新打一遍。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Yes, I'll do that.",
+      "translation": {
+        "text": "好的，我会重打。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I'm sorry about that.",
+      "translation": {
+        "text": "这件事很抱歉。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "And here's a little present for you.",
+      "translation": {
+        "text": "这里还有一份小礼物送给你。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "What is it?",
+      "translation": {
+        "text": "是什么？"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "It's a dictionary.",
+      "translation": {
+        "text": "一本词典。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "I hope it'll help you.",
+      "translation": {
+        "text": "希望它能帮到你。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-105-106-full-of-mistakes-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1663351,
+        "sha256": "39edad006a653375165f3093dcb9ddc3411e4e12ffd3e1260d932367bb445f3e"
+      },
+      "duration": 95.948,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.14,
+          "end": 2.46
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.62,
+          "end": 5.2
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.44,
+          "end": 11.94
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.56,
+          "end": 15.58
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.39,
+          "end": 19.89
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.59,
+          "end": 21.71
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.17,
+          "end": 25.71
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.95,
+          "end": 28.71
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.53,
+          "end": 32.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 33.45,
+          "end": 35.79
+        },
+        {
+          "segmentId": "s011",
+          "start": 37.29,
+          "end": 39.83
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.73,
+          "end": 42.45
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.71,
+          "end": 46.13
+        },
+        {
+          "segmentId": "s014",
+          "start": 47.35,
+          "end": 48.85
+        },
+        {
+          "segmentId": "s015",
+          "start": 48.85,
+          "end": 59.53
+        },
+        {
+          "segmentId": "s016",
+          "start": 61.13,
+          "end": 61.71
+        },
+        {
+          "segmentId": "s017",
+          "start": 62.63,
+          "end": 65.71
+        },
+        {
+          "segmentId": "s018",
+          "start": 66.69,
+          "end": 69.59
+        },
+        {
+          "segmentId": "s019",
+          "start": 70.63,
+          "end": 73.49
+        },
+        {
+          "segmentId": "s020",
+          "start": 74.45,
+          "end": 76.87
+        },
+        {
+          "segmentId": "s021",
+          "start": 77.61,
+          "end": 79.65
+        },
+        {
+          "segmentId": "s022",
+          "start": 80.41,
+          "end": 83.19
+        },
+        {
+          "segmentId": "s023",
+          "start": 83.85,
+          "end": 84.87
+        },
+        {
+          "segmentId": "s024",
+          "start": 85.43,
+          "end": 86.47
+        },
+        {
+          "segmentId": "s025",
+          "start": 87.47,
+          "end": 89.43
+        }
+      ]
+    }
+  ]
+}

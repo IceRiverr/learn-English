@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-027-028-mrs-smith-s-living-room",
+    "kind": "textbook",
+    "title": "Lesson 27: Mrs. Smith's living room",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 27.",
+      "translation": {
+        "text": "第27课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Mrs.",
+      "translation": {
+        "text": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Smith's Living Room.",
+      "translation": {
+        "text": "客厅。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where are the books?",
+      "translation": {
+        "text": "书在哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Mrs.",
+      "translation": {
+        "text": "史密斯太太的"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Smith's living room is large.",
+      "translation": {
+        "text": "客厅很大。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "There is a television in the room.",
+      "translation": {
+        "text": "房间里有一台电视机。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The television is near the window.",
+      "translation": {
+        "text": "电视机靠近窗户。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "There are some magazines on the television.",
+      "translation": {
+        "text": "电视机上放着几本杂志。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "There is a table in the room.",
+      "translation": {
+        "text": "房间里有一张桌子。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There are some newspapers on the table.",
+      "translation": {
+        "text": "桌子上放着几份报纸。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "There are some armchairs in the room.",
+      "translation": {
+        "text": "房间里有几把扶手椅。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The armchairs are near the table.",
+      "translation": {
+        "text": "扶手椅在桌子附近。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There is a stereo in the room.",
+      "translation": {
+        "text": "房间里有一套音响。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The stereo is near the door.",
+      "translation": {
+        "text": "音响靠近门。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "There are some books on the stereo.",
+      "translation": {
+        "text": "音响上放着几本书。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "There are some pictures in the room.",
+      "translation": {
+        "text": "房间里有几幅画。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The pictures are on the wall.",
+      "translation": {
+        "text": "这些画挂在墙上。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-027-028-mrs-smith-s-living-room-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1392315,
+        "sha256": "16ff915597dba933b69c8f21f2ebe915d4fdf68a996b5490904b3233ee54b32e"
+      },
+      "duration": 78.968,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 2.1
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.36,
+          "end": 3.64
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.16,
+          "end": 5.42
+        },
+        {
+          "segmentId": "s004",
+          "start": 6.92,
+          "end": 11.26
+        },
+        {
+          "segmentId": "s005",
+          "start": 12.88,
+          "end": 14.6
+        },
+        {
+          "segmentId": "s006",
+          "start": 16.62,
+          "end": 17.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 17.76,
+          "end": 20
+        },
+        {
+          "segmentId": "s008",
+          "start": 21.66,
+          "end": 24.72
+        },
+        {
+          "segmentId": "s009",
+          "start": 25.72,
+          "end": 29.6
+        },
+        {
+          "segmentId": "s010",
+          "start": 31.34,
+          "end": 35.26
+        },
+        {
+          "segmentId": "s011",
+          "start": 36.46,
+          "end": 39.32
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.4,
+          "end": 43.78
+        },
+        {
+          "segmentId": "s013",
+          "start": 45.1,
+          "end": 48.14
+        },
+        {
+          "segmentId": "s014",
+          "start": 49.22,
+          "end": 52.2
+        },
+        {
+          "segmentId": "s015",
+          "start": 52.2,
+          "end": 56.3
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.2,
+          "end": 60.44
+        },
+        {
+          "segmentId": "s017",
+          "start": 61.56,
+          "end": 64.38
+        },
+        {
+          "segmentId": "s018",
+          "start": 65.68,
+          "end": 68.56
+        },
+        {
+          "segmentId": "s019",
+          "start": 69.54,
+          "end": 72.04
+        }
+      ]
+    }
+  ]
+}

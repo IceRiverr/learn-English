@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-023-bird-flight",
+    "kind": "textbook",
+    "title": "Lesson 23: Bird Flight",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What are the two main types of bird flight described by the author?",
+      "translation": {
+        "text": "作者描述了哪两种主要的鸟类飞行方式？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "No two sorts of birds practice quite the same sort of flight.",
+      "translation": {
+        "text": "没有两种鸟采用完全相同的飞行方式。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The varieties are infinite, but two classes may be roughly seen.",
+      "translation": {
+        "text": "飞行方式多种多样、无穷无尽，但大致可分为两类。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Any ship that crosses the Pacific is accompanied for many days by the smaller albatross, which may keep company with the vessel for an hour without visible or more than occasional movement of wing.",
+      "translation": {
+        "text": "任何横渡太平洋的船只都会连续多日有小型信天翁相伴；它可以陪船飞行一小时，翅膀几乎不动，或只是偶尔扇动一下。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The currents of air that the walls of the ship direct upwards, as well as in the line of its course, are enough to give the great bird with its immense wings sufficient sustenance and progress.",
+      "translation": {
+        "text": "船体把气流向上并沿航向引导，这足以让拥有巨翼的大鸟获得足够的升力和前进动力。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The albatross is the king of the gliders, the class of fliers which harness the air to their purpose, but must yield to its opposition.",
+      "translation": {
+        "text": "信天翁是滑翔鸟类之王。这类飞行者驾驭气流为己所用，却又必须在逆风面前让步。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "In the contrary school, the duck is supreme.",
+      "translation": {
+        "text": "在另一派中，鸭子最为出色。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "It comes nearer to the engines with which man has conquered the air, as he boasts.",
+      "translation": {
+        "text": "它更接近人类引以为豪、用来征服天空的发动机。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Duck, and like them the pigeons, are endowed with steel-like muscles, that are a good part of the weight of the bird, and these will ply the short wings with such irresistible power",
+      "translation": {
+        "text": "鸭子以及类似的鸽子拥有钢铁般的肌肉，占鸟体重的很大一部分；这些肌肉以不可抗拒的力量挥动短翼，"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "that they can bore for long distances through an opposing gale before exhaustion follows.",
+      "translation": {
+        "text": "使它们能迎着大风穿行很远，之后才会筋疲力尽。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Their humbler followers, such as partridges, have a like power of strong propulsion, but soon tire.",
+      "translation": {
+        "text": "它们能力稍逊的追随者，如鹧鸪，也有类似的强大推进力，却很快疲劳。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey.",
+      "translation": {
+        "text": "如果海风迫使它们长途飞行，你甚至能捡到筋疲力尽的鸟。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The swallow shares the virtues of both schools in highest measure.",
+      "translation": {
+        "text": "燕子最大程度地兼具两派的优点。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It tires not, nor does it boast of its power, but belongs to the air.",
+      "translation": {
+        "text": "它不会疲倦，也不炫耀力量；它属于天空。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Traveling it may be six thousand miles to and from its northern nesting-home, feeding its flown young as it flies, and slipping through a medium that seems to help its passage even when the wind is adverse.",
+      "translation": {
+        "text": "它往返北方筑巢地的路程可能达六千英里，边飞边喂养已经会飞的幼鸟；即使逆风，空气这种介质似乎也在帮助它穿行。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Such birds do us good, though we no longer take omens from their flight on this side and that, and even the most superstitious villagers, no longer take off their hats to the magpie and wish it good morning.",
+      "translation": {
+        "text": "这种鸟对我们有益；尽管我们已不再从它们向这边或那边飞行来占卜，甚至最迷信的村民也不再向喜鹊脱帽问早安。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-023-bird-flight-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2964544,
+        "sha256": "f2b264136a91d2cacf53a94bafdb9f2b13022eab2a0c07c61765d7d72f5e7419"
+      },
+      "duration": 175.987,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.85,
+          "end": 8.69
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.69,
+          "end": 15.09
+        },
+        {
+          "segmentId": "s003",
+          "start": 18.06,
+          "end": 22.3
+        },
+        {
+          "segmentId": "s004",
+          "start": 23.5,
+          "end": 28.42
+        },
+        {
+          "segmentId": "s005",
+          "start": 29.32,
+          "end": 43.86
+        },
+        {
+          "segmentId": "s006",
+          "start": 45.24,
+          "end": 59.68
+        },
+        {
+          "segmentId": "s007",
+          "start": 60.62,
+          "end": 70.28
+        },
+        {
+          "segmentId": "s008",
+          "start": 71.32,
+          "end": 74.72
+        },
+        {
+          "segmentId": "s009",
+          "start": 75.86,
+          "end": 81.44
+        },
+        {
+          "segmentId": "s010",
+          "start": 82.4,
+          "end": 97.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 97.94,
+          "end": 104.72
+        },
+        {
+          "segmentId": "s012",
+          "start": 104.72,
+          "end": 113.5
+        },
+        {
+          "segmentId": "s013",
+          "start": 114,
+          "end": 120.7
+        },
+        {
+          "segmentId": "s014",
+          "start": 121.58,
+          "end": 125.84
+        },
+        {
+          "segmentId": "s015",
+          "start": 126.4,
+          "end": 132.18
+        },
+        {
+          "segmentId": "s016",
+          "start": 132.88,
+          "end": 147.54
+        },
+        {
+          "segmentId": "s017",
+          "start": 148.8,
+          "end": 164.24
+        }
+      ]
+    }
+  ]
+}

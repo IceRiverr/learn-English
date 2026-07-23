@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-016-mary-had-a-little-lamb",
+    "kind": "textbook",
+    "title": "Lesson 16: Mary Had a Little Lamb",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 16.",
+      "translation": {
+        "text": "第16课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Mary Had a Little Lamb.",
+      "translation": {
+        "text": "玛丽有一只小羊羔。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Was Demetri right to apologize to his neighbor?",
+      "translation": {
+        "text": "德米特里向邻居道歉是对的吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Why not?",
+      "translation": {
+        "text": "为什么不对？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Mary and her husband Demetri lived in the tiny village of Parachora in southern Greece.",
+      "translation": {
+        "text": "玛丽和丈夫德米特里住在希腊南部的小村庄帕拉乔拉。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "One of Mary's prized possessions was a little white lamb which her husband had given her.",
+      "translation": {
+        "text": "玛丽最珍爱的财物之一，是丈夫送给她的一只白色小羊羔。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "She kept it tied to a tree in a field during the day, and went to fetch it every evening.",
+      "translation": {
+        "text": "白天她把小羊拴在田野的一棵树上，每天傍晚再把它牵回来。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "One evening, however, the lamb was missing.",
+      "translation": {
+        "text": "然而一天晚上，小羊不见了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+      "translation": {
+        "text": "绳子被割断，显然小羊被偷了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "When Demetri came in from the fields, his wife told him what had happened.",
+      "translation": {
+        "text": "德米特里从田里回来后，妻子把事情告诉了他。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Demetri at once set out to find the thief.",
+      "translation": {
+        "text": "德米特里立即出发寻找窃贼。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "He knew it would not prove difficult in such a small village.",
+      "translation": {
+        "text": "他知道在这样一个小村庄里，找到窃贼不会很难。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "After telling several of his friends about the theft, Demetri found out that his neighbor, Aleko, had suddenly acquired a new lamb.",
+      "translation": {
+        "text": "他把失窃的事告诉几个朋友后，得知邻居阿列科突然有了一只新羊羔。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Demetri immediately went to Aleko's house and angrily accused him of stealing the lamb.",
+      "translation": {
+        "text": "德米特里马上来到阿列科家，愤怒地指责他偷了羊羔。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "He told him he had better return it or he would call the police.",
+      "translation": {
+        "text": "他警告阿列科最好把羊还回来，否则就叫警察。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Aleko denied taking it and led Demetri into his backyard.",
+      "translation": {
+        "text": "阿列科否认偷羊，并把德米特里领进后院。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It was true that he had just bought a lamb, he explained, but his lamb was black.",
+      "translation": {
+        "text": "他解释说，自己的确刚买了一只羊羔，但这只羊是黑色的。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Ashamed of having acted so rashly, Demetri apologized to Aleko for having accused him.",
+      "translation": {
+        "text": "德米特里为自己如此鲁莽而惭愧，便因错误指责阿列科向他道歉。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "While they were talking, it began to rain, and Demetri stayed in Aleko's house until the rain stopped.",
+      "translation": {
+        "text": "两人交谈时下起了雨，德米特里留在阿列科家，直到雨停。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "When he went outside, half an hour later, he was astonished to find that the little black lamb was almost white.",
+      "translation": {
+        "text": "半小时后他走到外面，惊讶地发现那只黑色小羊几乎变成了白色。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Its wool, which had been dyed black, had been washed clean by the rain.",
+      "translation": {
+        "text": "它被染黑的羊毛已经让雨水冲洗干净了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-016-mary-had-a-little-lamb-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2347797,
+        "sha256": "3aae693b63ce31ba9bf903ebc8509f6969b42127778ba520dc2b3ce5b1f7b1d9"
+      },
+      "duration": 137.482,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0,
+          "end": 1.6
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.8,
+          "end": 4.4
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.56,
+          "end": 8.78
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.38,
+          "end": 13.46
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.26,
+          "end": 14.88
+        },
+        {
+          "segmentId": "s006",
+          "start": 17.32,
+          "end": 23.92
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.74,
+          "end": 31.2
+        },
+        {
+          "segmentId": "s008",
+          "start": 31.86,
+          "end": 38.42
+        },
+        {
+          "segmentId": "s009",
+          "start": 39.5,
+          "end": 42.52
+        },
+        {
+          "segmentId": "s010",
+          "start": 43.2,
+          "end": 48.12
+        },
+        {
+          "segmentId": "s011",
+          "start": 49.02,
+          "end": 54.06
+        },
+        {
+          "segmentId": "s012",
+          "start": 55.02,
+          "end": 58.12
+        },
+        {
+          "segmentId": "s013",
+          "start": 58.96,
+          "end": 62.5
+        },
+        {
+          "segmentId": "s014",
+          "start": 64.28,
+          "end": 74.18
+        },
+        {
+          "segmentId": "s015",
+          "start": 75.1,
+          "end": 81.74
+        },
+        {
+          "segmentId": "s016",
+          "start": 82.74,
+          "end": 86.52
+        },
+        {
+          "segmentId": "s017",
+          "start": 87.94,
+          "end": 92.04
+        },
+        {
+          "segmentId": "s018",
+          "start": 93.08,
+          "end": 99
+        },
+        {
+          "segmentId": "s019",
+          "start": 100.26,
+          "end": 107.36
+        },
+        {
+          "segmentId": "s020",
+          "start": 108.38,
+          "end": 115.42
+        },
+        {
+          "segmentId": "s021",
+          "start": 116.22,
+          "end": 124.58
+        },
+        {
+          "segmentId": "s022",
+          "start": 124.58,
+          "end": 131.08
+        }
+      ]
+    }
+  ]
+}

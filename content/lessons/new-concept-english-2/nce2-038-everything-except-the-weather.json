@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-038-everything-except-the-weather",
+    "kind": "textbook",
+    "title": "Lesson 38: Everything Except the Weather",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 38.",
+      "translation": {
+        "text": "第38课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Everything Except the Weather.",
+      "translation": {
+        "text": "唯独没有考虑天气。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen, and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why did Harrison sell his house so quickly?",
+      "translation": {
+        "text": "哈里森为什么这么快就卖掉了房子？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "My old friend Harrison had lived in the Mediterranean for many years before he returned to England.",
+      "translation": {
+        "text": "我的老朋友哈里森在地中海地区生活多年后回到了英国。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "He had often dreamed of retiring in England and had planned to settle down in the country.",
+      "translation": {
+        "text": "他常梦想退休后回到英国，并计划在乡间定居。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He had no sooner returned than he bought a house and went to live there.",
+      "translation": {
+        "text": "他刚一回来便买了一所房子，住了进去。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold.",
+      "translation": {
+        "text": "几乎立刻，他就开始抱怨天气，因为尽管还是夏天，雨却下个不停，而且常常冷得刺骨。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "After so many years of sunshine, Harrison got a shock.",
+      "translation": {
+        "text": "过了这么多年的阳光生活，哈里森大吃一惊。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "He acted as if he had never lived in England before.",
+      "translation": {
+        "text": "他的表现就好像以前从未在英国生活过一样。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In the end, it was more than he could bear.",
+      "translation": {
+        "text": "最后，他再也忍受不住了。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He had hardly had time to settle down when he sold the house and left the country.",
+      "translation": {
+        "text": "他还没来得及安顿下来，就卖掉房子离开了这个国家。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The dream he had had for so many years ended there.",
+      "translation": {
+        "text": "他多年来的梦想就此破灭。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Harrison had thought of everything except the weather.",
+      "translation": {
+        "text": "哈里森什么都考虑到了，唯独没有考虑天气。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-038-everything-except-the-weather-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1628081,
+        "sha256": "75980b4c8d2b3ac9792d0e87bcabc5bee8459e7542521c7c043d37c9b14a0d63"
+      },
+      "duration": 92.447,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.62,
+          "end": 2.04
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.14,
+          "end": 5.26
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.02,
+          "end": 9.66
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.1,
+          "end": 14.28
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.45,
+          "end": 24.85
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.91,
+          "end": 32.35
+        },
+        {
+          "segmentId": "s007",
+          "start": 33.37,
+          "end": 38.99
+        },
+        {
+          "segmentId": "s008",
+          "start": 39.99,
+          "end": 53.45
+        },
+        {
+          "segmentId": "s009",
+          "start": 54.43,
+          "end": 59.41
+        },
+        {
+          "segmentId": "s010",
+          "start": 60.49,
+          "end": 64.41
+        },
+        {
+          "segmentId": "s011",
+          "start": 65.61,
+          "end": 68.71
+        },
+        {
+          "segmentId": "s012",
+          "start": 69.73,
+          "end": 76.03
+        },
+        {
+          "segmentId": "s013",
+          "start": 77.13,
+          "end": 81.71
+        },
+        {
+          "segmentId": "s014",
+          "start": 81.71,
+          "end": 86.13
+        }
+      ]
+    }
+  ]
+}

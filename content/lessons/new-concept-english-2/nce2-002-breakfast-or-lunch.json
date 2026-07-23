@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-002-breakfast-or-lunch",
+    "kind": "textbook",
+    "title": "Lesson 2: Breakfast or Lunch",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 2.",
+      "translation": {
+        "text": "第2课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Breakfast or Lunch.",
+      "translation": {
+        "text": "早餐还是午餐？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why was the writer's aunt surprised?",
+      "translation": {
+        "text": "作者的姑妈为什么感到惊讶？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "It was Sunday.",
+      "translation": {
+        "text": "那天是星期日。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I never get up early on Sundays.",
+      "translation": {
+        "text": "星期日我从不早起。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I sometimes stay in bed until lunchtime.",
+      "translation": {
+        "text": "有时我要一直躺到吃午饭的时候。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Last Sunday I got up very late.",
+      "translation": {
+        "text": "上个星期日我起得很晚。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "I looked out of the window.",
+      "translation": {
+        "text": "我望望窗外。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It was dark outside.",
+      "translation": {
+        "text": "外面一片昏暗。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "What a day!",
+      "translation": {
+        "text": "鬼天气！"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I thought.",
+      "translation": {
+        "text": "我想。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It's raining again.",
+      "translation": {
+        "text": "又下雨了。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Just then the telephone rang.",
+      "translation": {
+        "text": "正在这时，电话铃响了。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It was my Aunt Lucy.",
+      "translation": {
+        "text": "是我姑妈露西打来的。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I've just arrived by train, she said.",
+      "translation": {
+        "text": "“我刚坐火车到达，”她说。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I'm coming to see you.",
+      "translation": {
+        "text": "“我这就来看你。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "But I'm still having breakfast, I said.",
+      "translation": {
+        "text": "“可我还在吃早饭，”我说。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "What are you doing?",
+      "translation": {
+        "text": "“你在干什么？”"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "She asked.",
+      "translation": {
+        "text": "她问道。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I'm having breakfast, I repeated.",
+      "translation": {
+        "text": "“我在吃早饭，”我又说了一遍。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Dear me, she said.",
+      "translation": {
+        "text": "“天哪，”她说。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Do you always get up so late?",
+      "translation": {
+        "text": "“你总是起得这么晚吗？”"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "It's one o'clock.",
+      "translation": {
+        "text": "“现在已经一点钟了！”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-002-breakfast-or-lunch-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1450427,
+        "sha256": "07ebb772b5403032238a3bb4a0837c33d23b8a85f25465e27d3137ed259f63af"
+      },
+      "duration": 81.345,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.64
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.78,
+          "end": 4.28
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.66,
+          "end": 9.08
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.58,
+          "end": 13.74
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.91,
+          "end": 16.99
+        },
+        {
+          "segmentId": "s006",
+          "start": 17.91,
+          "end": 20.89
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.97,
+          "end": 25.63
+        },
+        {
+          "segmentId": "s008",
+          "start": 26.95,
+          "end": 29.93
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.93,
+          "end": 32.71
+        },
+        {
+          "segmentId": "s010",
+          "start": 33.41,
+          "end": 34.91
+        },
+        {
+          "segmentId": "s011",
+          "start": 35.77,
+          "end": 37.37
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.91,
+          "end": 38.71
+        },
+        {
+          "segmentId": "s013",
+          "start": 39.69,
+          "end": 41.19
+        },
+        {
+          "segmentId": "s014",
+          "start": 42.57,
+          "end": 45.09
+        },
+        {
+          "segmentId": "s015",
+          "start": 45.83,
+          "end": 47.57
+        },
+        {
+          "segmentId": "s016",
+          "start": 48.89,
+          "end": 52.29
+        },
+        {
+          "segmentId": "s017",
+          "start": 53.05,
+          "end": 54.79
+        },
+        {
+          "segmentId": "s018",
+          "start": 55.93,
+          "end": 59.55
+        },
+        {
+          "segmentId": "s019",
+          "start": 60.35,
+          "end": 61.67
+        },
+        {
+          "segmentId": "s020",
+          "start": 62.43,
+          "end": 62.99
+        },
+        {
+          "segmentId": "s021",
+          "start": 63.95,
+          "end": 66.55
+        },
+        {
+          "segmentId": "s022",
+          "start": 67.73,
+          "end": 69.65
+        },
+        {
+          "segmentId": "s023",
+          "start": 70.49,
+          "end": 72.65
+        },
+        {
+          "segmentId": "s024",
+          "start": 73.47,
+          "end": 74.51
+        }
+      ]
+    }
+  ]
+}

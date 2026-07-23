@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-005-youth",
+    "kind": "textbook",
+    "title": "Lesson 5: Youth",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 5: Youth. First listen and then answer the following question.",
+      "translation": {
+        "text": "第5课：青年。先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How does the writer like to treat young people?",
+      "translation": {
+        "text": "作者喜欢怎样对待年轻人？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "People are always talking about the problem of youth.",
+      "translation": {
+        "text": "人们总在谈论青年问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "If there is one, which I take leave to doubt, then it is older people who create it, not the young themselves.",
+      "translation": {
+        "text": "即便真有这样一个问题——对此我斗胆表示怀疑——那也是年长者造成的，并非年轻人自身。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Let us get down to fundamentals and agree that the young are, after all, human beings—people just like their elders.",
+      "translation": {
+        "text": "让我们从根本说起，并承认年轻人终究也是人，是和长辈一样的人。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "There is only one difference between an old man and a young one.",
+      "translation": {
+        "text": "老人和年轻人之间只有一个区别。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The young man has a glorious future before him, and the old one has a splendid future behind him, and maybe that is where the rub is.",
+      "translation": {
+        "text": "年轻人面前有辉煌的未来，老人身后则有灿烂的过去；也许症结就在这里。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "When I was a teenager, I felt that I was just young and uncertain, that I was a new boy in a huge school, and I would have been very pleased to be regarded as something so interesting as a problem.",
+      "translation": {
+        "text": "十几岁时，我觉得自己不过是年轻而缺乏自信，就像一所大学校里的新生；如果别人把我看成‘问题’这样有趣的事物，我会非常高兴。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "For one thing, being a problem gives you a certain identity.",
+      "translation": {
+        "text": "一方面，成为一个问题会赋予你某种身份。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "And that is one of the things the young are busily engaged in seeking.",
+      "translation": {
+        "text": "而身份正是年轻人正忙于寻找的东西之一。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I find young people exciting.",
+      "translation": {
+        "text": "我觉得年轻人令人振奋。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "They have an air of freedom, and they have not a dreary commitment to mean ambitions or love of comfort.",
+      "translation": {
+        "text": "他们身上有自由的气息，也没有乏味地执着于卑微的野心或贪图安逸。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "They are not anxious social climbers, and they have no devotion to material things.",
+      "translation": {
+        "text": "他们不急于向上钻营，也不迷恋物质。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "All this seems to me to link them with life and the origins of things.",
+      "translation": {
+        "text": "在我看来，这一切把他们同生命及万物的本源联系起来。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It is as if they were, in some sense, cosmic beings in violent and lovely contrast with us suburban creatures.",
+      "translation": {
+        "text": "从某种意义上说，他们仿佛是宇宙中的生灵，与我们这些郊区俗人形成强烈而美好的对照。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "All that is in my mind when I meet a young person.",
+      "translation": {
+        "text": "每当遇见年轻人，我心中想到的就是这些。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "He may be conceited, ill-mannered, presumptuous or fatuous, but I do not turn for protection to dreary clichés about respect for elders.",
+      "translation": {
+        "text": "他也许自负、无礼、冒失或愚蠢，但我不会躲到‘尊敬长辈’之类乏味的陈词滥调后面寻求庇护。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "As if mere age were a reason for respect.",
+      "translation": {
+        "text": "仿佛年龄本身就是值得尊敬的理由。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I accept that we are equals, and I will argue with him as an equal if I think he is wrong.",
+      "translation": {
+        "text": "我承认我们彼此平等；如果我认为他错了，就会以平等身份同他争论。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-005-youth-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2698709,
+        "sha256": "2bccdc79ef0cc05e1a3b8e672d7e9aeec7d9a594734b005d37480eaaa994bf98"
+      },
+      "duration": 159.373,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.05,
+          "end": 8.33
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.61,
+          "end": 13.57
+        },
+        {
+          "segmentId": "s003",
+          "start": 14.53,
+          "end": 19.21
+        },
+        {
+          "segmentId": "s004",
+          "start": 20.27,
+          "end": 29.21
+        },
+        {
+          "segmentId": "s005",
+          "start": 30.17,
+          "end": 38.73
+        },
+        {
+          "segmentId": "s006",
+          "start": 39.87,
+          "end": 44.31
+        },
+        {
+          "segmentId": "s007",
+          "start": 45.17,
+          "end": 55.97
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.77,
+          "end": 72.99
+        },
+        {
+          "segmentId": "s009",
+          "start": 73.73,
+          "end": 78.27
+        },
+        {
+          "segmentId": "s010",
+          "start": 78.95,
+          "end": 83.57
+        },
+        {
+          "segmentId": "s011",
+          "start": 83.99,
+          "end": 86.49
+        },
+        {
+          "segmentId": "s012",
+          "start": 87.43,
+          "end": 94.63
+        },
+        {
+          "segmentId": "s013",
+          "start": 95.69,
+          "end": 101.83
+        },
+        {
+          "segmentId": "s014",
+          "start": 103.07,
+          "end": 108.65
+        },
+        {
+          "segmentId": "s015",
+          "start": 109.61,
+          "end": 118.95
+        },
+        {
+          "segmentId": "s016",
+          "start": 119.69,
+          "end": 123.25
+        },
+        {
+          "segmentId": "s017",
+          "start": 124.47,
+          "end": 135.79
+        },
+        {
+          "segmentId": "s018",
+          "start": 136.53,
+          "end": 140.27
+        },
+        {
+          "segmentId": "s019",
+          "start": 141.47,
+          "end": 154.38
+        }
+      ]
+    }
+  ]
+}

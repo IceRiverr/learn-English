@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-069-but-not-murder",
+    "kind": "textbook",
+    "title": "Lesson 69: But not Murder",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 69.",
+      "translation": {
+        "text": "第69课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "But not Murder.",
+      "translation": {
+        "text": "但并非谋杀。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Do you think that the writer passed his driving test?",
+      "translation": {
+        "text": "你认为作者通过驾驶考试了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I was being tested for a driving license for the third time.",
+      "translation": {
+        "text": "我正在第三次参加驾驶执照考试。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "translation": {
+        "text": "考官要求我在拥挤的车流中驾驶，我顺利地做到了。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "translation": {
+        "text": "接到把车开出城的指令后，我开始有了信心。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "translation": {
+        "text": "我确信自己已经通过考试，甚至开始享受这次考试了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The examiner must have been pleased with my performance, for he smiled and said, Just one more thing, Mr.",
+      "translation": {
+        "text": "考官一定对我的表现很满意，因为他微笑着说：“还有最后一项，艾姆斯先生。”"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Ames.",
+      "translation": {
+        "text": "艾姆斯。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "translation": {
+        "text": "“假设一个孩子突然从你前面横穿马路。”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "As soon as I tap on the window, you must stop within five feet.",
+      "translation": {
+        "text": "“我一敲车窗，你就必须在五英尺之内把车停下。”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I continued driving and after some time the examiner tapped loudly.",
+      "translation": {
+        "text": "我继续驾车，过了一会儿，考官重重地敲了敲车窗。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Though the sound could be heard clearly, it took me a long time to react.",
+      "translation": {
+        "text": "虽然敲击声听得很清楚，我却过了很久才反应过来。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I suddenly pressed the brake pedal hard and we were both thrown forward.",
+      "translation": {
+        "text": "我猛踩刹车踏板，我们俩都被甩向前方。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "The examiner looked at me sadly.",
+      "translation": {
+        "text": "考官悲伤地看着我。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Mr. Ames,",
+      "translation": {
+        "text": "艾姆斯先生，"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "he said, in a mournful voice, you have just killed that child.",
+      "translation": {
+        "text": "他用悲哀的语调说：“你刚刚撞死了那个孩子。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-069-but-not-murder-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1817389,
+        "sha256": "4e38744ac1a105141f092c32fac46efc9b8b6560e163cb8b67cbcd5f26cfa4e7"
+      },
+      "duration": 104.281,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.75,
+          "end": 2.65
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.53,
+          "end": 4.77
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.57,
+          "end": 9.43
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.11,
+          "end": 14.47
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.41,
+          "end": 15.77
+        },
+        {
+          "segmentId": "s006",
+          "start": 17.93,
+          "end": 22.31
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.27,
+          "end": 28.83
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.83,
+          "end": 36.67
+        },
+        {
+          "segmentId": "s009",
+          "start": 37.89,
+          "end": 43.75
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.67,
+          "end": 53.99
+        },
+        {
+          "segmentId": "s011",
+          "start": 54.33,
+          "end": 54.43
+        },
+        {
+          "segmentId": "s012",
+          "start": 55.69,
+          "end": 60.95
+        },
+        {
+          "segmentId": "s013",
+          "start": 61.69,
+          "end": 66.83
+        },
+        {
+          "segmentId": "s014",
+          "start": 68.01,
+          "end": 73.29
+        },
+        {
+          "segmentId": "s015",
+          "start": 74.17,
+          "end": 80.39
+        },
+        {
+          "segmentId": "s016",
+          "start": 81.57,
+          "end": 86.53
+        },
+        {
+          "segmentId": "s017",
+          "start": 87.59,
+          "end": 89.83
+        },
+        {
+          "segmentId": "s018",
+          "start": 89.83,
+          "end": 91.55
+        },
+        {
+          "segmentId": "s019",
+          "start": 92.43,
+          "end": 97.91
+        }
+      ]
+    }
+  ]
+}

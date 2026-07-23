@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-113-114-small-change",
+    "kind": "textbook",
+    "title": "Lesson 113: Small change",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 113.",
+      "translation": {
+        "text": "第113课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Small Change.",
+      "translation": {
+        "text": "零钱。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who has got some small change?",
+      "translation": {
+        "text": "谁有零钱？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Fairs, please.",
+      "translation": {
+        "text": "请买票。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Trafalgar Square, please.",
+      "translation": {
+        "text": "请给我一张去特拉法加广场的票。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I'm sorry, sir.",
+      "translation": {
+        "text": "对不起，先生。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I can't change a ten-pound note.",
+      "translation": {
+        "text": "我找不开十英镑的钞票。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Haven't you got any small change?",
+      "translation": {
+        "text": "您没有零钱吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I've got no small change, I'm afraid.",
+      "translation": {
+        "text": "恐怕我一点零钱也没有。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I'll ask some of the passengers.",
+      "translation": {
+        "text": "我问问其他乘客。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Have you any small change, sir?",
+      "translation": {
+        "text": "先生，您有零钱吗？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I'm sorry, I've got none.",
+      "translation": {
+        "text": "对不起，我没有。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I haven't got any either.",
+      "translation": {
+        "text": "我也没有。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Can you change this ten-pound note, madam?",
+      "translation": {
+        "text": "女士，您能找开这张十英镑的钞票吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I'm afraid I can't.",
+      "translation": {
+        "text": "恐怕不能。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Neither can I.",
+      "translation": {
+        "text": "我也不能。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I'm very sorry, sir.",
+      "translation": {
+        "text": "非常抱歉，先生。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "You must get off the bus.",
+      "translation": {
+        "text": "您必须下车。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "None of our passengers can change this note.",
+      "translation": {
+        "text": "我们的乘客谁也找不开这张钞票。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "They're all millionaires.",
+      "translation": {
+        "text": "他们全是百万富翁。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Except us.",
+      "translation": {
+        "text": "除了我们。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "I've got some small change.",
+      "translation": {
+        "text": "我有一些零钱。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "So have I.",
+      "translation": {
+        "text": "我也有。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-113-114-small-change-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1576607,
+        "sha256": "c35f4d2075c4af908e20fed7b52ee5e969544e749fdc1c85e2fc53bff88bc6ba"
+      },
+      "duration": 90.514,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.43,
+          "end": 2.43
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.85,
+          "end": 5.11
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.71,
+          "end": 10.65
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.05,
+          "end": 14.65
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.44,
+          "end": 18.3
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.34,
+          "end": 20.88
+        },
+        {
+          "segmentId": "s007",
+          "start": 21.62,
+          "end": 23
+        },
+        {
+          "segmentId": "s008",
+          "start": 24.08,
+          "end": 27.42
+        },
+        {
+          "segmentId": "s009",
+          "start": 28.34,
+          "end": 31.04
+        },
+        {
+          "segmentId": "s010",
+          "start": 31.04,
+          "end": 35.26
+        },
+        {
+          "segmentId": "s011",
+          "start": 36.48,
+          "end": 38.7
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.22,
+          "end": 42.96
+        },
+        {
+          "segmentId": "s013",
+          "start": 43.58,
+          "end": 46.06
+        },
+        {
+          "segmentId": "s014",
+          "start": 47.72,
+          "end": 50.28
+        },
+        {
+          "segmentId": "s015",
+          "start": 51.72,
+          "end": 55.68
+        },
+        {
+          "segmentId": "s016",
+          "start": 56.76,
+          "end": 59.32
+        },
+        {
+          "segmentId": "s017",
+          "start": 59.32,
+          "end": 61.96
+        },
+        {
+          "segmentId": "s018",
+          "start": 63.08,
+          "end": 64.74
+        },
+        {
+          "segmentId": "s019",
+          "start": 65.34,
+          "end": 67.54
+        },
+        {
+          "segmentId": "s020",
+          "start": 68.8,
+          "end": 72.72
+        },
+        {
+          "segmentId": "s021",
+          "start": 73.56,
+          "end": 75.18
+        },
+        {
+          "segmentId": "s022",
+          "start": 76.48,
+          "end": 77.86
+        },
+        {
+          "segmentId": "s023",
+          "start": 79.44,
+          "end": 81.56
+        },
+        {
+          "segmentId": "s024",
+          "start": 82.98,
+          "end": 84.2
+        }
+      ]
+    }
+  ]
+}

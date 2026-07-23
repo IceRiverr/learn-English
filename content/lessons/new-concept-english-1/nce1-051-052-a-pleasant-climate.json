@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-051-052-a-pleasant-climate",
+    "kind": "textbook",
+    "title": "Lesson 51: A pleasant climate",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 51.",
+      "translation": {
+        "text": "第51课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Pleasant Climate.",
+      "translation": {
+        "text": "宜人的气候。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Does it ever snow in Greece?",
+      "translation": {
+        "text": "希腊下过雪吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Where do you come from?",
+      "translation": {
+        "text": "你来自哪里？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I come from Greece.",
+      "translation": {
+        "text": "我来自希腊。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "What's the climate like in your country?",
+      "translation": {
+        "text": "你们国家的气候怎么样？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It's very pleasant.",
+      "translation": {
+        "text": "非常宜人。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "What's the weather like in spring?",
+      "translation": {
+        "text": "春天的天气怎么样？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It's often windy in March.",
+      "translation": {
+        "text": "三月经常刮风。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "It's always warm in April and May, but it rains sometimes.",
+      "translation": {
+        "text": "四月和五月总是很暖和，但有时会下雨。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "What's it like in summer?",
+      "translation": {
+        "text": "夏天怎么样？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It's always hot in June, July, and August.",
+      "translation": {
+        "text": "六月、七月和八月总是很热。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The sun shines every day.",
+      "translation": {
+        "text": "每天都有阳光。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Is it cold or warm in autumn?",
+      "translation": {
+        "text": "秋天冷还是暖和？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It's always warm in September and October.",
+      "translation": {
+        "text": "九月和十月总是很暖和。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "It's often cold in November, and it rains sometimes.",
+      "translation": {
+        "text": "十一月经常很冷，有时还会下雨。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Is it very cold in winter?",
+      "translation": {
+        "text": "冬天很冷吗？"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It's often cold in December, January, and February.",
+      "translation": {
+        "text": "十二月、一月和二月经常很冷。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It snows sometimes.",
+      "translation": {
+        "text": "有时会下雪。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-051-052-a-pleasant-climate-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1592880,
+        "sha256": "588d55fde61da6391bff495a54c18b4cc873f74df13da463b232b884a1bedbbf"
+      },
+      "duration": 91.533,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.18,
+          "end": 1.88
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.98,
+          "end": 4.68
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.38,
+          "end": 10.52
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.98,
+          "end": 14.7
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.1,
+          "end": 18.9
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.86,
+          "end": 21.76
+        },
+        {
+          "segmentId": "s007",
+          "start": 22.98,
+          "end": 25.94
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.06,
+          "end": 29.06
+        },
+        {
+          "segmentId": "s009",
+          "start": 29.06,
+          "end": 32.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 34.34,
+          "end": 36.74
+        },
+        {
+          "segmentId": "s011",
+          "start": 37.86,
+          "end": 44.1
+        },
+        {
+          "segmentId": "s012",
+          "start": 45.58,
+          "end": 47.62
+        },
+        {
+          "segmentId": "s013",
+          "start": 48.98,
+          "end": 53.44
+        },
+        {
+          "segmentId": "s014",
+          "start": 54.68,
+          "end": 57.2
+        },
+        {
+          "segmentId": "s015",
+          "start": 57.9,
+          "end": 60.9
+        },
+        {
+          "segmentId": "s016",
+          "start": 62.22,
+          "end": 66.04
+        },
+        {
+          "segmentId": "s017",
+          "start": 67.06,
+          "end": 72.4
+        },
+        {
+          "segmentId": "s018",
+          "start": 73.48,
+          "end": 75.86
+        },
+        {
+          "segmentId": "s019",
+          "start": 77.2,
+          "end": 82.34
+        },
+        {
+          "segmentId": "s020",
+          "start": 83.22,
+          "end": 84.82
+        }
+      ]
+    }
+  ]
+}

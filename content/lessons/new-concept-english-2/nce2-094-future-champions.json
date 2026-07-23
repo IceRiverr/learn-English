@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-094-future-champions",
+    "kind": "textbook",
+    "title": "Lesson 94: Future Champions",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What kind of race do the children compete in?",
+      "translation": {
+        "text": "孩子们参加的是哪种比赛？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "translation": {
+        "text": "实验已经证明，孩子很小的时候就可以学习游泳。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Underwater, even before they can walk.",
+      "translation": {
+        "text": "甚至在学会走路之前，就可以在水下训练。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Babies of two months old do not appear to be reluctant to enter the water.",
+      "translation": {
+        "text": "两个月大的婴儿似乎并不抗拒下水。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.",
+      "translation": {
+        "text": "没过多久，他们就会习惯游泳，甚至能从池底捡起重物。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "translation": {
+        "text": "这些小游泳者非常喜欢的一项游戏是水下三轮车比赛。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Tricycles are lined up on the floor of the pool seven feet underwater.",
+      "translation": {
+        "text": "三轮车在水深七英尺的池底排成一列。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The children compete against each other to reach the other end of the pool.",
+      "translation": {
+        "text": "孩子们相互竞赛，看谁先到达游泳池另一端。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Many pedal their tricycles, but most of them prefer to push or drag them.",
+      "translation": {
+        "text": "许多孩子蹬着三轮车，但大多数更喜欢推着或拖着车前进。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Some children can cover the whole length of the pool without coming up for breath even once.",
+      "translation": {
+        "text": "有些孩子一次也不用浮上来换气，就能游完整个泳池。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Whether they will ever become future Olympic champions, only time will tell.",
+      "translation": {
+        "text": "他们将来是否会成为奥运冠军，只有时间能够证明。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.",
+      "translation": {
+        "text": "与此同时，他们应该能鼓舞我们当中那些游不到五码就喘不过气来的人。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-094-future-champions-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1902654,
+        "sha256": "60bea1a0d5f22e430dc381c30adaa68344eff14d5672eb60a3f25b42a2e3be5f"
+      },
+      "duration": 109.61,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.61,
+          "end": 9.67
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.49,
+          "end": 14.69
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.67,
+          "end": 23.57
+        },
+        {
+          "segmentId": "s004",
+          "start": 31.93,
+          "end": 35.23
+        },
+        {
+          "segmentId": "s005",
+          "start": 36.71,
+          "end": 42.13
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.67,
+          "end": 50.25
+        },
+        {
+          "segmentId": "s007",
+          "start": 51.07,
+          "end": 58.05
+        },
+        {
+          "segmentId": "s008",
+          "start": 59.73,
+          "end": 64.91
+        },
+        {
+          "segmentId": "s009",
+          "start": 66.29,
+          "end": 71.13
+        },
+        {
+          "segmentId": "s010",
+          "start": 72.29,
+          "end": 78.59
+        },
+        {
+          "segmentId": "s011",
+          "start": 79.59,
+          "end": 86.75
+        },
+        {
+          "segmentId": "s012",
+          "start": 88.25,
+          "end": 93.65
+        },
+        {
+          "segmentId": "s013",
+          "start": 94.63,
+          "end": 102.65
+        }
+      ]
+    }
+  ]
+}

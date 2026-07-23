@@ -23,11 +23,21 @@ import {
   type SavedProgress,
   type Segment
 } from "./db";
-import { lessonCollections, lessons, type Lesson } from "./lessons";
+import {
+  assembleRuntimeLesson,
+  catalogDocumentSchema,
+  collectionDocumentSchema,
+  lessonDocumentSchema,
+  resolveAudioSourceUrl,
+  resolveContentSourceUrl,
+  type CatalogDocument,
+  type CollectionDocument,
+  type CollectionLessonSummary,
+  type RuntimeLesson
+} from "./content";
 import {
   ArrowLeftIcon,
   CheckIcon,
-  ChevronDownIcon,
   DownloadIcon,
   LoaderIcon,
   LocateIcon,
@@ -40,32 +50,6 @@ import {
   TrashIcon
 } from "./icons";
 
-const groupedLessons = lessonCollections.map((collection) => ({
-  ...collection,
-  lessons: lessons.filter((lesson) => lesson.collection === collection.id)
-}));
-
-const transcriptSchema = z.object({
-  version: z.literal(1),
-  course: z.object({
-    id: z.string().min(1),
-    title: z.string().min(1),
-    audioFilename: z.string().min(1),
-    duration: z.number().positive(),
-    revision: z.number().int().positive().optional(),
-    language: z.string().min(1).optional()
-  }),
-  segments: z.array(z.object({
-    id: z.string().min(1),
-    start: z.number().nonnegative(),
-    end: z.number().positive(),
-    text: z.string().min(1),
-    translations: z.record(z.string(), z.string().min(1)).optional(),
-    speaker: z.string().min(1).optional()
-  })).min(1)
-});
-
-type TranscriptInput = z.infer<typeof transcriptSchema>;
 const speeds = [0.75, 0.9, 1, 1.25, 1.5] as const;
 const translationLanguage = "zh-Hans";
 const translationPreferenceKey = "show-translation";
@@ -74,12 +58,17 @@ const repeatLimits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "infinite"] as const;
 type RepeatLimit = (typeof repeatLimits)[number];
 type OpenPlayerMenu = "speed" | "repeat" | "reading" | undefined;
 type PlayerView = "focus" | "transcript";
-type AppView = "library" | "player";
+type AppView = "library" | "collection" | "player";
+type Lesson = CollectionLessonSummary;
 type LoadedLesson = {
   course: Course;
   audio?: Blob;
   source?: string;
   isLocal: boolean;
+};
+type PublishedLesson = {
+  course: RuntimeLesson;
+  audioUrl: string;
 };
 type ResumePreview = {
   lesson: Lesson;
@@ -186,29 +175,31 @@ function isCourseComplete(currentTime: number, duration: number): boolean {
   return currentTime > 0 && (currentTime >= duration * 0.98 || duration - currentTime <= 10);
 }
 
-function parseDurationLabel(value: string): number | undefined {
-  const parts = value.split(":").map(Number);
-  if (parts.length !== 2 || parts.some((part) => !Number.isFinite(part) || part < 0)) return undefined;
-  return parts[0] * 60 + parts[1];
+function formatDuration(value: number): string {
+  const totalSeconds = Math.floor(value);
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor(totalSeconds % 3600 / 60);
+  const seconds = totalSeconds % 60;
+  return hours > 0
+    ? `${hours}:${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`
+    : `${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`;
 }
 
-function validateTimeline(input: TranscriptInput, actualDuration: number, filename: string): void {
-  if (input.course.audioFilename !== filename) {
-    throw new Error(`字幕要求 ${input.course.audioFilename}，但音频是 ${filename}。`);
-  }
-  if (Math.abs(input.course.duration - actualDuration) > 3) {
+function formatSize(bytes: number): string {
+  return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+}
+
+function validateTimeline(course: Course, actualDuration: number): void {
+  if (Math.abs(course.duration - actualDuration) > 3) {
     throw new Error("字幕记录的时长与音频实际时长不一致。");
   }
 
   const ids = new Set<string>();
-  for (let index = 0; index < input.segments.length; index += 1) {
-    const segment = input.segments[index];
+  for (let index = 0; index < course.segments.length; index += 1) {
+    const segment = course.segments[index];
     if (ids.has(segment.id)) throw new Error(`字幕 ID ${segment.id} 重复。`);
     ids.add(segment.id);
     if (segment.end <= segment.start) throw new Error(`字幕 ${segment.id} 的结束时间必须大于开始时间。`);
-    if (index > 0 && segment.start < input.segments[index - 1].end) {
-      throw new Error(`字幕 ${segment.id} 与上一条字幕重叠。`);
-    }
     if (segment.end > actualDuration + 1) throw new Error(`字幕 ${segment.id} 超出了音频时长。`);
   }
 }
@@ -230,18 +221,6 @@ function readAudioDuration(audio: Blob): Promise<number> {
   });
 }
 
-function courseFromTranscript(input: TranscriptInput, duration = input.course.duration): Omit<Course, "audioLocation"> {
-  return {
-    id: input.course.id,
-    title: input.course.title,
-    audioFilename: input.course.audioFilename,
-    duration,
-    revision: input.course.revision,
-    language: input.course.language,
-    segments: input.segments
-  };
-}
-
 function translationCount(course: Course): number {
   return course.segments.filter((segment) => Boolean(segment.translations?.[translationLanguage])).length;
 }
@@ -256,19 +235,37 @@ function formatTime(value: number): string {
 function messageFromError(error: unknown): string {
   if (error instanceof z.ZodError) {
     const issue = error.issues[0];
-    return `字幕格式错误：${issue.path.join(".")} ${issue.message}`;
+    return `内容格式错误：${issue.path.join(".")} ${issue.message}`;
   }
   return error instanceof Error ? error.message : "发生了未知错误。";
 }
 
-async function fetchTranscript(lesson: Lesson): Promise<TranscriptInput> {
-  const response = await fetch(lesson.transcriptUrl);
+async function fetchCatalog(): Promise<CatalogDocument> {
+  const response = await fetch("/content/catalog.json");
+  if (!response.ok) throw new Error("听力库目录加载失败，请检查网络连接。");
+  return catalogDocumentSchema.parse(await response.json());
+}
+
+async function fetchCollection(documentKey: string, expectedId: string): Promise<CollectionDocument> {
+  const response = await fetch(resolveContentSourceUrl(documentKey));
+  if (!response.ok) throw new Error("系列内容加载失败，请检查网络连接。");
+  const document = collectionDocumentSchema.parse(await response.json());
+  if (document.id !== expectedId) throw new Error("系列内容与听力库目录不匹配。");
+  return document;
+}
+
+async function fetchPublishedLesson(lesson: Lesson): Promise<PublishedLesson> {
+  const response = await fetch(resolveContentSourceUrl(lesson.documentKey));
   if (!response.ok) throw new Error("字幕加载失败，请检查网络连接。");
-  const input = transcriptSchema.parse(await response.json());
-  const filename = lesson.audioUrl.split("/").at(-1) ?? "";
-  validateTimeline(input, input.course.duration, filename);
-  if (input.course.id !== lesson.id) throw new Error("字幕内容与听力列表不匹配。");
-  return input;
+  const document = lessonDocumentSchema.parse(await response.json());
+  if (document.lesson.id !== lesson.id) throw new Error("字幕内容与听力列表不匹配。");
+  const course = assembleRuntimeLesson(document);
+  const rendition = document.renditions.find(({ id }) => id === document.lesson.defaultRenditionId);
+  if (!rendition) throw new Error("默认英文原声音频不存在。");
+  return {
+    course,
+    audioUrl: resolveAudioSourceUrl(rendition.audio.key, rendition.audio.sha256)
+  };
 }
 
 export default function App() {
@@ -324,8 +321,22 @@ export default function App() {
   const [error, setError] = useState("");
   const [compactHeaderVisible, setCompactHeaderVisible] = useState(false);
   const [appView, setAppView] = useState<AppView>("library");
+  const [selectedCollectionId, setSelectedCollectionId] = useState<string>();
+  const [playerCollectionId, setPlayerCollectionId] = useState<string>();
   const [resumePreview, setResumePreview] = useState<ResumePreview>();
   const [resumeFromCompleted, setResumeFromCompleted] = useState(false);
+  const [catalog, setCatalog] = useState<CatalogDocument>();
+  const [collections, setCollections] = useState<CollectionDocument[]>([]);
+  const lessons = useMemo(() => {
+    const byId = new Map<string, Lesson>();
+    for (const collection of collections) {
+      for (const lesson of collection.lessons) {
+        if (!byId.has(lesson.id)) byId.set(lesson.id, lesson);
+      }
+    }
+    return [...byId.values()];
+  }, [collections]);
+  const libraryReady = Boolean(catalog) && collections.length === catalog?.collections.length;
 
   function replaceObjectUrl(blob?: Blob): string | undefined {
     if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
@@ -349,8 +360,8 @@ export default function App() {
       let localCourse = saved;
       if (translationCount(saved) < saved.segments.length) {
         try {
-          const input = await fetchTranscript(lesson);
-          const latestCourse = courseFromTranscript(input, saved.duration);
+          const published = await fetchPublishedLesson(lesson);
+          const latestCourse = { ...published.course, duration: saved.duration };
           if (translationCount(latestCourse) > translationCount(saved)
             || (latestCourse.revision ?? 0) > (saved.revision ?? 0)) {
             localCourse = (await saveCourseMetadata(latestCourse)) ?? saved;
@@ -362,10 +373,10 @@ export default function App() {
       return { course: localCourse, audio, isLocal: true };
     }
 
-    const input = await fetchTranscript(lesson);
+    const published = await fetchPublishedLesson(lesson);
     return {
-      course: courseFromTranscript(input),
-      source: lesson.audioUrl,
+      course: published.course,
+      source: published.audioUrl,
       isLocal: false
     };
   }
@@ -433,18 +444,46 @@ export default function App() {
 
   useEffect(() => {
     let cancelled = false;
+    const loadLibrary = async () => {
+      const nextCatalog = await fetchCatalog();
+      const nextCollections = await Promise.all(nextCatalog.collections.map((collection) =>
+        fetchCollection(collection.documentKey, collection.id)
+      ));
+      if (cancelled) return;
+      setCatalog(nextCatalog);
+      setCollections(nextCollections);
+    };
+    loadLibrary().catch((libraryError) => {
+      if (!cancelled) {
+        setError(messageFromError(libraryError));
+        setCheckingDownloads(false);
+      }
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!libraryReady) return;
+    let cancelled = false;
+    setCheckingDownloads(true);
     refreshDownloadedCourses()
       .catch((restoreError) => !cancelled && setError(messageFromError(restoreError)))
       .finally(() => !cancelled && setCheckingDownloads(false));
     return () => {
       cancelled = true;
+    };
+  }, [libraryReady, lessons]);
+
+  useEffect(() => () => {
       clearRepeatTimer();
       cancelAnimationFrame(wordSyncFrameRef.current);
       if (objectUrl.current) URL.revokeObjectURL(objectUrl.current);
-    };
   }, []);
 
   useEffect(() => {
+    if (!libraryReady) return;
     let cancelled = false;
     const requestId = ++sessionRequestRef.current;
 
@@ -495,7 +534,7 @@ export default function App() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [libraryReady, lessons]);
 
   useEffect(() => {
     if (loopSegment === undefined || !course) return;
@@ -671,11 +710,12 @@ export default function App() {
     return true;
   }
 
-  async function openLesson(lesson: Lesson, silentFailure = false) {
+  async function openLesson(lesson: Lesson, silentFailure = false, collectionId = selectedCollectionId) {
     if (busy || downloading) return;
     if (course?.id === lesson.id && audioUrl) {
       void saveLastPlayed(lesson.id);
       setOpenPlayerMenu(undefined);
+      setPlayerCollectionId(collectionId);
       setAppView("player");
       window.scrollTo({ top: 0, behavior: "auto" });
       return;
@@ -693,7 +733,10 @@ export default function App() {
       if (requestId !== sessionRequestRef.current) return;
       const source = loaded.audio ? replaceObjectUrl(loaded.audio)! : replaceObjectUrl() ?? loaded.source!;
       const shown = await showCourse(loaded.course, source, loaded.isLocal, { requestId });
-      if (shown) setResumePreview({ lesson, currentTime: restoreTime.current, unavailable: false });
+      if (shown) {
+        setPlayerCollectionId(collectionId);
+        setResumePreview({ lesson, currentTime: restoreTime.current, unavailable: false });
+      }
     } catch (openError) {
       if (requestId === sessionRequestRef.current) {
         if (silentFailure) {
@@ -717,12 +760,13 @@ export default function App() {
     setDownloading(lesson.id);
     setError("");
     try {
-      const [audioResponse, input] = await Promise.all([fetch(lesson.audioUrl), fetchTranscript(lesson)]);
+      const published = await fetchPublishedLesson(lesson);
+      const audioResponse = await fetch(published.audioUrl);
       if (!audioResponse.ok) throw new Error("音频下载失败，请检查网络连接或存储空间。");
       const audio = await audioResponse.blob();
       const duration = await readAudioDuration(audio);
-      validateTimeline(input, duration, lesson.audioUrl.split("/").at(-1) ?? "");
-      await saveCourse(courseFromTranscript(input, duration), audio);
+      validateTimeline(published.course, duration);
+      await saveCourse({ ...published.course, duration }, audio);
       setDownloaded((current) => ({ ...current, [lesson.id]: true }));
       try {
         await navigator.storage?.persist?.();
@@ -923,7 +967,12 @@ export default function App() {
     }
     setOpenPlayerMenu(undefined);
     setCompactHeaderVisible(false);
-    setAppView("library");
+    if (playerCollectionId && collections.some(({ id }) => id === playerCollectionId)) {
+      setSelectedCollectionId(playerCollectionId);
+      setAppView("collection");
+    } else {
+      setAppView("library");
+    }
     window.scrollTo({ top: 0, behavior: "auto" });
   }
 
@@ -967,7 +1016,7 @@ export default function App() {
     setResumePreview(catalogLesson
       ? { lesson: catalogLesson, currentTime: savedTime, unavailable: !navigator.onLine }
       : undefined);
-    setAppView("library");
+    setAppView(playerCollectionId ? "collection" : "library");
     window.scrollTo({ top: 0, behavior: "auto" });
   }
 
@@ -1037,10 +1086,40 @@ export default function App() {
     />
   ) : null;
 
-  if (appView === "library" || !course || !audioUrl) {
+  if (!libraryReady) {
+    return (
+      <main className="center-card catalog-loading">
+        <span className="library-mark" aria-hidden="true">
+          <i />
+          <i />
+          <i />
+          <i />
+        </span>
+        <h1>英语精听</h1>
+        {error
+          ? <p className="error" role="alert">{error}</p>
+          : <p className="intro" role="status">正在加载听力库…</p>}
+      </main>
+    );
+  }
+
+  if (appView !== "player" || !course || !audioUrl) {
+    const selectedCollection = collections.find(({ id }) => id === selectedCollectionId);
+    const collectionLessons = selectedCollection?.lessons ?? [];
+    const quantityLabels = {
+      course: "课",
+      podcast: "集",
+      album: "首",
+      book: "章",
+      curated: "项",
+      series: "项"
+    } as const;
+    const courseCollections = collections.filter(({ kind }) => kind === "course");
+    const podcastCollections = collections.filter(({ kind }) => kind === "podcast");
+    const lessonCount = lessons.length;
     const miniSegment = course?.segments[currentSegment];
     const resumeLesson = course ? lessons.find((lesson) => lesson.id === course.id) : resumePreview?.lesson;
-    const resumeDuration = course?.duration ?? (resumeLesson ? parseDurationLabel(resumeLesson.durationLabel) : undefined);
+    const resumeDuration = course?.duration ?? resumeLesson?.duration;
     const resumeTime = course ? currentTime : resumePreview?.currentTime ?? 0;
     const resumeComplete = resumeFromCompleted
       || (resumeDuration !== undefined && isCourseComplete(resumeTime, resumeDuration));
@@ -1054,50 +1133,128 @@ export default function App() {
       <>
       {sharedAudio}
       <main className={resumeTitle ? "center-card course-home has-mini-player" : "center-card course-home"}>
-        <header className="course-home-header">
-          <h1>英语精听</h1>
-          <p className="intro">选择一篇，开始逐句练习。</p>
-        </header>
-
-        <section className="course-list" aria-label="听力内容">
-          {groupedLessons.map((group) => (
-            <details className="course-group" key={group.id}>
-              <summary>
-                <ChevronDownIcon className="course-group-icon" />
-                <strong>{group.title}</strong>
-                <span>{group.lessons.length} 篇</span>
-              </summary>
-              <div className="course-group-list">
-                {group.lessons.map((lesson) => {
-                  const isDownloading = downloading === lesson.id;
-                  const isDownloaded = downloaded[lesson.id];
-                  return (
-                    <div className="course-row" key={lesson.id}>
-                      <button className="course-open" onClick={() => void openLesson(lesson)} disabled={busy || Boolean(downloading)}>
-                        <span className="course-copy">
-                          <strong>{lesson.title}</strong>
-                          <span>{lesson.durationLabel}{lesson.sizeLabel ? ` · ${lesson.sizeLabel}` : ""}</span>
-                        </span>
-                      </button>
-                      <button
-                        className={isDownloaded ? "download downloaded" : "download"}
-                        disabled={checkingDownloads || isDownloading || isDownloaded}
-                        onClick={() => void downloadLesson(lesson)}
-                      >
-                        {checkingDownloads || isDownloading
-                          ? <LoaderIcon className="button-icon loading-icon" />
-                          : isDownloaded
-                            ? <CheckIcon className="button-icon" />
-                            : <DownloadIcon className="button-icon" />}
-                        <span>{checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}</span>
-                      </button>
-                    </div>
-                  );
-                })}
+        {appView === "collection" && selectedCollection ? (
+          <>
+            <header className="course-home-header collection-header">
+              <button className="library-back" onClick={() => {
+                setAppView("library");
+                window.scrollTo({ top: 0, behavior: "auto" });
+              }}><ArrowLeftIcon />返回听力库</button>
+              <h1>{selectedCollection.title}</h1>
+              <p className="intro">{selectedCollection.subtitle ?? (selectedCollection.kind === "podcast" ? "Podcast" : "课程")}</p>
+            </header>
+            <section className="course-list collection-list" aria-label={`${selectedCollection.title}内容`}>
+              {collectionLessons.map((lesson) => {
+                const isDownloading = downloading === lesson.id;
+                const isDownloaded = downloaded[lesson.id];
+                return (
+                  <div className="course-row" key={lesson.id}>
+                    <button className="course-open" onClick={() => void openLesson(lesson, false, selectedCollection.id)}
+                      disabled={busy || Boolean(downloading)}>
+                      <span className="course-copy">
+                        <strong>{lesson.title}</strong>
+                        <span>{formatDuration(lesson.duration)} · 英文原声{lesson.availableLanguages.includes("zh-Hans") ? " · 中文译文" : ""} · {formatSize(lesson.byteLength)}</span>
+                      </span>
+                    </button>
+                    <button
+                      className={isDownloaded ? "download downloaded" : "download"}
+                      disabled={checkingDownloads || isDownloading || isDownloaded}
+                      onClick={() => void downloadLesson(lesson)}
+                    >
+                      {checkingDownloads || isDownloading
+                        ? <LoaderIcon className="button-icon loading-icon" />
+                        : isDownloaded
+                          ? <CheckIcon className="button-icon" />
+                          : <DownloadIcon className="button-icon" />}
+                      <span>{checkingDownloads ? "检查中…" : isDownloading ? "下载中…" : isDownloaded ? "已下载" : "下载"}</span>
+                    </button>
+                  </div>
+                );
+              })}
+            </section>
+          </>
+        ) : (
+          <>
+            <header className="course-home-header library-hero">
+              <div className="library-hero-title">
+                <span className="library-mark" aria-hidden="true">
+                  <i />
+                  <i />
+                  <i />
+                  <i />
+                </span>
+                <div>
+                  <p className="library-eyebrow">听力资源库</p>
+                  <h1>英语精听</h1>
+                </div>
               </div>
-            </details>
-          ))}
-        </section>
+              <p className="intro">选择一个系列，从一句听懂开始。</p>
+              <div className="library-stats" aria-label={`${collections.length} 个系列，共 ${lessonCount} 份内容`}>
+                <span><strong>{collections.length}</strong> 个系列</span>
+                <i aria-hidden="true" />
+                <span><strong>{lessonCount}</strong> 份内容</span>
+              </div>
+            </header>
+            <section className="collection-shelves" aria-label="听力库">
+              <div className="collection-shelf">
+                <div className="collection-shelf-header">
+                  <div>
+                    <span>循序渐进</span>
+                    <h2>系统课程</h2>
+                  </div>
+                  <small>{courseCollections.length} 个系列</small>
+                </div>
+                <div className="collection-grid">
+                  {courseCollections.map((collection, index) => (
+                    <button className="collection-card collection-card-course" key={collection.id} onClick={() => {
+                      setSelectedCollectionId(collection.id);
+                      setAppView("collection");
+                      window.scrollTo({ top: 0, behavior: "auto" });
+                    }}>
+                      <span className="collection-card-meta">
+                        <span className="collection-card-index">第 {String(index + 1).padStart(2, "0")} 册</span>
+                        <span className="collection-card-arrow" aria-hidden="true">→</span>
+                      </span>
+                      <span className="collection-card-copy">
+                        <strong>{collection.title}</strong>
+                        {collection.subtitle && <span>{collection.subtitle}</span>}
+                      </span>
+                      <small>{collection.lessons.length} {quantityLabels[collection.kind]}</small>
+                    </button>
+                  ))}
+                </div>
+              </div>
+              <div className="collection-shelf">
+                <div className="collection-shelf-header">
+                  <div>
+                    <span>真实语境</span>
+                    <h2>精选播客</h2>
+                  </div>
+                  <small>{podcastCollections.length} 个系列</small>
+                </div>
+                <div className="collection-grid">
+                  {podcastCollections.map((collection) => (
+                    <button className="collection-card collection-card-podcast" key={collection.id} onClick={() => {
+                      setSelectedCollectionId(collection.id);
+                      setAppView("collection");
+                      window.scrollTo({ top: 0, behavior: "auto" });
+                    }}>
+                      <span className="collection-card-meta">
+                        <span className="collection-card-index">PODCAST</span>
+                        <span className="collection-card-arrow" aria-hidden="true">→</span>
+                      </span>
+                      <span className="collection-card-copy">
+                        <strong>{collection.title}</strong>
+                        <span>{collection.subtitle ?? "英文访谈"}</span>
+                      </span>
+                      <small>{collection.lessons.length} {quantityLabels[collection.kind]}</small>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </section>
+          </>
+        )}
 
         {error && <p className="error" role="alert">{error}</p>}
       </main>
@@ -1138,7 +1295,7 @@ export default function App() {
       <div className={compactHeaderVisible ? "compact-player-header visible" : "compact-player-header"}
         aria-hidden={!compactHeaderVisible}>
         <div className="compact-player-header-inner">
-          <button className="back" aria-label="返回首页" title="返回首页" disabled={!compactHeaderVisible}
+          <button className="back" aria-label="返回听力库" title="返回听力库" disabled={!compactHeaderVisible}
             tabIndex={compactHeaderVisible ? 0 : -1}
             onClick={returnToCourses}>
             <ArrowLeftIcon />
@@ -1157,7 +1314,7 @@ export default function App() {
       </div>
       <header className="player-header">
         <div className="player-topbar">
-          <button className="back" aria-label="返回首页" title="返回首页" onClick={returnToCourses}>
+          <button className="back" aria-label="返回听力库" title="返回听力库" onClick={returnToCourses}>
             <ArrowLeftIcon />
           </button>
           {localPlayback && <button className="delete" onClick={() => void removeCurrentCourse()}><TrashIcon className="button-icon" />删除下载</button>}

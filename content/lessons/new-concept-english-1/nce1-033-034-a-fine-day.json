@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-033-034-a-fine-day",
+    "kind": "textbook",
+    "title": "Lesson 33: A fine day",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 33.",
+      "translation": {
+        "text": "第33课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Fine Day.",
+      "translation": {
+        "text": "天气晴朗。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Where is the Jones family?",
+      "translation": {
+        "text": "琼斯一家在哪里？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "It is a fine day today.",
+      "translation": {
+        "text": "今天天气很好。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "There are some clouds in the sky, but the sun is shining.",
+      "translation": {
+        "text": "天空中有几朵云，但阳光灿烂。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Mr.",
+      "translation": {
+        "text": "琼斯先生"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Jones is with his family.",
+      "translation": {
+        "text": "琼斯和家人在一起。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "They are walking over the bridge.",
+      "translation": {
+        "text": "他们正走过桥。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "There are some boats on the river.",
+      "translation": {
+        "text": "河上有几条船。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Mr.",
+      "translation": {
+        "text": "琼斯"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Jones and his wife are looking at them.",
+      "translation": {
+        "text": "先生和他的妻子正在看着它们。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Sally is looking at a big ship.",
+      "translation": {
+        "text": "萨莉正在看一艘大轮船。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The ship is going under the bridge.",
+      "translation": {
+        "text": "那艘轮船正从桥下驶过。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Tim is looking at an airplane.",
+      "translation": {
+        "text": "蒂姆正在看一架飞机。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The airplane is flying over the river.",
+      "translation": {
+        "text": "那架飞机正从河上空飞过。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-033-034-a-fine-day-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1238414,
+        "sha256": "a09cda0212ca4e489827c0c44c855a434e96a1f33a2f357e2995b8859986b938"
+      },
+      "duration": 69.329,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.4,
+          "end": 2.06
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.38,
+          "end": 4.5
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.22,
+          "end": 10
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.62,
+          "end": 13.62
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.15,
+          "end": 18.59
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.93,
+          "end": 26.11
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.31,
+          "end": 28.17
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.83,
+          "end": 30.45
+        },
+        {
+          "segmentId": "s009",
+          "start": 31.77,
+          "end": 34.11
+        },
+        {
+          "segmentId": "s010",
+          "start": 35.89,
+          "end": 38.41
+        },
+        {
+          "segmentId": "s011",
+          "start": 39.91,
+          "end": 40.35
+        },
+        {
+          "segmentId": "s012",
+          "start": 40.53,
+          "end": 44.13
+        },
+        {
+          "segmentId": "s013",
+          "start": 46.31,
+          "end": 48.69
+        },
+        {
+          "segmentId": "s014",
+          "start": 50.19,
+          "end": 53.19
+        },
+        {
+          "segmentId": "s015",
+          "start": 54.19,
+          "end": 57.51
+        },
+        {
+          "segmentId": "s016",
+          "start": 59.45,
+          "end": 63.05
+        }
+      ]
+    }
+  ]
+}

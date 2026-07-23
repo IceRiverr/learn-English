@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-003-an-unknown-goddess",
+    "kind": "textbook",
+    "title": "Lesson 3: An Unknown Goddess",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "How did the archaeologists know that the statue was a goddess?",
+      "translation": {
+        "text": "考古学家是怎么知道这尊塑像是一位女神的？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kia.",
+      "translation": {
+        "text": "不久以前，考古学家在爱琴海的基亚岛上有了一项有趣的发现。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "An American team explored a temple which stands in an ancient city on the promontory of Aegea Irene.",
+      "translation": {
+        "text": "一支美国考古队考察了坐落在阿伊亚·伊里尼海角一座古城中的神庙。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The city at one time must have been prosperous, for it enjoyed a high level of often three stories high, were built of stone.",
+      "translation": {
+        "text": "这座城市当年一定很繁荣，因为它的文明程度很高，石头建成的房屋往往高达三层。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "They had large rooms with beautifully decorated walls.",
+      "translation": {
+        "text": "房间宽敞，墙壁装饰得十分精美。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.",
+      "translation": {
+        "text": "城里甚至还有排水系统，因为在狭窄的街道下面发现了许多陶制管道。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "The temple which the archaeologists explored was used as a place of worship from the 15th BC until Roman times.",
+      "translation": {
+        "text": "考古学家考察的这座神庙，从公元前15世纪直至罗马时代一直是祭祀场所。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "In the most sacred room of the temple, clay fragments of 15 statues were found.",
+      "translation": {
+        "text": "在神庙最神圣的房间里，发现了15尊塑像的陶制碎片。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Each of these represented a goddess and had, at one time, been painted.",
+      "translation": {
+        "text": "每尊塑像代表一位女神，而且都曾上过色。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The body of one statue was found among remains dating from the 15th BC.",
+      "translation": {
+        "text": "其中一尊塑像的躯干是在公元前15世纪的遗迹中发现的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Its missing head happened to be among remains of the 5th BC.",
+      "translation": {
+        "text": "而它失落的头部碰巧出现在公元前5世纪的遗迹中。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "This head must have been found in classical times and carefully preserved.",
+      "translation": {
+        "text": "这个头部一定是在古典时期被发现并被精心保存了下来。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It was very old and precious even then.",
+      "translation": {
+        "text": "即使在当时，它也已经非常古老而珍贵。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern looking woman.",
+      "translation": {
+        "text": "考古学家把碎片重新拼合起来后，惊讶地发现这位女神竟是一位相貌十分现代的女子。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "She stood three feet high and her hands rested on her hips.",
+      "translation": {
+        "text": "她有三英尺高，双手叉腰。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "She was wearing a full length skirt which swept the ground.",
+      "translation": {
+        "text": "她穿着一条曳地长裙。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.",
+      "translation": {
+        "text": "尽管年代久远，她的姿态仍十分优雅；不过到目前为止，考古学家仍未能查明她的身份。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-003-an-unknown-goddess-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2332736,
+        "sha256": "2802ac98368f77e8e1fb41aa6f00e3a35ce25c9a6ddfb00e6b20377002a4e1de"
+      },
+      "duration": 136.542,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.23,
+          "end": 8.23
+        },
+        {
+          "segmentId": "s002",
+          "start": 10.72,
+          "end": 14.42
+        },
+        {
+          "segmentId": "s003",
+          "start": 16.32,
+          "end": 23.22
+        },
+        {
+          "segmentId": "s004",
+          "start": 24.28,
+          "end": 31.22
+        },
+        {
+          "segmentId": "s005",
+          "start": 32.2,
+          "end": 43.24
+        },
+        {
+          "segmentId": "s006",
+          "start": 44.02,
+          "end": 47.3
+        },
+        {
+          "segmentId": "s007",
+          "start": 48.26,
+          "end": 55.66
+        },
+        {
+          "segmentId": "s008",
+          "start": 56.98,
+          "end": 66
+        },
+        {
+          "segmentId": "s009",
+          "start": 67.16,
+          "end": 73.22
+        },
+        {
+          "segmentId": "s010",
+          "start": 74.26,
+          "end": 79.06
+        },
+        {
+          "segmentId": "s011",
+          "start": 79.96,
+          "end": 85.92
+        },
+        {
+          "segmentId": "s012",
+          "start": 86.98,
+          "end": 91.7
+        },
+        {
+          "segmentId": "s013",
+          "start": 92.74,
+          "end": 96.94
+        },
+        {
+          "segmentId": "s014",
+          "start": 97.78,
+          "end": 100.74
+        },
+        {
+          "segmentId": "s015",
+          "start": 101.74,
+          "end": 110
+        },
+        {
+          "segmentId": "s016",
+          "start": 111.02,
+          "end": 114.8
+        },
+        {
+          "segmentId": "s017",
+          "start": 115.74,
+          "end": 118.92
+        },
+        {
+          "segmentId": "s018",
+          "start": 120.06,
+          "end": 129.72
+        }
+      ]
+    }
+  ]
+}

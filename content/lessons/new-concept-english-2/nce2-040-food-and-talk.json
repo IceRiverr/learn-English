@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-040-food-and-talk",
+    "kind": "textbook",
+    "title": "Lesson 40: Food and Talk",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Was Mrs.",
+      "translation": {
+        "text": "兰伯尔德太太"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Rumbold a good companion at dinner?",
+      "translation": {
+        "text": "是个很好的宴席同伴吗？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Last week, at a dinner party, the hostess asked me to sit next to Mrs.",
+      "translation": {
+        "text": "上星期的一次宴会上，女主人让我坐在兰伯尔德太太"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Rumbold.",
+      "translation": {
+        "text": "旁边。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Mrs.",
+      "translation": {
+        "text": "兰伯尔德"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Rumbold was a large, unsmiling lady in a tight black dress.",
+      "translation": {
+        "text": "太太身材高大，穿着一件紧身黑连衣裙，脸上毫无笑容。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "She did not even look up when I took my seat beside her.",
+      "translation": {
+        "text": "我在她身边坐下时，她甚至没有抬头看一眼。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Her eyes were fixed on her plate, and in a short time, she was busy eating.",
+      "translation": {
+        "text": "她的眼睛紧盯着盘子，很快便忙着吃了起来。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "I tried to make conversation.",
+      "translation": {
+        "text": "我试图和她攀谈。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "A new play is coming to the globe soon, I said.",
+      "translation": {
+        "text": "“环球剧场不久要上演一出新戏，”我说，"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Will you be seeing it?",
+      "translation": {
+        "text": "“您会去看吗？”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "No, she answered.",
+      "translation": {
+        "text": "“不，”她回答。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Will you be spending your holidays abroad this year?",
+      "translation": {
+        "text": "“今年您会去国外度假吗？”"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I asked.",
+      "translation": {
+        "text": "我问。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "No, she answered.",
+      "translation": {
+        "text": "“不，”她回答。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Will you be staying in England?",
+      "translation": {
+        "text": "“您会留在英国吗？”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I asked.",
+      "translation": {
+        "text": "我问。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "No, she answered.",
+      "translation": {
+        "text": "“不，”她回答。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "In despair, I asked her whether she was enjoying her dinner.",
+      "translation": {
+        "text": "绝望之中，我问她是否吃得满意。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Young man, she answered.",
+      "translation": {
+        "text": "“年轻人，”她回答，"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "If you ate more and talked less, we would both enjoy our dinner.",
+      "translation": {
+        "text": "“如果你多吃点、少说点，我们俩都能把饭吃得更香。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-040-food-and-talk-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1653127,
+        "sha256": "539f7eea608de7c82d0b1b8bbf910347c2ac53e08ab623abdb25f9bde763ce0d"
+      },
+      "duration": 94.015,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 4.74,
+          "end": 8.44
+        },
+        {
+          "segmentId": "s002",
+          "start": 9.94,
+          "end": 10.7
+        },
+        {
+          "segmentId": "s003",
+          "start": 10.98,
+          "end": 13.48
+        },
+        {
+          "segmentId": "s004",
+          "start": 15.18,
+          "end": 20.88
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.16,
+          "end": 21.56
+        },
+        {
+          "segmentId": "s006",
+          "start": 22.58,
+          "end": 23.08
+        },
+        {
+          "segmentId": "s007",
+          "start": 23.38,
+          "end": 28.18
+        },
+        {
+          "segmentId": "s008",
+          "start": 28.94,
+          "end": 33.56
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.74,
+          "end": 40.5
+        },
+        {
+          "segmentId": "s010",
+          "start": 41.6,
+          "end": 43.74
+        },
+        {
+          "segmentId": "s011",
+          "start": 44.8,
+          "end": 48.84
+        },
+        {
+          "segmentId": "s012",
+          "start": 50.3,
+          "end": 52.04
+        },
+        {
+          "segmentId": "s013",
+          "start": 52.88,
+          "end": 54.88
+        },
+        {
+          "segmentId": "s014",
+          "start": 54.88,
+          "end": 59.76
+        },
+        {
+          "segmentId": "s015",
+          "start": 61,
+          "end": 61.68
+        },
+        {
+          "segmentId": "s016",
+          "start": 62.9,
+          "end": 65.06
+        },
+        {
+          "segmentId": "s017",
+          "start": 65.82,
+          "end": 67.82
+        },
+        {
+          "segmentId": "s018",
+          "start": 68.56,
+          "end": 69.04
+        },
+        {
+          "segmentId": "s019",
+          "start": 70.02,
+          "end": 71.76
+        },
+        {
+          "segmentId": "s020",
+          "start": 72.94,
+          "end": 77.46
+        },
+        {
+          "segmentId": "s021",
+          "start": 78.42,
+          "end": 80.86
+        },
+        {
+          "segmentId": "s022",
+          "start": 81.7,
+          "end": 87.4
+        }
+      ]
+    }
+  ]
+}

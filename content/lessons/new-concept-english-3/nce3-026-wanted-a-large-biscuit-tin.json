@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-026-wanted-a-large-biscuit-tin",
+    "kind": "textbook",
+    "title": "Lesson 26: Wanted a Large Biscuit Tin",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 26.",
+      "translation": {
+        "text": "第26课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Wanted a Large Biscuit Tin.",
+      "translation": {
+        "text": "征求一个大饼干筒。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Who won the prize for the biggest biscuit?",
+      "translation": {
+        "text": "谁凭最大的饼干赢得了奖品？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "No one can avoid being influenced by advertisements.",
+      "translation": {
+        "text": "没有人能避免受到广告的影响。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us.",
+      "translation": {
+        "text": "尽管我们可能为自己的高雅品味而自豪，却已无法自由选择想要的东西，因为广告在潜移默化地影响着我们。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "In their efforts to persuade us to buy this or that product, advertisers have made a close study of human nature and have classified all our little weaknesses.",
+      "translation": {
+        "text": "为了说服我们购买这种或那种产品，广告商深入研究了人性，并把我们所有的小弱点分门别类。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Advertisers discovered years ago that all of us love to get something for nothing.",
+      "translation": {
+        "text": "多年前广告商就发现，我们人人都喜欢不劳而获。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "An advertisement which begins with the magic word, free, can rarely go wrong.",
+      "translation": {
+        "text": "以“免费”这个神奇词语开头的广告几乎从不会失败。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "These days, advertisers not only offer free samples, but free cars, free houses, and free trips around the world as well.",
+      "translation": {
+        "text": "如今，广告商不仅赠送免费样品，还赠送汽车、房屋以及免费的环球旅行。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "They devise hundreds of competitions which will enable us to win huge sums of money.",
+      "translation": {
+        "text": "他们设计出数百种竞赛，让我们有机会赢得巨额奖金。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Radio and television have made it possible for advertisers to capture the attention of millions of people in this way.",
+      "translation": {
+        "text": "广播和电视使广告商能够用这种方式吸引数百万人的注意。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "During a radio program, a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory.",
+      "translation": {
+        "text": "一家饼干制造公司曾在广播节目中请听众烘烤饼干并寄到工厂。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "They offered to pay ten dollars a pound for the biggest biscuit baked by a listener.",
+      "translation": {
+        "text": "他们愿以每磅10美元的价格购买听众烤出的最大饼干。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "The response to this competition was tremendous.",
+      "translation": {
+        "text": "这项竞赛引起了极其热烈的反响。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Before long, of all shapes and sizes began arriving at the factory.",
+      "translation": {
+        "text": "没过多久，各种形状和大小的饼干便开始送到工厂。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "One lady brought in a biscuit on a wheelbarrow.",
+      "translation": {
+        "text": "一位女士用独轮车推来一块饼干。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It weighed nearly five hundred pounds.",
+      "translation": {
+        "text": "它重近500磅。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "A little later, a man came along with a biscuit which occupied the whole boot of his car.",
+      "translation": {
+        "text": "不久，一个男人又带来一块占满汽车整个后备箱的饼干。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "All the biscuits that were sent were carefully weighed.",
+      "translation": {
+        "text": "所有送来的饼干都经过仔细称重。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The largest was seven hundred thirteen pounds.",
+      "translation": {
+        "text": "最大的一块重713磅。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "It seemed certain that this would win the prize.",
+      "translation": {
+        "text": "看来它肯定会获奖。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "But just before the competition closed, lorry arrived at the factory with a truly colossal biscuit which weighed two thousand four hundred pounds.",
+      "translation": {
+        "text": "但就在竞赛截止前，一辆卡车载着一块真正巨大的饼干来到工厂，重达2,400磅。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "It had been baked by a college student who had used over one thousand pounds of flour, eight hundred pounds of sugar, two hundred pounds of fat, and four hundred pounds of various other ingredients.",
+      "translation": {
+        "text": "它是一名大学生烤制的，使用了1,000多磅面粉、800磅糖、200磅油脂和400磅其他各种原料。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "It was so heavy that a crane had to be used to remove it from the lorry.",
+      "translation": {
+        "text": "饼干太重，只得用起重机把它从卡车上卸下来。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student for twenty-four thousand dollars.",
+      "translation": {
+        "text": "制造商支付的钱比预想的多，因为他们以24,000美元向这名学生买下了饼干。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-026-wanted-a-large-biscuit-tin-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3190835,
+        "sha256": "d6ffdafb27cdef61e96b3e6feb030558949508838f4b935d3ab661ca4adba8e6"
+      },
+      "duration": 190.171,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.65
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.61,
+          "end": 5.17
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.71,
+          "end": 9.75
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.05,
+          "end": 13.73
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.25,
+          "end": 18.63
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.75,
+          "end": 29.99
+        },
+        {
+          "segmentId": "s007",
+          "start": 31.07,
+          "end": 41.29
+        },
+        {
+          "segmentId": "s008",
+          "start": 43.17,
+          "end": 47.99
+        },
+        {
+          "segmentId": "s009",
+          "start": 48.91,
+          "end": 54.71
+        },
+        {
+          "segmentId": "s010",
+          "start": 54.71,
+          "end": 65.47
+        },
+        {
+          "segmentId": "s011",
+          "start": 66.83,
+          "end": 71.91
+        },
+        {
+          "segmentId": "s012",
+          "start": 73.01,
+          "end": 79.81
+        },
+        {
+          "segmentId": "s013",
+          "start": 80.69,
+          "end": 89.71
+        },
+        {
+          "segmentId": "s014",
+          "start": 90.95,
+          "end": 96.03
+        },
+        {
+          "segmentId": "s015",
+          "start": 97.03,
+          "end": 99.83
+        },
+        {
+          "segmentId": "s016",
+          "start": 100.99,
+          "end": 106.33
+        },
+        {
+          "segmentId": "s017",
+          "start": 106.33,
+          "end": 109.75
+        },
+        {
+          "segmentId": "s018",
+          "start": 110.29,
+          "end": 112.49
+        },
+        {
+          "segmentId": "s019",
+          "start": 113.27,
+          "end": 119.45
+        },
+        {
+          "segmentId": "s020",
+          "start": 120.45,
+          "end": 123.61
+        },
+        {
+          "segmentId": "s021",
+          "start": 124.31,
+          "end": 127.47
+        },
+        {
+          "segmentId": "s022",
+          "start": 128.37,
+          "end": 131.29
+        },
+        {
+          "segmentId": "s023",
+          "start": 131.29,
+          "end": 143.19
+        },
+        {
+          "segmentId": "s024",
+          "start": 143.89,
+          "end": 157.21
+        },
+        {
+          "segmentId": "s025",
+          "start": 157.21,
+          "end": 162.69
+        },
+        {
+          "segmentId": "s026",
+          "start": 163.85,
+          "end": 172.35
+        }
+      ]
+    }
+  ]
+}

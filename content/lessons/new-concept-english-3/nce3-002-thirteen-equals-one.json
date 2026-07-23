@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-002-thirteen-equals-one",
+    "kind": "textbook",
+    "title": "Lesson 2: Thirteen Equals One",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 2.",
+      "translation": {
+        "text": "第2课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Thirteen Equals One.",
+      "translation": {
+        "text": "十三等于一。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Was the vicar pleased that the clock was striking?",
+      "translation": {
+        "text": "钟敲响了，牧师高兴吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Why?",
+      "translation": {
+        "text": "为什么？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.",
+      "translation": {
+        "text": "我们的牧师总在为这样或那样的事业筹款，但他从未筹到足够的钱来修理教堂的大钟。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The big clock, which used to strike the hours day and night, was damaged many years ago and has been silent ever since.",
+      "translation": {
+        "text": "这座大钟过去不分昼夜地按时报时，许多年前损坏以后便一直沉默至今。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "One night, however, our vicar woke up with a start.",
+      "translation": {
+        "text": "然而，一天夜里，牧师突然惊醒了。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The clock was striking the hours.",
+      "translation": {
+        "text": "大钟正在报时。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.",
+      "translation": {
+        "text": "他看了看手表，发现是一点钟，但钟敲了十三下才停。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Armed with a torch, the vicar went up into the clock tower to see what was going on.",
+      "translation": {
+        "text": "牧师拿着手电筒登上钟楼，想看看究竟发生了什么事。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.",
+      "translation": {
+        "text": "借着手电筒的光，他看见一个人影，马上认出那是本地的杂货商比尔·威尔金斯。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Whatever are you doing up here, Bill?",
+      "translation": {
+        "text": "“比尔，你到底在上面干什么？”"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "asked the vicar in surprise.",
+      "translation": {
+        "text": "牧师惊讶地问。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "I'm trying to repair the bell, answered Bill.",
+      "translation": {
+        "text": "“我在设法修钟，”比尔回答说。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "I've been coming up here night after night for weeks now.",
+      "translation": {
+        "text": "“几个星期以来，我每天夜里都到这儿来。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "You see, I was hoping to give you a surprise.",
+      "translation": {
+        "text": "你瞧，我原想给你一个惊喜。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "You certainly did give me a surprise, said the vicar.",
+      "translation": {
+        "text": "“你确实给了我一个惊喜，”牧师说。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "You've probably woken up everyone in the village as well.",
+      "translation": {
+        "text": "“你恐怕也把村里所有人都吵醒了。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Still, I'm glad the bell is working again.",
+      "translation": {
+        "text": "不过，我很高兴这钟又能走了。”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "That's the trouble, vicar, answered Bill.",
+      "translation": {
+        "text": "“问题就在这里，牧师，”比尔回答说。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "It's working all right.",
+      "translation": {
+        "text": "“它走得倒是没问题。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "But I'm afraid that at one o'clock it will strike thirteen times, and there's nothing I can do about it.",
+      "translation": {
+        "text": "可我担心每到一点钟它就会敲十三下，而我对此无能为力。”"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "We'll get used to that, Bill, said the vicar.",
+      "translation": {
+        "text": "“我们会习惯的，比尔，”牧师说。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "Thirteen is not as good as one, but it's better than nothing.",
+      "translation": {
+        "text": "“十三下虽不如一下好，但总比一下也不敲强。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Now let's go downstairs and have a cup of tea.",
+      "translation": {
+        "text": "现在我们下楼去喝杯茶吧。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-002-thirteen-equals-one-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2106205,
+        "sha256": "da877cba76f08162922aa41bb6d79649a6d6ba8e38749553e5390939c8f6a04b"
+      },
+      "duration": 122.384,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.05,
+          "end": 1.35
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.25,
+          "end": 3.83
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.09,
+          "end": 8.65
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.23,
+          "end": 12.91
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.95,
+          "end": 14.29
+        },
+        {
+          "segmentId": "s006",
+          "start": 16.68,
+          "end": 25.34
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.04,
+          "end": 35.16
+        },
+        {
+          "segmentId": "s008",
+          "start": 36.5,
+          "end": 40.02
+        },
+        {
+          "segmentId": "s009",
+          "start": 40.56,
+          "end": 42.48
+        },
+        {
+          "segmentId": "s010",
+          "start": 43.54,
+          "end": 50.86
+        },
+        {
+          "segmentId": "s011",
+          "start": 51.66,
+          "end": 57.3
+        },
+        {
+          "segmentId": "s012",
+          "start": 58.08,
+          "end": 65.32
+        },
+        {
+          "segmentId": "s013",
+          "start": 66.2,
+          "end": 68.28
+        },
+        {
+          "segmentId": "s014",
+          "start": 68.78,
+          "end": 70.18
+        },
+        {
+          "segmentId": "s015",
+          "start": 71.4,
+          "end": 74.2
+        },
+        {
+          "segmentId": "s016",
+          "start": 75.28,
+          "end": 78.22
+        },
+        {
+          "segmentId": "s017",
+          "start": 78.22,
+          "end": 80.98
+        },
+        {
+          "segmentId": "s018",
+          "start": 82.5,
+          "end": 85.38
+        },
+        {
+          "segmentId": "s019",
+          "start": 85.88,
+          "end": 88.84
+        },
+        {
+          "segmentId": "s020",
+          "start": 89.6,
+          "end": 91.84
+        },
+        {
+          "segmentId": "s021",
+          "start": 92.86,
+          "end": 95.22
+        },
+        {
+          "segmentId": "s022",
+          "start": 95.76,
+          "end": 96.74
+        },
+        {
+          "segmentId": "s023",
+          "start": 98.08,
+          "end": 104.08
+        },
+        {
+          "segmentId": "s024",
+          "start": 104.98,
+          "end": 107.52
+        },
+        {
+          "segmentId": "s025",
+          "start": 107.52,
+          "end": 112
+        },
+        {
+          "segmentId": "s026",
+          "start": 113.1,
+          "end": 115.82
+        }
+      ]
+    }
+  ]
+}

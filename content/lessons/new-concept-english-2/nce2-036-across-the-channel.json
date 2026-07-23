@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-036-across-the-channel",
+    "kind": "textbook",
+    "title": "Lesson 36: Across the Channel",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 36.",
+      "translation": {
+        "text": "第36课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Across the Channel.",
+      "translation": {
+        "text": "横渡海峡。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is Debbie going to try to do?",
+      "translation": {
+        "text": "黛比准备尝试做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Debbie Hart is going to swim across the English channel tomorrow.",
+      "translation": {
+        "text": "黛比·哈特明天准备游过英吉利海峡。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "She is going to set out from the French coast at five o'clock in the morning.",
+      "translation": {
+        "text": "她准备清晨五点从法国海岸出发。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Debbie is only 11 years old and she hopes to set up a new world record.",
+      "translation": {
+        "text": "黛比只有11岁，她希望创下一项新的世界纪录。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "translation": {
+        "text": "她游泳很棒，许多人认为她一定会成功。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Debbie's father will set out with her in a small boat.",
+      "translation": {
+        "text": "黛比的父亲将乘一条小船和她一起出发。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Mr.",
+      "translation": {
+        "text": "哈特"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Hart has trained his daughter for years.",
+      "translation": {
+        "text": "先生训练女儿已经多年。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "translation": {
+        "text": "明天，当她长途游向英国时，他将焦急地注视着她。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Debbie intends to take short rests every two hours.",
+      "translation": {
+        "text": "黛比打算每两小时短暂休息一次。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "She will have something to drink but she will not eat any solid food.",
+      "translation": {
+        "text": "她会喝些东西，但不吃任何固体食物。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "translation": {
+        "text": "黛比的大多数同学将在英国海岸等候她。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Among them will be Debbie's mother, who swam the channel herself when she was a girl.",
+      "translation": {
+        "text": "其中还有黛比的母亲，她年轻时也曾游过英吉利海峡。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-036-across-the-channel-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1525241,
+        "sha256": "25b7c303db6d2e7e9c4f754fdf36f953e0fb4ed10a8a9907af9a05a0602f4a6a"
+      },
+      "duration": 86.021,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 2.01
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.23,
+          "end": 4.07
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.65,
+          "end": 8.55
+        },
+        {
+          "segmentId": "s004",
+          "start": 10.07,
+          "end": 12.63
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.67,
+          "end": 19.11
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.45,
+          "end": 25.17
+        },
+        {
+          "segmentId": "s007",
+          "start": 26.25,
+          "end": 32.35
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.53,
+          "end": 38.81
+        },
+        {
+          "segmentId": "s009",
+          "start": 40.23,
+          "end": 43.81
+        },
+        {
+          "segmentId": "s010",
+          "start": 45.05,
+          "end": 45.37
+        },
+        {
+          "segmentId": "s011",
+          "start": 45.67,
+          "end": 48.03
+        },
+        {
+          "segmentId": "s012",
+          "start": 48.93,
+          "end": 55.61
+        },
+        {
+          "segmentId": "s013",
+          "start": 57.15,
+          "end": 60.77
+        },
+        {
+          "segmentId": "s014",
+          "start": 61.65,
+          "end": 66.29
+        },
+        {
+          "segmentId": "s015",
+          "start": 67.69,
+          "end": 72.35
+        },
+        {
+          "segmentId": "s016",
+          "start": 72.35,
+          "end": 79.47
+        }
+      ]
+    }
+  ]
+}

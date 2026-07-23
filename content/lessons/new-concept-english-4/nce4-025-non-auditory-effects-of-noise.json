@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-025-non-auditory-effects-of-noise",
+    "kind": "textbook",
+    "title": "Lesson 25: Non-Auditory Effects of Noise",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 25.",
+      "translation": {
+        "text": "第25课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Non-Auditory Effects of Noise.",
+      "translation": {
+        "text": "噪声的非听觉效应。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What conclusion does the author draw about noise and health in this piece?",
+      "translation": {
+        "text": "本文对噪声与健康作出了什么结论？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Many people in industry and the services, who have practical experience of noise, regard any investigation of this question as a waste of time.",
+      "translation": {
+        "text": "工业和服务业中许多对噪声有实际经验的人，认为对这一问题的任何研究都是浪费时间。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "They are not prepared even to admit the possibility that noise affects people.",
+      "translation": {
+        "text": "他们甚至不愿承认噪声可能对人产生影响。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "On the other hand, those who dislike noise will sometimes use most inadequate evidence to support their pleas for a quieter society.",
+      "translation": {
+        "text": "另一方面，不喜欢噪声的人有时会用极不充分的证据来支持他们建立更安静社会的诉求。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This is a pity, because noise abatement really is a good cause.",
+      "translation": {
+        "text": "这很遗憾，因为降低噪声确实是一项正当事业。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "And it is likely to be discredited if it gets to be associated with bad science.",
+      "translation": {
+        "text": "如果它同糟糕的科学联系起来，很可能会失去信誉。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "One allegation often made is that noise produces mental illness.",
+      "translation": {
+        "text": "人们经常提出的一种说法是，噪声会导致精神疾病。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "A recent article in a weekly newspaper, for instance, was headed with a striking illustration of a lady in a state of considerable distress, with the caption, She was yet another victim, reduced to",
+      "translation": {
+        "text": "例如，最近某周报的一篇文章配有一幅醒目的插图：一位女士极度痛苦，图注写道：“她又成了一名受害者，最终"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "a screaming wreck.",
+      "translation": {
+        "text": "精神崩溃，只会尖声哭叫。”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "On turning eagerly to the text, one learns that the lady was a typist who found the sound of office typewriters worried her more and more until eventually she had to go into a mental hospital.",
+      "translation": {
+        "text": "急切地读正文才得知，这位女士是一名打字员；办公室打字机的声音让她越来越烦恼，最终不得不住进精神病院。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect.",
+      "translation": {
+        "text": "这类轶事的问题当然在于，人们无法区分因果。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Was the noise a cause of the illness, or were the complaints about noise merely a symptom?",
+      "translation": {
+        "text": "噪声是患病原因，还是对噪声的抱怨仅仅是症状？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Another patient might equally well complain that her neighbors were combining to slander her and persecute her, and yet one might be cautious about believing this statement.",
+      "translation": {
+        "text": "另一位病人同样可能抱怨邻居合谋诽谤、迫害她，但人们会谨慎看待这种说法。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "What is needed in the case of noise is a study of large numbers of people living under noisy conditions to discover whether they are mentally ill more often than other people are.",
+      "translation": {
+        "text": "研究噪声真正需要的是考察大量生活在嘈杂环境中的人，看看他们患精神疾病是否比其他人更频繁。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Some time ago the United States Navy, for instance, examined a very large number of men working on aircraft carriers.",
+      "translation": {
+        "text": "例如，美国海军不久前调查了大批在航空母舰上工作的人员。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "The study was known as Project Anna Hinn.",
+      "translation": {
+        "text": "这项研究称为“ANEHIN项目”。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It can be unpleasant to live even several miles from an aerodrome.",
+      "translation": {
+        "text": "即使住在离机场数英里的地方，生活也可能令人不快。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "If you think what it must be like to share the deck of a ship with several squadrons of jet aircraft, you will realize that a modern navy is a good place to study noise.",
+      "translation": {
+        "text": "想想与几个中队的喷气式飞机共用一艘军舰甲板是什么感受，你就会明白现代海军是研究噪声的好地方。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "But neither psychiatric interviews nor objective tests were able to show any effects upon these American sailors.",
+      "translation": {
+        "text": "然而，无论精神病学访谈还是客观测试，都未能显示这些美国水兵受到任何影响。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "This result merely confirms earlier American and British studies.",
+      "translation": {
+        "text": "这一结果只是证实了美英早先的研究。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "If there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it.",
+      "translation": {
+        "text": "即使噪声对心理健康有影响，也一定小到现有精神病诊断方法无法发现。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "That does not prove that it does not exist.",
+      "translation": {
+        "text": "这并不能证明这种影响不存在。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "But it does mean that noise is less dangerous than, say, being brought up in an orphanage, which really is a mental health hazard.",
+      "translation": {
+        "text": "但它确实意味着，噪声不如在孤儿院长大等经历危险；后者才真正危害心理健康。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-025-non-auditory-effects-of-noise-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3881582,
+        "sha256": "94695756546291a8fca1e973e0619f58eef6c74f6cbd9e32a7d37a9779759d87"
+      },
+      "duration": 233.3,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.12
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.46,
+          "end": 6.1
+        },
+        {
+          "segmentId": "s003",
+          "start": 8.2,
+          "end": 11.24
+        },
+        {
+          "segmentId": "s004",
+          "start": 13.14,
+          "end": 18.46
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.01,
+          "end": 32.57
+        },
+        {
+          "segmentId": "s006",
+          "start": 33.49,
+          "end": 38.93
+        },
+        {
+          "segmentId": "s007",
+          "start": 39.55,
+          "end": 49.21
+        },
+        {
+          "segmentId": "s008",
+          "start": 50.91,
+          "end": 56.39
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.39,
+          "end": 62.81
+        },
+        {
+          "segmentId": "s010",
+          "start": 64.23,
+          "end": 68.79
+        },
+        {
+          "segmentId": "s011",
+          "start": 69.67,
+          "end": 85.59
+        },
+        {
+          "segmentId": "s012",
+          "start": 85.59,
+          "end": 86.69
+        },
+        {
+          "segmentId": "s013",
+          "start": 88.15,
+          "end": 101.75
+        },
+        {
+          "segmentId": "s014",
+          "start": 102.61,
+          "end": 109.57
+        },
+        {
+          "segmentId": "s015",
+          "start": 109.57,
+          "end": 116.33
+        },
+        {
+          "segmentId": "s016",
+          "start": 117.55,
+          "end": 128.15
+        },
+        {
+          "segmentId": "s017",
+          "start": 129.65,
+          "end": 141.71
+        },
+        {
+          "segmentId": "s018",
+          "start": 142.85,
+          "end": 150.89
+        },
+        {
+          "segmentId": "s019",
+          "start": 151.93,
+          "end": 155.33
+        },
+        {
+          "segmentId": "s020",
+          "start": 156.43,
+          "end": 160.61
+        },
+        {
+          "segmentId": "s021",
+          "start": 161.47,
+          "end": 173.49
+        },
+        {
+          "segmentId": "s022",
+          "start": 174.93,
+          "end": 183.21
+        },
+        {
+          "segmentId": "s023",
+          "start": 184.39,
+          "end": 188.99
+        },
+        {
+          "segmentId": "s024",
+          "start": 188.99,
+          "end": 201.41
+        },
+        {
+          "segmentId": "s025",
+          "start": 202.15,
+          "end": 205.31
+        },
+        {
+          "segmentId": "s026",
+          "start": 206.09,
+          "end": 216.61
+        }
+      ]
+    }
+  ]
+}

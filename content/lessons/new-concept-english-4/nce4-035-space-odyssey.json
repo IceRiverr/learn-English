@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-035-space-odyssey",
+    "kind": "textbook",
+    "title": "Lesson 35: Space Odyssey",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First,",
+      "translation": {
+        "text": "首先，"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "listen and then answer the following question.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "When will it be possible for us to think seriously about colonizing Mars?",
+      "translation": {
+        "text": "什么时候我们才可能认真考虑殖民火星？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "The moon is likely to become the industrial hub of the solar system, supplying the rocket fuel for its ships, obtainable from the lunar rocks in the form of liquid oxygen.",
+      "translation": {
+        "text": "月球很可能成为太阳系的工业中心，从月岩中提取液氧，为飞船供应火箭燃料。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The reason lies in its gravity.",
+      "translation": {
+        "text": "原因在于它的引力。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Because the moon has only an 80th of the Earth's mass, it requires 97% less energy to travel the quarter of a million miles from the moon to Earth orbit than the 200-mile",
+      "translation": {
+        "text": "由于月球质量只有地球的八十分之一，从月球飞越25万英里到达地球轨道，所需能量比从地表升至200英里高的"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "journey from Earth's surface into orbit.",
+      "translation": {
+        "text": "轨道少97%。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "This may sound fantastic, but it is easily calculated.",
+      "translation": {
+        "text": "这听起来也许不可思议，却很容易计算。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "To escape from the Earth in a rocket, one must travel at 7 miles per second.",
+      "translation": {
+        "text": "火箭要逃离地球，速度必须达到每秒7英里。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "The comparable speed from the moon is only 1.5 miles per second.",
+      "translation": {
+        "text": "从月球出发，相应速度只有每秒1.5英里。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Because the gravity on the moon's surface is only a 6th of Earth's, remember how easily the Apollo astronauts bounded along?",
+      "translation": {
+        "text": "月面重力只有地球的六分之一——还记得阿波罗宇航员多么轻松地跳跃前进吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "It takes much less energy to accelerate to that 1.5 miles per second than it does on Earth.",
+      "translation": {
+        "text": "因此加速到每秒1.5英里所需能量远少于地球上。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Moon dwellers will be able to fly in space at only 3% of the cost of similar journeys by their terrestrial cousins.",
+      "translation": {
+        "text": "月球居民进行太空飞行的成本，将只有地球同胞同类旅程的3%。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Arthur C.",
+      "translation": {
+        "text": "阿瑟·C·"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Clarke once suggested a revolutionary idea passes through three phases.",
+      "translation": {
+        "text": "克拉克曾说，一个革命性构想要经历三个阶段。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "1.",
+      "translation": {
+        "text": "第一阶段。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "It's impossible.",
+      "translation": {
+        "text": "“这不可能。”"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Don't waste my time.",
+      "translation": {
+        "text": "“别浪费我的时间。”"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "2.",
+      "translation": {
+        "text": "第二阶段。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It's possible, but not worth doing.",
+      "translation": {
+        "text": "“这有可能，但不值得做。”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "3.",
+      "translation": {
+        "text": "第三阶段。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "I said it was a good idea all along.",
+      "translation": {
+        "text": "“我一直都说这是个好主意。”"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "The idea of colonizing Mars, a world 160 times more distant than the moon, will move decisively from the second phase to the third when a significant number of people are living",
+      "translation": {
+        "text": "当相当数量的人长期生活"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "permanently in space.",
+      "translation": {
+        "text": "在太空中时，殖民火星——一个比月球远160倍的世界——将决定性地从第二阶段进入第三阶段。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "has an extraordinary fascination for would-be voyagers.",
+      "translation": {
+        "text": "火星对有志远航者有着非凡吸引力。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "America, Russia, and Europe are filled with enthusiasts, many of them serious and senior scientists, who dream of sending people to it.",
+      "translation": {
+        "text": "美国、俄罗斯和欧洲到处都有热衷者，其中不少是认真而资深的科学家，他们梦想把人类送上火星。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Their aim is understandable.",
+      "translation": {
+        "text": "他们的目标不难理解。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "It is the one world in the solar system that is most like the Earth.",
+      "translation": {
+        "text": "火星是太阳系中最像地球的世界。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "It is a world of red sandy deserts, hence its name, the Red Planet.",
+      "translation": {
+        "text": "那里遍布红色沙漠，因此得名“红色星球”。"
+      }
+    },
+    {
+      "id": "s030",
+      "text": "Cloudless skies, sandstorms, chasms wider than the Grand Canyon, and at least one mountain more than twice as tall as Everest.",
+      "translation": {
+        "text": "无云的天空、沙尘暴、比大峡谷还宽的深谷，以及至少一座高度超过珠穆朗玛峰两倍的山。"
+      }
+    },
+    {
+      "id": "s031",
+      "text": "It seems ideal for settlement.",
+      "translation": {
+        "text": "它似乎是定居的理想地点。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-035-space-odyssey-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3513328,
+        "sha256": "7a08ba53452ed83227c9ca3fca894877876e78ec254ed4dc3509e05654556885"
+      },
+      "duration": 210.286,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 3.1,
+          "end": 3.76
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.64,
+          "end": 9.02
+        },
+        {
+          "segmentId": "s003",
+          "start": 11.28,
+          "end": 16.34
+        },
+        {
+          "segmentId": "s004",
+          "start": 19.09,
+          "end": 32.13
+        },
+        {
+          "segmentId": "s005",
+          "start": 33.35,
+          "end": 35.71
+        },
+        {
+          "segmentId": "s006",
+          "start": 36.83,
+          "end": 52.67
+        },
+        {
+          "segmentId": "s007",
+          "start": 52.67,
+          "end": 55.81
+        },
+        {
+          "segmentId": "s008",
+          "start": 57.25,
+          "end": 62.17
+        },
+        {
+          "segmentId": "s009",
+          "start": 63.09,
+          "end": 69.27
+        },
+        {
+          "segmentId": "s010",
+          "start": 70.31,
+          "end": 76.27
+        },
+        {
+          "segmentId": "s011",
+          "start": 77.41,
+          "end": 87.25
+        },
+        {
+          "segmentId": "s012",
+          "start": 87.91,
+          "end": 95.39
+        },
+        {
+          "segmentId": "s013",
+          "start": 96.63,
+          "end": 105.19
+        },
+        {
+          "segmentId": "s014",
+          "start": 107.41,
+          "end": 107.99
+        },
+        {
+          "segmentId": "s015",
+          "start": 108.31,
+          "end": 113.89
+        },
+        {
+          "segmentId": "s016",
+          "start": 115.39,
+          "end": 115.73
+        },
+        {
+          "segmentId": "s017",
+          "start": 116.55,
+          "end": 117.37
+        },
+        {
+          "segmentId": "s018",
+          "start": 118.31,
+          "end": 119.75
+        },
+        {
+          "segmentId": "s019",
+          "start": 121.01,
+          "end": 121.81
+        },
+        {
+          "segmentId": "s020",
+          "start": 122.83,
+          "end": 125.93
+        },
+        {
+          "segmentId": "s021",
+          "start": 127.15,
+          "end": 127.61
+        },
+        {
+          "segmentId": "s022",
+          "start": 128.49,
+          "end": 130.65
+        },
+        {
+          "segmentId": "s023",
+          "start": 132.01,
+          "end": 147.71
+        },
+        {
+          "segmentId": "s024",
+          "start": 147.71,
+          "end": 149.21
+        },
+        {
+          "segmentId": "s025",
+          "start": 150.89,
+          "end": 154.85
+        },
+        {
+          "segmentId": "s026",
+          "start": 155.95,
+          "end": 167.49
+        },
+        {
+          "segmentId": "s027",
+          "start": 168.65,
+          "end": 170.33
+        },
+        {
+          "segmentId": "s028",
+          "start": 171.21,
+          "end": 175.55
+        },
+        {
+          "segmentId": "s029",
+          "start": 176.21,
+          "end": 181.61
+        },
+        {
+          "segmentId": "s030",
+          "start": 182.79,
+          "end": 194.01
+        },
+        {
+          "segmentId": "s031",
+          "start": 195.07,
+          "end": 197.21
+        }
+      ]
+    }
+  ]
+}

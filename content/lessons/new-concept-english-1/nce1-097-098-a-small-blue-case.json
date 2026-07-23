@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-097-098-a-small-blue-case",
+    "kind": "textbook",
+    "title": "Lesson 97: A small blue case",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 97.",
+      "translation": {
+        "text": "第97课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Small Blue Case.",
+      "translation": {
+        "text": "一只蓝色小箱子。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Does Mr. Hall",
+      "translation": {
+        "text": "霍尔先生"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "get his case back?",
+      "translation": {
+        "text": "拿回自己的箱子了吗？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I left a suitcase on the train to London the other day.",
+      "translation": {
+        "text": "前几天我把一只手提箱落在了去伦敦的火车上。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Can you describe it, sir?",
+      "translation": {
+        "text": "您能描述一下吗，先生？"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It's a small blue case, and it's got a zip.",
+      "translation": {
+        "text": "是一只蓝色小箱子，带拉链。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "There's a label on the handle with my name and address on it.",
+      "translation": {
+        "text": "提手上有个标签，写着我的姓名和地址。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Is this case yours?",
+      "translation": {
+        "text": "这只箱子是您的吗？"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "No, that's not mine.",
+      "translation": {
+        "text": "不，那只不是我的。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "What about this one?",
+      "translation": {
+        "text": "这只呢？"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "This one's got a label.",
+      "translation": {
+        "text": "这只上面有标签。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Let me see it.",
+      "translation": {
+        "text": "让我看看。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "What's your name and address?",
+      "translation": {
+        "text": "您的姓名和地址是什么？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "David Hall, 83 Bridge Street.",
+      "translation": {
+        "text": "戴维·霍尔，桥街83号。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "That's right.",
+      "translation": {
+        "text": "没错。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "D. N.",
+      "translation": {
+        "text": "D. N."
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Hall, 83 Bridge Street.",
+      "translation": {
+        "text": "霍尔，桥街83号。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Three pounds, fifty pence, please.",
+      "translation": {
+        "text": "请付3英镑50便士。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Here you are.",
+      "translation": {
+        "text": "给您。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Thank you.",
+      "translation": {
+        "text": "谢谢。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Hey!",
+      "translation": {
+        "text": "嘿！"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "What's the matter?",
+      "translation": {
+        "text": "怎么了？"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "This case doesn't belong to me.",
+      "translation": {
+        "text": "这只箱子不是我的。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "You've given me the wrong case.",
+      "translation": {
+        "text": "您给错箱子了。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-097-098-a-small-blue-case-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1628740,
+        "sha256": "1ad76ca39f8935a94ba4781d2f219928a3772bc6474ca9d7ede60a2b3ca8af02"
+      },
+      "duration": 93.78,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.27,
+          "end": 1.87
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.75,
+          "end": 4.73
+        },
+        {
+          "segmentId": "s003",
+          "start": 7.26,
+          "end": 11.2
+        },
+        {
+          "segmentId": "s004",
+          "start": 12.94,
+          "end": 13.8
+        },
+        {
+          "segmentId": "s005",
+          "start": 14.16,
+          "end": 16.06
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.24,
+          "end": 23.32
+        },
+        {
+          "segmentId": "s007",
+          "start": 24.3,
+          "end": 26.4
+        },
+        {
+          "segmentId": "s008",
+          "start": 27.38,
+          "end": 32.46
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.14,
+          "end": 39.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 40.36,
+          "end": 42.2
+        },
+        {
+          "segmentId": "s011",
+          "start": 43.1,
+          "end": 44.98
+        },
+        {
+          "segmentId": "s012",
+          "start": 45.88,
+          "end": 47.74
+        },
+        {
+          "segmentId": "s013",
+          "start": 48.3,
+          "end": 50.22
+        },
+        {
+          "segmentId": "s014",
+          "start": 51.48,
+          "end": 53.14
+        },
+        {
+          "segmentId": "s015",
+          "start": 53.9,
+          "end": 56.2
+        },
+        {
+          "segmentId": "s016",
+          "start": 57.68,
+          "end": 61.74
+        },
+        {
+          "segmentId": "s017",
+          "start": 62.9,
+          "end": 63.34
+        },
+        {
+          "segmentId": "s018",
+          "start": 64.66,
+          "end": 65.08
+        },
+        {
+          "segmentId": "s019",
+          "start": 65.56,
+          "end": 68.4
+        },
+        {
+          "segmentId": "s020",
+          "start": 70.04,
+          "end": 72.62
+        },
+        {
+          "segmentId": "s021",
+          "start": 73.86,
+          "end": 74.88
+        },
+        {
+          "segmentId": "s022",
+          "start": 75.54,
+          "end": 76.16
+        },
+        {
+          "segmentId": "s023",
+          "start": 76.92,
+          "end": 77.28
+        },
+        {
+          "segmentId": "s024",
+          "start": 78.14,
+          "end": 79.08
+        },
+        {
+          "segmentId": "s025",
+          "start": 79.08,
+          "end": 83.18
+        },
+        {
+          "segmentId": "s026",
+          "start": 84.46,
+          "end": 86.92
+        }
+      ]
+    }
+  ]
+}

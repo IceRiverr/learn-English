@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-017-a-man-made-disease",
+    "kind": "textbook",
+    "title": "Lesson 17: A Man-made Disease",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 17.",
+      "translation": {
+        "text": "第17课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Man-made Disease.",
+      "translation": {
+        "text": "人为的疾病。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What factor helped to spread the disease of myxomatosis?",
+      "translation": {
+        "text": "什么因素帮助传播了黏液瘤病？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "In the early days of the settlement of Australia, enterprising settlers unwisely introduced the European rabbit.",
+      "translation": {
+        "text": "澳大利亚殖民初期，富有进取心的移民不明智地引进了欧洲野兔。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "This rabbit had no natural enemies in the Antipodus, so that it multiplied with that promiscuous abandoned characteristic of rabbits.",
+      "translation": {
+        "text": "这种兔子在南半球没有天敌，于是以兔子特有的毫无节制的方式大量繁殖。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It overran a whole continent.",
+      "translation": {
+        "text": "它们遍布了整个大陆。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "It caused devastation by burrowing and by devouring the herbage which might have maintained millions of sheep and cattle.",
+      "translation": {
+        "text": "它们挖洞，并吞食本可供数百万牛羊食用的草木，造成了严重破坏。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "discovered that this particular variety of rabbit, and apparently no other animal, was susceptible to a fatal virus disease, myxomatosis.",
+      "translation": {
+        "text": "后来人们发现，只有这种兔子、显然没有其他动物，会感染一种致命的病毒性疾病——黏液瘤病。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "By infecting animals and letting them loose in the burrows, local epidemics of this disease could be created.",
+      "translation": {
+        "text": "把动物感染后放进兔穴，就能在当地制造这种疾病的流行。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits.",
+      "translation": {
+        "text": "后来又发现，有一种蚊子充当这种疾病的传播媒介，把病传给兔子。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "So while the rest of the world was trying to get rid of Australia was encouraging this one.",
+      "translation": {
+        "text": "因此，当世界其他地方都在努力消灭蚊子时，澳大利亚却在鼓励这一种蚊子繁殖。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It effectively spread the disease all over the continent and drastically reduced the rabbit population.",
+      "translation": {
+        "text": "它有效地把疾病传遍整个大陆，使兔子数量锐减。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "It later became apparent that rabbits were developing a degree of resistance to this disease, so that the rabbit population was unlikely to be completely exterminated.",
+      "translation": {
+        "text": "后来逐渐明显的是，兔子正在形成一定程度的抗病能力，因此兔群不大可能被彻底消灭。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "There were hopes, however, that the problem of the rabbit would become manageable.",
+      "translation": {
+        "text": "不过，人们仍希望兔患能变得可以控制。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence.",
+      "translation": {
+        "text": "具有讽刺意味的是，欧洲把兔子这种祸害送给澳大利亚后，自己却又把这种人为疾病当作瘟疫接了回来。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis.",
+      "translation": {
+        "text": "一位法国医生决定消灭自家庄园里的野兔，于是引入了黏液瘤病。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It did not, however, remain within the confines of his estate.",
+      "translation": {
+        "text": "然而，它并没有局限在他的庄园范围内。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It spread through France, where wild rabbits are not generally regarded as a pest, but as a sport and a useful food supply, and it spread to Britain, where wild rabbits are regarded as a pest, but where domesticated",
+      "translation": {
+        "text": "疾病传遍法国；在那里，野兔通常不被视为祸害，而被看作狩猎对象和有用的食物来源。疾病也传到英国；那里虽把野兔视为祸害，但家养"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "rabbits, equally susceptible to the disease, are the basis of a profitable fur industry.",
+      "translation": {
+        "text": "兔同样容易染病，而它们又是有利可图的毛皮业的基础。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The question became one of whether man could control the disease he had invented.",
+      "translation": {
+        "text": "问题变成了：人类能否控制自己创造的疾病。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-017-a-man-made-disease-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3058180,
+        "sha256": "ba8445f977aa63561e3a28b0e2e269759bc34714e1445fb288194f9c16c9d7cf"
+      },
+      "duration": 181.838,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 1.84
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.56,
+          "end": 4.42
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.85,
+          "end": 10.09
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.63,
+          "end": 15.69
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.2,
+          "end": 27.04
+        },
+        {
+          "segmentId": "s006",
+          "start": 28.22,
+          "end": 39.16
+        },
+        {
+          "segmentId": "s007",
+          "start": 40.12,
+          "end": 42.92
+        },
+        {
+          "segmentId": "s008",
+          "start": 43.74,
+          "end": 52
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.58,
+          "end": 65.34
+        },
+        {
+          "segmentId": "s010",
+          "start": 66.72,
+          "end": 73.98
+        },
+        {
+          "segmentId": "s011",
+          "start": 75.12,
+          "end": 82.52
+        },
+        {
+          "segmentId": "s012",
+          "start": 83.82,
+          "end": 90.3
+        },
+        {
+          "segmentId": "s013",
+          "start": 91.2,
+          "end": 98.18
+        },
+        {
+          "segmentId": "s014",
+          "start": 99.28,
+          "end": 110.78
+        },
+        {
+          "segmentId": "s015",
+          "start": 111.92,
+          "end": 116.88
+        },
+        {
+          "segmentId": "s016",
+          "start": 118.8,
+          "end": 128.24
+        },
+        {
+          "segmentId": "s017",
+          "start": 129.2,
+          "end": 136.3
+        },
+        {
+          "segmentId": "s018",
+          "start": 136.88,
+          "end": 141.12
+        },
+        {
+          "segmentId": "s019",
+          "start": 142.04,
+          "end": 157.54
+        },
+        {
+          "segmentId": "s020",
+          "start": 157.54,
+          "end": 164.44
+        },
+        {
+          "segmentId": "s021",
+          "start": 165.16,
+          "end": 170.2
+        }
+      ]
+    }
+  ]
+}

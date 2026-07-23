@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-115-116-knock-knock",
+    "kind": "textbook",
+    "title": "Lesson 115: Knock, knock!",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 115–Knock, Knock.",
+      "translation": {
+        "text": "第115课——敲敲门。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What does Jim have to drink?",
+      "translation": {
+        "text": "吉姆喝了什么？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Isn't there anyone at home?",
+      "translation": {
+        "text": "家里没有人吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I'll knock again, Helen.",
+      "translation": {
+        "text": "海伦，我再敲一次。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Everything's very quiet.",
+      "translation": {
+        "text": "一切都静悄悄的。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "I'm sure there's no one at home.",
+      "translation": {
+        "text": "我肯定家里没人。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "But that's impossible.",
+      "translation": {
+        "text": "但那不可能。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Carol and Tom invited us to lunch.",
+      "translation": {
+        "text": "卡罗尔和汤姆邀请我们来吃午饭。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Look through the window.",
+      "translation": {
+        "text": "从窗户往里看看。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Can you see anything?",
+      "translation": {
+        "text": "你能看到什么吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Nothing at all.",
+      "translation": {
+        "text": "什么也看不见。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Let's try the back door.",
+      "translation": {
+        "text": "我们试试后门。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "Look!",
+      "translation": {
+        "text": "看！"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Everyone's in the garden.",
+      "translation": {
+        "text": "大家都在花园里。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "Hello, Helen.",
+      "translation": {
+        "text": "你好，海伦。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Hello, Jim.",
+      "translation": {
+        "text": "你好，吉姆。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Everybody wants to have lunch in the garden.",
+      "translation": {
+        "text": "大家都想在花园里吃午饭。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "It's nice and warm out here.",
+      "translation": {
+        "text": "外面又暖和又舒服。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Come and have something to drink.",
+      "translation": {
+        "text": "来喝点东西吧。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "Thanks, Carol.",
+      "translation": {
+        "text": "谢谢，卡罗尔。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "May I have a glass of beer, please?",
+      "translation": {
+        "text": "请给我一杯啤酒好吗？"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Beer?",
+      "translation": {
+        "text": "啤酒？"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "There's none left.",
+      "translation": {
+        "text": "一点也没剩。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "You can have some lemonade.",
+      "translation": {
+        "text": "你可以喝柠檬水。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Lemonade?",
+      "translation": {
+        "text": "柠檬水？"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "Don't believe her, She's only joking.",
+      "translation": {
+        "text": "别信她，她只是在开玩笑。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "Have some beer.",
+      "translation": {
+        "text": "喝点啤酒吧。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-115-116-knock-knock-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1630402,
+        "sha256": "d17a9e12ff113e519e1df2c1fc537c2c3b29c529f792bb6ac1d284af1b538e58"
+      },
+      "duration": 93.884,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.34,
+          "end": 5.32
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.24,
+          "end": 11.22
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.94,
+          "end": 15.36
+        },
+        {
+          "segmentId": "s004",
+          "start": 18.02,
+          "end": 20.32
+        },
+        {
+          "segmentId": "s005",
+          "start": 21.6,
+          "end": 23.44
+        },
+        {
+          "segmentId": "s006",
+          "start": 24.64,
+          "end": 26.52
+        },
+        {
+          "segmentId": "s007",
+          "start": 27.58,
+          "end": 30.34
+        },
+        {
+          "segmentId": "s008",
+          "start": 30.34,
+          "end": 32.64
+        },
+        {
+          "segmentId": "s009",
+          "start": 33.82,
+          "end": 36.94
+        },
+        {
+          "segmentId": "s010",
+          "start": 37.88,
+          "end": 39.22
+        },
+        {
+          "segmentId": "s011",
+          "start": 40.66,
+          "end": 42.22
+        },
+        {
+          "segmentId": "s012",
+          "start": 43.62,
+          "end": 44.96
+        },
+        {
+          "segmentId": "s013",
+          "start": 45.88,
+          "end": 47.92
+        },
+        {
+          "segmentId": "s014",
+          "start": 48.8,
+          "end": 49.68
+        },
+        {
+          "segmentId": "s015",
+          "start": 50.64,
+          "end": 52.3
+        },
+        {
+          "segmentId": "s016",
+          "start": 53.32,
+          "end": 54.22
+        },
+        {
+          "segmentId": "s017",
+          "start": 55.24,
+          "end": 56.24
+        },
+        {
+          "segmentId": "s018",
+          "start": 57.24,
+          "end": 60.6
+        },
+        {
+          "segmentId": "s019",
+          "start": 61.44,
+          "end": 63.86
+        },
+        {
+          "segmentId": "s020",
+          "start": 65.08,
+          "end": 67.3
+        },
+        {
+          "segmentId": "s021",
+          "start": 68.66,
+          "end": 69.66
+        },
+        {
+          "segmentId": "s022",
+          "start": 70.88,
+          "end": 73.64
+        },
+        {
+          "segmentId": "s023",
+          "start": 74.66,
+          "end": 75.04
+        },
+        {
+          "segmentId": "s024",
+          "start": 75.58,
+          "end": 77.12
+        },
+        {
+          "segmentId": "s025",
+          "start": 77.9,
+          "end": 80.32
+        },
+        {
+          "segmentId": "s026",
+          "start": 81.3,
+          "end": 82.1
+        },
+        {
+          "segmentId": "s027",
+          "start": 82.1,
+          "end": 85.96
+        },
+        {
+          "segmentId": "s028",
+          "start": 86.72,
+          "end": 87.6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-041-illusions-of-pastoral-peace",
+    "kind": "textbook",
+    "title": "Lesson 41: Illusions of Pastoral Peace",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答以下问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What particular anxiety spoils the country dweller's visit to the theater?",
+      "translation": {
+        "text": "乡下人去看戏时，哪一种特殊的忧虑破坏了兴致？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "The quiet life of the country has never appealed to me.",
+      "translation": {
+        "text": "宁静的乡村生活从未吸引过我。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "City-born and city-bred, I have always regarded the country as something you look at through a train window or something you occasionally visit during the weekend.",
+      "translation": {
+        "text": "我生在城市、长在城市，一向认为乡村要么是从火车窗里看的景色，要么是周末偶尔去游览的地方。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Most of my friends live in the city, yet they always go into raptures at the mere mention of the country.",
+      "translation": {
+        "text": "我的朋友大多住在城里，但只要一提乡村，他们总会赞不绝口。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Though they extol the virtues of the peaceful life, only one of them has ever gone to live in the country, and he was back in town within six months.",
+      "translation": {
+        "text": "他们虽极力赞美宁静生活的好处，却只有一个人真正到乡下住过，而且不到六个月就回城了。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Even he still lives under the illusion that country life is somehow superior to town life.",
+      "translation": {
+        "text": "就连他至今仍抱有一种幻想，以为乡村生活不知怎的就是比城市生活优越。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He is forever talking about the friendly people, the clean atmosphere, the closeness to nature, and the gentle pace of living.",
+      "translation": {
+        "text": "他总在谈论友善的人们、清新的空气、亲近自然以及悠闲的生活节奏。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Nothing can be compared, he maintains, with the first cock-crow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.",
+      "translation": {
+        "text": "他坚称，没有什么比得上第一声鸡鸣、黎明的鸟语，以及朝阳在树林和牧场上闪耀的景象。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "This idyllic pastoral scene is only part of the picture.",
+      "translation": {
+        "text": "这种田园诗般的画面只是事实的一部分。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "My friend fails to mention the long and friendless winter evenings in front of the TV, virtually the only form of entertainment.",
+      "translation": {
+        "text": "我的朋友没有提到漫长而孤寂的冬夜，只能坐在电视机前——那几乎是唯一的娱乐。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "He says nothing about the poor selection of goods in the shops or about those unfortunate people who have to travel from the country to the city every day to get to work.",
+      "translation": {
+        "text": "他也不提商店里可供选择的商品少得可怜，更不提那些每天不得不从乡下赶到城里上班的不幸者。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.",
+      "translation": {
+        "text": "人们为什么肯每天忍受四小时的奔波，只为获得住在乡下这种未必值得的特权，我实在无法理解。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "They could be saved so much misery and expense if they chose to live in the city where they rightly belong.",
+      "translation": {
+        "text": "如果他们选择住在本该属于他们的城市，就可以免去如此多的痛苦和开支。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.",
+      "translation": {
+        "text": "如果你可以舍弃乡村那几种田园乐趣，就会发现城市能为你提供生活中最美好的一切。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "You never have to travel miles to see your friends.",
+      "translation": {
+        "text": "你从不必长途跋涉去看朋友。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "They invariably live nearby and are always available for an informal chat or an evening's entertainment.",
+      "translation": {
+        "text": "他们通常住得很近，随时可以随便聊聊或共度一个娱乐之夜。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Some of my acquaintances in the country come up to town once or twice a year to visit the theater as a special treat.",
+      "translation": {
+        "text": "我有些住在乡下的熟人，每年进城一两次看戏，把这当作特殊享受。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "For them, this is a major operation which involves considerable planning.",
+      "translation": {
+        "text": "对他们而言，这是一次需要周密筹划的大行动。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "As the play draws to its close, they wonder whether they will ever catch that last train home.",
+      "translation": {
+        "text": "戏接近尾声时，他们开始担心是否还能赶上回家的末班火车。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The city dweller never experiences anxieties of this sort.",
+      "translation": {
+        "text": "城市居民从不会有这种忧虑。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The latest exhibitions, films, or plays are only a short bus ride away.",
+      "translation": {
+        "text": "最新的展览、电影或戏剧，坐一小段公交车就能看到。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Shopping, too, is always a pleasure.",
+      "translation": {
+        "text": "购物也总是一种享受。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "There is so much variety that you never have to make do with second best.",
+      "translation": {
+        "text": "商品种类如此丰富，你永远不必退而求其次。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry.",
+      "translation": {
+        "text": "乡下人进城购物时往往会失去节制，回家时东倒西歪地提着尽可能多的各种新奇商品。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "Nor is the city without its moments of beauty.",
+      "translation": {
+        "text": "城市也并非没有美丽的时刻。"
+      }
+    },
+    {
+      "id": "s027",
+      "text": "There is something comforting about the warm glow shed by advertisements on cold, wet winter nights.",
+      "translation": {
+        "text": "寒冷潮湿的冬夜里，广告灯投下的温暖光辉给人一种安慰。"
+      }
+    },
+    {
+      "id": "s028",
+      "text": "Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.",
+      "translation": {
+        "text": "周末，平日每天进城上班的成千上万人都安居在乡下家中，空荡的城市街道上降临的宁静，几乎没有什么景象比它更令人难忘。"
+      }
+    },
+    {
+      "id": "s029",
+      "text": "It has always been a mystery to me why city dwellers, who appreciate all these things, obstinately pretend that they would prefer to live in the country.",
+      "translation": {
+        "text": "城市居民明明懂得欣赏这一切，却仍固执地假装更愿意住在乡下，这对我始终是个谜。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-041-illusions-of-pastoral-peace-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 4435936,
+        "sha256": "bf8861486d762f919b97283a6faf6102835a0c0d122f7264bd5d6500ba48c4ee"
+      },
+      "duration": 267.99,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 2.54,
+          "end": 9.54
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.12,
+          "end": 16.22
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.96,
+          "end": 21.64
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.64,
+          "end": 34.4
+        },
+        {
+          "segmentId": "s005",
+          "start": 35.64,
+          "end": 43.86
+        },
+        {
+          "segmentId": "s006",
+          "start": 45.14,
+          "end": 56.08
+        },
+        {
+          "segmentId": "s007",
+          "start": 57.38,
+          "end": 65.12
+        },
+        {
+          "segmentId": "s008",
+          "start": 65.98,
+          "end": 75
+        },
+        {
+          "segmentId": "s009",
+          "start": 75.98,
+          "end": 89.22
+        },
+        {
+          "segmentId": "s010",
+          "start": 90.38,
+          "end": 94.94
+        },
+        {
+          "segmentId": "s011",
+          "start": 95.9,
+          "end": 105.66
+        },
+        {
+          "segmentId": "s012",
+          "start": 106.74,
+          "end": 119.42
+        },
+        {
+          "segmentId": "s013",
+          "start": 120.54,
+          "end": 130.94
+        },
+        {
+          "segmentId": "s014",
+          "start": 131.84,
+          "end": 140.26
+        },
+        {
+          "segmentId": "s015",
+          "start": 141.82,
+          "end": 150.96
+        },
+        {
+          "segmentId": "s016",
+          "start": 151.68,
+          "end": 155.24
+        },
+        {
+          "segmentId": "s017",
+          "start": 156.1,
+          "end": 164.36
+        },
+        {
+          "segmentId": "s018",
+          "start": 165.82,
+          "end": 173.72
+        },
+        {
+          "segmentId": "s019",
+          "start": 174.68,
+          "end": 180.18
+        },
+        {
+          "segmentId": "s020",
+          "start": 181.04,
+          "end": 187.6
+        },
+        {
+          "segmentId": "s021",
+          "start": 188.68,
+          "end": 193
+        },
+        {
+          "segmentId": "s022",
+          "start": 194.06,
+          "end": 200.28
+        },
+        {
+          "segmentId": "s023",
+          "start": 201.7,
+          "end": 204.44
+        },
+        {
+          "segmentId": "s024",
+          "start": 205.28,
+          "end": 210.96
+        },
+        {
+          "segmentId": "s025",
+          "start": 212.76,
+          "end": 222.1
+        },
+        {
+          "segmentId": "s026",
+          "start": 223.2,
+          "end": 226.08
+        },
+        {
+          "segmentId": "s027",
+          "start": 226.96,
+          "end": 234.02
+        },
+        {
+          "segmentId": "s028",
+          "start": 234.98,
+          "end": 248.9
+        },
+        {
+          "segmentId": "s029",
+          "start": 249.94,
+          "end": 262.56
+        }
+      ]
+    }
+  ]
+}

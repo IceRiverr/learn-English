@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-023-one-man-s-meat-is-another-man-s-poison",
+    "kind": "textbook",
+    "title": "Lesson 23: One Man's Meat is Another Man's Poison",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 23.",
+      "translation": {
+        "text": "第23课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "One Man's Meat is Another Man's Poison.",
+      "translation": {
+        "text": "甲之佳肴，乙之毒药。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What was it about snails that made the writer collect them for his friend on that day in particular?",
+      "translation": {
+        "text": "那天蜗牛有什么特别之处，使作者决定捉来送给朋友？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "People become quite illogical when they try to decide what can be eaten and what cannot be eaten.",
+      "translation": {
+        "text": "人们在决定什么能吃、什么不能吃时，会变得相当不合逻辑。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy.",
+      "translation": {
+        "text": "例如，如果你住在地中海地区，就会把章鱼视为绝佳美味。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "You would not be able to understand why some people find it repulsive.",
+      "translation": {
+        "text": "你会无法理解为什么有些人觉得它令人作呕。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "On the other hand, your stomach would turn at the idea of frying potatoes in animal fat, the normally accepted practice in many northern countries.",
+      "translation": {
+        "text": "另一方面，一想到用动物油炸土豆，你便会反胃，而这在许多北方国家却是公认的正常做法。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "The sad truth is that most of us have been brought up to eat certain foods, and we stick to them all our lives.",
+      "translation": {
+        "text": "可悲的事实是，我们大多数人从小被培养着吃某几种食物，并且一辈子都坚持如此。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "No creature has received more praise and abuse than the common garden snail.",
+      "translation": {
+        "text": "没有哪种生物像普通花园蜗牛一样，既受到如此多的赞美，又遭到如此多的辱骂。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Cooked in wine, snails are a great luxury in various parts of the world.",
+      "translation": {
+        "text": "用酒烹制的蜗牛在世界许多地方都是珍馐。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "There are countless people who, ever since their early years, have learned to associate snails with food.",
+      "translation": {
+        "text": "无数人从幼年起便学会把蜗牛与食物联系起来。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "My friend, Robert, lives in a country where snails are despised.",
+      "translation": {
+        "text": "我的朋友罗伯特住在一个鄙视蜗牛的国家。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "As his flat is in a large town, he has no garden of his own.",
+      "translation": {
+        "text": "由于他的公寓位于大城市，他没有自己的花园。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "For years, he has been asking me to collect snails from my garden and take them to him.",
+      "translation": {
+        "text": "多年来，他一直让我从花园里捉些蜗牛带给他。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prized",
+      "translation": {
+        "text": "这个主意一直不太吸引我。不过一天大雨过后，我碰巧在花园里散步，发现大量蜗牛正在我珍爱的几株"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "plants.",
+      "translation": {
+        "text": "植物上悠然爬行。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert.",
+      "translation": {
+        "text": "一时冲动之下，我捉了几十只，装进纸袋，带去给罗伯特。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "Robert was delighted to see me and equally pleased with my little gift.",
+      "translation": {
+        "text": "罗伯特见到我十分高兴，对我的小礼物也同样满意。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours.",
+      "translation": {
+        "text": "我把袋子留在门厅，和罗伯特走进客厅，聊了几个小时。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.",
+      "translation": {
+        "text": "我早把蜗牛忘得一干二净，这时罗伯特突然说我一定要留下吃晚饭。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "Snails would, of course, be the main dish.",
+      "translation": {
+        "text": "当然，蜗牛将是主菜。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "I did not fancy the idea and I reluctantly followed Robert out of the room.",
+      "translation": {
+        "text": "我不喜欢这个主意，只好不情愿地跟着罗伯特走出房间。"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "To our dismay, we saw that there were snails everywhere.",
+      "translation": {
+        "text": "令我们惊愕的是，到处都是蜗牛。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "They had escaped from the paper bag and had taken complete possession of the hall.",
+      "translation": {
+        "text": "它们已经从纸袋里逃出来，完全占领了门厅。"
+      }
+    },
+    {
+      "id": "s026",
+      "text": "I have never been able to look at a snail since then.",
+      "translation": {
+        "text": "从那以后，我再也无法正眼看一只蜗牛。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-023-one-man-s-meat-is-another-man-s-poison-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3000263,
+        "sha256": "22946a0afa63c6682ef2ace270efbd5ade61616f103ebc2157159ca5f39aa7dd"
+      },
+      "duration": 178.26,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.08,
+          "end": 1.42
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.36,
+          "end": 5.38
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.98,
+          "end": 10.12
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.56,
+          "end": 18.38
+        },
+        {
+          "segmentId": "s005",
+          "start": 20.16,
+          "end": 27.4
+        },
+        {
+          "segmentId": "s006",
+          "start": 27.4,
+          "end": 35.08
+        },
+        {
+          "segmentId": "s007",
+          "start": 35.96,
+          "end": 40.68
+        },
+        {
+          "segmentId": "s008",
+          "start": 41.44,
+          "end": 52.68
+        },
+        {
+          "segmentId": "s009",
+          "start": 53.48,
+          "end": 61.8
+        },
+        {
+          "segmentId": "s010",
+          "start": 63.28,
+          "end": 68.62
+        },
+        {
+          "segmentId": "s011",
+          "start": 69.66,
+          "end": 74.5
+        },
+        {
+          "segmentId": "s012",
+          "start": 74.5,
+          "end": 82.9
+        },
+        {
+          "segmentId": "s013",
+          "start": 84.14,
+          "end": 88.82
+        },
+        {
+          "segmentId": "s014",
+          "start": 90.14,
+          "end": 94.66
+        },
+        {
+          "segmentId": "s015",
+          "start": 95.2,
+          "end": 101.52
+        },
+        {
+          "segmentId": "s016",
+          "start": 101.52,
+          "end": 117.22
+        },
+        {
+          "segmentId": "s017",
+          "start": 117.22,
+          "end": 117.96
+        },
+        {
+          "segmentId": "s018",
+          "start": 118.52,
+          "end": 126.16
+        },
+        {
+          "segmentId": "s019",
+          "start": 126.16,
+          "end": 132.02
+        },
+        {
+          "segmentId": "s020",
+          "start": 132.96,
+          "end": 139.64
+        },
+        {
+          "segmentId": "s021",
+          "start": 140.38,
+          "end": 146.78
+        },
+        {
+          "segmentId": "s022",
+          "start": 147.88,
+          "end": 151.26
+        },
+        {
+          "segmentId": "s023",
+          "start": 151.26,
+          "end": 157.26
+        },
+        {
+          "segmentId": "s024",
+          "start": 157.86,
+          "end": 162.12
+        },
+        {
+          "segmentId": "s025",
+          "start": 162.98,
+          "end": 167.94
+        },
+        {
+          "segmentId": "s026",
+          "start": 169,
+          "end": 172.34
+        }
+      ]
+    }
+  ]
+}

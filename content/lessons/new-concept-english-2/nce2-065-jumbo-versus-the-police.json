@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-065-jumbo-versus-the-police",
+    "kind": "textbook",
+    "title": "Lesson 65: Jumbo Versus the Police",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 65.",
+      "translation": {
+        "text": "第65课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Jumbo versus the Police.",
+      "translation": {
+        "text": "小象对警察。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why did the police have to push Jumbo off the main street?",
+      "translation": {
+        "text": "为什么警察不得不把小象从大街上推走？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "translation": {
+        "text": "去年圣诞节，马戏团老板吉米·盖茨决定给一家儿童医院送些礼物。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Dressed up as Father Christmas and accompanied by a guard of honor of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "translation": {
+        "text": "他装扮成圣诞老人，由六位漂亮姑娘组成的仪仗队陪同，骑着一头名叫珍宝的小象沿市区主干道出发了。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "He should have known that the police would never allow this sort of thing.",
+      "translation": {
+        "text": "他本该想到，警察绝不会允许这种事情发生。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "translation": {
+        "text": "一名警察走近吉米，告诉他本应走一条小路，因为珍宝阻碍了交通。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "translation": {
+        "text": "尽管吉米答应马上离开，珍宝却拒绝挪动。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Fifteen policemen had to push very hard to get him off the main street.",
+      "translation": {
+        "text": "十五名警察不得不用力推，才把它弄离大街。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "The police had a difficult time, but they were most amused.",
+      "translation": {
+        "text": "警察们费了好大劲，不过也觉得十分有趣。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Jumbo must weigh a few tons, said a policeman afterwards, so it was fortunate that we didn't have to carry him.",
+      "translation": {
+        "text": "“珍宝肯定有好几吨重，”一名警察事后说，“幸好我们不用把它抬走。”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.",
+      "translation": {
+        "text": "“我们当然应该逮捕它，不过看在它一贯表现良好的份上，这次就放过它吧。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-065-jumbo-versus-the-police-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1784804,
+        "sha256": "41aab905cf8f72df1a325adee9e2d0c52ce47d00be75ae5e53b784726e6f997c"
+      },
+      "duration": 102.243,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 2.18
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.12,
+          "end": 4.96
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.68,
+          "end": 9.72
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.22,
+          "end": 15.58
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.83,
+          "end": 25.83
+        },
+        {
+          "segmentId": "s006",
+          "start": 25.83,
+          "end": 40.21
+        },
+        {
+          "segmentId": "s007",
+          "start": 41.25,
+          "end": 46.77
+        },
+        {
+          "segmentId": "s008",
+          "start": 47.63,
+          "end": 56.49
+        },
+        {
+          "segmentId": "s009",
+          "start": 57.83,
+          "end": 63.29
+        },
+        {
+          "segmentId": "s010",
+          "start": 64.93,
+          "end": 70.03
+        },
+        {
+          "segmentId": "s011",
+          "start": 70.81,
+          "end": 75.45
+        },
+        {
+          "segmentId": "s012",
+          "start": 76.47,
+          "end": 86.59
+        },
+        {
+          "segmentId": "s013",
+          "start": 87.73,
+          "end": 95.67
+        }
+      ]
+    }
+  ]
+}

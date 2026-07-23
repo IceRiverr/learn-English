@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-096-the-dead-return",
+    "kind": "textbook",
+    "title": "Lesson 96: The Dead Return",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "First listen and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "What happens to the lanterns at the end of the festival?",
+      "translation": {
+        "text": "节日结束时，那些灯笼会怎样？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "A festival for the dead is held once a year in Japan.",
+      "translation": {
+        "text": "日本每年举行一次亡灵节。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.",
+      "translation": {
+        "text": "这是一个欢乐的节日，因为据说在这一天，逝者会回到家中，生者会欢迎他们归来。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "As they are expected to be hungry after their long journey, food is laid out for them.",
+      "translation": {
+        "text": "人们认为逝者长途跋涉后一定很饿，于是摆出食物供他们享用。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Specially made lanterns are hung outside each house to help the dead to find their way.",
+      "translation": {
+        "text": "每户人家门外都挂着特制的灯笼，帮助亡灵找到回家的路。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "All night long, people dance and sing.",
+      "translation": {
+        "text": "人们彻夜载歌载舞。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "In the early morning, the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.",
+      "translation": {
+        "text": "清晨，为亡灵摆放的食物会被扔进河里或海里，因为活人吃这些食物被认为不吉利。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "In towns that are near the sea, the tiny lanterns, which had been hung in the streets the night before, are placed into the water when the festival is over.",
+      "translation": {
+        "text": "在临海的城镇，节日结束时，人们把前一晚挂在街上的小灯笼放入水中。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Thousands of lanterns slowly drift out to sea, guiding the dead on their return journey to the other world.",
+      "translation": {
+        "text": "成千上万盏灯笼缓缓漂向大海，引导亡灵踏上返回另一个世界的旅程。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "This is a moving spectacle, for crowds of people stand on the shore, watching the lanterns drifting away until they can be seen no more.",
+      "translation": {
+        "text": "这一幕令人感动：人群站在岸边，注视着灯笼渐渐漂远，直到再也看不见。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-096-the-dead-return-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2000873,
+        "sha256": "741c7b5e87d3ffebf7d56979c5669fc983347d97d44955b9868a9270f398614c"
+      },
+      "duration": 115.749,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 5.56,
+          "end": 9.62
+        },
+        {
+          "segmentId": "s002",
+          "start": 11.16,
+          "end": 15.08
+        },
+        {
+          "segmentId": "s003",
+          "start": 17.26,
+          "end": 21.36
+        },
+        {
+          "segmentId": "s004",
+          "start": 22.8,
+          "end": 32.9
+        },
+        {
+          "segmentId": "s005",
+          "start": 34.16,
+          "end": 40.86
+        },
+        {
+          "segmentId": "s006",
+          "start": 41.9,
+          "end": 48.1
+        },
+        {
+          "segmentId": "s007",
+          "start": 49.78,
+          "end": 53.12
+        },
+        {
+          "segmentId": "s008",
+          "start": 54,
+          "end": 68.14
+        },
+        {
+          "segmentId": "s009",
+          "start": 69.22,
+          "end": 80.96
+        },
+        {
+          "segmentId": "s010",
+          "start": 82.76,
+          "end": 90.38
+        },
+        {
+          "segmentId": "s011",
+          "start": 91.56,
+          "end": 102.16
+        }
+      ]
+    }
+  ]
+}

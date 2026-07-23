@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-007-008-are-you-a-teacher",
+    "kind": "textbook",
+    "title": "Lesson 7: Are you a teacher?",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 7.",
+      "translation": {
+        "text": "第7课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Are You a Teacher?",
+      "translation": {
+        "text": "你是教师吗？"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is Robert's job?",
+      "translation": {
+        "text": "罗伯特是做什么工作的？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "I am a new student.",
+      "translation": {
+        "text": "我是一名新学生。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "My name's Robert.",
+      "translation": {
+        "text": "我叫罗伯特。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "Nice to meet you.",
+      "translation": {
+        "text": "很高兴见到你。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "My name's Sophie.",
+      "translation": {
+        "text": "我叫索菲。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Are you French?",
+      "translation": {
+        "text": "你是法国人吗？"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Yes, I am.",
+      "translation": {
+        "text": "是的，我是。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Are you French too?",
+      "translation": {
+        "text": "你也是法国人吗？"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "No, I am not.",
+      "translation": {
+        "text": "不，我不是。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "What nationality are you?",
+      "translation": {
+        "text": "你是哪国人？"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I'm Italian.",
+      "translation": {
+        "text": "我是意大利人。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Are you a teacher?",
+      "translation": {
+        "text": "你是教师吗？"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "No, I'm not.",
+      "translation": {
+        "text": "不，我不是。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "What's your job?",
+      "translation": {
+        "text": "你是做什么工作的？"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I'm a keyboard operator.",
+      "translation": {
+        "text": "我是一名电脑录入员。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "What's your job?",
+      "translation": {
+        "text": "你是做什么工作的？"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "I'm an engineer.",
+      "translation": {
+        "text": "我是一名工程师。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-007-008-are-you-a-teacher-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1158781,
+        "sha256": "b442bd1315591c6682052d663b855c213f9e383e352cd3088f70027990867035"
+      },
+      "duration": 64.34,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.18,
+          "end": 1.56
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.54,
+          "end": 4.5
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.94,
+          "end": 9.74
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.14,
+          "end": 12.98
+        },
+        {
+          "segmentId": "s005",
+          "start": 15.36,
+          "end": 17.22
+        },
+        {
+          "segmentId": "s006",
+          "start": 18.12,
+          "end": 19.66
+        },
+        {
+          "segmentId": "s007",
+          "start": 20.52,
+          "end": 22.02
+        },
+        {
+          "segmentId": "s008",
+          "start": 22.6,
+          "end": 24.06
+        },
+        {
+          "segmentId": "s009",
+          "start": 25.72,
+          "end": 26.96
+        },
+        {
+          "segmentId": "s010",
+          "start": 27.68,
+          "end": 29.18
+        },
+        {
+          "segmentId": "s011",
+          "start": 29.18,
+          "end": 32.12
+        },
+        {
+          "segmentId": "s012",
+          "start": 33.2,
+          "end": 35.54
+        },
+        {
+          "segmentId": "s013",
+          "start": 36.64,
+          "end": 38.76
+        },
+        {
+          "segmentId": "s014",
+          "start": 40.02,
+          "end": 41.62
+        },
+        {
+          "segmentId": "s015",
+          "start": 43.34,
+          "end": 45.2
+        },
+        {
+          "segmentId": "s016",
+          "start": 45.92,
+          "end": 47.58
+        },
+        {
+          "segmentId": "s017",
+          "start": 48.6,
+          "end": 49.88
+        },
+        {
+          "segmentId": "s018",
+          "start": 50.62,
+          "end": 52.98
+        },
+        {
+          "segmentId": "s019",
+          "start": 54.12,
+          "end": 55.32
+        },
+        {
+          "segmentId": "s020",
+          "start": 56.32,
+          "end": 57.98
+        }
+      ]
+    }
+  ]
+}

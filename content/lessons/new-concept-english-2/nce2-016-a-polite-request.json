@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-016-a-polite-request",
+    "kind": "textbook",
+    "title": "Lesson 16: A Polite Request",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 16.",
+      "translation": {
+        "text": "第16课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Polite Request.",
+      "translation": {
+        "text": "彬彬有礼的要求。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "listen, and then answer the question.",
+      "translation": {
+        "text": "听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Traffic police are sometimes very polite.",
+      "translation": {
+        "text": "交通警察有时非常客气。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "During a holiday in Sweden, I found this note on my car.",
+      "translation": {
+        "text": "在瑞典度假期间，我在自己的汽车上发现了这张字条。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "Sir, we welcome you to our city.",
+      "translation": {
+        "text": "“先生，欢迎您来到我们的城市。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "This is a no parking area.",
+      "translation": {
+        "text": "这里是禁止停车区。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "translation": {
+        "text": "如果您留意我们的街道标志，您在这里会过得很愉快。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "This note is only a reminder.",
+      "translation": {
+        "text": "这张字条只是一个提醒。”"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "If you receive a request like this, you cannot fail to obey it.",
+      "translation": {
+        "text": "如果你收到这样的要求，就不可能不遵守。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-016-a-polite-request-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1305391,
+        "sha256": "dd639c552d6c54e1dea14d8726419cab8341d255b1df65b5dc99ea72704a29b5"
+      },
+      "duration": 72.281,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.24,
+          "end": 1.84
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.62,
+          "end": 3.96
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.88,
+          "end": 8.66
+        },
+        {
+          "segmentId": "s004",
+          "start": 31.68,
+          "end": 34.74
+        },
+        {
+          "segmentId": "s005",
+          "start": 36.22,
+          "end": 41.32
+        },
+        {
+          "segmentId": "s006",
+          "start": 42.28,
+          "end": 45.58
+        },
+        {
+          "segmentId": "s007",
+          "start": 46.72,
+          "end": 48.98
+        },
+        {
+          "segmentId": "s008",
+          "start": 49.86,
+          "end": 55.34
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.58,
+          "end": 58.94
+        },
+        {
+          "segmentId": "s010",
+          "start": 58.94,
+          "end": 66.42
+        }
+      ]
+    }
+  ]
+}

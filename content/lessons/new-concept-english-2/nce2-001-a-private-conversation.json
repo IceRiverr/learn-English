@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-001-a-private-conversation",
+    "kind": "textbook",
+    "title": "Lesson 1: A Private Conversation",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 1.",
+      "translation": {
+        "text": "第1课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "A Private Conversation.",
+      "translation": {
+        "text": "私人谈话。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Why did the writer complain to the people behind him?",
+      "translation": {
+        "text": "作者为什么向坐在他身后的人抱怨？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "Last week I went to the theater.",
+      "translation": {
+        "text": "上星期我去看戏。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "I had a very good seat.",
+      "translation": {
+        "text": "我的座位很好。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "The play was very interesting.",
+      "translation": {
+        "text": "那出戏很有意思。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "I did not enjoy it.",
+      "translation": {
+        "text": "但我却无法欣赏。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "A young man and a young woman were sitting behind me.",
+      "translation": {
+        "text": "一青年男子和一青年女子坐在我的身后。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "They were talking loudly.",
+      "translation": {
+        "text": "他们在大声地说话。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "I got very angry.",
+      "translation": {
+        "text": "我非常生气。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "I could not hear the actors.",
+      "translation": {
+        "text": "我听不见演员在说什么。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "I turned round.",
+      "translation": {
+        "text": "我转过身去。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I looked at the man and the woman angrily.",
+      "translation": {
+        "text": "我生气地看着那一男一女。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "They did not pay any attention.",
+      "translation": {
+        "text": "他们毫不理会。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "In the end, I could not bear it.",
+      "translation": {
+        "text": "最后，我忍不住了。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "I turned round again.",
+      "translation": {
+        "text": "我又转过身去。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "I can't hear a word.",
+      "translation": {
+        "text": "“我一个字也听不见了！”"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "I said angrily.",
+      "translation": {
+        "text": "我生气地说。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "It's none of your business.",
+      "translation": {
+        "text": "“不关你的事。”"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "The young man said rudely.",
+      "translation": {
+        "text": "那青年男子粗鲁地说。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "This is a private conversation.",
+      "translation": {
+        "text": "“这是私人谈话！”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-001-a-private-conversation-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1405712,
+        "sha256": "22c896163270cc9652c32ad4bba2f6a6a55a367be410c7813d777d76b687d432"
+      },
+      "duration": 78.55,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.51
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.05,
+          "end": 3.57
+        },
+        {
+          "segmentId": "s003",
+          "start": 5.27,
+          "end": 8.53
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.83,
+          "end": 13.95
+        },
+        {
+          "segmentId": "s005",
+          "start": 16.02,
+          "end": 18.54
+        },
+        {
+          "segmentId": "s006",
+          "start": 19.3,
+          "end": 21.28
+        },
+        {
+          "segmentId": "s007",
+          "start": 22.06,
+          "end": 24.1
+        },
+        {
+          "segmentId": "s008",
+          "start": 25.02,
+          "end": 26.76
+        },
+        {
+          "segmentId": "s009",
+          "start": 27.24,
+          "end": 31.3
+        },
+        {
+          "segmentId": "s010",
+          "start": 32.02,
+          "end": 33.6
+        },
+        {
+          "segmentId": "s011",
+          "start": 34.5,
+          "end": 36.54
+        },
+        {
+          "segmentId": "s012",
+          "start": 37.36,
+          "end": 39.62
+        },
+        {
+          "segmentId": "s013",
+          "start": 40.58,
+          "end": 41.74
+        },
+        {
+          "segmentId": "s014",
+          "start": 42.58,
+          "end": 45.9
+        },
+        {
+          "segmentId": "s015",
+          "start": 47.14,
+          "end": 49.58
+        },
+        {
+          "segmentId": "s016",
+          "start": 50.58,
+          "end": 54.2
+        },
+        {
+          "segmentId": "s017",
+          "start": 54.76,
+          "end": 56.4
+        },
+        {
+          "segmentId": "s018",
+          "start": 57.44,
+          "end": 59.94
+        },
+        {
+          "segmentId": "s019",
+          "start": 60.72,
+          "end": 62.28
+        },
+        {
+          "segmentId": "s020",
+          "start": 63.36,
+          "end": 65.32
+        },
+        {
+          "segmentId": "s021",
+          "start": 66.28,
+          "end": 68.34
+        },
+        {
+          "segmentId": "s022",
+          "start": 69.18,
+          "end": 71.36
+        }
+      ]
+    }
+  ]
+}

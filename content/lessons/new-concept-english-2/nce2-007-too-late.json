@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce2-007-too-late",
+    "kind": "textbook",
+    "title": "Lesson 7: Too Late",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 2"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 7.",
+      "translation": {
+        "text": "第7课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Too Late.",
+      "translation": {
+        "text": "为时太晚。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the question.",
+      "translation": {
+        "text": "先听录音，然后回答问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Did the detectives save the diamonds?",
+      "translation": {
+        "text": "侦探们保住钻石了吗？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "The plane was late, and detectives were waiting at the airport all morning.",
+      "translation": {
+        "text": "飞机晚点了，侦探们在机场等了整整一个上午。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "translation": {
+        "text": "他们正等着一包从南非来的贵重钻石。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "translation": {
+        "text": "几小时前，有人向警方报告，说小偷企图盗走这些钻石。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+      "translation": {
+        "text": "飞机到达时，一些侦探守候在主楼内，另一些则守候在停机坪上。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Two men took the parcel off the plane and carried it into the customs house.",
+      "translation": {
+        "text": "两个人从飞机上取下包裹，把它搬进海关。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "translation": {
+        "text": "两名侦探在门口守卫，另外两名打开了包裹。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "To their surprise, the precious parcel was full of stones and sand.",
+      "translation": {
+        "text": "令他们吃惊的是，那个珍贵的包裹里装的全是石头和沙子。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-2/nce2-007-too-late-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1283222,
+        "sha256": "2cf48523e50dcecd7be2b2b8973273afa99c0446ef52ba2afe53ef76cf5ef73a"
+      },
+      "duration": 70.896,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.37,
+          "end": 1.75
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.55,
+          "end": 3.33
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.75,
+          "end": 7.85
+        },
+        {
+          "segmentId": "s004",
+          "start": 9.35,
+          "end": 11.81
+        },
+        {
+          "segmentId": "s005",
+          "start": 13.93,
+          "end": 19.15
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.31,
+          "end": 24.79
+        },
+        {
+          "segmentId": "s007",
+          "start": 25.53,
+          "end": 32.99
+        },
+        {
+          "segmentId": "s008",
+          "start": 34.29,
+          "end": 43.71
+        },
+        {
+          "segmentId": "s009",
+          "start": 44.97,
+          "end": 50.45
+        },
+        {
+          "segmentId": "s010",
+          "start": 51.45,
+          "end": 57.99
+        },
+        {
+          "segmentId": "s011",
+          "start": 58.97,
+          "end": 65.03
+        }
+      ]
+    }
+  ]
+}

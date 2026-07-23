@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-057-058-an-unusual-day",
+    "kind": "textbook",
+    "title": "Lesson 57: An unusual day",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 57–An Unusual Day.",
+      "translation": {
+        "text": "第57课——不寻常的一天。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What is Mr.",
+      "translation": {
+        "text": "索耶先生"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "Sawyer doing tonight?",
+      "translation": {
+        "text": "索耶先生今晚在做什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "It is eight o'clock.",
+      "translation": {
+        "text": "现在是八点钟。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The children go to school by car every day, but today they are going to school on foot.",
+      "translation": {
+        "text": "孩子们每天坐汽车上学，但今天他们正步行去学校。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "It is ten o'clock.",
+      "translation": {
+        "text": "现在是十点钟。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Mrs.",
+      "translation": {
+        "text": "索耶太太"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "Sawyer usually stays at home in the morning, but this morning she is going to the shops.",
+      "translation": {
+        "text": "索耶太太通常上午待在家里，但今天上午她正去商店。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "It is four o'clock.",
+      "translation": {
+        "text": "现在是四点钟。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "In the afternoon, Mrs.",
+      "translation": {
+        "text": "下午，索耶太太"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Sawyer usually drinks tea in the living room, but this afternoon she is drinking tea in the garden.",
+      "translation": {
+        "text": "索耶太太通常在客厅喝茶，但今天下午她正在花园里喝茶。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "It is six o'clock.",
+      "translation": {
+        "text": "现在是六点钟。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "In the evening, the children usually do their homework, but this evening they are not doing their homework.",
+      "translation": {
+        "text": "晚上，孩子们通常做作业，但今天晚上他们没有做作业。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "At the moment, they are playing in the garden.",
+      "translation": {
+        "text": "此刻，他们正在花园里玩。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "It is nine o'clock.",
+      "translation": {
+        "text": "现在是九点钟。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "Mr.",
+      "translation": {
+        "text": "索耶先生"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "Sawyer usually reads his newspaper at night, but he is not reading his newspaper tonight.",
+      "translation": {
+        "text": "索耶先生通常晚上看报纸，但他今晚没有看报纸。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "At the moment, he is reading an interesting book.",
+      "translation": {
+        "text": "此刻，他正在看一本有趣的书。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-057-058-an-unusual-day-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1781356,
+        "sha256": "b492702d5ad3364e00451bf6a3740460e9703d88d826847b08d024cd139ee633"
+      },
+      "duration": 103.34,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 5.07
+        },
+        {
+          "segmentId": "s002",
+          "start": 6.71,
+          "end": 10.65
+        },
+        {
+          "segmentId": "s003",
+          "start": 12.41,
+          "end": 13.51
+        },
+        {
+          "segmentId": "s004",
+          "start": 14.03,
+          "end": 15.21
+        },
+        {
+          "segmentId": "s005",
+          "start": 17.65,
+          "end": 19.29
+        },
+        {
+          "segmentId": "s006",
+          "start": 20.47,
+          "end": 29.51
+        },
+        {
+          "segmentId": "s007",
+          "start": 30.47,
+          "end": 32.59
+        },
+        {
+          "segmentId": "s008",
+          "start": 33.77,
+          "end": 34.01
+        },
+        {
+          "segmentId": "s009",
+          "start": 34.47,
+          "end": 42.49
+        },
+        {
+          "segmentId": "s010",
+          "start": 44.41,
+          "end": 46.11
+        },
+        {
+          "segmentId": "s011",
+          "start": 47.19,
+          "end": 49.41
+        },
+        {
+          "segmentId": "s012",
+          "start": 49.95,
+          "end": 59.23
+        },
+        {
+          "segmentId": "s013",
+          "start": 60.81,
+          "end": 62.85
+        },
+        {
+          "segmentId": "s014",
+          "start": 63.83,
+          "end": 72.97
+        },
+        {
+          "segmentId": "s015",
+          "start": 74.03,
+          "end": 78.25
+        },
+        {
+          "segmentId": "s016",
+          "start": 79.25,
+          "end": 81.73
+        },
+        {
+          "segmentId": "s017",
+          "start": 82.95,
+          "end": 83.23
+        },
+        {
+          "segmentId": "s018",
+          "start": 83.71,
+          "end": 91.35
+        },
+        {
+          "segmentId": "s019",
+          "start": 92.51,
+          "end": 96.39
+        }
+      ]
+    }
+  ]
+}

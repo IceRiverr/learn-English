@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce1-117-118-tommy-s-breakfast",
+    "kind": "textbook",
+    "title": "Lesson 117: Tommy's breakfast",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 1"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 117–Tommy's Breakfast.",
+      "translation": {
+        "text": "第117课——汤米的早餐。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Listen to the tape, then answer this question.",
+      "translation": {
+        "text": "听录音，然后回答这个问题。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "What does she mean by change in the last sentence?",
+      "translation": {
+        "text": "她在最后一句话中说的change是什么意思？"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "When my husband was going into the dining room this morning, he dropped some coins on the floor.",
+      "translation": {
+        "text": "今天早上我丈夫走进餐厅时，把一些硬币掉在了地板上。"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "There were coins everywhere.",
+      "translation": {
+        "text": "到处都是硬币。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "We looked for them, but we could not find them all.",
+      "translation": {
+        "text": "我们找了找，但没能把它们全找到。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "While we were having breakfast, our little boy, Tommy, found two small coins on the floor.",
+      "translation": {
+        "text": "我们吃早饭时，小儿子汤米在地板上找到了两枚小硬币。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "He put them both into his mouth.",
+      "translation": {
+        "text": "他把两枚硬币都放进了嘴里。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "We both tried to get the coins, but it was too late.",
+      "translation": {
+        "text": "我们俩都想把硬币拿出来，但已经太晚了。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Tommy had already swallowed them.",
+      "translation": {
+        "text": "汤米已经把它们咽下去了。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "Later that morning, when I was doing the housework, my husband phoned me from the office.",
+      "translation": {
+        "text": "那天上午晚些时候，我正在做家务，丈夫从办公室打来电话。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "How's Tommy?",
+      "translation": {
+        "text": "“汤米怎么样了？”"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "he asked.",
+      "translation": {
+        "text": "他问。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "I don't know, I answered.",
+      "translation": {
+        "text": "“我不知道，”我回答，"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "Tommy's been to the toilet three times this morning, but I haven't had any change yet.",
+      "translation": {
+        "text": "“汤米今天上午上了三次厕所，但我还没看到什么零钱。”"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-1/nce1-117-118-tommy-s-breakfast-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 1763850,
+        "sha256": "e96c700e3004568d9ef36552fa4c57ce8087936366a2f7b4b691de3c628d7cb7"
+      },
+      "duration": 102.243,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 5.7
+        },
+        {
+          "segmentId": "s002",
+          "start": 7.36,
+          "end": 11.92
+        },
+        {
+          "segmentId": "s003",
+          "start": 13.36,
+          "end": 18.62
+        },
+        {
+          "segmentId": "s004",
+          "start": 21.14,
+          "end": 30.26
+        },
+        {
+          "segmentId": "s005",
+          "start": 31.26,
+          "end": 33.92
+        },
+        {
+          "segmentId": "s006",
+          "start": 34.74,
+          "end": 39.58
+        },
+        {
+          "segmentId": "s007",
+          "start": 41.22,
+          "end": 51.1
+        },
+        {
+          "segmentId": "s008",
+          "start": 52.58,
+          "end": 55.6
+        },
+        {
+          "segmentId": "s009",
+          "start": 56.6,
+          "end": 62.72
+        },
+        {
+          "segmentId": "s010",
+          "start": 64.18,
+          "end": 67.78
+        },
+        {
+          "segmentId": "s011",
+          "start": 69.95,
+          "end": 78.93
+        },
+        {
+          "segmentId": "s012",
+          "start": 79.95,
+          "end": 81.41
+        },
+        {
+          "segmentId": "s013",
+          "start": 82.13,
+          "end": 82.79
+        },
+        {
+          "segmentId": "s014",
+          "start": 83.91,
+          "end": 86.49
+        },
+        {
+          "segmentId": "s015",
+          "start": 87.77,
+          "end": 95.81
+        }
+      ]
+    }
+  ]
+}

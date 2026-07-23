@@ -1,7 +1,18 @@
 $ErrorActionPreference = "Stop"
 
 $projectDirectory = Split-Path -Parent $PSScriptRoot
-$publicDirectory = Join-Path $projectDirectory "public"
+$audioDirectory = Join-Path $projectDirectory "audio"
+$bundledPnpm = Join-Path $env:USERPROFILE ".cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback\pnpm.cmd"
+$bundledNodeDirectory = Join-Path $env:USERPROFILE ".cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin"
+$pnpmCommand = Get-Command pnpm -ErrorAction SilentlyContinue
+
+if (Test-Path -LiteralPath $bundledPnpm) {
+    $pnpm = $bundledPnpm
+} elseif ($pnpmCommand) {
+    $pnpm = $pnpmCommand.Source
+} else {
+    throw "pnpm was not found. Install Node.js and pnpm first."
+}
 $ssh = "C:\Windows\System32\OpenSSH\ssh.exe"
 $scp = "C:\Windows\System32\OpenSSH\scp.exe"
 $remote = "root@8.210.175.90"
@@ -13,9 +24,24 @@ if (-not (Test-Path -LiteralPath $ssh) -or -not (Test-Path -LiteralPath $scp)) {
     throw "Windows OpenSSH client was not found."
 }
 
-$audioFiles = @(Get-ChildItem -LiteralPath $publicDirectory -Recurse -File -Filter "*.mp3" | Sort-Object FullName)
+$originalProcessPath = $env:Path
+if (Test-Path -LiteralPath (Join-Path $bundledNodeDirectory "node.exe")) {
+    $env:Path = "$bundledNodeDirectory;$originalProcessPath"
+}
+Push-Location $projectDirectory
+try {
+    & $pnpm exec node scripts/validate-content.mjs --require-audio
+    if ($LASTEXITCODE -ne 0) {
+        throw "Content or audio validation failed. Deployment stopped."
+    }
+} finally {
+    Pop-Location
+    $env:Path = $originalProcessPath
+}
+
+$audioFiles = @(Get-ChildItem -LiteralPath $audioDirectory -Recurse -File -Filter "*.mp3" | Sort-Object FullName)
 if ($audioFiles.Count -eq 0) {
-    throw "No MP3 files were found under $publicDirectory."
+    throw "No MP3 files were found under $audioDirectory."
 }
 
 & $ssh -o BatchMode=yes $remote "install -d -m 755 $remoteDirectory"
@@ -48,7 +74,7 @@ foreach ($line in $remoteInventory) {
 $localManifest = [System.Collections.Generic.List[string]]::new()
 $changedFiles = [System.Collections.Generic.List[object]]::new()
 foreach ($audioFile in $audioFiles) {
-    $relativePath = [IO.Path]::GetRelativePath($publicDirectory, $audioFile.FullName).Replace("\", "/")
+    $relativePath = "audio/" + [IO.Path]::GetRelativePath($audioDirectory, $audioFile.FullName).Replace("\", "/")
     $hash = (Get-FileHash -LiteralPath $audioFile.FullName -Algorithm SHA256).Hash.ToUpperInvariant()
     $localManifest.Add("$hash`t$relativePath")
     if (-not $remoteHashes.ContainsKey($relativePath) -or $remoteHashes[$relativePath] -ne $hash) {

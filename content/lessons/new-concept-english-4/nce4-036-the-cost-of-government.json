@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce4-036-the-cost-of-government",
+    "kind": "textbook",
+    "title": "Lesson 36: The Cost of Government",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 4"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 36.",
+      "translation": {
+        "text": "第36课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Cost of Government.",
+      "translation": {
+        "text": "政府的开支。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "First listen, and then answer the following question.",
+      "translation": {
+        "text": "先听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "What is the most important factor, both in government or business, for keeping running costs low?",
+      "translation": {
+        "text": "无论政府还是企业，保持低运营成本最重要的因素是什么？"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "If a nation is essentially disunited, it is left to the government to hold it together.",
+      "translation": {
+        "text": "如果一个国家实质上四分五裂，维系国家团结的责任就落在政府身上。"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "This increases the expense of government and reduces, correspondingly, the amount of economic resources that could be used for developing the country.",
+      "translation": {
+        "text": "这会增加政府开支，并相应减少可用于发展国家的经济资源。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "And it should not be forgotten how small those resources are in a poor and backward country.",
+      "translation": {
+        "text": "而且不应忘记，在贫穷落后的国家，这些资源本来就极其有限。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Where the cost of government is high, resources for development are correspondingly low.",
+      "translation": {
+        "text": "政府成本高，可供发展的资源便相应减少。"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "This may be illustrated by comparing the position of a nation with that of a private business enterprise.",
+      "translation": {
+        "text": "这一点可以通过比较国家和私营企业的处境来说明。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "An enterprise has to incur certain costs and expenses in order to stay in business.",
+      "translation": {
+        "text": "企业要维持经营，必须承担一定成本和费用。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "For our purposes, we are concerned only with one kind of cost, the cost of managing and administering the business.",
+      "translation": {
+        "text": "这里我们只关心一种成本，即经营和管理企业的费用。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "Such administrative overheads in a business are analogous to the cost of government in a nation.",
+      "translation": {
+        "text": "企业的这种行政管理费，相当于一个国家的政府开支。"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "The administrative overheads of a business are low to the extent that everyone working in the business can be trusted to behave in a way that best promotes the interests of the firm.",
+      "translation": {
+        "text": "如果企业中的每个人都值得信赖，都会以最有利于公司利益的方式行事，行政管理费便会很低。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "If they can each be trusted to take such responsibilities and to exercise such initiative as falls within their sphere, then administrative overheads will be low.",
+      "translation": {
+        "text": "如果每个人都能在职责范围内可靠地承担责任并发挥主动性，行政管理费就会降低。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It will be low because it will be necessary to have only one man looking after each job, without having another man to check up on what he is doing, keep him in line, and report on him to someone else.",
+      "translation": {
+        "text": "原因是每项工作只需一人负责，无须再派一人检查他在做什么、督促他守规矩并向别人汇报。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "But if no one can be trusted to act in a loyal and responsible manner towards his job, then the business will require armies of administrators, checkers, and foremen, and administrative overheads will rise correspondingly.",
+      "translation": {
+        "text": "但如果没有人能忠诚、负责地对待工作，企业就需要大批管理人员、检查员和工头，行政费用也会相应上升。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "As administrative overheads rise, so the earnings of the business after meeting the expense of administration will fall, and the business will have less money to distribute as dividends or invest directly in its future progress and development.",
+      "translation": {
+        "text": "行政费用上升，企业扣除管理开支后的收益就会下降，可用于分红或直接投资未来进步和发展的资金也会减少。"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "It is precisely the same with a nation.",
+      "translation": {
+        "text": "国家的情况完全相同。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "To the extent that the people can be relied upon to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order.",
+      "translation": {
+        "text": "人民越能以忠诚负责的方式行事，政府就越不需要大批警察和公务员来维持秩序。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "But if a nation is disunited, the government cannot be sure that the actions of the people will be in the interests of the nation, and it will have to watch, check, and control the people accordingly.",
+      "translation": {
+        "text": "但如果国家不团结，政府无法确信人民的行为符合国家利益，便不得不相应地监视、检查和控制人民。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "A disunited nation, therefore, has to incur unduly high costs of government.",
+      "translation": {
+        "text": "因此，一个不团结的国家必须承担过高的政府成本。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-4/nce4-036-the-cost-of-government-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 3473640,
+        "sha256": "335bcab86343eed80141261101fd1202deb777ce44d20bbf154b85b3c006b439"
+      },
+      "duration": 207.804,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.46,
+          "end": 1.86
+        },
+        {
+          "segmentId": "s002",
+          "start": 3.86,
+          "end": 5.02
+        },
+        {
+          "segmentId": "s003",
+          "start": 6.14,
+          "end": 9.82
+        },
+        {
+          "segmentId": "s004",
+          "start": 11.3,
+          "end": 18.74
+        },
+        {
+          "segmentId": "s005",
+          "start": 18.74,
+          "end": 27.08
+        },
+        {
+          "segmentId": "s006",
+          "start": 28.06,
+          "end": 38.48
+        },
+        {
+          "segmentId": "s007",
+          "start": 39.32,
+          "end": 44.92
+        },
+        {
+          "segmentId": "s008",
+          "start": 44.92,
+          "end": 51.64
+        },
+        {
+          "segmentId": "s009",
+          "start": 52.74,
+          "end": 59.02
+        },
+        {
+          "segmentId": "s010",
+          "start": 59.88,
+          "end": 65.88
+        },
+        {
+          "segmentId": "s011",
+          "start": 66.84,
+          "end": 74.28
+        },
+        {
+          "segmentId": "s012",
+          "start": 75.6,
+          "end": 81.6
+        },
+        {
+          "segmentId": "s013",
+          "start": 82.6,
+          "end": 93.2
+        },
+        {
+          "segmentId": "s014",
+          "start": 94.08,
+          "end": 104.86
+        },
+        {
+          "segmentId": "s015",
+          "start": 106.3,
+          "end": 119.54
+        },
+        {
+          "segmentId": "s016",
+          "start": 120.58,
+          "end": 135.66
+        },
+        {
+          "segmentId": "s017",
+          "start": 136.72,
+          "end": 151.74
+        },
+        {
+          "segmentId": "s018",
+          "start": 152.82,
+          "end": 155.2
+        },
+        {
+          "segmentId": "s019",
+          "start": 155.2,
+          "end": 167.76
+        },
+        {
+          "segmentId": "s020",
+          "start": 168.66,
+          "end": 181.06
+        },
+        {
+          "segmentId": "s021",
+          "start": 181.06,
+          "end": 187.96
+        }
+      ]
+    }
+  ]
+}

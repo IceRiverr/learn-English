@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "lesson": {
+    "id": "nce3-006-smash-and-grab",
+    "kind": "textbook",
+    "title": "Lesson 6: Smash-and-Grab",
+    "sourceLanguage": "en",
+    "translationLanguage": "zh-Hans",
+    "transcriptRevision": 1,
+    "defaultRenditionId": "en"
+  },
+  "source": {
+    "type": "textbookLesson",
+    "series": "New Concept English",
+    "volume": "Book 3"
+  },
+  "rights": {
+    "status": "unverified",
+    "notes": "Migrated from legacy published content; migration does not establish redistribution rights."
+  },
+  "speakers": [],
+  "segments": [
+    {
+      "id": "s001",
+      "text": "Lesson 6.",
+      "translation": {
+        "text": "第6课。"
+      }
+    },
+    {
+      "id": "s002",
+      "text": "Smash-and-Grab.",
+      "translation": {
+        "text": "砸橱窗抢劫。"
+      }
+    },
+    {
+      "id": "s003",
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": {
+        "text": "听录音，然后回答下面的问题。"
+      }
+    },
+    {
+      "id": "s004",
+      "text": "How did Mr.",
+      "translation": {
+        "text": "泰勒先生是怎样"
+      }
+    },
+    {
+      "id": "s005",
+      "text": "try to stop the thieves?",
+      "translation": {
+        "text": "试图阻止盗贼的？"
+      }
+    },
+    {
+      "id": "s006",
+      "text": "The expensive shops in a famous arcade near Piccadilly were just opening.",
+      "translation": {
+        "text": "皮卡迪利大街附近一条著名拱廊里的高档商店刚刚开门。"
+      }
+    },
+    {
+      "id": "s007",
+      "text": "At this time of the morning, the arcade was almost empty.",
+      "translation": {
+        "text": "早晨这个时候，拱廊里几乎空无一人。"
+      }
+    },
+    {
+      "id": "s008",
+      "text": "Mr.",
+      "translation": {
+        "text": "泰勒先生，"
+      }
+    },
+    {
+      "id": "s009",
+      "text": "the owner of a jewelry shop, was admiring a new window display.",
+      "translation": {
+        "text": "一家珠宝店的老板，正在欣赏新布置的橱窗。"
+      }
+    },
+    {
+      "id": "s010",
+      "text": "Two of his assistants had been working busily since eight o'clock and had only just finished.",
+      "translation": {
+        "text": "他的两名店员从八点起一直忙个不停，刚刚才布置完。"
+      }
+    },
+    {
+      "id": "s011",
+      "text": "necklaces and rings had been beautifully arranged on a background of black velvet.",
+      "translation": {
+        "text": "项链和戒指精美地陈列在黑色天鹅绒衬底上。"
+      }
+    },
+    {
+      "id": "s012",
+      "text": "After gazing at the display for several minutes, Mr.",
+      "translation": {
+        "text": "泰勒先生凝视了几分钟后，"
+      }
+    },
+    {
+      "id": "s013",
+      "text": "went back into his shop.",
+      "translation": {
+        "text": "回到了店里。"
+      }
+    },
+    {
+      "id": "s014",
+      "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+      "translation": {
+        "text": "突然，一辆开着前灯、狂按喇叭的大轿车呼啸着冲进拱廊，打破了寂静。"
+      }
+    },
+    {
+      "id": "s015",
+      "text": "It came to a stop outside the jewelers.",
+      "translation": {
+        "text": "车在珠宝店外停了下来。"
+      }
+    },
+    {
+      "id": "s016",
+      "text": "One man stayed at the wheel, while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.",
+      "translation": {
+        "text": "一人留在驾驶座上，另外两人用黑色长筒袜蒙着脸跳下车，用铁棍砸碎了商店的橱窗。"
+      }
+    },
+    {
+      "id": "s017",
+      "text": "While this was going on, Mr.",
+      "translation": {
+        "text": "这一切发生时，泰勒先生"
+      }
+    },
+    {
+      "id": "s018",
+      "text": "was upstairs.",
+      "translation": {
+        "text": "正在楼上。"
+      }
+    },
+    {
+      "id": "s019",
+      "text": "He and his staff began throwing furniture out of the window.",
+      "translation": {
+        "text": "他和店员们开始把家具从窗户扔下去。"
+      }
+    },
+    {
+      "id": "s020",
+      "text": "Chairs and tables went flying into the arcade.",
+      "translation": {
+        "text": "椅子和桌子纷纷飞进拱廊。"
+      }
+    },
+    {
+      "id": "s021",
+      "text": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain.",
+      "translation": {
+        "text": "一名窃贼被一尊沉重的雕像击中，但他正忙着大把抓钻石，根本顾不上疼。"
+      }
+    },
+    {
+      "id": "s022",
+      "text": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.",
+      "translation": {
+        "text": "抢劫行动三分钟便结束了；几个人爬回汽车，车以惊人的速度开走。"
+      }
+    },
+    {
+      "id": "s023",
+      "text": "Just as it was leaving, Mr.",
+      "translation": {
+        "text": "车正要离开时，泰勒先生"
+      }
+    },
+    {
+      "id": "s024",
+      "text": "rushed out and ran after it, throwing ashtrays and vases, but it was impossible to stop the thieves.",
+      "translation": {
+        "text": "冲出来追赶，一边投掷烟灰缸和花瓶，但根本无法拦住盗贼。"
+      }
+    },
+    {
+      "id": "s025",
+      "text": "They had got away with thousands of pounds worth of diamonds.",
+      "translation": {
+        "text": "他们抢走了价值数千英镑的钻石。"
+      }
+    }
+  ],
+  "renditions": [
+    {
+      "id": "en",
+      "language": "en",
+      "role": "original",
+      "audio": {
+        "key": "lessons/new-concept-english-3/nce3-006-smash-and-grab-en.mp3",
+        "mimeType": "audio/mpeg",
+        "byteLength": 2257909,
+        "sha256": "29bff53aed103d9348c36130d24c183ec0aa1c3ca6df6b9d94911fa9185bd598"
+      },
+      "duration": 131.866,
+      "cues": [
+        {
+          "segmentId": "s001",
+          "start": 0.21,
+          "end": 1.61
+        },
+        {
+          "segmentId": "s002",
+          "start": 2.61,
+          "end": 3.33
+        },
+        {
+          "segmentId": "s003",
+          "start": 4.43,
+          "end": 7.57
+        },
+        {
+          "segmentId": "s004",
+          "start": 8.81,
+          "end": 9.53
+        },
+        {
+          "segmentId": "s005",
+          "start": 9.97,
+          "end": 11.43
+        },
+        {
+          "segmentId": "s006",
+          "start": 13.96,
+          "end": 19.02
+        },
+        {
+          "segmentId": "s007",
+          "start": 19.9,
+          "end": 23.64
+        },
+        {
+          "segmentId": "s008",
+          "start": 24.62,
+          "end": 24.9
+        },
+        {
+          "segmentId": "s009",
+          "start": 25.72,
+          "end": 29.9
+        },
+        {
+          "segmentId": "s010",
+          "start": 30.76,
+          "end": 37.4
+        },
+        {
+          "segmentId": "s011",
+          "start": 38.68,
+          "end": 44.42
+        },
+        {
+          "segmentId": "s012",
+          "start": 45.46,
+          "end": 48.94
+        },
+        {
+          "segmentId": "s013",
+          "start": 49.3,
+          "end": 51.06
+        },
+        {
+          "segmentId": "s014",
+          "start": 52.14,
+          "end": 60.98
+        },
+        {
+          "segmentId": "s015",
+          "start": 61.92,
+          "end": 64.58
+        },
+        {
+          "segmentId": "s016",
+          "start": 65.84,
+          "end": 75.86
+        },
+        {
+          "segmentId": "s017",
+          "start": 77,
+          "end": 79.16
+        },
+        {
+          "segmentId": "s018",
+          "start": 79.58,
+          "end": 80.42
+        },
+        {
+          "segmentId": "s019",
+          "start": 81.46,
+          "end": 85.1
+        },
+        {
+          "segmentId": "s020",
+          "start": 86.08,
+          "end": 89.6
+        },
+        {
+          "segmentId": "s021",
+          "start": 90.72,
+          "end": 99.26
+        },
+        {
+          "segmentId": "s022",
+          "start": 100.46,
+          "end": 109.14
+        },
+        {
+          "segmentId": "s023",
+          "start": 110.06,
+          "end": 112.26
+        },
+        {
+          "segmentId": "s024",
+          "start": 112.68,
+          "end": 120.26
+        },
+        {
+          "segmentId": "s025",
+          "start": 121.1,
+          "end": 125.2
+        }
+      ]
+    }
+  ]
+}
