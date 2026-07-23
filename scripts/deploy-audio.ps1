@@ -24,6 +24,19 @@ if (-not (Test-Path -LiteralPath $ssh) -or -not (Test-Path -LiteralPath $scp)) {
     throw "Windows OpenSSH client was not found."
 }
 
+function Get-Sha256 {
+    param([Parameter(Mandatory = $true)][string]$Path)
+
+    $stream = [IO.File]::OpenRead($Path)
+    $sha256 = [Security.Cryptography.SHA256]::Create()
+    try {
+        return [BitConverter]::ToString($sha256.ComputeHash($stream)).Replace("-", "")
+    } finally {
+        $sha256.Dispose()
+        $stream.Dispose()
+    }
+}
+
 $originalProcessPath = $env:Path
 if (Test-Path -LiteralPath (Join-Path $bundledNodeDirectory "node.exe")) {
     $env:Path = "$bundledNodeDirectory;$originalProcessPath"
@@ -73,9 +86,14 @@ foreach ($line in $remoteInventory) {
 
 $localManifest = [System.Collections.Generic.List[string]]::new()
 $changedFiles = [System.Collections.Generic.List[object]]::new()
+$audioRoot = [IO.Path]::GetFullPath($audioDirectory).TrimEnd("\") + "\"
 foreach ($audioFile in $audioFiles) {
-    $relativePath = "audio/" + [IO.Path]::GetRelativePath($audioDirectory, $audioFile.FullName).Replace("\", "/")
-    $hash = (Get-FileHash -LiteralPath $audioFile.FullName -Algorithm SHA256).Hash.ToUpperInvariant()
+    $audioPath = [IO.Path]::GetFullPath($audioFile.FullName)
+    if (-not $audioPath.StartsWith($audioRoot, [StringComparison]::OrdinalIgnoreCase)) {
+        throw "Refusing to deploy an audio file outside the audio directory: $audioPath"
+    }
+    $relativePath = "audio/" + $audioPath.Substring($audioRoot.Length).Replace("\", "/")
+    $hash = Get-Sha256 -Path $audioFile.FullName
     $localManifest.Add("$hash`t$relativePath")
     if (-not $remoteHashes.ContainsKey($relativePath) -or $remoteHashes[$relativePath] -ne $hash) {
         $changedFiles.Add([pscustomobject]@{
